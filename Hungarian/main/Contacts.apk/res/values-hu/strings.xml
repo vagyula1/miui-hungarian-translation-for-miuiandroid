@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="account_container_title">From the following account</string>
+  <string name="account_container_title">From the following account</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">Csak a telefonon, nem szinkronizált</string>
   <string name="account_sim">Csak SIM, szinkron nélkül</string>
@@ -14,7 +14,6 @@
   <string name="add_blacklist">Feketelistához adás</string>
   <string name="add_connection_button">Kapcsolat hozzáadása</string>
   <string name="add_contact_dlg_message_fmt">Hozzáadja a(z) \"%s\"címet a Címtárhoz?</string>
-  <string name="add_contact_dlg_title">Névjegy hozzáadása</string>
   <string name="add_field">Más mező hozzáadása</string>
   <string name="add_new_account">Új fiók hozzáadása</string>
   <string name="add_new_entry_for_section">Új hozzáadása</string>
@@ -23,10 +22,8 @@
   <string name="aggregation_suggestion_edit_dialog_message">A kiválasztott névjegy szerkesztésére vált? Az eddig beírt információk át lesznek másolva.</string>
   <string name="aggregation_suggestion_edit_dialog_title">A kiválasztott névjegyek szerkesztése</string>
   <string name="aggregation_suggestion_join_dialog_message">Összekapcsolja a jelenlegi névjegyet a kiválasztott névjeggyel?</string>
-  <string name="aggregation_suggestion_join_dialog_title">Névjegyek összekapcsolása</string>
   <string name="attach_photo_dialog_title">Ismerős fotója</string>
   <string name="audio_chat">Audiocsevegés</string>
-  <string name="batch_delete_msg">Törli a %d kiválasztott névjegyet? A névjegy a fiókból is törölve lesz.</string>
   <string name="blurbJoinContactDataWith">Válassza ki azt a névjegyet, amelyet össze kíván kapcsolni ezzel a névjeggyel: %s.</string>
   <string name="caching_vcard_message">Az importáló elmenti a vCardo(ka)t az ideiglenes helyi tárolóba. A tényleges importálás hamarosan megkezdődik.</string>
   <string name="btn_delete_one_contact">Névjegy törlés</string>
@@ -37,9 +34,7 @@
   <string name="caching_vcard_title">vCard(ok) mentése ideiglenes helyi tárolóba</string>
   <string name="callBack">Visszahívás</string>
   <string name="callDetailTitle">Hívás adatai</string>
-  <string name="callBack">Visszahívás</string>
   <string formatted="false" name="callDetailsDurationFormat">%s perc %s másodperc</string>
-  <string name="callNoAnswerTimeFormat">Csörgött %s alkalommal</string>
   <string name="callShortcutActivityTitle">Válasszon telefonszámot a híváshoz</string>
   <string name="call_assistant">%s hívása</string>
   <string name="call_callback">Visszahívási szám hívása</string>
@@ -96,11 +91,8 @@
   <string name="callrecordview_menu_show_stranger">Ismeretlen hívások</string>
   <string name="callrecordview_menu_show_title">Válassza ki a megjelenítendő híváslistát</string>
   <string name="cancel_confirmation_dialog_message">Biztosan elveti a módosításokat?</string>
-  <string name="cancel_confirmation_dialog_title">Módosítások elvetése</string>
   <string name="cancel_export_confirmation_message">Biztosan megszakítja a(z) %s exportálását?</string>
-  <string name="cancel_export_confirmation_title">vCard exportálásának megszakítása</string>
   <string name="cancel_import_confirmation_message">Biztosan megszakítja a(z) %s importálását?</string>
-  <string name="cancel_import_confirmation_title">vCard importálásának megszakítása</string>
   <string name="cancel_vcard_import_or_export_failed">vCard imp./exp. megszakítása sikertelen</string>
   <string name="chat">Csevegés</string>
   <string name="chat_aim">Csevegés AIM-on</string>
@@ -127,8 +119,6 @@
   <string name="config_export_file_suffix" />
   <string name="config_export_vcard_type">default</string>
   <string name="config_import_vcard_type">default</string>
-  <string name="config_prohibited_phone_number_regexp" />
-  <string name="confirm_delete_selected_call_log">Erősítse meg %1d kiválasztott csoport törlését a híváslistából?</string>
   <string name="confirm_export_message">Exportálja a névjegyek listáját a(z) \"%s\" fájlba?</string>
   <string name="confirm_export_title">Exportálás megerősítése</string>
   <string name="connections">Kapcsolatok</string>
@@ -153,7 +143,6 @@
   <string name="contactsJoinedMessage">A névjegyek összekapcsolása megtörtént</string>
   <string name="contactsList">Címtár</string>
   <string name="contacts_unavailable_add_account">Jelentkezzen be fiókjába</string>
-  <string name="contacts_unavailable_add_xiaomi_account">Xiaomi névjegyzék szinkronizálás</string>
   <string name="contacts_unavailable_create_contact">Új névjegy létrehozása</string>
   <string name="contacts_unavailable_import_contacts">Névjegyek importálása fájlból</string>
   <string name="copy_text">Másolás a vágólapra</string>
@@ -165,7 +154,6 @@
   <string name="date_time_set">Beállítás</string>
   <string name="date_year_toggle">Születési év megadása</string>
   <string name="default_ringtone">Alapért.csengőhang</string>
-  <string name="delete">Törlés</string>
   <string name="deleteConfirmation">A névjegy törlésre kerül.</string>
   <string name="deleteConfirmation_title">Törlés</string>
   <string name="delete_call_log_title">Kiválasztott törlése a híváslistából</string>
@@ -231,8 +219,6 @@
   <string name="editContactDescription">Névjegy szerkesztése</string>
   <string name="edit_contact">Névjegy szerkesztése</string>
   <string name="edit_contact_card_title">Névjegyek szerkesztése</string>
-  <string name="edit_hint">Szerkeszt</string>
-  <string name="edit_photo">Kép szerkesztés</string>
   <string name="email">E-mail küldése</string>
   <string name="emailLabelsGroup">E-mail cím</string>
   <string name="email_custom">E-mail küldése a(z) %s címre</string>
@@ -280,10 +266,6 @@
   <string name="groupSavedErrorToast">Hiba; nem sikerült menteni a csoport módosításait.</string>
   <string name="groupSavedToast">Csoport mentve</string>
   <string name="group_edit_field_hint_text">Csoport neve</string>
-  <string name="group_name_contacts">Névjegyek</string>
-  <string name="group_name_coworkers">Munkatársak</string>
-  <string name="group_name_family">Család</string>
-  <string name="group_name_friends">Barátok</string>
   <string name="group_name_hint">Csoport neve</string>
   <string name="group_read_only">Nem szerkeszthető ezen a készüléken</string>
   <string name="groupsLabel">Csoportok</string>
@@ -331,12 +313,6 @@
   <string name="list_filter_customize">Személyre szabás...</string>
   <string name="list_filter_phones">Minden névjegy telefonszámokkal</string>
   <string name="list_filter_single">Kapcsolat</string>
-  <string name="liveFolderAll">Összes névjegy</string>
-  <string name="liveFolderFavorites">Csillagozott névjegyek</string>
-  <string name="liveFolderPhone">Névjegyek telefonszámmal</string>
-  <string name="liveFolder_all_label">Összes névjegy</string>
-  <string name="liveFolder_favorites_label">Csillaggal megjelölt</string>
-  <string name="liveFolder_phones_label">Telefonszámok</string>
   <string name="loading_group_members">Csoport tagjainak betöltése...</string>
   <string name="loading_groups">Csoportok betöltése...</string>
   <string name="loading_recent">Legutóbb használt névjegyek betöltése...</string>
@@ -353,7 +329,6 @@
   <string name="meid">MEID</string>
   <string name="menu_accounts">Fiókok</string>
   <string name="menu_addStar">Hozzáadás a kedvencekhez</string>
-  <string name="menu_batch_delete">Névjegyek törlése</string>
   <string name="menu_call">Ismerős hívása</string>
   <string name="menu_callNumber">%s hívása</string>
   <string name="menu_call_ip_number">Kettős IP telefon (tárcsázás: %s)</string>
@@ -361,15 +336,11 @@
   <string name="menu_copyContact">Másolás a saját névjegyeim közé</string>
   <string name="menu_deleteContact">Törlés</string>
   <string name="menu_deleteGroup">Törlés</string>
-  <string name="menu_dialpad">Hívás</string>
   <string name="menu_discard">Elvetés</string>
   <string name="menu_doNotSave">Mégse</string>
   <string name="menu_done">Kész</string>
   <string name="menu_editContact">Szerkesztés</string>
   <string name="menu_editGroup">Szerkesztés</string>
-  <string name="menu_group_add_members">tagok hozzáadása</string>
-  <string name="menu_group_ringtone">Csoportos csengőhang</string>
-  <string name="menu_group_sms">Csoportos SMS</string>
   <string name="menu_import_export">Importálás/exportálás</string>
   <string name="menu_joinAggregate">Összekapcsolás</string>
   <string name="menu_newContact">Új névjegy</string>
@@ -380,7 +351,6 @@
   <string name="menu_removeStar">Eltávolítás a kedvencek közül</string>
   <string name="menu_search">Keresés</string>
   <string name="menu_sendSMS">SMS küldése ismerősnek</string>
-  <string name="menu_send_to_desktop">Asztalra küldés</string>
   <string name="menu_set_ring_tone">Csengőhang</string>
   <string name="menu_settings">Beállítások</string>
   <string name="menu_share">Megosztás</string>
@@ -411,38 +381,21 @@
   <string name="noContactHelpTextAccountsInfo">Google, Exchange névjegyeket.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Visszaállítás Xiaomi fiókban és MiTalk-ban mentett adat segítségével</string>
   <string name="noContacts">Nincsenek névjegyek</string>
-  <string name="noContactsHelpText">"Nincsenek megjeleníthető névjegyei.
-
-Névjegyek hozzáadásához nyomja meg a "</string>
+  <string name="noContactsHelpText">"Nincsenek megjeleníthető névjegyei.Névjegyek hozzáadásához nyomja meg a "</string>
   <string name="noContactsHelpTextForCreateShortcut">Nincsenek megjeleníthető névjegyek.</string>
-  <string name="noContactsHelpTextWithSync">"Nincsenek megjeleníthető névjegyei. (Ha most adott hozzá egy fiókot, a szinkronizálás eltarthat pár percig.)
-
-Névjegyek hozzáadásához nyomja meg a "</string>
+  <string name="noContactsHelpTextWithSync">"Nincsenek megjeleníthető névjegyei. (Ha most adott hozzá egy fiókot, a szinkronizálás eltarthat pár percig.)Névjegyek hozzáadásához nyomja meg a "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">Nincsenek megjeleníthető névjegyei. (Ha a fiókot csak most adta hozzá, a névjegyek szinkronizálása néhány percig is eltarthat.)</string>
-  <string name="noContactsNoSimHelpText">"Nincsenek megjeleníthető névjegyei.
-
-Névjegyek hozzáadásához nyomja meg a "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Nincsenek megjeleníthető névjegyei. (Ha most adott hozzá egy fiókot, a szinkronizálás eltarthat pár percig.)
-
-Névjegyek hozzáadásához nyomja meg a "</string>
+  <string name="noContactsNoSimHelpText">"Nincsenek megjeleníthető névjegyei.Névjegyek hozzáadásához nyomja meg a "</string>
+  <string name="noContactsNoSimHelpTextWithSync">"Nincsenek megjeleníthető névjegyei. (Ha most adott hozzá egy fiókot, a szinkronizálás eltarthat pár percig.)Névjegyek hozzáadásához nyomja meg a "</string>
   <string name="noContactsWithPhoneNumbers">Nincsenek telefonszámot is tartalmazó névjegyek.</string>
-  <string name="noFavoritesHelpText">"Nincsenek kedvencei.
-
-Így adhat hozzá névjegyet a kedvencek listájához:
-
-"</string>
+  <string name="noFavoritesHelpText">"Nincsenek kedvencei.Így adhat hozzá névjegyet a kedvencek listájához:"</string>
   <string name="noGroups">Nincsenek csoportok</string>
   <string name="noMatchingContacts">Nincsenek a keresési feltételeknek megfelelő névjegyek.</string>
   <string name="noRecentContacts">Nincs legutóbb használt névjegy</string>
-  <string name="no_account_prompt">"A Személyek alkalmazás jobban működik egy Google Fiókkal.
-
-• Bármilyen bőngészőből elérheti
-• Biztonsági másolatot készíthet névjegyeiről."</string>
+  <string name="no_account_prompt">"A Személyek alkalmazás jobban működik egy Google Fiókkal. Bármilyen bőngészőből elérheti. Biztonsági másolatot készíthet névjegyeiről."</string>
   <string name="no_contact_details">Nincsenek további adatok ennél a névjegynél</string>
-  <string name="no_contact_name">Nincs névjegy tárolva</string>
   <string name="no_contacts_selected">Nincs kijelölt névjegy.</string>
   <string name="no_sdcard_message">Nem észlelhető tárhely</string>
-  <string name="no_sdcard_title">A tárhely nem érhető el</string>
   <string name="non_phone_add_to_contacts">Hozzáadása a névjegyekhez</string>
   <string name="non_phone_caption">Telefonszám</string>
   <string name="non_phone_close">Bezárás</string>
@@ -465,7 +418,6 @@ Névjegyek hozzáadásához nyomja meg a "</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefon</string>
   <string name="photoPickerNotFoundText">Nincsenek elérhető képek a telefonon.</string>
-  <string name="photo_package_activity_title">Kép csomag</string>
   <string name="pick_favorites_contacts_list_title">%1$d kedvenc névjegy</string>
   <string name="pick_favorites_list_title">Összesen %1$d kedvenc névjegy</string>
   <string name="pick_new_photo">Új fotó kiválasztása a Galériából</string>
@@ -496,7 +448,6 @@ Névjegyek hozzáadásához nyomja meg a "</string>
   <string name="preference_import_export_title">Névjegyek Importálása/Exportálása</string>
   <string name="preference_others">Egyebek</string>
   <string name="preference_remove_duplicate">Dupla névjegyek öszzefűzése</string>
-  <string name="preference_select_account_display">Szűrés fiókra</string>
   <string name="preference_smart_group_company_summary">Névjegyek csoportosítása munkahelyi információ szerint</string>
   <string name="preference_smart_group_company_title">Munkahely szerint</string>
   <string name="preference_smart_group_frequency_summary">Az utolsó hívások vagy SMS szerint csoportosítva</string>
@@ -505,14 +456,11 @@ Névjegyek hozzáadásához nyomja meg a "</string>
   <string name="preference_smart_group_location_title">Helyszín szerint</string>
   <string name="preference_smart_group_title">Intelligens csoportosítás</string>
   <string name="preview_contact_card_title">Névjegyek importja</string>
-  <string name="primary_indicator">(alapértelmezett)</string>
   <string name="private_num">Magántelefonszám</string>
   <string name="profile_display_name">Saját profil beállítása</string>
   <string formatted="false" name="progress_notifier_message">Importálás - %s/%s: %s</string>
   <string name="quickcontact_missing_app">Nincs megfelelő alkalmazás a művelet elvégzésére</string>
   <string name="quit_dialog_confirm_title">Kilépés a névjegy összefőzésből?</string>
-  <string name="raw_contact_account_label">Fiók:%1$s</string>
-  <string name="raw_contact_list_title">Ez a névjegy a következő %1$d sort tartalmazza，kattintson a névjegyre a szerkesztéshez</string>
   <string name="readOnlyContactDeleteConfirmation">Ez a névjegy több fiókból is tartalmaz adatokat. Az írásvédett fiókokból származó adatok nem jelennek meg a Címtárban, de nem kerülnek törlésre.</string>
   <string name="readOnlyContactWarning">Írásvédett fiókból nem törölhet névjegyet, de saját címtárában elrejtheti azokat.</string>
   <string name="reading_vcard_failed_title">Nem sikerült beolvasni a vCard adatait.</string>
@@ -534,7 +482,6 @@ Névjegyek hozzáadásához nyomja meg a "</string>
   <string name="save_photo_progress">Kép mentése...</string>
   <string name="savingContact">Névjegy mentése…</string>
   <string name="savingDisplayGroups">Megjelenítési beállítások mentése...</string>
-  <string name="scan_duplicate">"Megduplázott adatok keresése... "</string>
   <string name="scan_duplicate_message">Dupla névjegyek %1$d</string>
   <string name="scan_merge">Lehetséges dupla névjegyek keresése...</string>
   <string name="scanning">Keresés…</string>
@@ -639,7 +586,6 @@ Névjegyek hozzáadásához nyomja meg a "</string>
   <string name="type_voicemail">Hangposta</string>
   <string name="unknown">Ismeretlen</string>
   <string name="unknown_contact_name">Ismeretlen névjegy</string>
-  <string name="unkown_location">Ismeretlen hely</string>
   <string name="upgrade_out_of_memory">Az ismerősök frissítése folyamatban van. A frissítési folyamathoz kb. %s MB belső tárhelyre van szükség. Válasszon az alábbi lehetőségek közül:</string>
   <string name="upgrade_in_progress">Az ismerőslista frissítése folyamatban van.</string>
   <string name="upgrade_out_of_memory_retry">Verziófrissítés újrapróbálása</string>

@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept">Bízom ebben az alkalmazásban.</string>
-  <string name="blank_value">--</string>
   <string name="configure">Konfigurálás</string>
   <string name="data_received">Érkezett:</string>
   <string name="data_transmitted">Elküldve:</string>

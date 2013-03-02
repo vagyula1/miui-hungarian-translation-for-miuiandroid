@@ -284,7 +284,7 @@
         <item>20 másodperc</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>Teljesítmény</item>
+        <item>Maximális</item>
         <item>Normál</item>
         <item>Energiatakarékos</item>
  	<item>Mindig</item>

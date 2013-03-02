@@ -120,14 +120,11 @@
   <string name="stop_app_button">Bezár</string>
   <string name="sync_fail_notify_detail">Feedback from operators not received, click to try again</string>
   <string name="sync_fail_notify_title">Szinkronizálás sikertelen</string>
-  <string name="sync_setting_city">Sync with city location</string>
   <string name="sync_traffic_fail_message">Mobil szolgáltató szinkronizálási hiba, a szerver elfoglalt. Kérlek próbáld később, vagy hívd a vevőszolgálatot %s a segítségért.</string>
   <string name="sync_traffic_fail_title">Szinkronizálás sikertelen</string>
   <string name="sync_traffic_ing">Frissítés a szolgáltatótól, kérlek várj...</string>
   <string name="sync_traffic_no_cmd_title">Nincs SMS sablon</string>
   <string name="sync_traffic_success">Szolgáltatói adat szinkronizálva, adatforgalom beállítás sikerült.</string>
-  <string name="this_month">Havi</string>
-  <string name="today">Ma</string>
   <string name="traffic_none">N/A</string>
   <string name="traffic_remain">Megmaradt</string>
   <string name="traffic_settings_error">There is an error in your settings for monthly free traffic. According to your settings and operator SMS, your monthly free traffic is: %1$s and remaining traffic is: %2$s.</string>
@@ -135,7 +132,6 @@
   <string name="traffic_suffix_with_uint">Adatforgalom (MB)</string>
   <string name="traffic_total">Teljes: %s</string>
   <string name="traffic_used_status">Felhasznált: %s</string>
-  <string name="traffic_widget_name">Monitor Widget (1x2)</string>
   <string name="unknown_free_traffic_hint">Ha nem tudod az adatforgalmi beállításaidat, keresd fel a mobil szolgáltatód ügyfélszolgálatát.</string>
   <string name="unknown_free_traffic_text">Nem tudod a beállításokat?</string>
   <string name="unknown_free_traffic_title">Akkor...</string>

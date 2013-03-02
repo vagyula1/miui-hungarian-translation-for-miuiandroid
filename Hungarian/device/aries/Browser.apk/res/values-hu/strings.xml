@@ -1,25 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="MIUI_homepage">MIUI Home</string>
-  <string name="MIUI_startpage">Kezdőlap</string>
   <string name="accessibility_button_addbookmark">Oldal felvétele a könyvjelzők közé</string>
   <string name="accessibility_button_back">Vissza</string>
-  <string name="accessibility_button_bookmark">Könyvjelző</string>
   <string name="accessibility_button_bookmarks">Könyvjelzők</string>
   <string name="accessibility_button_clear">Beírt szöveg törlése</string>
   <string name="accessibility_button_closetab">Lap bezárása</string>
   <string name="accessibility_button_forward">Előrelépés</string>
   <string name="accessibility_button_go">Mehet</string>
   <string name="accessibility_button_goto">Mehet</string>
-  <string name="accessibility_button_larger">Nagyobb</string>
   <string name="accessibility_button_more">További beállítások</string>
   <string name="accessibility_button_navscreen">Oldalkezelő</string>
   <string name="accessibility_button_newincognitotab">Új inkognitólap megnyitása</string>
   <string name="accessibility_button_newtab">Új lap megnyitása</string>
   <string name="accessibility_button_refresh">Oldal frissítése</string>
   <string name="accessibility_button_search">Keresés</string>
-  <string name="accessibility_button_smaller">Kisebb</string>
-  <string name="accessibility_button_stop">Oldal betöltésének leállítása</string>
   <string name="accessibility_button_tabs">Lapok</string>
   <string name="accessibility_button_uaswitch">Felhasználói ügynök váltása</string>
   <string name="accessibility_button_voice">Hangalapú keresés indítása</string>
@@ -31,7 +25,6 @@
   <string name="action">Bejelentkezés</string>
   <string name="add_bookmark">Könyvjelző létrehozás</string>
   <string name="add_bookmark_short">Hozzáadás:</string>
-  <string name="add_bookmark_to_home_screen">Legyen a kezdőlapom</string>
   <string name="add_folder">Új Könyvtár</string>
   <string name="add_new_bookmark">Könyvjelző hozzáadása</string>
   <string name="add_to_bookmarks_menu_option">Könyvjelzők</string>
@@ -207,7 +200,6 @@
   <string name="loading_video">Videó betöltése…</string>
   <string name="local_bookmarks">Helyi</string>
   <string name="location">Cím</string>
-  <string name="manage_feature_permissions">Engedélyek kezelése</string>
   <string name="max_tabs_warning">Nem nyitható meg több lap</string>
   <string name="menu_disable_night_mode">Éjszakai mód letiltása</string>
   <string name="menu_enable_night_mode">Éjszakai mód engedélyezése</string>
@@ -216,15 +208,9 @@
   <string name="menu_save_snapshot">Mentés offline olvasáshoz</string>
   <string name="menu_share_url">Megosztás</string>
   <string name="menu_view_download">Letöltések</string>
-  <string name="miui_yellowpage_category">Kategória</string>
-  <string name="miui_yellowpage_site">Oldal</string>
   <string name="move_to_up_folder">Egy szinttel feljebb</string>
   <string name="multi_select_title">%1$s elem kiválasztva</string>
   <string name="name">Címke</string>
-  <string name="navigator_permissions_prompt_dont_share">Decline</string>
-  <string formatted="false" name="navigator_permissions_prompt_message">%s engedélyt akar %s az eszközön</string>
-  <string name="navigator_permissions_prompt_remember">Emlékezzen a beállításra</string>
-  <string name="navigator_permissions_prompt_share">Engedélyez</string>
   <string name="new_folder">Új mappa</string>
   <string name="new_incognito_tab">Új inkognitólap</string>
   <string name="new_tab">Új lap</string>
@@ -298,7 +284,6 @@
   <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_viewport">Use wide viewport</string>
   <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
-  <string name="pref_development_woff">Enable WOFF</string>
   <string name="pref_exit_on_closing_last_tab_enabled_summary">Kiválasztva kilép, egyébként a kezdőlapot jeleníti meg</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Kilép az utolsó ablak bezárásakor</string>
   <string name="pref_extras_reset_default">Visszaállítás alaphelyzetbe</string>
@@ -327,17 +312,10 @@
   <string name="pref_lab_fullscreen">Teljes képernyő</string>
   <string name="pref_lab_fullscreen_summary">Használja a teljes képernyős módot az állapotsor elrejtéséhez.</string>
   <string name="pref_lab_quick_controls">Gyorsbeállítások</string>
-  <string name="pref_lab_quick_controls_summary">Csúsztassa hüvelykujját a bal vagy jobb oldalra a gyorsbeállítások megnyitásához, és az alkalmazás- és URL-sávok elrejtéséhez</string>
-  <string name="pref_lab_slide_tab_transitions">Slide Tab Transitions</string>
-  <string name="pref_lab_slide_tab_transitions_summary">Swipe from the edge to reveal the next/previous tab in the list.</string>
   <string name="pref_lab_title">Labs</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">Web page preloading</string>
   <string name="pref_link_prefetch_summary">Allow browser to preload linked web pages in the background</string>
   <string name="pref_link_prefetch_title">Web page preloading</string>
-  <string name="pref_link_prefetch_value_always">MINGID</string>
-  <string name="pref_link_prefetch_value_never">SOHA</string>
-  <string name="pref_link_prefetch_value_wifi_only">CSAK_WIFI</string>
   <string name="pref_min_font_size">Minimális betűméret</string>
   <string formatted="false" name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">A gyorsítótár törlése</string>
@@ -381,20 +359,12 @@
   <string name="pref_ua_title">User agent management</string>
   <string name="pref_use_instant_search">Google Instant</string>
   <string name="pref_use_instant_search_summary">A Google-keresésnél használja a Google Instantot, és a találatok gépelés közben megjelennek (az adatforgalom nőhet).</string>
-  <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
-  <string name="pref_video_preload_dialogtitle">Video elötöltés...</string>
-  <string name="pref_video_preload_summary">Allow browser to preload video when server supports it</string>
-  <string name="pref_video_preload_title">Video preloading</string>
-  <string name="pref_video_preload_value_always">MINDIG</string>
-  <string name="pref_video_preload_value_never">SOHA</string>
-  <string name="pref_video_preload_value_wifi_only">CSAK_WIFI</string>
   <string name="pref_volume_key_enabled">Hangerő gombok</string>
   <string name="pref_volume_key_operation">Hangerő gomb beállítása</string>
   <string name="pref_zoom_on_double_tap">Dupla érintéssel közelítés</string>
   <string name="preview">Előnézet</string>
   <string name="progress_dialog_setting_wallpaper">Háttérkép beállítása...</string>
   <string name="readmode_reach_last_page">Elérte az utolsó oldalt</string>
-  <string name="readmodelist_bookmarks">_readinglist_in_database_</string>
   <string name="readmodelist_bookmarks_to_show">Olvasólista</string>
   <string name="recover">Visszaállít</string>
   <string name="recover_from_crash">Az legutóbbi ablak megjelenítése</string>
@@ -458,7 +428,6 @@
   <string name="too_many_windows_dialog_title">Elérte a lapok maximális számát</string>
   <string name="ua_switcher_desktop">Asztali webhely kérése</string>
   <string name="uploads_disabled">A fájlok feltöltése le van tiltva.</string>
-  <string name="url_copy_done">URL kimásolva</string>
   <string name="url_hint">Keressen vagy írjon be egy URL-t</string>
   <string name="username">Név</string>
   <string name="view_certificate">Tanúsítvány megtekintése</string>

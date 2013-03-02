@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_not_found">Az alkalmazás nincs telepítve.</string>
   <string name="application_name">MiuiHome</string>
   <string name="buffering">Pufferelés...</string>
   <string name="cancel_action">Mégse</string>
@@ -42,10 +41,8 @@
   <string name="gadget_weather_loading">Nincs időjárási adat</string>
   <string name="gadget_weather_theme_type">Gadget típus</string>
   <string name="gadget_weather_time_format">MM.D EEE</string>
-  <string name="gadget_weather_time_spliter">:</string>
   <string name="gadget_weather_title_14">Időjárás 1x4</string>
   <string name="gadget_weather_title_24">Időjárás 2x4</string>
-  <string name="gadget_weather_to">Hozzáadás</string>
   <string name="global_search_hint">Kulcsszavas keresés</string>
   <string name="group_folder">Új mappa</string>
   <string name="group_live_folders">Mappák</string>
@@ -116,20 +113,13 @@
   <string name="transformation_type_rotate">Forgatás</string>
   <string name="transformation_type_stack">Lépcsőzetes</string>
   <string name="uninstall">Eltávolítás</string>
-  <string name="uninstall_body_format">Eltávolítja az alkalmazást: \"%s\"?</string>
   <string name="unknown_artist_name">Ismeretlen előadó</string>
   <string name="unnamed_folder_name">Névtelen mappa</string>
-  <string name="upside_apps_title">Alkalmazás kiválasztás</string>
-  <string name="upside_edit_bar_empty">Üres</string>
-  <string name="upside_edit_bar_select_app">Alkalmazás kiválasztás</string>
-  <string name="upside_edit_bottom_empty_tip">Szerkesztéshez érintse meg a négyzetet</string>
-  <string name="upside_enter_tip">Húzza le két ujjal a Free Launcher bekapcsolásához</string>
-  <string name="upside_exit_tip">Húzza fel két ujjal a Free Launcher kikapcsolásához</string>
-  <string name="upside_londing_text">Enhancing imagination and free…</string>
   <string name="wallpaper_scrolling">all</string>
   <string name="widget_favorite_contacts_edit">Szerkesztés</string>
   <string name="widget_favorite_contacts_label">Kedvenc kapcsolatok</string>
   <string name="widget_favorite_contacts_style">Méret</string>
   <string name="widget_gadget_player">Music_4x</string>
   <string name="widget_global_search">Globális keresés</string>
+ <string name="activity_not_found">Az alkalmazás nincs telepítve.</string>
 </resources>

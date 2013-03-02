@@ -22,7 +22,7 @@
     <string name="camera_disabled">Camera has been disabled because of security policies.</string>
     <string name="camera_error_title">Kamera hiba</string>
     <string name="camera_gallery_photos_text">Galéria</string>
-    <string name="camera_label">Fényképező</string>
+    <string name="camera_label">Kamera</string>
     <string name="camera_settings_label">Kamera beállítások</string>
     <string name="can_not_play_video">A videó lejátszásához fel kell oldania a képernyőzárat</string>
     <string name="cancel">Mégsem</string>
@@ -483,7 +483,7 @@
     <string name="pref_video_quality_entry_wqvga">WQVGA</string>
     <string name="pref_video_quality_entry_wvga">WVGA</string>
     <string name="pref_video_quality_title">Videó minőség</string>
-    <string name="pref_video_slow_speed_title_simple_mode">Lassított< kamera/string>
+    <string name="pref_video_slow_speed_title_simple_mode">Lassítás</string>
     <string name="pref_video_speed_default">normál</string>
     <string name="pref_video_speed_entry_fast">gyorsított</string>
     <string name="pref_video_speed_entry_normal">normál</string>

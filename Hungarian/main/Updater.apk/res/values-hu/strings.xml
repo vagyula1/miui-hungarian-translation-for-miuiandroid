@@ -56,7 +56,6 @@
   <string name="md5_check_cancelled">MD5 ellenőrzés megszakítva</string>
   <string name="mione_update_fail_description">Hiba, próbálja újra</string>
   <string name="mione_update_fail_title">Frissítés sikertelen</string>
-  <string name="mione_update_success_description">Rendszerek közti váltás</string>
   <string name="monthly_build">Havi kiadás</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Nincs elég hely az SD kártyán %dMB adat áthelyezéséhez.</string>
   <string name="move_data_to_sdcard_title">Adat áthelyezése az SD kártyára</string>
