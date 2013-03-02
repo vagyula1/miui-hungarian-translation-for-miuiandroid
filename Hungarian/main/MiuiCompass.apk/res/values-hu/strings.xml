@@ -10,13 +10,11 @@
     <string name="menu_calibrate">Kalibrálás</string>
     <string name="menu_calibrate_altitude">Kalibrálási magasság</string>
     <string name="calibrate_success">Kalibrálás befejezvee</string>
-    <string name="calibrate_failed_no_location">Kalibráció hiba: Nem határozható meg a szélesség és a hosszúság</string>
     <string name="calibrate_failed_no_location">A kalibráció hiba: Nem sikerült az aktuális hosszúságot és szélességet bemérni</string>
     <string name="pressure_title">Légnyomás</string>
     <string name="altitude_title">Magasság</string> 
     <string name="pressure">Légnyomás %.1fhPa</string>
     <string name="altitude">Magasság %.1fm</string>
-
     <string name="dialog_title_no_network">Nem talált hálózatot, csatlakozzon Wi-Fi-hez vagy engedélyezze az adatkapcsolatot</string>
     <string name="dialog_calibrat_altitude">Magasság kalibrálása interneten keresztül</string>
     <string name="latitude">SZÉ</string>
