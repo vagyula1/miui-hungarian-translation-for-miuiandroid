@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_label">Visszajelzés</string>
+    <string name="btn_send">Küld</string>
+    <string name="description">Leírás (szükséges)</string>
+    <string name="discard_draft_dialog_button_cancel">Mégsem</string>
+
+    <string name="discard_draft_dialog_content">A jelentés módosítva, kattintson az OK gombra a piszkozat elvetéséhez.</string>
+    <string name="discard_draft_dialog_title">Piszkozat elvetés</string>
+    <string name="err_type">Visszajelzés típusa</string>
+    <string name="err_type_call">Hívás</string>
+    <string name="err_type_data_lost">adatvesztés</string>
+    <string name="err_type_force_close">Kényszerbezárások</string>
+    <string name="err_type_network">Hálózat/string>
+    <string name="err_type_others">Egyéb</string>
+    <string name="err_type_power_consuming">Fogyasztás</string>
+    <string name="err_type_reboot">Rendser újraindulások</string>
+    <string name="err_type_suggestion">Javaslatok</string>
+    <string name="menu_attach_screenshot">Képernyőkép csatolás</string>
+    <string name="menu_copy">Másolás</string>
+    <string name="menu_discard">Elvet</string>
+    <string name="menu_send">Jelentés küldése</string>
+
+    <string name="network_unavailable_dialog_content">A jelentés elérhető mobilhálózat esetén lesz elküldve</string>
+    <string name="network_unavailable_dialog_title">A hálózat nem elérhető</string>
+    <string name="packaging_dialog_content">Jelentés generálás, kérem várjon...</string>
+    <string name="report_miui">Jelentés a MIUI-nak</string>
+    <string name="section_description">Leírás</string>
+    <string name="section_err_type">Visszajelzés típusa</string>
+    <string name="section_screenshot">Képernyőkép</string>
+    <string name="status_msg_collecting_log">Naplózások gyűjtése...</string>
+    <string name="status_msg_pending_upload">%d jelentés feltöltve...</string>
+    <string name="toast_description_required">Elfogadáshoz leírás szükséges</string>
+    <string name="toast_feedback_pending_wlan">A jelentés elérhető WIFI hálózat esetén lesz elküldve</string>
+    <string name="toast_feedback_submitted">Jelentés elfogadva</string>
+    <string name="toast_pending_log_collection">Naplózások gyűjtése,kérem várjon...</string>
+    <string name="toast_report_copied_to_clipboard">A jelentés a vágólapra másolva</string>
+    <string name="toast_report_sent_failed">A jelentést nem sikerült elküldeni!</string>
+    <string name="toast_report_sent_succeed">A jelentés elküldve!</string>
+    <string name="user_feedback">Felhasználói visszajelzés</string>
+
+    <string name="wlan_unavailable_dialog_button_sent">Küldés</string>
+    <string name="wlan_unavailable_dialog_content">%s adatforgalom szükséges, kattintson az Ok gombra csak Wi-Fi használatához</string>
+    <string name="wlan_unavailable_dialog_title">Wi-Fi nem elérhető</string>
+</resources>

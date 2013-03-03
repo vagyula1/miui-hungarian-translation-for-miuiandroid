@@ -2,18 +2,22 @@
 <resources>
   <string name="accessibility_button_addbookmark">Oldal felvétele a könyvjelzők közé</string>
   <string name="accessibility_button_back">Vissza</string>
+  <string name="accessibility_button_bookmark">Könyvjelző</string>
   <string name="accessibility_button_bookmarks">Könyvjelzők</string>
   <string name="accessibility_button_clear">Beírt szöveg törlése</string>
   <string name="accessibility_button_closetab">Lap bezárása</string>
-  <string name="accessibility_button_forward">Előrelépés</string>
+  <string name="accessibility_button_forward">Előre</string>
   <string name="accessibility_button_go">Mehet</string>
   <string name="accessibility_button_goto">Mehet</string>
+  <string name="accessibility_button_larger">Nagyobb</string>
   <string name="accessibility_button_more">További beállítások</string>
   <string name="accessibility_button_navscreen">Oldalkezelő</string>
   <string name="accessibility_button_newincognitotab">Új inkognitólap megnyitása</string>
-  <string name="accessibility_button_newtab">Új lap megnyitása</string>
+  <string name="accessibility_button_newtab">Új lap</string>
   <string name="accessibility_button_refresh">Oldal frissítése</string>
   <string name="accessibility_button_search">Keresés</string>
+  <string name="accessibility_button_smaller">Kisebb</string>
+  <string name="accessibility_button_stop">Leállítás</string>
   <string name="accessibility_button_tabs">Lapok</string>
   <string name="accessibility_button_uaswitch">Felhasználói ügynök váltása</string>
   <string name="accessibility_button_voice">Hangalapú keresés indítása</string>
@@ -25,6 +29,7 @@
   <string name="action">Bejelentkezés</string>
   <string name="add_bookmark">Könyvjelző létrehozás</string>
   <string name="add_bookmark_short">Hozzáadás:</string>
+
   <string name="add_folder">Új Könyvtár</string>
   <string name="add_new_bookmark">Könyvjelző hozzáadása</string>
   <string name="add_to_bookmarks_menu_option">Könyvjelzők</string>
@@ -66,9 +71,9 @@
   <string name="bookmark_needs_title">Nevet kell adni a könyvjelzőnek.</string>
   <string name="bookmark_needs_url">Meg kell adni a könyvjelző helyét.</string>
   <string name="bookmark_not_saved">Nem lehet menteni a könyvjelzőt.</string>
-  <string name="bookmark_page">Az utoljára megtekintett oldal felvétele a könyvjelzők közé</string>
+  <string name="bookmark_page">Az utoljára megtekintett oldal hozzáadása a könyvjelzőkhöz</string>
   <string name="bookmark_saved">Mentve a könyvjelzők közé.</string>
-  <string name="bookmark_this_page">Oldal felvétele a könyvjelzők közé</string>
+  <string name="bookmark_this_page">Oldal hozzáadása a könyvjelzőkhöz</string>
   <string name="bookmark_this_page_to_readmodelist">Oldal hozzáadása az olvasólista könyvjelzőhöz</string>
   <string name="bookmark_thumbnail_view">Indexképek</string>
   <string name="bookmark_title">Cím</string>
@@ -80,12 +85,12 @@
   <string name="bookmarks_management">Könyvjelzők</string>
   <string name="bookmarks_root_folder">Gyökérkönyvtár</string>
   <string name="bookmarks_search">Böngésző</string>
+  <string name="browser_bookmarks_page_bookmarks_text">Könyvjelzők</string>
+  <string name="browser_history">A közelmúltban meglátogatott lapok</string>
   <string name="browserFrameFileErrorLabel">Probléma a fájllal</string>
   <string name="browserFrameFormResubmitLabel" />
   <string name="browserFrameFormResubmitMessage">A megtekinteni kívánt oldal már elküldött adatokat (\"POSTDATA\") is tartalmaz. Ha újraküldi az adatokat, az oldalon lévő űrlappal kapcsolatos valamennyi művelet (például a keresés vagy az online vásárlás) újra végrehajtásra kerül.</string>
-  <string name="browserFrameNetworkErrorLabel">Csatlakozási probléma</string>
-  <string name="browser_bookmarks_page_bookmarks_text">Könyvjelzők</string>
-  <string name="browser_history">A közelmúltban meglátogatott lapok</string>
+  <string name="browserFrameNetworkErrorLabel">Csatlakozási probléma</string> 
   <string name="cancel">Mégse</string>
   <string name="cannot_download">Csak \"http\" vagy \"https\" URL-ek letöltése lehetséges.</string>
   <string name="choose_upload">Válassza ki a feltölteni kívánt fájlt</string>
@@ -93,7 +98,7 @@
   <string name="clear">Törlés</string>
   <string name="clear_history">Előzmények törlése</string>
   <string name="containing_folder">Mentés ide:</string>
-  <string formatted="false" name="contextheader_folder_bookmarkcount">%d könyvjelző</string>
+  <string name="contextheader_folder_bookmarkcount">%d könyvjelző</string>
   <string name="contextheader_folder_empty">Üres mappa</string>
   <string name="contextmenu_add_contact">Névjegy hozzáadása</string>
   <string name="contextmenu_copy">Másolás</string>
@@ -126,11 +131,6 @@
   <string name="download_pending">Letöltés megkezdése...</string>
   <string name="download_sdcard_busy_dlg_msg">Az USB-tár dolgozik. A letöltések engedélyezéséhez válassza az \"USB-tár kikapcsolása\" lehetőséget.</string>
   <string name="download_sdcard_busy_dlg_title">Az USB-tár nem érhető el</string>
-  <string name="dump_counters">Dump V8 counters</string>
-  <string name="dump_display_tree">Dump display tree to file</string>
-  <string name="dump_dom_tree">Dump DOM tree to file</string>
-  <string name="dump_nav">Dump navigation cache</string>
-  <string name="dump_render_tree">Dump render tree to file</string>
   <string name="edit">Szerkesztés</string>
   <string name="edit_bookmark">Könyvjelző szerkesztése</string>
   <string name="edit_folder">Mappa szerkesztése</string>
@@ -141,7 +141,7 @@
   <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
   <string name="error_console_header_text_maximized">JavaScript console</string>
   <string name="error_console_header_text_minimized">Show JavaScript console</string>
-  <string name="exit_browser_warning">Kilépés a böngészőböl?</string>
+  <string name="exit_browser_warning">Kilép a böngészőböl?</string>
   <string name="export_bookmark">Könyvjelző exportálása</string>
   <string name="export_bookmark_failure">Hiba a könyvjelzők SD kártyára való exportálása közben!</string>
   <string name="export_bookmark_sucess">Könyvjelzők exportálva az SD kártyáról!</string>
@@ -174,11 +174,11 @@
   <string name="import_bookmark_failure">HIBA a könyvjelzők importálása közben!</string>
   <string name="import_bookmark_sucess">Könyvjelzők importálva</string>
   <string name="import_bookmarks_dialog_add">Könyvjelzők hozzáadása a Google Fiókhoz</string>
-  <string formatted="false" name="import_bookmarks_dialog_confirm_add">Az eszközön jelenleg található könyvjelzők hozzáadása, és a könyvjelzők szinkronizálásának megkezdése a következővel: %s?</string>
-  <string formatted="false" name="import_bookmarks_dialog_confirm_delete">Az eszközön jelenleg található könyvjelzők törlése, és a könyvjelzők szinkronizálásának megkezdése a következővel: %s?</string>
+  <string name="import_bookmarks_dialog_confirm_add">Az eszközön jelenleg található könyvjelzők hozzáadása, és a könyvjelzők szinkronizálásának megkezdése a következővel: %s?</string>
+  <string name="import_bookmarks_dialog_confirm_delete">Az eszközön jelenleg található könyvjelzők törlése, és a könyvjelzők szinkronizálásának megkezdése a következővel: %s?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Az eszközön jelenleg található könyvjelzők törlése, és a szinkronizálás megkezdése a Google Fiókkal</string>
   <string name="import_bookmarks_dialog_description">Az eszközön található könyvjelzők még nincsenek Google Fiókhoz társítva. Mentse a könyvjelzőket úgy, hogy hozzáadja azokat egy fiókhoz. Törölje a könyvjelzőket, ha nem szeretné szinkronizálni azokat.</string>
-  <string formatted="false" name="import_bookmarks_dialog_import">Az Androidos könyvjelzők hozzáadása %s fiók könyvjelzőihez</string>
+  <string name="import_bookmarks_dialog_import">Az Androidos könyvjelzők hozzáadása %s fiók könyvjelzőihez</string>
   <string name="import_bookmarks_dialog_remove">Könyvjelzők törlése</string>
   <string name="import_bookmarks_dialog_select_add_account">Az eszközön jelenleg található könyvjelzők hozzáadása, és a szinkronizálás megkezdése a Google Fiókkal</string>
   <string name="import_bookmarks_dialog_title">Szinkronizálás Google Fiókkal</string>
@@ -195,19 +195,22 @@
   <string name="is_page_bottom">Ez már a lap alja</string>
   <string name="is_page_top">Ez már az oldal teteje</string>
   <string name="js_engine_flags">Set JS flags</string>
+  <string name="loading_video">Videó betöltése…</string>
   <string name="loadSuspended">A böngésző nem tudja betölteni ezt az oldalt, mert nincs internetkapcsolat.</string>
   <string name="loadSuspendedTitle">Nincs kapcsolat</string>
-  <string name="loading_video">Videó betöltése…</string>
   <string name="local_bookmarks">Helyi</string>
   <string name="location">Cím</string>
+
   <string name="max_tabs_warning">Nem nyitható meg több lap</string>
   <string name="menu_disable_night_mode">Éjszakai mód letiltása</string>
   <string name="menu_enable_night_mode">Éjszakai mód engedélyezése</string>
-  <string name="menu_exit">Kilépés</string>
+  <string name="menu_exit">Böngésző bezárása</string>
   <string name="menu_preferences">Beállítások</string>
   <string name="menu_save_snapshot">Mentés offline olvasáshoz</string>
   <string name="menu_share_url">Megosztás</string>
   <string name="menu_view_download">Letöltések</string>
+  <string name="MIUI_startpage">Kezdőoldal</string>
+
   <string name="move_to_up_folder">Egy szinttel feljebb</string>
   <string name="multi_select_title">%1$s elem kiválasztva</string>
   <string name="name">Címke</string>
@@ -235,7 +238,7 @@
   <string name="pref_autofill_enabled_summary">Töltse ki a webes űrlapokat egyetlen érintéssel</string>
   <string name="pref_autofill_profile_editor">Automatikus kitöltés szövege</string>
   <string name="pref_autofill_profile_editor_summary">Szöveg beállítása webes űrlapok automatikus kitöltéséhez</string>
-  <string formatted="false" name="pref_autologin_progress">Bejelentkezés Google-webhelyekre a következők használatával: %s</string>
+  <string name="pref_autologin_progress">Bejelentkezés Google-webhelyekre a következők használatával: %s</string>
   <string name="pref_autologin_title">Automatikus Google bejelentkezés</string>
   <string name="pref_clear_cache_for_exit">Gyorsítótár törlése</string>
   <string name="pref_clear_history_for_exit">Előzmények törlése</string>
@@ -312,12 +315,13 @@
   <string name="pref_lab_fullscreen">Teljes képernyő</string>
   <string name="pref_lab_fullscreen_summary">Használja a teljes képernyős módot az állapotsor elrejtéséhez.</string>
   <string name="pref_lab_quick_controls">Gyorsbeállítások</string>
+  <string name="pref_lab_quick_controls_summary">Csúsztassa hüvelykujját a bal vagy jobb oldalra a gyorsbeállítások megnyitásához, és az alkalmazás- és URL-sávok elrejtéséhez</string>
   <string name="pref_lab_title">Labs</string>
-  <string name="pref_link_prefetch_dialogtitle">Web page preloading</string>
-  <string name="pref_link_prefetch_summary">Allow browser to preload linked web pages in the background</string>
-  <string name="pref_link_prefetch_title">Web page preloading</string>
+  <string name="pref_link_prefetch_value_always">MINDIG</string>
+  <string name="pref_link_prefetch_value_never">SOHA</string>
+  <string name="pref_link_prefetch_value_wifi_only">CSAK_WIFI</string>
   <string name="pref_min_font_size">Minimális betűméret</string>
-  <string formatted="false" name="pref_min_font_size_value">%d pt</string>
+
   <string name="pref_privacy_clear_cache">A gyorsítótár törlése</string>
   <string name="pref_privacy_clear_cache_dlg">Helyben tárolt tartalmak és adatbázisok törlése?</string>
   <string name="pref_privacy_clear_cache_summary">A helyileg gyorsítótárazott tartalmak és adatbázisok törlése</string>
@@ -359,6 +363,9 @@
   <string name="pref_ua_title">User agent management</string>
   <string name="pref_use_instant_search">Google Instant</string>
   <string name="pref_use_instant_search_summary">A Google-keresésnél használja a Google Instantot, és a találatok gépelés közben megjelennek (az adatforgalom nőhet).</string>
+  <string name="pref_video_preload_value_always">MINDIG</string>
+  <string name="pref_video_preload_value_never">SOHA</string>
+  <string name="pref_video_preload_value_wifi_only">CSAK_WIFI</string>
   <string name="pref_volume_key_enabled">Hangerő gombok</string>
   <string name="pref_volume_key_operation">Hangerő gomb beállítása</string>
   <string name="pref_zoom_on_double_tap">Dupla érintéssel közelítés</string>
@@ -379,8 +386,8 @@
   <string name="report_reading_mode_issue">Olvasási mód jelentése a MIUI-nak</string>
   <string name="save">OK</string>
   <string name="save_to_bookmarks">Mentés a könyvjelzők közé.</string>
-  <string name="search_baidu">Baidu</string>
-  <string name="search_bing">Bing</string>
+  <string name="saving_snapshot">Mentés…</string>
+
   <string name="search_button_text">Ugrás</string>
   <string name="search_cancel">Mégsem</string>
   <string name="search_google">Google</string>
@@ -398,7 +405,7 @@
   <string name="share_page">Oldal megosztása</string>
   <string name="shortcut_bookmark">Könyvjelző</string>
   <string name="shortcut_bookmark_title">Válasszon egy könyvjelzőt</string>
-  <string formatted="false" name="sign_in_to">Jelentkezzen be ide: %s1 \"%s2\"</string>
+
   <string name="snapshot_failed">Nem sikerült menteni offline olvasáshoz.</string>
   <string name="snapshot_go_live">Élő adás</string>
   <string name="ssl_continue">Folytatás</string>
@@ -428,6 +435,7 @@
   <string name="too_many_windows_dialog_title">Elérte a lapok maximális számát</string>
   <string name="ua_switcher_desktop">Asztali webhely kérése</string>
   <string name="uploads_disabled">A fájlok feltöltése le van tiltva.</string>
+  <string name="url_copy_done">URL kimásolva</string>
   <string name="url_hint">Keressen vagy írjon be egy URL-t</string>
   <string name="username">Név</string>
   <string name="view_certificate">Tanúsítvány megtekintése</string>

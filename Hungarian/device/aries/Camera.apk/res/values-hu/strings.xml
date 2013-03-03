@@ -94,15 +94,15 @@
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="import_complete">Importálás befejezve</string>
     <string name="import_fail">Importálás sikertelen</string>
-    <string name="iso">ISO</string>
+
     <string name="loading">Betötlés…</string>
     <string name="loading_video">Videófelvétel betöltés…</string>
     <string name="location">Hely</string>
     <string name="locations">Helyek</string>
     <string name="maker">Készítő</string>
     <string name="manual">Kézi</string>
-    <string name="mimetype">MIME type</string>
-    <string name="model">Model</string>
+    <string name="mimetype">MIME típus</string>
+    <string name="model">Modell</string>
     <string name="no_connectivity">Néhány hely nem azonosítható a hálózati hiba miatt.</string>
     <string name="no_location">Nincs helység</string>
     <string name="no_picture_to_share">Nincs fénykép.</string>
@@ -139,23 +139,18 @@
     <string name="pref_back_camera_zsl_title">ZSL(Hátsó kamera)</string>
     <string name="pref_camcorder_settings_category">Videókamera beállításai</string>
     <string name="pref_camera_ae_bracket_hdr_default">Ki</string>
-    <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
-    <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
+
     <string name="pref_camera_ae_bracket_hdr_entry_off">Ki</string>
-    <string name="pref_camera_ae_bracket_hdr_title">HDR-Bracketing</string>
+    <string name="pref_camera_ae_bracket_hdr_title">HDR-felvétel</string>
     <string name="pref_camera_ae_bracket_hdr_value_ae_bracket">AE-Bracket</string>
     <string name="pref_camera_ae_bracket_hdr_value_hdr">HDR</string>
     <string name="pref_camera_ae_bracket_hdr_value_off">Ki</string>
-    <string name="pref_camera_antibanding_default">50hz</string>
+
     <string name="pref_camera_antibanding_entry_0">Ki</string>
-    <string name="pref_camera_antibanding_entry_1">50 Hz</string>
-    <string name="pref_camera_antibanding_entry_2">60 Hz</string>
-    <string name="pref_camera_antibanding_entry_3">Auto</string>
+
     <string name="pref_camera_antibanding_title">Csíkozódás csökkentés</string>
     <string name="pref_camera_audio_capture_title">Hangrögzítés</string>
-    <string name="pref_camera_audioencoder_default">aac</string>
-    <string name="pref_camera_audioencoder_entry_0">AMRNB</string>
-    <string name="pref_camera_audioencoder_entry_1">AAC</string>
+
     <string name="pref_camera_audioencoder_title">Audio Encoder</string>
     <string name="pref_camera_auto_focus_default">ki</string>
     <string name="pref_camera_auto_focus_entry_off">ki</string>
@@ -214,23 +209,19 @@
     <string name="pref_camera_facedetection_entry_off">Ki</string>
     <string name="pref_camera_facedetection_entry_on">Be</string>
     <string name="pref_camera_facedetection_title">Arcfelismerés</string>
-    <string name="pref_camera_flashmode_default">auto</string>
-    <string name="pref_camera_flashmode_entry_auto">Auto</string>
+
     <string name="pref_camera_flashmode_entry_off">Ki</string>
     <string name="pref_camera_flashmode_entry_on">Be</string>
     <string name="pref_camera_flashmode_no_flash">nincs_vaku</string>
     <string name="pref_camera_flashmode_title">Vaku</string>
-    <string name="pref_camera_focusmode_entry_auto">Auto</string>
-    <string name="pref_camera_focusmode_entry_continuous">CAF</string>
+
     <string name="pref_camera_focusmode_entry_infinity">Végtelen</string>
     <string name="pref_camera_focusmode_entry_macro">Makró</string>
     <string name="pref_camera_focusmode_entry_normal">Normál</string>
     <string name="pref_camera_focusmode_title">Fókusz mód</string>
     <string name="pref_camera_focusmode_value_default">auto</string>
     <string name="pref_camera_hfr_default">ki</string>
-    <string name="pref_camera_hfr_entry_2x">60</string>
-    <string name="pref_camera_hfr_entry_3x">90</string>
-    <string name="pref_camera_hfr_entry_4x">120</string>
+
     <string name="pref_camera_hfr_entry_off">Ki</string>
     <string name="pref_camera_hfr_title">Video High FrameRate (a lassú mozgáshoz)</string>
     <string name="pref_camera_hfr_value_2x">60</string>
@@ -243,19 +234,11 @@
     <string name="pref_camera_histogram_title">Hisztogram</string>
     <string name="pref_camera_histogram_value_disable">letiltva</string>
     <string name="pref_camera_histogram_value_enable">engedélyezve</string>
-    <string name="pref_camera_id_default">0</string>
+
     <string name="pref_camera_id_entry_back">Hátsó</string>
     <string name="pref_camera_id_entry_front">Előlapi</string>
     <string name="pref_camera_id_title">Fényképező választás</string>
-    <string name="pref_camera_iso_default">auto</string>
-    <string name="pref_camera_iso_entry_auto">Auto</string>
-    <string name="pref_camera_iso_entry_iso100">ISO100</string>
-    <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
-    <string name="pref_camera_iso_entry_iso200">ISO200</string>
-    <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
-    <string name="pref_camera_iso_entry_iso400">ISO400</string>
-    <string name="pref_camera_iso_entry_iso800">ISO800</string>
-    <string name="pref_camera_iso_entry_isodeblur">ISO Auto(HJR)</string>
+
     <string name="pref_camera_iso_title">ISO választás</string>
     <string name="pref_camera_iso_value_auto">auto</string>
     <string name="pref_camera_iso_value_iso100">ISO100</string>
@@ -266,12 +249,7 @@
     <string name="pref_camera_iso_value_iso800">ISO800</string>
     <string name="pref_camera_iso_value_isodeblur">ISO_HJR</string>
     <string name="pref_camera_jpegquality_default">finom</string>
-    <string name="pref_camera_jpegquality_entry_0">Jpeg 55%</string>
-    <string name="pref_camera_jpegquality_entry_1">Jpeg 65%</string>
-    <string name="pref_camera_jpegquality_entry_2">Jpeg 75%</string>
-    <string name="pref_camera_jpegquality_entry_3">Jpeg 85%</string>
-    <string name="pref_camera_jpegquality_entry_4">Jpeg 95%</string>
-    <string name="pref_camera_jpegquality_entry_5">Jpeg 100%</string>
+
     <string name="pref_camera_jpegquality_entry_fine">Jó</string>
     <string name="pref_camera_jpegquality_entry_normal">Normál</string>
     <string name="pref_camera_jpegquality_entry_superfine">Kiváló</string>
@@ -288,20 +266,14 @@
     <string name="pref_camera_movie_solid_value_off">ki</string>
     <string name="pref_camera_movie_solid_value_on">be</string>
     <string name="pref_camera_panoramamode_title">Panoráma</string>
-    <string name="pref_camera_picture_format_default">jpeg</string>
-    <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
-    <string name="pref_camera_picture_format_entry_raw">Raw</string>
     <string name="pref_camera_picture_format_title">Képformátum választás</string>
     <string name="pref_camera_picture_format_value_jpeg">jpeg</string>
     <string name="pref_camera_picture_format_value_raw">raw</string>
-    <string name="pref_camera_picture_size_default">3264x1836</string>
     <string name="pref_camera_picturesize_entry_1024x768">0.8 Mp</string>
-    <string name="pref_camera_picturesize_entry_1280x720">HD720</string>
-    <string name="pref_camera_picturesize_entry_1280x768">WXGA</string>
     <string name="pref_camera_picturesize_entry_1280x960">1.3 Mp</string>
     <string name="pref_camera_picturesize_entry_1600x1200">2 Mp</string>
     <string name="pref_camera_picturesize_entry_176x144">QCIF</string>
-    <string name="pref_camera_picturesize_entry_1920x1080">HD1080</string>
+    <string name="pref_camera_picturesize_entry_1920x1080">1080p</string>
     <string name="pref_camera_picturesize_entry_2048x1536">3 Mp</string>
     <string name="pref_camera_picturesize_entry_2592x1456">4 Mp (Teljes)</string>
     <string name="pref_camera_picturesize_entry_2592x1936">5 Mp</string>
@@ -312,24 +284,25 @@
     <string name="pref_camera_picturesize_entry_352x288">CIF</string>
     <string name="pref_camera_picturesize_entry_4000x3000">12 Mp</string>
     <string name="pref_camera_picturesize_entry_4208x3120">13 Mp</string>
-    <string name="pref_camera_picturesize_entry_640x480">VGA</string>
     <string name="pref_camera_picturesize_entry_800x480">WVGA</string>
     <string name="pref_camera_picturesize_entry_800x600">SVGA</string>
-    <string name="pref_camera_picturesize_title">Fénykép méret</string>
+    <string name="pref_camera_picturesize_professional_entry_1024x768">0.8MP (1024x768)</string>
+    <string name="pref_camera_picturesize_professional_entry_1280x720">0.9MP (1280x720)</string>
+    <string name="pref_camera_picturesize_professional_entry_1600x1200">2MP (1600x1200)</string>
+    <string name="pref_camera_picturesize_professional_entry_1920x1080">2MP (1920x1088)</string>
+    <string name="pref_camera_picturesize_professional_entry_2048x1536">3MP (2048x1536)</string>
+    <string name="pref_camera_picturesize_professional_entry_2592x1944">5MP (2592x1944)</string>
+    <string name="pref_camera_picturesize_professional_entry_3200x1800">6MP (3264x1836)</string>
+    <string name="pref_camera_picturesize_professional_entry_3200x2400">8MP (3264X2448)</string>
     <string name="pref_camera_powermode_default">Normal_Power</string>
     <string name="pref_camera_powermode_entry_lp">Low_Power</string>
     <string name="pref_camera_powermode_entry_np">Normal_Power</string>
-    <string name="pref_camera_powermode_value_lp">Low_Power</string>
-    <string name="pref_camera_powermode_value_np">Normal_Power</string>
-    <string name="pref_camera_preview_default">ki</string>
     <string name="pref_camera_preview_entry_1000">1 mp</string>
     <string name="pref_camera_preview_entry_2000">2 mp</string>
     <string name="pref_camera_preview_entry_5000">5 mp</string>
     <string name="pref_camera_preview_entry_off">ki</string>
     <string name="pref_camera_preview_title">Előnézet</string>
-    <string name="pref_camera_preview_value_1000">1000</string>
-    <string name="pref_camera_preview_value_2000">2000</string>
-    <string name="pref_camera_preview_value_5000">5000</string>
+
     <string name="pref_camera_preview_value_off">ki</string>
     <string name="pref_camera_recordlocation_default">hibás</string>
     <string name="pref_camera_recordlocation_entry_off">Ki</string>

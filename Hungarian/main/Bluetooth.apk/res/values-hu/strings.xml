@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ErrorTooManyRequests">Túl sok kérés áll feldolgozás alatt. Próbálja újra később.</string>
   <string name="ack_record">ACK rekord</string>
   <string name="airplane_error_msg">Amikor a telefon repülőgép üzemmódra van állítva, a Bluetooth nem használható.</string>
   <string name="airplane_error_title">Repülőgép üzemmód</string>
@@ -9,6 +8,13 @@
   <string name="auth_notif_ticker">Obex azonosítási kérelem</string>
   <string name="auth_notif_title">Munkamenetkulcs</string>
   <string name="bluetooth_share_file_name">bluetooth tartalom megosztása</string>
+  <string name="bpp_authentication_timeout_message">Időtúllépés</string>
+  <string name="bpp_cancel">Mégsem</string>
+  <string name="bpp_main">Bluetooth Nyomtatás</string>
+  <string name="bpp_printing_button_text">Nyomtatás</string>
+  <string name="bpp_session_key_dialog_header">Bluetooth kapcsolathoz kulcs szükséges</string>
+  <string name="bpp_session_key_dialog_title">%1$s kulcsát írja be</string>
+  <string name="bpp_setting_text">Beállításg</string>
   <string name="bt_enable_cancel">Mégse</string>
   <string name="bt_enable_line1">A Bluetooth-szolgáltatásokhoz használatához először be kell kapcsolnia a Bluetooth-funkciót.</string>
   <string name="bt_enable_line2">Bekapcsolja most a Bluetooth-funkciót?</string>
@@ -27,8 +33,8 @@
   <string name="btopp_live_folder">Fogadott fájlok</string>
   <string name="defaultname">Autós készlet</string>
   <string name="defaultnumber">000000</string>
-  <string name="deleteAll_record">Minden rekord törlése</string>
   <string name="delete_record">Rekord törlése</string>
+  <string name="deleteAll_record">Minden rekord törlése</string>
   <string name="download_cancel">Leállítás</string>
   <string name="download_fail_line1">A fájl fogadása nem sikerült</string>
   <string name="download_fail_line2">Fájl: %1$s</string>
@@ -46,15 +52,23 @@
   <string name="download_title">Fájlátvitel</string>
   <string name="enabling_progress_content">A Bluetooth bekapcsolása...</string>
   <string name="enabling_progress_title">Kérjük, várjon...</string>
+  <string name="ErrorTooManyRequests">Túl sok kérés áll feldolgozás alatt. Próbálja újra később.</string>
+  <string name="ftp_acceptance_dialog_header">Fénykép mappa hozzáférés</string>
+  <string name="ftp_acceptance_dialog_title">%1$s hozzáérést szeretne a mappákhoz. Megadja a hozzáférést?</string>
+  <string name="ftp_acceptance_timeout_message">Időtúllépés</string>
+  <string name="ftp_authentication_timeout_message">Időtúllépés</string>
+  <string name="ftp_notif_message">Gyökérmappa hozzáférésének engedélyezése %1$s</string>
+  <string name="ftp_notif_ticker">Obex hitelesítési kérelem</string>
+  <string name="ftp_notif_title">FTP-hez hitelesítés szükséges</string>
+  <string name="ftp_session_key_dialog_header">Bluetooth kulcs szükséges</string>
+  <string name="ftp_session_key_dialog_title">Írja be a kulcsot %1$s</string>
   <string name="hello">Helló, világ! teszttevékenység</string>
   <string name="inbound_history_title">Bejövő átvitelek</string>
   <string name="inbound_noti_title">Bluetooth share: Beérkezett fájlok</string>
+  <string name="incoming_file_confirm_cancel">Elutasítás</string>
+  <string name="incoming_file_confirm_content">"\"%1$s\" a következő fájlt szeretné elküldeni: %2$s (%3$s). Fogadja?"</string>
   <string name="incoming_file_confirm_Notification_caption">Erősítse meg, hogy fogadni kívánja a fájlt</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth-megosztás: beérkező fájl</string>
-  <string name="incoming_file_confirm_cancel">Elutasítás</string>
-  <string name="incoming_file_confirm_content">"\"%1$s\" a következő fájlt szeretné elküldeni: %2$s (%3$s). 
-
-Fogadja?"</string>
   <string name="incoming_file_confirm_ok">Elfogadás</string>
   <string name="incoming_file_confirm_timeout_content">Időtúllépés történt \"%1$s\" feladótól érkező fájl fogadása során</string>
   <string name="incoming_file_confirm_timeout_ok">Ok</string>
@@ -62,6 +76,16 @@ Fogadja?"</string>
   <string name="incoming_file_toast_msg">Már van egy bejövő fájl egy másik eszközről. Kérjük, erősítse meg, hogy fogadni szeretné ezt a fájlt</string>
   <string name="insert_record">Rekord beszúrása</string>
   <string name="localPhoneName">Telefon neve</string>
+  <string name="map_acceptance_dialog_header">Fénykép mappa hozzáférés</string>
+  <string name="map_acceptance_dialog_title">%1$s hozzáérést szeretne a mappákhoz. Megadja a hozzáférést?</string>
+  <string name="map_acceptance_timeout_message">Időtúllépés</string>
+  <string name="map_alert_conn_failed_message">Bluetooth MAP csatlakozás sikertelen.</string>
+  <string name="map_authentication_timeout_message">Időtúllépés</string>
+  <string name="map_notif_message">>Gyökérmappa hozzáférésének engedélyezése %1$s</string>
+  <string name="map_notif_ticker">hitelesítési kérelem</string>
+  <string name="map_notif_title">MAP-hoz hitelesítő kulcs szükséges</string>
+  <string name="map_session_key_dialog_header">Bluetooth kapcsolathoz kulcs szükséges</string>
+  <string name="map_session_key_dialog_title">Írja be a kulcsot  %1$s</string>
   <string name="no_transfers">Az átvitelek előzménye üres.</string>
   <string name="not_exist_file">A fájl nem létezik</string>
   <string name="not_exist_file_desc">"A fájl nem létezik!"</string>
@@ -86,12 +110,22 @@ Fogadja?"</string>
   <string name="process" />
   <string name="sharedUserId" />
   <string name="start_server">TCP-szerver indítása</string>
+  <string name="status_bpp_aborted_by_printer">A nyomtatást a nyomtató megszakította</string>
+  <string name="status_bpp_canceled_by_user">A nyomtatás megszakítva</string>
+  <string name="status_bpp_cancelled_by_printer">A nyomtatást törölte a nyomtató</string>
   <string name="status_canceled">Ezt az átvitelt megszakította a felhasználó</string>
   <string name="status_connection_error">Csatlakozási hiba</string>
   <string name="status_file_error">Tárolási probléma</string>
   <string name="status_forbidden">A céleszköz nem engedélyezi ezt az átvitelt</string>
   <string name="status_no_sd_card">Nincs SD-kártya. A küldött fájlok mentéséhez helyezzen be SD-kártyát.</string>
   <string name="status_not_accept">A telefon az ilyen típusú tartalmat nem tudja kezelni</string>
+  <string name="status_bpp_unknown_error_by_printer">A nyomtatás nem sikerült, ismeretlen hiba</string>
+  <string name="status_canceled">Az átvitel megszakítva.</string>
+  <string name="status_connection_error">Csatlakozás sikertelen.</string>
+  <string name="status_file_error">Tárhely hiba.</string>
+  <string name="status_forbidden">Az átvitelt a céleszköz letiltotta.</string>
+  <string name="status_no_sd_card">Nincs elérhető tároló.</string>
+  <string name="status_not_accept">"A tartalom nem támogatott."</string>
   <string name="status_pending">A fájlátvitel még nem kezdődött el</string>
   <string name="status_protocol_error">A kérést nem lehet megfelelően kezelni</string>
   <string name="status_running">A fájlátvitel folyamatban van</string>
@@ -102,11 +136,11 @@ Fogadja?"</string>
   <string name="transfer_menu_clear">Törlés a listáról</string>
   <string name="transfer_menu_clear_all">Lista törlése</string>
   <string name="transfer_menu_open">Megnyitás</string>
-  <string name="unknownName">Ismeretlen név</string>
-  <string name="unknownNumber">Ismeretlen</string>
   <string name="unknown_device">Ismeretlen eszköz</string>
   <string name="unknown_file">Ismeretlen fájl</string>
   <string name="unknown_file_desc">"Nincs olyan alkalmazás, amely kezelni tudná ezt a fájltípust."</string>
+  <string name="unknownName">Ismeretlen név</string>
+  <string name="unknownNumber">Ismeretlen</string>
   <string name="update_record">Rekord megerősítése</string>
   <string name="upload_fail_cancel">Bezárás</string>
   <string name="upload_fail_line1">A fájlt nem sikerült elküldeni a következőnek: \"%1$s\".</string>

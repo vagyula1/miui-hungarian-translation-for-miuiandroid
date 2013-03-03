@@ -33,6 +33,7 @@
     <string name="birthday_event_description">Ma van %1$s szültésnapja!</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
+    <string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_text_three_days_later">3 nap múlva születésnap! (%3$s)</string>
     <string name="birthday_notification_text_today">Ne felejtse el felköszönteni születésnapján!</string>
@@ -44,13 +45,12 @@
     <string name="copy_db">Adatbázis küldése</string>
     <string name="copy_email">email cím másolás</string>
     <string name="copy_number">telefonszám másolás</string>
-    <string name="create_an_account_desc">"A Naptár jobban működik egy Google Fiókkal.
-• Bármilyen bőngészőből elérheti
-• Biztonsági másolatot készíthet programjairól."</string>
+    <string name="create_an_account_desc">"A Naptár jobban működik egy Google Fiókkal.• Bármilyen bőngészőből elérheti• Biztonsági másolatot készíthet programjairól."</string>
     <string name="creating_event">Az esemény létrehozása megtörtént</string>
     <string name="creating_event_with_guest">Meghívók elküldve</string>
     <string name="custom">Egyéni... (telefonon nem állítható be)</string>
     <string name="daily">Naponta</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="day_view">Nap</string>
     <string name="day_view_new_event_hint">+ Új esemény</string>
     <string name="delete_label">Törlés</string>
@@ -100,6 +100,9 @@
     <string name="menu_general_preferences">Általános preferenciák</string>
     <string name="menu_preferences">Beállítások</string>
     <string name="menu_select_visible_calendars">Naptárak</string>
+    <string name="miui_chinese_week_range_double" />
+    <string name="miui_chinese_week_range_single" />
+    <string name="miui_menu_create_event">Új</string>
     <string name="modify_all">A sorozat összes eseményének módosítása</string>
     <string name="modify_all_following">A jelenlegi és az összes további esemény módosítása</string>
     <string name="modify_event">Csak a jelen esemény módosítása</string>
