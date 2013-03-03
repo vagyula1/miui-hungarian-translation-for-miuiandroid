@@ -19,8 +19,8 @@
     <string name="dialog_calibrat_altitude">Magasság kalibrálása interneten keresztül</string>
     <string name="latitude">SZÉ</string>
     <string name="longitude">HOSSZ</string>
-    <string name="direction_north">D</string>
-    <string name="direction_south">É</string>
+    <string name="direction_north">É</string>
+    <string name="direction_south">D</string>
     <string name="direction_east">K</string>
     <string name="direction_west">N</string>
 </resources>
