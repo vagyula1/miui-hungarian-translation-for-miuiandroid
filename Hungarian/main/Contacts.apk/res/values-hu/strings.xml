@@ -708,7 +708,6 @@
     <string name="all_list_empty">No contacts</string>
     <string name="favorites_list_empty">No favorites</string>
     <string name="groups_list_empty">No groups</string>
-    <string name="single_group_list_empty">No group members</string>
     <string name="picker_recent_list_empty">No recent contacts</string>
     <string name="single_group_list_empty">Nincs csoportban tag</string>
     <string name="account_container_title">From the following account</string>
