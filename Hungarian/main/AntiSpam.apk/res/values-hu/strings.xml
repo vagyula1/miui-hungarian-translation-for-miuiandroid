@@ -107,7 +107,7 @@
   <string name="fw_time_settings">Blokkolási idő</string>
   <string name="fw_whitelist">Fehérlista</string>
   <string name="fw_whitelist_hint">A Fehérlistán szereplő számok nem lesznek blokkolva</string>
-  <string name="member_firewall_log">Blokkolva: telefon %d információ %d</string>
+  <string formatted="false" name="member_firewall_log">Blokkolva: telefon %d információ %d</string>
   <string name="menu_edit">Szerkesztés</string>
   <string name="mms_log_tab_title">Üzenetek</string>
   <string name="new_bw_list_button">Névjegyek hozzáadása</string>
