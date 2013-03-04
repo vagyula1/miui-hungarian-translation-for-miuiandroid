@@ -91,7 +91,7 @@
   <string name="fw_menu_new_whitelist_title">Hozzáadás a Fehérlistához</string>
   <string name="fw_menu_pick_from_contact">Választás a névjegyek közül...</string>
   <string name="fw_menu_remove">Törlés</string>
-  <string name="fw_ms">Üzenetek elutasítva: %s (%d)</string>
+  <string formatted="false" name="fw_ms">Üzenetek elutasítva: %s (%d)</string>
   <string name="fw_ms_filtered">Üzenetek szűrve</string>
   <string name="fw_ms_imported">Üzenetek importálva</string>
   <string name="fw_ms_muted">Üzenetek némítva</string>
@@ -107,7 +107,6 @@
   <string name="fw_time_settings">Blokkolási idő</string>
   <string name="fw_whitelist">Fehérlista</string>
   <string name="fw_whitelist_hint">A Fehérlistán szereplő számok nem lesznek blokkolva</string>
-
   <string name="member_firewall_log">Blokkolva: telefon %d információ %d</string>
   <string name="menu_edit">Szerkesztés</string>
   <string name="mms_log_tab_title">Üzenetek</string>
