@@ -7,7 +7,6 @@
     <string name="cabl_enable_summary_off">A háttérvilágítás visszaállítódik</string>
     <string name="cabl_levels_title">Teljesítmény szintek</string>
     <string name="cabl_levels_summary">Az alacsonyabb szint azt jelenti,hogy több energiát takarít meg,de a képernyő halványabb lehet a vártnál</string>
-
     <string name="cabl_info_default">Ismeretlen</string>
     <string name="cabl_version_title">Verzió</string>
 </resources>

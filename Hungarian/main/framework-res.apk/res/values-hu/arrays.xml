@@ -32,15 +32,11 @@
         <item>Egyéni</item>
     </string-array>
     <string-array name="postalAddressTypes">
-	<item>Otthoni</item>
-	<item>Munkahelyi</item>
-      	<item>Egyéb</item>
-	<item>Egyéni</item> 
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Egyéb</item>
+        <item>Egyéni</item>
     </string-array>
-         
-        
-        
-   
     <string-array name="imAddressTypes">
         <item>Otthoni</item>
         <item>Munkahelyi</item>

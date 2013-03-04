@@ -287,7 +287,6 @@
         <item>Maximális</item>
         <item>Normál</item>
         <item>Energiatakarékos</item>
- 	<item>Mindig</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Meleg</item>

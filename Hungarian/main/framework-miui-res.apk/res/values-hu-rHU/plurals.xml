@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="in_half_hour">
-        <item quantity="other">Egyórával ezelőtt</item>
-    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Egyórával ezelőtt</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Félórával ezelőtt</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Azonnal</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">Egyórával ezelőtt</item>
     </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Épp most</item>
-    </plurals>
-    <plurals name="half_hour_ago">
+    <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Félórával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Egyórával ezelőtt</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Egyórával ezelőtt</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Épp most</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
+    <plurals name="abbrev_in_half_hour">
         <item quantity="other">Félórával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Azonnal</item>
     </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d perccel ezelőtt</item>
-        <item quantity="one">1 perccel ezelőtt</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d perccel ezelőtt</item>
-        <item quantity="one">1 perccel ezelőtt</item>
-    </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d percben</item>
         <item quantity="one">1 percben</item>
     </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">1 perccel ezelőtt</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Félórával ezelőtt</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Egyórával ezelőtt</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Egyórával ezelőtt</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Azonnal</item>
+    </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">%d percben</item>
         <item quantity="one">1 percben</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">1 perccel ezelőtt</item>
     </plurals>
 </resources>
