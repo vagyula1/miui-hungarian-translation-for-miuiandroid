@@ -113,12 +113,6 @@
   <string name="status_bpp_aborted_by_printer">A nyomtatást a nyomtató megszakította</string>
   <string name="status_bpp_canceled_by_user">A nyomtatás megszakítva</string>
   <string name="status_bpp_cancelled_by_printer">A nyomtatást törölte a nyomtató</string>
-  <string name="status_canceled">Ezt az átvitelt megszakította a felhasználó</string>
-  <string name="status_connection_error">Csatlakozási hiba</string>
-  <string name="status_file_error">Tárolási probléma</string>
-  <string name="status_forbidden">A céleszköz nem engedélyezi ezt az átvitelt</string>
-  <string name="status_no_sd_card">Nincs SD-kártya. A küldött fájlok mentéséhez helyezzen be SD-kártyát.</string>
-  <string name="status_not_accept">A telefon az ilyen típusú tartalmat nem tudja kezelni</string>
   <string name="status_bpp_unknown_error_by_printer">A nyomtatás nem sikerült, ismeretlen hiba</string>
   <string name="status_canceled">Az átvitel megszakítva.</string>
   <string name="status_connection_error">Csatlakozás sikertelen.</string>
