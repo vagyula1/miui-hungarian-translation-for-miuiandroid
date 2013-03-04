@@ -64,8 +64,8 @@
   <string name="fw_blacklist">Feketelista</string>
   <string name="fw_blacklist_hint">BA hívások és az üzenetek automatikusan blokkolva lesznek, ha hozzáadja a Feketelistához</string>
   <string name="fw_blocked">Bokkolás bekapcsolvaN</string>
-  <string name="fw_blocked_count">Blokkolva %d Hívások %d SMS</string>
-  <string name="fw_call">Hívás elutasítva: %s (%d)</string>
+  <string formatted="false" name="fw_blocked_count">Blokkolva %d Hívások %d SMS</string>
+  <string formatted="false" name="fw_call">Hívás elutasítva: %s (%d)</string>
   <string name="fw_call_imported">Importálás Hívásnaplóból</string>
   <string name="fw_call_muted">Hívások némítva</string>
   <string name="fw_call_rejected">Hívások elutasítva</string>
