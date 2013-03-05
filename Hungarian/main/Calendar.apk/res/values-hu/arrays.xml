@@ -4,9 +4,8 @@
         <item>Értesítés</item>
         <item>E-mail</item>
         <item>SMS</item>
- 	<item>Riasztás</item>
+        <item>Riasztás</item>
     </string-array>
-
     <string-array name="reminder_minutes_labels">
         <item>0 perc</item>
         <item>1 perc</item>
@@ -25,34 +24,41 @@
         <item>2 nap</item>
         <item>1 hét</item>
     </string-array>
-
     <string-array name="preferences_default_reminder_labels">
-        <item>Semelyik</item>
-        <item>0 perc</item>
+    	<item>Semelyik</item>
+	<item>0 perc</item>
         <item>1 perc</item>
         <item>5 perc</item>
         <item>10 perc</item>
-        <item>15 perc</item>
+ 	<item>15 perc</item>
         <item>20 perc</item>
         <item>25 perc</item>
-        <item>30 perc</item>
+ 	<item>30 perc</item>
         <item>45 perc</item>
         <item>1 óra</item>
-        <item>2 óra</item>
+     	<item>2 óra</item>
         <item>3 óra</item>
         <item>12 óra</item>
-        <item>24 óra</item>
+	<item>24 óra</item>
         <item>2 nap</item>
-        <item>1 hét</item>
+ 	 <item>1 hét</item>       
     </string-array>
-
+        
+       
+       
+   
+        
+       
+   
     <string-array name="preferences_week_start_day_labels">
         <item>Helyi alapértelmezett</item>
         <item>Szombat</item>
         <item>Vasárnap</item>
-        <item>Hétfő</item>
+	<item>Hétfő</item>
     </string-array>
 
+        
+    
     <string-array name="timezone_labels">
         <item>Marshall-szigetek</item>
         <item>Midway-szigetek</item>
@@ -70,7 +76,8 @@
         <item>Bogota</item>
         <item>Keleti idő</item>
         <item>Venezuela</item>
-        <item>Atlanti idő</item>
+	<item>Atlanti idő (Barbados)</item>
+        <item>Atlanti idő (Kanada)</item>
         <item>Manaus</item>
         <item>Santiago</item>
         <item>Újfundland</item>
@@ -138,13 +145,11 @@
         <item>Fidzsi-szigetek</item>
         <item>Tonga</item>
     </string-array>
-
     <string-array name="availability">
         <item>Elfoglalt</item>
         <item>Elérhető</item>
         <item>Tentative</item>
     </string-array>
-
     <string-array name="visibility">
         <item>Alapértelm.</item>
         <item>Magán</item>
@@ -168,7 +173,6 @@
         <item>A jelen és a további események</item>
         <item>Összes esemény</item>
     </string-array>
-
     <string-array name="delete_repeating_labels_no_selected">
         <item>A jelenlegi és a további események</item>
         <item>Összes esemény</item>
