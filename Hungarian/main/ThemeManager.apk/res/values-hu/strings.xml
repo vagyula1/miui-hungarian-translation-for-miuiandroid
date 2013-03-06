@@ -3,8 +3,8 @@
   <string name="all_resources">Minden</string>
   <string name="all_ringtone_resource">Minden</string>
   <string name="app_name">Témák</string>
-  <string name="apply_font_btn_exclude">Engedélyez betűtípus nélkül</string>
-  <string name="apply_font_btn_reboot">Engedélyez és újraindítás</string>
+  <string name="apply_font_btn_exclude">Betűtípus nélkül</string>
+  <string name="apply_font_btn_reboot">újraindítás</string>
   <string name="apply_font_tip">A téma betűtípusokat tartalmaz, ezért újraindítás szükséges.</string>
   <string name="apply_lockscreen_paper_tips">Képernyőzár téma jelenleg használatban, új képernyőzár előnézete nem látható!</string>
   <string name="apply_theme_no_select_message">Válassza ki a témát!</string>
@@ -79,8 +79,8 @@
   <string name="resource_detail">Részletek</string>
   <string name="resource_download">Letöltés</string>
   <string name="resource_downloaded_title">Letöltött témák</string>
-  <string name="resource_downloading">Letölrtés</string>
-  <string name="resource_get_auth_checking">Azonosítás ellenőrzése...</string>
+  <string name="resource_downloading">Letöltés</string>
+  <string name="resource_get_auth_checking">Engedélyezés...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">A téma nem futtatható. Elérte a maximális 10 próbálkozást a Xiaomi fiókja. Próbálja másik fiókkal.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Nincs több próbálkozás!</string>
   <string name="resource_get_auth_missing">A téma nem a marketről származik, kérem töltse le onnan.</string>
@@ -109,7 +109,7 @@
   <string name="sdcard_status_changed_dialog_message">"Kilépés. Téma frissítéshez nyissa meg újra."</string>
   <string name="sdcard_status_changed_dialog_title">SD kártya tartalma megváltozott</string>
   <string name="short_ringtone_resource">Rövid (&lt;5mp)</string>
-  <string name="theme_another_import_running">Másik imortálás folyamatban, próbála később.</string>
+  <string name="theme_another_import_running">Másik importálás folyamatban, próbálja később.</string>
   <string name="theme_changed_failed_message">%1$s téma beállítása nem sikerült.</string>
   <string name="theme_changed_message">%1$s téma alkalmazva.</string>
   <string name="theme_changing_dialog_title">Téma alkalmazása, kérem várjon...</string>
@@ -128,11 +128,11 @@
   <string name="theme_component_title_lockwallpaper">Zár háttere</string>
   <string name="theme_component_title_miwallpaper">Háttérkép</string>
   <string name="theme_component_title_mms">SMS</string>
-  <string name="theme_component_title_notification">Értesítések</string>
+  <string name="theme_component_title_notification">Értesíés hang</string>
   <string name="theme_component_title_others">Egyéb</string>
   <string name="theme_component_title_photo_frame">Képkeret</string>
   <string name="theme_component_title_ringtone">Csengőhang</string>
-  <string name="theme_component_title_statusbar">Értesítő sáv</string>
+  <string name="theme_component_title_statusbar">Értesítések</string>
   <string name="theme_component_title_wallpaper">Háttérkép</string>
   <string name="theme_description_title_customized">Egyéni téma</string>
   <string name="theme_description_title_default">Alapértelmezett téma</string>
@@ -159,7 +159,7 @@
   <string name="theme_importing">Témák importálása...</string>
   <string name="theme_is_imported">A téma importálva!</string>
   <string name="theme_sdcard_importing">Importálás...</string>
-  <string name="theme_select_others">EgyébOthers</string>
+  <string name="theme_select_others">Egyéb</string>
   <string name="theme_upgrade_request_cancel">Mégsem</string>
   <string name="theme_upgrade_request_content">A téma formátuma nem megfelelő, konvertálás szükséges.Átkonvertálja?</string>
   <string name="theme_upgrade_request_title">Téma átkonvertálás szükséges</string>
