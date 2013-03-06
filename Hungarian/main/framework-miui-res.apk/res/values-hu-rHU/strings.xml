@@ -33,11 +33,16 @@
     <string name="experimental_validate_username">Xiaomi ID</string>
     <string name="experimental_validate_warning">Your every exploration helps MIUI become better!</string>
     <string name="find_device_check_sim">SIM ellenőrzés…</string>
-    <string name="find_device_sim_change_instructions">A telefon le van zárva. Kérem helyezze be a SIM kártyát és gépelje be a Xiaomi fiókja jelszavát</string>
-    <string name="find_device_sim_change_instructions_no_network">SIM kártyazár aktív, kérem tegyen be megfelelő SIM kártyát</string>
+    <string name="find_device_sim_change_instructions">A telefon le van zárva. 
+Kérem helyezze be a SIM kártyát és gépelje be a Xiaomi fiókja jelszavát</string>
+    <string name="find_device_sim_change_instructions_no_network">SIM kártyazár aktív, 
+kérem tegyen be megfelelő SIM kártyát</string>
     <string name="find_device_turn_off_flight_mode">Repülő üzemmód kikapcsolás</string>
-    <string name="find_device_turn_off_flight_mode_instructions">Az eszköz lezárva, kérem kapcsolja ki a repülő üzemmódot</string>
+    <string name="find_device_turn_off_flight_mode_instructions">Az eszköz lezárva, 
+kérem kapcsolja ki a repülő üzemmódot</string>
     <string name="firewall_setting">Üzenetek szűrése</string>
+    <string name="first_back_long_press_message">"Do you want to enable the function of long-pressing the back key to kill the current process and its background services?
+Enable via Settings > System > Button Settings"</string>
     <string name="fm_record_smaple_prefix_miui">Rádióadás rögzítés</string>
     <string name="fools_day">"April Fool's Day"</string>
     <string name="force_exit_message">Alkalmazás kényszerített bezárása \"%1$s\"</string>
@@ -50,7 +55,7 @@
     <string name="group_name_friends">Barátok</string>
     <string name="lockscreen_unlock_sim_via_puk">Írja be a PUK kódot a feloldáshoz</string>
     <string name="memory_clear_nothing_result">Nincs felszabadítható memória</string>
-    <string name="memory_clear_result">%1$s szabad | %2$s elérhető</string>
+    <string name="memory_clear_result">%1$s felszabadítva | %2$s elérhető</string>
     <string name="miui_copyright_title">Szerzői jog</string>
     <string name="miui_mibi_license_title">Mi Credit Felhasználói nyilatkozat</string>
     <string name="miui_privacy_policy_title">Adatvédelmi irányelvek</string>
@@ -112,7 +117,7 @@
     <string name="user_agreement3">" &amp; "</string>
     <string name="user_agreement4">Adatvédelmi irányelvek</string>
     <string name="user_agreement5">，Az OK kiválasztásával elfogadja a fenti irányelveket és azokat nérvadónak tekinti. Klikkeljen a Mégsem gombra a kilépéshez.</string>
-    <string name="v5_deselect_all">Deselect all</string>
+    <string name="v5_deselect_all">Kijelölés törlés</string>
     <string name="v5_edit_mode_title_empty">Check Items</string>
     <string name="v5_icon_menu_bar_more_item_label">Több</string>
     <string name="v5_select_all">Mind kiválaszt</string>
@@ -187,16 +192,8 @@
     <string name="status_bar_toggle_torch">Lámpa</string>
     <string name="status_bar_toggle_vibrate">Rezgés</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
-    <string name="theme_update_request_title">Téma frissítés</string>
-    <string name="theme_update_request_content">A téma csomagok régiek, a konvertálás eltarthat egy ideig, amelyek nem a téma marketről lettek letöltve nem fognak működni,kattintson az Ok-ra a frissítéshez.</string>
-    <string name="theme_update_request_continue_content">A téma csomag utolsó frissítése nem lett befejezve, folytatja?</string>
-    <string name="theme_updating_title">Téma frissítése</string>
-    <string name="theme_updating_precontent">Előkészítés, kérem várjon...</string>
+   
     <string name="status_bar_toggle_power_mode">Teljesítmény</string>
-    <string name="theme_updating_content">Frissítés %1$d/%2$d, kérem várjon</string>
-    <string name="theme_update_complete_title">Frissités befejezve</string>
-    <string name="theme_update_complete_content_success">%1$d sikeres</string>
-    <string name="theme_update_complete_content_fail">, %1$d sikertelen</string>
     <string name="status_bar_toggle_drive_mode">Autó mód</string>
     <string name="status_bar_toggle_auto_brightness">Auto-Háttérvilágítás</string>
     <string name="status_bar_toggle_ring">Csengetés</string>

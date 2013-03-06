@@ -1800,4 +1800,6 @@ Próbálja a következőt:
     <string name="wifi_wps_failed">"Couldn't start WPS, try again."</string>
     <string name="wifi_wps_pin">Type PIN from access point</string>
     <string name="wifi_wps_pin_output">Type the PIN %1$s on the access point</string>
+    <string name="wifi_enable">WI-FI engedélyezés</string>
+    <string name="bluetooth_enable">Bluetooth engedélyezés</string>
 </resources>

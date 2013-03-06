@@ -6,7 +6,7 @@
     <string name="location_north">É</string>
     <string name="location_south">D</string>
     <string name="location_east">K</string>
-    <string name="location_west">N</string>
+    <string name="location_west">Ny</string>
     <string name="menu_calibrate">Kalibrálás</string>
     <string name="menu_calibrate_altitude">Kalibrálási magasság</string>
     <string name="calibrate_success">Kalibrálás befejezvee</string>
@@ -22,5 +22,5 @@
     <string name="direction_north">É</string>
     <string name="direction_south">D</string>
     <string name="direction_east">K</string>
-    <string name="direction_west">N</string>
+    <string name="direction_west">Ny</string>
 </resources>

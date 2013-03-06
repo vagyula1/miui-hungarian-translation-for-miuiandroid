@@ -11,7 +11,7 @@
     <string name="err_type_call">Hívás</string>
     <string name="err_type_data_lost">adatvesztés</string>
     <string name="err_type_force_close">Kényszerbezárások</string>
-    <string name="err_type_network">Hálózat/string>
+    <string name="err_type_network">Hálózat</string>
     <string name="err_type_others">Egyéb</string>
     <string name="err_type_power_consuming">Fogyasztás</string>
     <string name="err_type_reboot">Rendser újraindulások</string>
