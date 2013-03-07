@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">%d dal</item>
+        <item quantity="one">%d dal</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d dal</item>
+        <item quantity="one">%d dal</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d dal</item>
+        <item quantity="one">%d dal</item>
+    </plurals>
     <plurals name="Ntracks_format">
         <item quantity="other">%1$d dal</item>
         <item quantity="one">%1$d dal</item>
@@ -31,22 +43,6 @@
     <plurals name="Ntracks_batch_selection">
         <item quantity="other">%1$d dal kiválasztva</item>
         <item quantity="one">%1$d dal kiválasztva</item>
-    </plurals>
-    <plurals name="Nalbums_batch_selection">
-        <item quantity="other">%1$d album kiválasztva</item>
-        <item quantity="one">%1$d album kiválasztva</item>
-    </plurals>
-    <plurals name="Nartists_batch_selection">
-        <item quantity="other">%1$d előadó kiválasztva</item>
-        <item quantity="one">%1$d előadó kiválasztva</item>
-    </plurals>
-    <plurals name="Nfolders_batch_selection">
-        <item quantity="other">%1$d könyvtár kiválasztva</item>
-        <item quantity="one">%1$d könyvtár kiválasztva</item>
-    </plurals>
-    <plurals name="Nplaylists_batch_selection">
-        <item quantity="other">%1$d lejátszólista kiválasztva</item>
-        <item quantity="one">%1$d lejátszólista kiválasztva</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
         <item quantity="other">%d dal az SD-kártyán</item>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Rendszer UI</string>
     <string name="accessibility_airplane_mode">Repülőgép üzemmód.</string>
     <string name="accessibility_back">Vissza</string>
+    <string name="accessibility_battery_level">Akkumulátor %d százalék.</string>
     <string name="accessibility_bluetooth_connected">Bluetooth csatlakoztatva.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth leválasztva.</string>
     <string name="accessibility_bluetooth_tether">Bluetooth megosztása.</string>
@@ -43,6 +43,7 @@
     <string name="accessibility_wimax_two_bars">WiMAX két csík.</string>
     <string name="always_use_accessory">Alapértelmezett használat ehhez az USB-kiegészítőhöz</string>
     <string name="always_use_device">Alapértelmezett használat ehhez az USB-eszközhöz</string>
+    <string name="app_label">Rendszer UI</string>
     <string name="battery_low_percent_format">%d%% maradt</string>
     <string name="battery_low_subtitle">Az akkufeszültség alacsony.</string>
     <string name="battery_low_title">Kérjük, csatlakoztassa a töltőt</string>
@@ -101,7 +102,7 @@
     <string name="mdb_entering">Entering MDB</string>
     <string name="mdb_restore_cancel">Mégsem</string>
     <string name="mdb_restore_info1">"Visszaállítja a telefon adatait"</string>
-    <string name="mdb_restore_info2">"Please don't unplug USB connection"</string>
+    <string name="mdb_restore_info2">"Ne szakítsa meg az USB kapcsolatot"</string>
     <string name="mdb_restore_label">MDB Visszaállítás</string>
     <string name="mdb_restore_mode">MDB Visszaállító mód</string>
     <string name="mdb_usb_disconnection_exit">USB leválasztva, visszaállítás megszakítva!</string>
@@ -179,7 +180,7 @@
     <string name="settings_toggle_position">Állapotsor testreszabása</string>
     <string name="settings_toggle">Kapcsolók</string>
     <string name="share">Megosztás</string>
-    <string name="status_bar_date_format">MMMM d, yyyy</string>
+    <string name="status_bar_date_format">yyyy.MMMM d.</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Beviteli módok konfigurálása</string>
     <string name="status_bar_network_flow_exceed">"Ma:%1$s    Hátralévő:%2$s    App-ok:%3$s"</string>
     <string name="status_bar_network_flow_today">Ma:%1$s</string>
@@ -210,7 +211,6 @@
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Háttérv.</string>
     <string name="status_bar_toggle_data">Adatforg.</string>
-    <string name="status_bar_toggle_divider" />
     <string name="status_bar_toggle_drive_mode">Vezetés</string>
     <string name="status_bar_toggle_flight_mode">Repülő üz.</string>
     <string name="status_bar_toggle_gps">GPS</string>
@@ -269,10 +269,8 @@
     <string name="usb_storage_stop_notification_message">Válassza az USB tárolóeszköz kikapcsolásához.</string>
     <string name="usb_storage_stop_notification_title">USB tárolóeszköz kikapcsolása</string>
     <string name="usb_storage_stop_title">Az USB tárolóeszköz használatban van</string>
-    <string name="usb_storage_title">USB csatlakoztatva</string>
-   
+    <string name="usb_storage_title">USB csatlakoztatva</string>  
     <string name="user_guide_for_notification">Új értesítés érkezett, megnézheti az állapotsor lehúzásával</string>
     <string name="user_guide_for_toggle_list">Klikk ide a kapcsolók testreszabásához</string>
     <string name="user_guide_for_toggle">További kapcsolók elérhetők vízszintes görgetéssel</string>
-
 </resources>

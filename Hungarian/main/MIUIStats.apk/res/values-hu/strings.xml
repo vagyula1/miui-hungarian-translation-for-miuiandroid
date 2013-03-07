@@ -1,22 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">MIUIStat</string>
-  <string name="main_btn_preview">Adatok előnézete</string>
-  <string name="main_btn_save">Mentés</string>
-  <string name="main_desc">Ezzel funkcióval a MIUI Android fejlesztői nyomon követhetik az esetlegesen előforduló hibákat.Az elküldött információ tartalmaz egy egyéni azonosítót,amiből nem derülnek ki a személyes adatok, csak az eszköz típusa és verzója. Az alábbi linken lévő példán megtekinthetőek azok az adatok,melyek engedélyezés esetén elküldésre kerülnek.</string>
-  <string name="main_link">&lt;a href=http://miuiandroid.com/miui-stats-opt-in-information/&gt;példa&lt;/a&gt;</string>
-  <string name="main_optin">Jelentés beküldés engedélyezése</string>
-  <string name="main_show_stats">Stat.megtekintése</string>
   <string name="main_title">Névtelen felhasználói adatok beküldése</string>
-  <string name="notification_desc">Névtelen statisztikák engedélyezése,tiltása</string>
+  <string name="main_desc">Ezzel funkcióval a MIUI Android fejlesztői nyomon követhetik az esetlegesen előforduló hibákat.Az elküldött információ tartalmaz egy egyéni azonosítót,amiből nem derülnek ki a személyes adatok, csak az eszköz típusa és verzója. Az alábbi linken lévő példán megtekinthetőek azok az adatok,melyek engedélyezés esetén elküldésre kerülnek.</string>
+  <string name="main_optin">Jelentés beküldés engedélyezése</string>
+  <string name="main_btn_preview">Adatok előnézete</string> 
+  <string name="main_btn_save">Mentés</string>
+  <string name="main_show_stats">Stat.megtekintése</string>
+  <string name="preview_id_lbl">Egyedi ID</string>
+  <string name="preview_device_lbl">Eszköz</string>
+  <string name="preview_version_lbl">MIUI Verzió</string>
+  <string name="preview_done_btn">Kész</string>
+  <string name="preview_country_lbl">Ország</string>
+  <string name="preview_carrier_lbl">Szolgáltató</string>
+  <string name="preview_android_lbl">Android Verzió</string>
+  <string name="preview_language_lbl">Nyelv</string>
   <string name="notification_ticker">Statistics Opted-In</string>
   <string name="notification_title">MIUIAndroid Statisztikák</string>
-  <string name="preview_android_lbl">Android Verzió</string>
-  <string name="preview_carrier_lbl">Szolgáltató</string>
-  <string name="preview_country_lbl">Ország</string>
-  <string name="preview_device_lbl">Eszköz</string>
-  <string name="preview_done_btn">Kész</string>
-  <string name="preview_id_lbl">Egyedi ID</string>
-  <string name="preview_language_lbl">Nyelv</string>
-  <string name="preview_version_lbl">MIUI Verzió</string>
+  <string name="notification_desc">Névtelen statisztikák engedélyezése,tiltása</string>
+  <string name="main_link">&lt;a href=http://miuiandroid.com/miui-stats-opt-in-information/&gt;példa&lt;/a&gt;</string>
+  <string name="preview_title">Előnézet</string>
 </resources>
