@@ -1595,8 +1595,8 @@ Attempts Remaining :"</string>
     <string name="camera_key_action_shortcut_wake">Lock/Wake device</string>
     <string name="camera_key_action_title">MI button</string>
     <string name="camera_key_action_toggle_title">Kapcsolókimenet váltás</string>
-    <string name="common_settings">Kiemelt</string>
-    <string name="complete_settings">Teljes</string>
+    <string name="common_settings">Gyakran használt</string>
+    <string name="complete_settings">Minden beállítás</string>
     <string name="confirm_erase">Törlés megerősítése</string>
     <string name="data_usage_disclaimer">"Measured by your phone. Your carrier's data usage accounting may differ."</string>
     <string name="data_usage_limit_dialog">Your %1$s data connection will be disabled when the specified limit is reached. Since data usage is measured by your phone, and your carrier may account for usage differently, consider using a conservative limit.</string>
@@ -2111,11 +2111,12 @@ Attempts Remaining :"</string>
     <string name="wifi_wps_pin">Type PIN from access point</string>
     <string name="wifi_wps_pin_output">Type the PIN %1$s on the access point</string>
     <string name="xiaomi_account">Xiaomi fiók</string>
-
+    <string name="header_category_accounts">FIÓKOK</string>
     <string name="auto_startup_application_manage">Alk.indító</string>
     <string name="auto_startup_count">%d alkalmazás indítása engedélyezve</string>
     <string name="application_item_disable">Letilt</string>
     <string name="application_item_permission">Engedélyez</string>
     <string name="application_item_already_permission">Engedélyezve</string>
     <string name="application_forbid_auto_startup">Letiltva%s indítása a háttérben</string>
+    <string name="device_name">Eszköz neve</string>
 </resources>
