@@ -294,7 +294,17 @@
         <item>Hideg</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>Kiváló</item>
-        <item>Alapértelmezett</item>
+	<item>Kiváló</item>
+	<item>Alapértelmezett</item>
+    </string-array>
+        
+    <string-array name="perm_hips_action">
+        <item>Engedélyez</item>
+        <item>Rékerdez</item>
+        <item>Megtagad</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>EngedélyezAllow</item>
+        <item>Megtagad</item>
     </string-array>
 </resources>

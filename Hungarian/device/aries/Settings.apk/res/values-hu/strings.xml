@@ -1705,8 +1705,8 @@ Attempts Remaining :"</string>
 
     <string name="lock_screen_unlock_show">Display screen password interface directly</string>
     <string name="lock_screen_unlock_show_summary">"Don't use other lockscreens after enabling, just go to screen unlock interface"</string>
-    <string name="lock_settings_picker_settings">Set screen lock</string>
-    <string name="man_add_application">Alkalmazások automatikus indulásának kézi hozzáadása</string>
+    <string name="lock_settings_picker_settings">Képernyőzár beállítása</string>
+    <string name="man_add_application">Alkalmazás hozzáadása</string>
     <string name="manually_add_network">Hálózat kézi hozzáadása</string>
     <string name="master_clear_all">Töröl minden adatot és visszaállítja a gyári beállításokat? A művelet nem visszavonható</string>
     <string name="master_clear_erase_application_progress">Alkalmazások törlése folyamatban...</string>
@@ -1766,20 +1766,20 @@ Attempts Remaining :"</string>
     <string name="perm_hide_system_app">Rendszer alkalmazások elrejtése</string>
     <string name="perm_hips">Alkalmazás engedélyeinek kezelése</string>
     <string name="perm_hips_action_accept_count">Engedélyezve: %1$d</string>
-    <string name="perm_hips_action_reject_count">Letiltva: %1$d</string>
+    <string name="perm_hips_action_reject_count">Megtagadva: %1$d</string>
     <string name="perm_hips_adjust_ringer_volume">adjust ringer volume</string>
     <string name="perm_hips_adjust_volume_incall">adjust volume in call</string>
     <string name="perm_hips_allow_all">Minde engedélyezése</string>
-    <string name="perm_hips_answer_call">answer current ringing call</string>
-    <string name="perm_hips_call_number">call %1$s</string>
-    <string name="perm_hips_calllog_access">read your call logs</string>
-    <string name="perm_hips_cancel_missed_calls">clear missed calls notification</string>
-    <string name="perm_hips_contact_access">read your contact list</string>
+    <string name="perm_hips_answer_call">válasz a jelenlegi hívásra</string>
+    <string name="perm_hips_call_number">hívás %1$s</string>
+    <string name="perm_hips_calllog_access">hívásnapló olvasás</string>
+    <string name="perm_hips_cancel_missed_calls">nem fogadott hívások értesítéseinek törlése</string>
+    <string name="perm_hips_contact_access">kapcsolat beolvasás</string>
     <string name="perm_hips_desc">Monitoring %1$d apps for security and privacy</string>
-    <string name="perm_hips_desc1">Monitoring apps for security and privacy</string>
-    <string name="perm_hips_desc2">Monitoring %1$d apps for security and privacy</string>
+    <string name="perm_hips_desc1">Alkalmazások biztonságának és adatvédelmének kezelése</string>
+    <string name="perm_hips_desc2">%1$d alkalmazás biztonságának és adatvédelmének kezelése</string>
     <string name="perm_hips_disable_content">Disabling it will make MIUI stop monitoring application requests and no longer protecting your security and privacy. Are you sure wish to disable it?</string>
-    <string name="perm_hips_disable_title">Permission Monitor</string>
+    <string name="perm_hips_disable_title">Engedély kezelő</string>
     <string name="perm_hips_end_call">hang up current call</string>
     <string name="perm_hips_get_call_state">get current call status</string>
     <string name="perm_hips_group_data_privacy">Adatvédelem</string>
@@ -1803,7 +1803,7 @@ Attempts Remaining :"</string>
     <string name="perm_hips_network_accept">accept connection from %1$s</string>
     <string name="perm_hips_network_connect">connect to %1$s</string>
     <string name="perm_hips_network_listen">listen on port %1$s</string>
-    <string name="perm_hips_network_mobile_event">using Mobilhálózat használata</string>
+    <string name="perm_hips_network_mobile_event">Mobilhálózat használata</string>
     <string name="perm_hips_network_recv">adatfogadás</string>
     <string name="perm_hips_network_send">adatküldés</string>
     <string name="perm_hips_network_unknown_addr">Ismeretlen cím</string>
@@ -1815,13 +1815,13 @@ Attempts Remaining :"</string>
     <string name="perm_hips_phoneid_number">obtain your phone number</string>
     <string name="perm_hips_prompt_all">Mindent engedélyez</string>
     <string name="perm_hips_reject_all">Mindet letiltja</string>
-    <string name="perm_hips_risky">Risky Permissions (%1$d)</string>
+    <string name="perm_hips_risky">Rizikós engedélyek (%1$d)</string>
     <string name="perm_hips_root">ROOT</string>
     <string name="perm_hips_root_desc">ROOT engedély kérése</string>
     <string name="perm_hips_root_desc_stable">A MIUI Stabil verziójában nem érhető el</string>
     <string name="perm_hips_root_hint">%1$s apps are allowed to get ROOT Permission</string>
     <string name="perm_hips_root_title">obtain ROOT Permission</string>
-    <string name="perm_hips_safe">Normal Permissions (%1$d)</string>
+    <string name="perm_hips_safe">Normál engedélyek (%1$d)</string>
     <string name="perm_hips_security_prompt_accept">Engedélyezve (%d)</string>
     <string name="perm_hips_security_prompt_accept_root">Engedélyez</string>
     <string name="perm_hips_security_prompt_caption">Biztonsági figyelmezteés</string>
@@ -1858,7 +1858,7 @@ Attempts Remaining :"</string>
     <string name="perm_notice">Alert of Security</string>
     <string name="perm_operating">Operating...</string>
     <string name="perm_optimize">Optimalizálás</string>
-    <string name="perm_privacy_app_count">%1$d permissions</string>
+    <string name="perm_privacy_app_count">%1$d engedély</string>
     <string name="perm_privacy_app_count_trust_summary">Megbízható alkalmazás</string>
     <string name="perm_privacy_app_finish">Befejezés</string>
     <string name="perm_privacy_app_installed">Telepítés sikeres!</string>
@@ -1891,9 +1891,9 @@ Attempts Remaining :"</string>
     <string name="perm_su_switch">ROOT engedélyezés</string>
     <string name="perm_summary_disabled">Off</string>
     <string name="perm_summary_enabled">On</string>
-    <string name="perm_sysopt_boost_auto_start">Automatikus indulás engedélyezés</string>
+    <string name="perm_sysopt_boost_auto_start">Automatikus indítás engedélyezés</string>
     <string name="perm_sysopt_boost_auto_start_group">Autoindítás</string>
-    <string name="perm_sysopt_boost_auto_start_summary">Az autoindítási folyamat enge3délyezése</string>
+    <string name="perm_sysopt_boost_auto_start_summary">Az autoindítási folyamat engedélyezése</string>
     <string name="perm_sysopt_boost_boot">Indítás</string>
     <string name="perm_sysopt_boost_receiver">Háttér</string>
     <string name="perm_system_app">Rendszer alk. (%d)</string>
@@ -2112,4 +2112,10 @@ Attempts Remaining :"</string>
     <string name="wifi_wps_pin_output">Type the PIN %1$s on the access point</string>
     <string name="xiaomi_account">Xiaomi fiók</string>
 
+    <string name="auto_startup_application_manage">Alk.indító</string>
+    <string name="auto_startup_count">%d alkalmazás indítása engedélyezve</string>
+    <string name="application_item_disable">Letilt</string>
+    <string name="application_item_permission">Engedélyez</string>
+    <string name="application_item_already_permission">Engedélyezve</string>
+    <string name="application_forbid_auto_startup">Letiltva%s indítása a háttérben</string>
 </resources>
