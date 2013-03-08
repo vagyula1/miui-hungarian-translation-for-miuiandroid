@@ -117,10 +117,10 @@ Enable via Settings > System > Button Settings"</string>
     <string name="user_agreement3">" &amp; "</string>
     <string name="user_agreement4">Adatvédelmi irányelvek</string>
     <string name="user_agreement5">，Az OK kiválasztásával elfogadja a fenti irányelveket és azokat nérvadónak tekinti. Klikkeljen a Mégsem gombra a kilépéshez.</string>
-    <string name="v5_deselect_all">Kijelölés törlés</string>
-    <string name="v5_edit_mode_title_empty">Check Items</string>
+    <string name="v5_deselect_all">Egyik sem</string>
+    <string name="v5_edit_mode_title_empty">Kijelöl</string>
     <string name="v5_icon_menu_bar_more_item_label">Több</string>
-    <string name="v5_select_all">Mind kiválaszt</string>
+    <string name="v5_select_all">Mindet</string>
     <string name="v5_time_picker_label_hour" />
     <string name="v5_time_picker_label_minute" />
     <string name="valentines_day" />

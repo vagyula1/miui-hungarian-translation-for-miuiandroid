@@ -550,7 +550,7 @@
   <string name="not_voice_capable">A hanghívás nem támogatott</string>
   <string name="notification_action_end_call">Hang up</string>
   <string name="notification_incoming_call">Bejövő hívás</string>
-  <string name="notification_missedCall_call_back">Visszahívásk</string>
+  <string name="notification_missedCall_call_back">Visszahívás</string>
   <string name="notification_missedCall_message">Üzenet</string>
   <string name="notification_missedCallsMsg">%s nem fogadott hívás</string>
   <string name="notification_missedCallsTitle">Nem fogadott hívások</string>
