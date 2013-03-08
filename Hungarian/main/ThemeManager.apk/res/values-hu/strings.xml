@@ -95,7 +95,7 @@
   <string name="resource_preview">Előnézet</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Ingyenes</string>
-  <string name="resource_price_unit">MI Kreditek</string>
+  <string name="resource_price_unit">MI Kredit</string>
   <string name="resource_ringtone_default">Csengőhangok</string>
   <string name="resource_see_more">Több</string>
   <string name="resource_select">Kiválasztás</string>
@@ -138,7 +138,7 @@
   <string name="theme_description_title_default">Alapértelmezett téma</string>
   <string name="theme_import_activity_label">Téma frissítés</string>
   <string name="theme_import_data">Téma adatok importálása...</string>
-  <string name="theme_import_fail">Failed to import %1$s téma importálása nem sikerült</string>
+  <string name="theme_import_fail">%1$s téma importálása nem sikerült</string>
   <string name="theme_import_from_sdcard">Importálás az SD kártyáról</string>
   <string name="theme_import_importing">Frissítés.. %1$d</string>
   <string name="theme_import_item_delete_request_button">Törlés</string>
