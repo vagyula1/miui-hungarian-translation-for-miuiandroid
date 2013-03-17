@@ -283,12 +283,6 @@
   <string name="mailbox_name_display_sent">Elküldve</string>
   <string name="mailbox_name_display_trash">Kuka</string>
   <string name="mailbox_name_display_unread">Olvasatlan</string>
-  <string name="mailbox_name_server_drafts">Piszkozatok</string>
-  <string name="mailbox_name_server_inbox">Beérkezett üzenetek</string>
-  <string name="mailbox_name_server_junk">Junk</string>
-  <string name="mailbox_name_server_outbox">Kimenő level</string>
-  <string name="mailbox_name_server_sent">Elküldve</string>
-  <string name="mailbox_name_server_trash">Kuka</string>
   <string name="mailbox_preferences_header">Szinkronizálási beállítások</string>
   <string name="mailbox_settings_action">Szinkronizálási beállítások</string>
   <string name="mailbox_settings_activity_title">Szinkronizálási beállítások</string>
