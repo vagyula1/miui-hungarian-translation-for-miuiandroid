@@ -348,7 +348,7 @@
     <string name="remove_snapshot">Mentett oldal törlése</string>
     <string name="snapshot_go_live">Élő adás</string>
     <string name="accessibility_button_back">Vissza</string>
-    <string name="accessibility_button_forward">Előrelépés</string>
+    <string name="accessibility_button_forward">Előre</string>
     <string name="accessibility_button_refresh">Oldal frissítése</string>
     <string name="accessibility_button_stop">Oldal betöltés leállítása</string>
     <string name="accessibility_button_addbookmark">Oldal felvétele a könyvjelzők közé</string>
@@ -460,4 +460,6 @@
     <string name="find_on_page">Keresés az oldalon</string>
     <string name="selection_all">Mind kijelölése</string>
     <string name="url_copy_done">Url kimásolva</string>
+    <string name="pref_setting_title">Oldal beállítások</string>
+    <string name="pref_general_setting_title">Beállítás</string>
 </resources>

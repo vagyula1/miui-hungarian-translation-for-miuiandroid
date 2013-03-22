@@ -10,7 +10,7 @@
     <string name="add_nickname_title">Nevek szerkesztése</string>
     <string name="add_nickname">Név</string>
     <string name="add_number_to_sender">Szám hozzáadás %s</string>
-    <string name="add_phrase">Kifejezés</string>
+    <string name="add_private_contact">Új privát névjegy</string>
     <string name="add_picture">Kép hozzáadása</string>
     <string name="add_slide_hint">Új dia létrehozásához válassza ezt.</string>
     <string name="add_slide">Dia hozzáadása</string>
@@ -59,8 +59,8 @@
     <string name="confirm_delete_SIM_message">Ez a SIM-kártyán levő üzenet törlésre kerül.</string>
     <string name="confirm_dialog_locked_title">Zárolt üzenetek törlése?</string>
     <string name="confirm_dialog_title">Törlés</string>
-    <string name="confirm_export_dialog_description">A kiválasztott privát kapcsolat eltávolításra keról, a beszékgetések a normal SMS-hez lesznek áthelyezve. Folyatatja?</string>
-    <string name="confirm_export_dialog_title">Privát kapcsolat eltávolítása</string>
+    <string name="confirm_export_dialog_description">A kiválasztott privát névjegy eltávolításra keról, a beszékgetések a normal SMS-hez lesznek áthelyezve. Folyatatja?</string>
+    <string name="confirm_export_dialog_title">Privát névjegy eltávolítása</string>
     <string name="confirm_rate_limit">Sok multimédiás üzenetet készül elküldeni. Folytatja?</string>
     <string name="confirm">Megerősítés</string>
     <string name="context_menu_add_contact">Hozzáadás a névjegyekhez</string>
@@ -110,7 +110,7 @@
     <string name="edit_slide_activity">Dia szerkesztése</string>
     <string name="edit_slideshow_activity">Diavetítés szerkesztése</string>
     <string name="edit">Szerkesztés</string>
-    <string name="enable_password_protect">Jelszavas védelem engedélyezése</string>
+    <string name="enable_password_protect">Jelszavas védelem</string>
     <string name="enter_edit_mode">Szerkesztés</string>
     <string name="error_code_label">"Hibakód: "</string>
     <string name="error_state_text">A láncok és a címzettek állapota nem konzisztens. Kérjük, rögzítse a hibajelentést, és jelentse a http://go/droidanizer oldalon keresztül</string>
@@ -120,7 +120,7 @@
     <string name="ex_type_sms">SMS</string>
     <string name="exceed_message_size_limitation">Az üzenetkorlát elérve.</string>
     <string name="expire_on">Lejár: %s</string>
-    <string name="exporting_progress_private_message">Üzenetek exporálása a magán üzenetekból</string>
+    <string name="exporting_progress_private_message">Üzenetek exporálása a privát üzenetekból</string>
     <string name="failed_to_add_media">Sajnáljuk, ez a(z) %1$s nem adható hozzá az üzenethez.</string>
     <string name="failed_to_resize_image">A kép nem lett átméretezve.</string>
     <string name="fdn_check_failure">Csak a fix hívószámokra tud üzeneteket küldeni.</string>
@@ -143,7 +143,7 @@
     <string name="has_invalid_recipient">Érvénytelen címzett(ek): &lt;%1$s></string>
     <string name="hidden_sender_address">A küldő címe elrejtve</string>
     <string name="hint_search_sms">%d SMS</string>
-    <string name="importing_progress_private_message">Üzenetek importálása a magán üzenetekhez</string>
+    <string name="importing_progress_private_message">Üzenetek importálása a privát üzenetekhez</string>
     <string name="inline_subject">&lt;Tárgy: %s></string>
     <string name="insufficient_drm_rights">Elégtelen DRM-jogosultság.</string>
     <string name="invalid_destination">Érvénytelen kézbesítési cím.</string>
@@ -215,7 +215,7 @@
     <string name="new_phrase_hint">Írja be az új kifejezést:</string>
     <string name="new_phrase">Új kifejezés</string>
     <string name="nickname_placeholder">Név</string>
-    <string name="no_conversations">Nincs beszélgetés.</string>
+    <string name="no_conversations">Nincs üzenet.</string>
     <string name="no_subject_view">(Nincs tárgy)</string>
     <string name="no_subject">(Nincs tárgy)</string>
     <string name="no">Mégse</string>
@@ -231,13 +231,13 @@
     <string name="phrase_list_title">Kifejezések</string>
     <string name="pick_too_many_recipients">Túl sok címzett</string>
     <string name="play">Lejátszás</string>
-    <string name="pref_advanced_settings_title">Haladó beállítások</string>
+    <string name="pref_advanced_settings_title">További beállítások</string>
     <string name="pref_edit_smsc_address">SMS központ száma</string>
     <string name="pref_messages_to_save">A menteni kívánt üzenetek számának beállítása</string>
-    <string name="pref_mms_settings_title">Multimédiás üzenetek (MMS) beállításai</string>
-    <string name="pref_notification_settings_title">Értesítési beállítások</string>
+    <string name="pref_mms_settings_title">Multimédiás üzenetek (MMS)</string>
+    <string name="pref_notification_settings_title">Értesítések</string>
     <string name="pref_other_title">Egyéb</string>
-    <string name="pref_sms_theme_title">Stílusbeállítások</string>
+    <string name="pref_sms_theme_title">Megjelenítés</string>
     <string name="pref_summary_allow_si_sl_push">WAP push üzenetek (SI/SL) fogadásának és értesítésének engedélyezése</string>
     <string name="pref_summary_delete_limit">%1$s üzenet beszélgetésenként</string>
     <string name="pref_summary_delivery_reports">Minden küldött üzenet után kézbesítési jelentés kérése.</string>
@@ -284,10 +284,10 @@
     <string name="privacy_mode_hint">Védett módban nem lehet üzenetet küldeni</string>
     <string name="private_message">Privát üzenet</string>
     <string name="private_new_notification">Új privát üzenet értesítés</string>
-    <string name="private_protect">Védelem</string>
-    <string name="private_settings">Beálítások</string>
+    <string name="private_protect">Privát üzenet beállítás</string>
+    <string name="private_settings">Beállítás</string>
     <string name="processing">Feldolgozás...</string>
-    <string name="random_pick">Véletlenszerű kiválasztás</string>
+    <string name="prvate_contact">Privát névjegy</string>
     <string name="rate_limit_surpassed">Megerősítés</string>
     <string name="received_label">"Kézbesítve: "</string>
     <string name="recipient_editor_count_format">%d</string>
@@ -322,6 +322,8 @@
     <string name="select_bottom_text">A szöveg alul</string>
     <string name="select_different_media">Válasszon másik %1$s elemet.</string>
     <string name="select_link_title">Kiválasztás</string>
+    <string name="select_local_audio">Válasszon hanganyagot...</string>
+    <string name="select_local_video">Válasszon videót...</string>
     <string name="select_top_text">A szöveg felül</string>
     <string name="send_signature_confirm_dialog_message">Az üzenet szövege üres, biztosan el akarja küldeni csak az aláírását?</string>
     <string name="send_signature_confirm_dialog_title">Megerősítés</string>

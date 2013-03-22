@@ -61,16 +61,17 @@
   <string name="hide_clock">Óra elrejtése</string>
   <string name="home_button_description">Indító</string>
   <string name="hour">1 óra</string>
+  <string name="hour_unit">ó</string>
   <string name="hours">%s óra</string>
   <string name="keep_screen_on">Képernyőn tart</string>
   <string name="label">Címke</string>
-  <string name="lap">Rész</string>
+  <string name="lap">Részidő</string>
+  <string name="lap_num">részidő</string>
   <string name="loading_ringtone">Csengőhang betöltése...</string>
   <string name="menu_add_worldclock">Időzóna hozzáadása</string>
   <string name="menu_alarmclock_edit">Ébresztőóra szerkesztése</string>
   <string name="menu_delete">Törlés</string>
   <string name="menu_desk_clock">Asztali óra</string>
-  <string name="menu_edit_alarm">Ébresztés szerkesztése</string>
   <string name="menu_edit_systemtime">Rendszeridő szerkesztése</string>
   <string name="menu_item_dock_settings">Dokkolási beállítások</string>
   <string name="menu_worldclock_edit">Világóra szerkesztése</string>
@@ -94,9 +95,10 @@
   <string name="snooze_confirm_cancel">Szundi kikapcsolás</string>
   <string name="snooze_confirm_message">"Szundi bekapcsolva，%s szundi újra.
 Leálíthatja az riasztást"</string>
-  <string name="snooze_confirm_ok">Got it</string>
+  <string name="snooze_confirm_ok">Megvan</string>
   <string name="start">Indít</string>
   <string name="start_up">Indít</string>
+  <string name="stopwatch_lap_empty_text">Nincs részidő</string>
   <string name="stopwatch_title">Stopper</string>
   <string name="system_time_setting">Idő beállítás</string>
   <string name="time">Időpont</string>

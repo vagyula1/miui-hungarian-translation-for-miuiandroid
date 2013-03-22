@@ -6,8 +6,23 @@
         <item>--%s</item>
         <item>--%s</item>
     </string-array>
-    <string-array name="menu_share_ways">
-        <item>Üzenetküldés</item>
+    <string-array name="contact_entries">
+        <item>Név</item>
+        <item>Becenév</item>
+        <item>Telefon</item>
         <item>E-mail</item>
+        <item>Szervezet</item>
+        <item>IM</item>
+        <item>SIP Phone</item>
+        <item>Születésnap</item>
+        <item>Honlap</item>
+        <item>Cím</item>
+        <item>Jegyzet</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Kicsi</item>
+        <item>Közepes</item>
+        <item>Nagy</item>
+        <item>Óriás</item>
     </string-array>
 </resources>

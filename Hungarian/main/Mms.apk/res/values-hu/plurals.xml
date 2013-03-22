@@ -16,4 +16,8 @@
     <plurals name="recipient_count">
         <item quantity="other">%1$s személy</item>
     </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s üzenet</item>
+        <item quantity="one">%1$s üzenet</item>
+    </plurals>
 </resources>

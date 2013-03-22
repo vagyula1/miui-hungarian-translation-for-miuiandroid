@@ -59,9 +59,9 @@
     <string name="no_syncable_calendars">Nincs naptár</string>
     <string name="no_calendars_found">Esemény hozzáadása előtt legalább egy Google Naptár-bejegyzést kell hozzáadnia a készülékhez, és láthatóvá kell tennie a naptárat. Érintse meg a \"Fiók hozzáadása\" lehetőséget fiók hozzáadásához (ha épp most adott hozzá egy fiókot, akkor várja meg a szinkronizálás végét, majd próbálkozzon újra). Vagy érintse meg a Mégse lehetőséget, és bizonyosodjon meg, hogy legalább egy naptár látható.</string>
     <string name="create_an_account_desc">A Naptár jobban működik egy Google Fiókkal.
-    <string name="add_account">Fiók hozzáadása</string>
 • Bármilyen bőngészőből elérheti
 • Biztonsági másolatot készíthet programjairól.</string>
+    <string name="add_account">Fiók hozzáadása</string>
     <string name="view_event_calendar_label">Naptár:</string>
     <string name="view_event_organizer_label">Szervező:</string>
     <string name="view_event_response_label">Részt vesz?</string>
@@ -191,7 +191,7 @@
     <string name="preferences_category_general_title">Általános</string>
     <string name="preferences_category_account_title">Fiók</string>
     <string name="more_string">%1$s more...</string>
-    <string name="copy_email">email cím másolás</string>
-    <string name="copy_number">telefonszám másolás</string>
+    <string name="copy_email">Email cím másolás</string>
+    <string name="copy_number">Telefonszám másolás</string>
     <string name="done">Visszatérés</string>
 </resources>

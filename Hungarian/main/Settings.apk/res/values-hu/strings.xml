@@ -235,7 +235,7 @@
     <string name="phone_info_label">Telefon adatai</string>
     <string name="sd_card_settings_label">USB-tár</string>
     <string name="proxy_settings_label">Proxybeállítások</string>
-    <string name="cancel">Mégse</string>
+    <string name="cancel">Mégsem</string>
     <string name="settings_label">Beállítások</string>
     <string name="settings_label_launcher">Beállítások</string>
     <string name="settings_shortcut">Beállítások parancsikon</string>
@@ -1579,7 +1579,7 @@ Attempts Remaining :"</string>
     <string name="bluetooth_enable">Bluetooth engedélyezés</string>
     <string name="bluetooth_profile_name">%1$s MIUI telefonja</string>
     <string name="breathing_light_color_summary">LED színe amikor új értesítés érkezik</string>
-    <string name="breathing_light_color_title">LED színe</string>
+    <string name="breathing_light_color_title"></string>
     <string name="breathing_light_freq_summary">LED villogások közti szünet</string>
     <string name="breathing_light_freq_title">LED villogás sebessége</string>
     <string name="button_light_timeout">Fény visszajelzés beállításai</string>
@@ -1682,7 +1682,7 @@ Attempts Remaining :"</string>
     <string name="erase_sure">Biztos,hogy törli?</string>
     <string name="factory_reset_summary">Törölheti személyes adatait,vagy a telepített alkalmazásait,valamint megformázhatja az SD kártyát,ezzel visszaállítva a gyári beállításokat</string>
     <string name="filter_apps_cached">Cached</string>
-    <string name="finish_application">Vége</string>
+    <string name="finish_application">Bezárás</string>
     <string name="font_size_huge">Óriás</string>
     <string name="font_size_large">Nagy</string>
     <string name="font_size_medium">Közepes</string>
@@ -1817,7 +1817,7 @@ Attempts Remaining :"</string>
     <string name="perm_hips_reject_all">Mindet letiltja</string>
     <string name="perm_hips_risky">Rizikós engedélyek (%1$d)</string>
     <string name="perm_hips_root">ROOT</string>
-    <string name="perm_hips_root_desc">ROOT engedély kérése</string>
+    <string name="perm_hips_root_desc">ROOT jogosultság kérése</string>
     <string name="perm_hips_root_desc_stable">A MIUI Stabil verziójában nem érhető el</string>
     <string name="perm_hips_root_hint">%1$s apps are allowed to get ROOT Permission</string>
     <string name="perm_hips_root_title">obtain ROOT Permission</string>
@@ -1852,7 +1852,7 @@ Attempts Remaining :"</string>
     <string name="perm_invalid_input">Invalid input</string>
     <string name="perm_loading">Betötlés...</string>
     <string name="perm_log">Naplók</string>
-    <string name="perm_log_clear_content">All logs will be erased. Would you like to enable it?</string>
+    <string name="perm_log_clear_content">Minden naplózás törölve lesz. Engedélyezi?</string>
     <string name="perm_log_clear_title">Naplók törlése</string>
     <string name="perm_monitored_app">Megfigyelt alkalmazások (%1$d)</string>
     <string name="perm_notice">Alert of Security</string>
@@ -1877,20 +1877,20 @@ Attempts Remaining :"</string>
     <string name="perm_service_enabled">Szolgáltatás aktív</string>
     <string name="perm_shortcut">Contextual menu</string>
     <string name="perm_show_system_app">Rendszer alkalmazások mutatása</string>
-    <string name="perm_su">ROOT engedélyek kezelése</string>
-    <string name="perm_su_desc">%1$d alkalmazás Root engedélyének kezelése</string>
-    <string name="perm_su_desc1">ROOT hozzáférés kezelése</string>
-    <string name="perm_su_disabled">ROOT engedély letiltva</string>
-    <string name="perm_su_disabled_desc">A ROOT engedélyezése 3.alkalmazás számára a rendszert instabillá teheti, személyes adatai elvesztését okozhatja, valamint károsodhat a telefon is. Győződjön meg róla,mielőtt megadja a ROOT engedélyt</string>
-    <string name="perm_su_disabled_in_stable">A ROOT nem elérhető a MIUI Stabil verziójában</string>
-    <string name="perm_su_disabled_in_stable_desc">A ROOT engedélyezése 3.alkalmazás számára a rendszert instabillá teheti, személyes adatai elvesztését okozhatja, valamint károsodhat a telefon is.A ROOT engedélyezéséhez váltson át a MIUI fejlesztői változatára.</string>
+    <string name="perm_su">ROOT jogosultságok kezelése</string>
+    <string name="perm_su_desc">%1$d alkalmazás Root jogosultságának kezelése</string>
+    <string name="perm_su_desc1">ROOT jogosultság kezelése</string>
+    <string name="perm_su_disabled">ROOT jogosultság letiltva</string>
+    <string name="perm_su_disabled_desc">Ennek engedélyezése lehetővé teszi a rendszergazdai jogosultság kérvényezését.Megj.:A jogosultsággal rendelkező alkalmazások okozhatnak instabilitást,adatvesztést, szoftver/hardverkárosodást.Legyen óvatos.Biztosan bekapcsolja?</string>
+    <string name="perm_su_disabled_in_stable">A ROOT jogosultság nem elérhető a MIUI Stabil verziójában</string>
+    <string name="perm_su_disabled_in_stable_desc">Ennek engedélyezése lehetővé teszi a rendszergazdai jogosultság kérvényezését.Megj.:A jogosultsággal rendelkező alkalmazások okozhatnak instabilitást,adatvesztést, szoftver/hardverkárosodást.A ROOT engedélyezéséhez váltson át a MIUI fejlesztői változatára.</string>
     <string name="perm_su_disabled_in_stable_download">MIUI letöltése</string>
-    <string name="perm_su_enable_content">Enabling it will allow apps to request ROOT permission. Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions.Engedélyezi?</string>
+    <string name="perm_su_enable_content">Ennek engedélyezése lehetővé teszi a rendszergazdai jogosultság kérvényezését.Megj.:A jogosultsággal rendelkező alkalmazások okozhatnak instabilitást,adatvesztést, szoftver/hardverkárosodást.Legyen óvatos.Biztosan bekapcsolja?</string>
     <string name="perm_su_enable_dialog">%1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission Manager.</string>
-    <string name="perm_su_enable_title">ROOT engedély</string>
-    <string name="perm_su_switch">ROOT engedélyezés</string>
-    <string name="perm_summary_disabled">Off</string>
-    <string name="perm_summary_enabled">On</string>
+    <string name="perm_su_enable_title">ROOT jogosultság</string>
+    <string name="perm_su_switch">ROOT jogosultság engedélyezése</string>
+    <string name="perm_summary_disabled">Ki</string>
+    <string name="perm_summary_enabled">Be</string>
     <string name="perm_sysopt_boost_auto_start">Automatikus indítás engedélyezés</string>
     <string name="perm_sysopt_boost_auto_start_group">Autoindítás</string>
     <string name="perm_sysopt_boost_auto_start_summary">Az autoindítási folyamat engedélyezése</string>
@@ -2003,7 +2003,7 @@ Attempts Remaining :"</string>
     <string name="trackball_wake_title">Trackball wake</string>
     <string name="unlock_set_enter_system">Közvetlen hozzáférés</string>
     <string name="unlock_set_enter_system_summary">A képernyőzár témát nem fogja alkalmazni. Képernyő feloldásakor rögtön a főképernyőre ugrás.</string>
-    <string name="unlock_set_unlock_summary">Please enable screen password to set password protection</string>
+    <string name="unlock_set_unlock_summary">Engedélyezze a képernyővédelmet a jelszavas védelem beállításához</string>
     <string name="upload_debug_log_summary">Hiba jelentés feltöltése csak akkor, ha a WLAN-kapcsolat rendelkezésre áll.</string>
     <string name="upload_debug_log_title">Hiba jelentés feltöltése</string>
     <string name="usage_log">Alkalmazás használati adatai</string>
@@ -2100,6 +2100,7 @@ Attempts Remaining :"</string>
     <string name="wifi_security_wapi_cert">WAPI CERT</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wapi_psk_ascii">WAPI PSK ASCII</string>
+    <string name="accessibility_enable">Kisegítő lehetőségek</string>
     <string name="wifi_security_wapi_psk_hexadecimal">WAPI PSK hexadecimal</string>
     <string name="wifi_wapi_as_certificate">AS certificate</string>
     <string name="wifi_wapi_fail_to_auth">WAPI authentication failed, please check your certificates</string>
@@ -2118,5 +2119,8 @@ Attempts Remaining :"</string>
     <string name="application_item_permission">Engedélyez</string>
     <string name="application_item_already_permission">Engedélyezve</string>
     <string name="application_forbid_auto_startup">Letiltva%s indítása a háttérben</string>
+    <string name="development_enable">Fejlesztői beállítások</string>
+
     <string name="device_name">Eszköz neve</string>
+    <string name="app_notifications_switch_label">Értesítések kijelzése</string>
 </resources>

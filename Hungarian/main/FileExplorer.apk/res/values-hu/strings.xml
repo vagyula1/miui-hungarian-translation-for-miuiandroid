@@ -29,7 +29,7 @@
     <string name="background">Letöltés háttérben</string>
     <string name="no_file">A mappa üres, nem tartalmaz fájlokat</string>
     <string name="tab_category">Listázás</string>
-    <string name="tab_phone">Telefon</string>
+    <string name="tab_phone">Eszköz</string>
     <string name="category_all">Mind</string>
     <string name="category_music">Zenék</string>
     <string name="category_video">Videók</string>
@@ -93,7 +93,7 @@
     <string name="file_loading">Betöltés...</string>
     <string name="remote_management">FTP</string>
     <string name="multi_select_title">Kiválasztva %1$s elem</string>
-    <string name="tab_networkdisk">MiDrive</string>
+    <string name="tab_networkdisk">Kuaipan</string>
     <string name="operation_download_link">Letöltőlink generálás</string>
     <string name="ui_filechange_btn_download">Fájlok letöltés</string>
     <string name="show_message">Letöltés nélkül a fájl nem nyitható meg</string>
@@ -121,7 +121,7 @@
     <string name="load_err">Betöltés sikertelen</string>
     <string name="local_cache_size">Tárhely mérete: %s</string>
     <string name="net_lose_connected">Hálózat nem elérhető</string>
-    <string name="wangpan_root_path">Meghajtóim</string>
+    <string name="wangpan_root_path">Tárhely</string>
     <string name="kuaipan_over_space">MiDrive-on nincs elég hely.</string>
     <string name="kuaipan_tech_support">Műszaki támogatás: MIUI China</string>
     <string name="no_tasks">Nincs feladat</string>
@@ -221,5 +221,11 @@ PC-re és MAC-re egyaránt"</string>
     <string name="binded_accout_description">Fiókok egyesítve, használhatja Xiaomi vagy KuaiPan fiókját a belépéshez, mindkettő adatait olvashatja</string>
     <string name="binding_accout_title">Létező KuaiPan fiók hozzáadás</string>
     <string name="kingsoft_account">Kingsoft KuaiPan fiók</string>
-    <string name="binded_accout_warning">Figyelmezteés:E művelet nem visszavonható</string>
+    <string name="binded_accout_warning">Figyelmeztetés: A művelet nem visszavonható. Biztos,hogy folytatja?</string>
+    <string name="cancel_cleanup">Törlés megszakítása</string>
+    <string name="cleanup_help">Szükségtelen fájlok törlése</string>
+    <string name="cleanup_tab_app">Alkalmazás törlés</string>
+    <string name="cleanup_tab_garbage">Rendszer tisztíás</string>
+    <string name="menu_item_cleanup">Fájl törlés</string>
+    <string name="start_cleanup">Tisztítás indítása</string>
 </resources>

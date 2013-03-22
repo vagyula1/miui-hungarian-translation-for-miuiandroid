@@ -1,21 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="photoeditor_name">Mi Photo Studio</string>
   <string name="activity_not_found">Nincs elérhető alkalmazás befjezni a műveletet.</string>
   <string name="add_account">Fiók hozzáadása</string>
   <string name="add_to_cloud_album">Add hozzá</string>
   <string name="add_to_cloud_folder">Add a felhőmappába</string>
   <string name="albums">Albumok</string>
+  <string name="alert">Megjegyzés</string>
   <string name="alert_message_initial_cloud">A rendszer automatikusan feltölti a fényképeket és képernyőmentéseket WI-FI csatlakozás esetén.</string>
   <string name="alert_message_open_sync">You should open sync first, are you want to open sync immediately？</string>
-  <string name="alert">Megjegyzés</string>
   <string name="aperture">Aperture</string>
   <string name="app_name">MIUIGaléria</string>
   <string name="appwidget_empty_text">Nincs kép.</string>
   <string name="appwidget_title">Képgaléria</string>
+  <string name="auto_create_recent_album">Kedvenc album automatikus létrehozása</string>
   <string name="auto_create_recent_album_confirm">After turn off this feature, Gallery will clear created data of favorite albums. Favorite albums set by user will not be affected. Alternatively, you can manually set that by long press an album.</string>
   <string name="auto_create_recent_album_over_ten_times">Az albumok automatikusan a kedvencekhez adva,amennyiben 10-nél több alkalommal nyitja meg</string>
-  <string name="auto_create_recent_album">Kedvenc album automatikus létrehozása</string>
   <string name="autofix">Auto-fix</string>
   <string name="bigscrren_slide_exit">Kilépés a diavetítésből</string>
   <string name="browse_category">Fényképek böngészése</string>
@@ -46,14 +45,15 @@
   <string name="cloud_tab_all">Összes</string>
   <string name="cloud_tab_locations">Helyek</string>
   <string name="cloudfolder_already_exists">a felhő mappa már létezik</string>
-  <string name="confirm_delete_album" formatted="false">Törli a(z) %s albumokat (beleértve %s elemeket)?</string>
-  <string name="confirm_delete_folders_and_pictures">Törli  %s?</string>
+  <string name="confirm_delete">Törli a kijelölt %s képet?</string>
+  <string name="confirm_delete_album" formatted="false">Törli a kijelölt %s albumot (amiben %s kép található)?</string>
+  <string name="confirm_delete_folders_and_pictures">%s törlés megerősítése</string>
   <string name="confirm_delete_folders_including" formatted="false">%s mappa (beleértve %s)</string>
   <string name="confirm_delete_including_null">0 elem</string>
   <string name="confirm_delete_pictures">%s kép</string>
   <string name="confirm_delete_system_album">%s album egy rendszer album, mégis törli?</string>
   <string name="confirm_delete_videos">%s videó</string>
-  <string name="confirm_delete">Törli a(z) %s elemeket?</string>
+  
   <string name="contact_photo">Beállít kapcsolat képének</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="contrast">Kontraszt</string>
@@ -136,7 +136,7 @@
   <string name="loading_failure">A képet nem lehetett betölteni</string>
   <string name="loading_thumbnail">Thumbnail betöltés...</string>
   <string name="loading">Betöltés...</string>
-  <string name="local_albums">Helyi képek</string>
+  <string name="local_albums">Összes album</string>
   <string name="location">Hely</string>
   <string name="locations">Helyek</string>
   <string name="lomoish">Lomo</string>
@@ -177,9 +177,9 @@
   <string name="none_picture">Nincs kép a galériában</string>
   <string name="not_auto_create_recent_album">Nem automatikusan létrehozni újabb albumot</string>
   <string name="not_show_hidden_albums">Ne mutassa a rejtett albumo(ka)t</string>
+  <string name="open">Megnyitás</string>
   <string name="open_single_image_failure">Kép betöltése nem sikerült!</string>
   <string name="open_sync_title">Szinkronizálás megnyitása</string>
-  <string name="open">Megnyitás</string>
   <string name="operation_refresh">Frissítés</string>
   <string name="operation_rename">Átnevezés</string>
   <string name="orientation">Tájolás</string>
@@ -190,6 +190,7 @@
   <string name="photo_page_save_uri_image_fail">Fénykép mentése nem sikerült.</string>
   <string name="photo_page_save_uri_image_ok">A fénykép elmentve ( a kamera könyvtárban).</string>
   <string name="photo_saved">Kép mentve %s néven</string>
+  <string name="photoeditor_name">Mi Photo Studio</string>
   <string name="photos">Kép(ek)</string>
   <string name="posterize">Poszterizálás</string> 
   <string name="projection">Vetítés</string> 
@@ -234,7 +235,7 @@
   <string name="sharpen">Élesítés</string>
   <string name="show_all">Képek és videók</string>
   <string name="show_details">Részletek</string>
-  <string name="show_hidden_album">Rejtett album(ok) mutatása</string>
+  <string name="show_hidden_albums">Rejtett album(ok) mutatása</string>
   <string name="show_images_only">Csak képek</string>
   <string name="show_on_map">Mutasd a térképen</string>
   <string name="show_videos_only">Csak videók</string>

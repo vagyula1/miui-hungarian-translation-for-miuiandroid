@@ -105,10 +105,10 @@
     <string name="listCustomView">Névjegyek egyéni nézetben</string>
     <string name="foundTooManyContacts">több mint %d találat</string>
     <string name="listFoundAllContactsZero">Nem található</string>
-    <string name="contactsAllLabel">Összes</string>
+    <string name="contactsAllLabel">Névjegyek</string>
     <string name="contactsGroupsLabel">Csoportok</string>
     <string name="contactsFavoritesLabel">Kedvencek</string>
-    <string name="dialerIconLabel">Utolsó</string>
+    <string name="dialerIconLabel">Hívások</string>
     <string name="recentCallsIconLabel">Híváslista</string>
     <string name="menu_sendTextMessage">Szöveges üzenet küldés</string>
     <string name="recentCalls_callNumber">Hívás %s</string>
@@ -197,7 +197,7 @@
     <string name="fail_reason_not_supported">A formátum nem támogatott.</string>
     <string name="vcard_import_failed">A vCard importálása sikertelen</string>
     <string name="import_failure_no_vcard_file">Nem található vCard fájl a tárhelyen</string>
-    <string name="fail_reason_failed_to_collect_vcard_meta_info">"Couldn't collect meta information of given vCard file(s)."</string>
+    <string name="fail_reason_failed_to_collect_vcard_meta_info">"Nem sikerült a vCardról metainformációját éertelmezni."</string>
     <string name="fail_reason_failed_to_read_files">"Egy vagy több fájlt nem sikerült importálni (%s)."</string>
     <string name="fail_reason_unknown">Ismeretlen hiba történt</string>
     <string name="select_vcard_title">Válassza ki a vCard fájlt</string>
@@ -485,7 +485,9 @@
     <string name="local_profile_title">Helyi profilom</string>
     <string name="external_profile_title">%1$s profilom</string>
     <string name="toast_displaying_all_contacts">Minden névjegyet megjelenít</string>
-    <string name="no_account_prompt">A Személyek alkalmazás jobban működik egy Google Fiókkal. Bármilyen bőngészőből elérheti. Biztonsági másolatot készíthet névjegyeiről.</string>
+    <string name="no_account_prompt">A Személyek alkalmazás jobban működik egy Google Fiókkal.  
+• Bármilyen bőngészőből elérheti.
+• Biztonsági másolatot készíthet névjegyeiről.</string>
     <string name="contact_editor_prompt_zero_accounts">Az Ön új névjegyéről nem készül biztonsági másolat. Hozzáad egy olyan fiókot, amelyik online biztonsági másolatot készít a névjegyekről?</string>
     <string name="contact_editor_prompt_one_account">Az új névjegyet a következő fiókkal fogjuk szinkronizálni: %1$s.</string>
     <string name="contact_editor_prompt_multiple_accounts">Szinkronizálhatja az új névjegyet a következő fiókok valamelyikével. Melyiket kívánja használni?</string>
@@ -534,7 +536,7 @@
     <string name="sim_indexed_contact_not_exist">Position %1$d on SIM card is not valid, should between %2$d and %3$d</string>
     <string name="sim_contact_search_error">Hiba a névjegyek SIM-en keresése közben</string>
     <string name="service_provider">Szolgáltató</string>
-    <string name="zero_items_selected">No items selected</string>
+    <string name="zero_items_selected">Nincs névejegy kiválasztva</string>
     <string name="select_all">Mindet kijelöl</string>
     <string name="deselect_all">Kijelölés törlése</string>
     <string name="select_none">Semmi nincs kiválasztva</string>
@@ -684,7 +686,7 @@
     <string name="today">Ma</string>
     <string name="next_birthday">Következő születésnap: %s</string>
     <string name="ringLabelsGroup">Csengőhang</string>
-    <string name="default_ringtone">Alapért.csengőhang</string>
+    <string name="default_ringtone">Alapértelmezett csengőhang</string>
     <string name="recent_number">Gyakori</string>
     <string name="menu_new_favorite_action_bar">Új</string>
     <string name="click_close">Klikk a bezáráshoz</string>
@@ -800,4 +802,8 @@
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
     <string name="import_weibo_notification_title_done">Importálás kész</string>
+    <string name="add_xiaomi_account_dialog_title">Válasszon a névjegyzékhez fiókot</string>
+    <string name="add_xiaomi_account_dialog_msg">It is recommended to save your contacts in the Xiaomi account. Xiaomi accounts allows you to sync and backup contact information and manage contacts on your computer.</string>
+    <string name="add_xiaomi_account_dialog_btn">Xiaomi fiók használata</string>
+    <string name="keep_local_btn">Csak a telefonra mentse</string>
 </resources>

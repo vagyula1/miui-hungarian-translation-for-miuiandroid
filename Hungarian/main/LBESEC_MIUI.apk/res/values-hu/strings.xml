@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_name">Biztonság</string>
   <string name="Dashboard_App">Appok</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Ennek kikapcsolására a MIUI a továbbiaknab nem felügyeli az alkalmazások engedélyeit.
-Bztosan kikapcsolja?"</string>
+  <string name="Dashboard_HIPS_Disable_Content">"Ennek kikapcsolására a MIUI a továbbiakban nem felügyeli az alkalmazások engedélyeit.Bztosan kikapcsolja?"</string>
   <string name="Dashboard_HIPS_Disable_Title">Engedélyfelügyelet</string>
   <string name="Dashboard_Log">Listák</string>
   <string name="Dashboard_Log_Clear_Content">Minden lista törlésre kerül. Biztosan folytatja?</string>
@@ -11,6 +11,8 @@ Bztosan kikapcsolja?"</string>
   <string name="Dashboard_Perm_AutoStart">Automatikusan induló app-ok kezelése</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Automatikus indulás lehetőségének tiltása vagy engedélyezése</string>
   <string name="Dashboard_Perm_AutoStart_Switch">Automatikus indulás kezelő</string>
+  <string name="Dashboard_Perm_Header">%1$d app felügyelete</string>
+  <string name="Dashboard_Perm_Header_Disabled">Engedélyfelügyelet kikapcsolva</string>
   <string name="Dashboard_Perm_HIPS">Appok engedélyeinek kezelése</string>
   <string name="Dashboard_Perm_HIPS_Desc">%1$d app biztonsági és titoktartási felügyelete</string>
   <string name="Dashboard_Perm_HIPS_Desc2">%1$d app biztonsági és titoktartási felügyelete</string>
@@ -18,8 +20,6 @@ Bztosan kikapcsolja?"</string>
   <string name="Dashboard_Perm_HIPS_Risky">Rizikós engedély (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Safe">Normál engedély (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Switch">Engedélyfelügyelet</string>
-  <string name="Dashboard_Perm_Header">%1$d app felügyelete</string>
-  <string name="Dashboard_Perm_Header_Disabled">Engedélyfelügyelet kikapcsolva</string>
   <string name="Dashboard_Perm_SU">Rendszergazdai jogosultság kezelése</string>
   <string name="Dashboard_Perm_SU_Desc">%1$d app Rendszergazdai jogosultságának felügyelete</string>
   <string name="Dashboard_Perm_SU_Disabled">Rendszergazdai jogosultság letiltva</string>
@@ -67,14 +67,17 @@ Bztosan kikapcsolja?"</string>
   <string name="HIPS_Group_Expense">Biztonság</string>
   <string name="HIPS_Group_Internet">Internethozzáférés</string>
   <string name="HIPS_Group_Location">Helymeghatározás</string>
-  <string name="HIPS_Group_PIM">Személyes információk</string>
   <string name="HIPS_Group_PhoneID">Telefon azonosítás</string>
+  <string name="HIPS_Group_PIM">Személyes információk</string>
   <string name="HIPS_Group_ROOT">Rendszergazda</string>
   <string name="HIPS_Perm_AdjustRingerVolume">csengetés hangerejének módosítása</string>
   <string name="HIPS_Perm_AdjustVolumeInCall">hívás hangerejének módosítása</string>
   <string name="HIPS_Perm_AllowAll">Összes engedélyezése</string>
   <string name="HIPS_Perm_AnswerCall">pillanatnyi hívás fogadása</string>
   <string name="HIPS_Perm_Call">Telefonhívás</string>
+  <string name="HIPS_Perm_Call_Desc">Közvetlen hívásindítás, -fogadás és -megszakítás</string>
+  <string name="HIPS_Perm_Call_Hint">%1$s app indíthat, fogadhat és szakíthat meg közvetlenül hívásokat</string>
+  <string name="HIPS_Perm_Call_Number">%1$s hívása</string>
   <string name="HIPS_Perm_CallLog">Híváslista</string>
   <string name="HIPS_Perm_CallLog_Access">híváslista olvasása</string>
   <string name="HIPS_Perm_CallLog_Desc">Hozzáférés a híváslistához</string>
@@ -85,9 +88,6 @@ Bztosan kikapcsolja?"</string>
   <string name="HIPS_Perm_CallState">Telefon állapota</string>
   <string name="HIPS_Perm_CallState_Desc">Telefon állapot lekérdezése</string>
   <string name="HIPS_Perm_CallState_Hint">%1$s app kérdezheti le a telefon állapotát</string>
-  <string name="HIPS_Perm_Call_Desc">Közvetlen hívásindítás, -fogadás és -megszakítás</string>
-  <string name="HIPS_Perm_Call_Hint">%1$s app indíthat, fogadhat és szakíthat meg közvetlenül hívásokat</string>
-  <string name="HIPS_Perm_Call_Number">%1$s hívása</string>
   <string name="HIPS_Perm_CancelMissedCalls">nem fogadott hívások értesítésének törlése </string>
   <string name="HIPS_Perm_Contact">Telefonkönyv</string>
   <string name="HIPS_Perm_Contact_Access">telefonkönyv</string>
@@ -126,16 +126,12 @@ Bztosan kikapcsolja?"</string>
   <string name="HIPS_Perm_PhoneID_IMSI">IMSI szám meghatározása</string>
   <string name="HIPS_Perm_PhoneID_Number">telefonszám meghatározása</string>
   <string name="HIPS_Perm_PromptAll">Összesre rákérdez</string>
+  <string name="HIPS_Perm_RejectAll">Összes tiltása</string>
   <string name="HIPS_Perm_ROOT">Rendszergazda</string>
   <string name="HIPS_Perm_ROOT_Desc">Rendszergazdai jogosultság</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Nem elérhető a MIUI Stabil verziójában</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s appok rendelkeznek Rendszergazdai jogosultsággal</string>
   <string name="HIPS_Perm_ROOT_Title">Rendszergazdai jogosultság megszerzése</string>
-  <string name="HIPS_Perm_RejectAll">Összes tiltása</string>
-  <string name="HIPS_Perm_SMS">SMS</string>
-  <string name="HIPS_Perm_SMS_Access">bejövő SMSek olvasása</string>
-  <string name="HIPS_Perm_SMS_Desc">Hozzáférés a bejövő SMSekhez</string>
-  <string name="HIPS_Perm_SMS_Hint">%1$s app férhet hozzá a bejövő SMSekhez</string>
   <string name="HIPS_Perm_SendSMS">SMS küldése</string>
   <string name="HIPS_Perm_SendSMS_Content">Tartalom:</string>
   <string name="HIPS_Perm_SendSMS_Data">SMS küldése: %1$s:%2$d</string>
@@ -147,6 +143,10 @@ Bztosan kikapcsolja?"</string>
   <string name="HIPS_Perm_SendSMS_SMSC_Default">Alapértelmezett SMS központ</string>
   <string name="HIPS_Perm_SendSMS_Text">SMS küldése: %1$s</string>
   <string name="HIPS_Perm_SilenceRinger">csörgés némítása</string>
+  <string name="HIPS_Perm_SMS">SMS</string>
+  <string name="HIPS_Perm_SMS_Access">bejövő SMSek olvasása</string>
+  <string name="HIPS_Perm_SMS_Desc">Hozzáférés a bejövő SMSekhez</string>
+  <string name="HIPS_Perm_SMS_Hint">%1$s app férhet hozzá a bejövő SMSekhez</string>
   <string name="HIPS_Perm_WIFINetwork">WIFI</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">Access Internet through WIFI</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s apps are allowed to access Internet</string>
@@ -154,6 +154,8 @@ Bztosan kikapcsolja?"</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Engedély</string>
   <string name="HIPS_SecurityPrompt_Caption">Biztonsági figyelmeztetés</string>
   <string name="HIPS_SecurityPrompt_Next">Következő</string>
+  <string name="HIPS_SecurityPrompt_Reject">Megtagadva (%d)</string>
+  <string name="HIPS_SecurityPrompt_Remember">Választás megjegyzése</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Fontos figyelmeztetés</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Biztos benne hogy %1$s ROOT jogokat kapjon?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT jogok a rendszer instabilitásához vezethetnek</string>
@@ -161,27 +163,25 @@ Bztosan kikapcsolja?"</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Előfordulhat hardware meghibásodás</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Használja körültekintően!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Biztos benne hogy engedélyezi %1$s a ROOT jogokat?</string>
-  <string name="HIPS_SecurityPrompt_Reject">Megtagadva (%d)</string>
-  <string name="HIPS_SecurityPrompt_Remember">Választás megjegyzése</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s megkíséreli a %2$s -t</string>
-  <string name="Privacy_AppPerm_Count">%1$d engedély</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$dengedély - &lt;font color=#478800&gt;Megbízható&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">Befejez</string>
   <string name="Privacy_App_Installed">Engedély testre szabása</string>
   <string name="Privacy_App_Launch">Futtat</string>
   <string name="Privacy_App_Log">Listák</string>
   <string name="Privacy_App_Manage">Részletek</string>
   <string name="Privacy_App_Trust">Megbízom az appban</string>
-  <string name="Privacy_App_TrustDialog_Content">A MIUI nem fog rákérdezni az app biztonsági engedélyeire.</string>
-  <string name="Privacy_App_TrustDialog_Title">Megbízható</string>
   <string name="Privacy_App_Trust_Summary_Off">A MIUI felügyeli az appot</string>
   <string name="Privacy_App_Trust_Summary_On">A MIUI megbízik az appban</string>
+  <string name="Privacy_App_TrustDialog_Content">A MIUI nem fog rákérdezni az app biztonsági engedélyeire.</string>
+  <string name="Privacy_App_TrustDialog_Title">Megbízható</string>
   <string name="Privacy_App_Uninstall">Eltávolítás</string>
+  <string name="Privacy_AppPerm_Count">%1$d engedély</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$dengedély - &lt;font color=#478800&gt;Megbízható&lt;/font&gt;</string>
   <string name="Privacy_Perm_Count">Engedélyezve: %1$d Letiltva: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s Rendszergazdai jogosultságot kér, amely alapértelmezetten le van tiltva a biztonság érdekében. Ha engedélyezni szeretné, az Engedélykezelőben teheti meg.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart engedély</string>
   <string name="SysOpt_Boost_AutoStart_Group">Automatikus indulás</string>
   <string name="SysOpt_Boost_Boot">Indulás</string>
   <string name="SysOpt_Boost_Receiver">Háttér</string>
-  <string name="app_name">Biztonság</string>
+
 </resources>

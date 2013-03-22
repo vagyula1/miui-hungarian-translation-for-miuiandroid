@@ -38,6 +38,9 @@
   <string name="other_relative">Egyéb engedélyek</string>
   <string name="out_of_space_dlg_text">A(z) %1$s alkalmazást nem lehet telepíteni. Szabadítson fel egy kis helyet és próbálja újra.</string>
   <string name="out_of_space_dlg_title">Nincs elég hely</string>
+  <string name="perm_action_accept">Engedélyez</string>
+  <string name="perm_action_prompt">Rákérdez</string>
+  <string name="perm_action_reject">Megtagad</string>
   <string name="perm_notice">Biztonsági figyelmeztetés</string>
   <string name="perm_privacy_app_finish">Befejezés</string>
   <string name="perm_privacy_app_installed">Telepítve!</string>

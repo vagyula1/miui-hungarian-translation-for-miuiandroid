@@ -31,7 +31,8 @@
   <string name="billboard">Billboard</string>
   <string name="buffering">Pufferelés...</string>
   <string name="cancel_sleep_mode">Kilépés az alvó módból</string>
-  <string name="cancel">Mégse</string>
+  <string name="confirm">Rendben</string>
+  <string name="cancel">Mégsem</string>
   <string name="cancle_warining">Alvó mód megszakítva</string>
   <string name="category_num_format">(%s)</string>
   <string name="channel">FM</string>
@@ -141,7 +142,7 @@
   <string name="modify_tracks_id3_background">ID3 módosítása a háttérben a kiválasztott dalokon</string>
   <string name="more">Több</string>
   <string name="music_browser_label">Zene</string>
-  <string name="music_filter_helper">In order to hide files which are not music related, a size filter of 800K has been applied to hide these files from being displayed. The threshold can be adjusted in Settings / File filter.</string>
+  <string name="music_filter_helper">A méretszűrő a túl kis fájlok elrejtése érdekében 800K-ra van beállítva, ezért az annál kisebb méretű fájlok nem jelennek meg. Ez a küszöbérték a Beállítások / Fájlok szűrése menüpontban módosítható.</string>
   <string name="music_filter">Fájlok szűrése</string>
   <string name="music_open_other_connect">Dal letöltése adatkapcsolat használatával</string>
   <string name="music_picker_title">Zeneszám kiválasztása</string>

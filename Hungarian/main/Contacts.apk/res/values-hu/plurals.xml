@@ -32,13 +32,24 @@
         <item quantity="other">%1$d személy</item>
         <item quantity="one">%1$d személy</item>
     </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d szám</item>
+        <item quantity="one">%1$d szám</item>
+    </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d hangüzenet</item>
         <item quantity="one">Hangposta</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d kiválasztva</item>
-        <item quantity="zero">%1$d kiválasztva</item>
         <item quantity="one">%1$d kiválasztva</item>
+   </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">%1$d személy hozzáadva</item>
+        <item quantity="one">%1$d személy hozzáadva</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d személy</item>
+        <item quantity="one">1 személy</item>
     </plurals>
 </resources>
