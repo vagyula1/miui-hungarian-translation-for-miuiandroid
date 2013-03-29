@@ -536,7 +536,7 @@
     <string name="sim_indexed_contact_not_exist">Position %1$d on SIM card is not valid, should between %2$d and %3$d</string>
     <string name="sim_contact_search_error">Hiba a névjegyek SIM-en keresése közben</string>
     <string name="service_provider">Szolgáltató</string>
-    <string name="zero_items_selected">Nincs névejegy kiválasztva</string>
+    <string name="zero_items_selected">Nincs névjegy kiválasztva</string>
     <string name="select_all">Mindet kijelöl</string>
     <string name="deselect_all">Kijelölés törlése</string>
     <string name="select_none">Semmi nincs kiválasztva</string>
@@ -806,4 +806,6 @@
     <string name="add_xiaomi_account_dialog_msg">It is recommended to save your contacts in the Xiaomi account. Xiaomi accounts allows you to sync and backup contact information and manage contacts on your computer.</string>
     <string name="add_xiaomi_account_dialog_btn">Xiaomi fiók használata</string>
     <string name="keep_local_btn">Csak a telefonra mentse</string>
+    <string name="batch_delete">Névjegyek törlése</string>
+    <string name="batch_delete_msg">"Törli a %d kiválasztott névjegyet?</string>
 </resources>

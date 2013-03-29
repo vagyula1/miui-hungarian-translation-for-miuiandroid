@@ -9,7 +9,7 @@
   <string name="alert_message_initial_cloud">A rendszer automatikusan feltölti a fényképeket és képernyőmentéseket WI-FI csatlakozás esetén.</string>
   <string name="alert_message_open_sync">You should open sync first, are you want to open sync immediately？</string>
   <string name="aperture">Aperture</string>
-  <string name="app_name">MIUIGaléria</string>
+  <string name="app_name">Galéria</string>
   <string name="appwidget_empty_text">Nincs kép.</string>
   <string name="appwidget_title">Képgaléria</string>
   <string name="auto_create_recent_album">Kedvenc album automatikus létrehozása</string>
@@ -50,7 +50,7 @@
   <string name="confirm_delete_folders_and_pictures">%s törlés megerősítése</string>
   <string name="confirm_delete_folders_including" formatted="false">%s mappa (beleértve %s)</string>
   <string name="confirm_delete_including_null">0 elem</string>
-  <string name="confirm_delete_pictures">%s kép</string>
+  <string name="confirm_delete_pictures">%s</string>
   <string name="confirm_delete_system_album">%s album egy rendszer album, mégis törli?</string>
   <string name="confirm_delete_videos">%s videó</string>
   

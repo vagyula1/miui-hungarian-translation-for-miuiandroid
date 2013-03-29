@@ -1692,7 +1692,7 @@ Attempts Remaining :"</string>
     <string name="font_size_summary">Betűméret változtatása a jobb olvashatóság érdekében (pl.Telefon, Üzenetek, Névjegyzék stb).</string>
     <string name="forget_wifi_message">Elfelejtse ezt a Wi-Fi hálózatot? Ha igen akkor csatlakozáskor, újra jelszó szükséges</string>  
     <string name="frequently_fragment_delete">Törlés</string>
-    <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
+    <string name="frequently_fragment_tempty">A leggyakrabban használt beállítások itt lesznek láthatóak</string>
     <string name="haptic_feedback_level">Rezgés erőssége</string>
     <string name="incoming_call_vibrate_abbreviation">Hívások</string>
     <string name="input_settings">Bevitel beállítások</string>
@@ -1749,7 +1749,7 @@ Attempts Remaining :"</string>
     <string name="other_relative">Egyéb engedélyek</string>
     <string name="password_guard">Biztonság</string>
     <string name="perm">Engedélyek</string>
-    <string name="perm_app">Alk.</string>
+    <string name="perm_app">Alkalmazások</string>
     <string name="perm_app_name">Engedélyek</string>
     <string name="perm_auto_start">Alkalmazások autoindítás kezelése</string>
     <string name="perm_auto_start_desc">Enable or disable app autostart feature</string>
@@ -2049,6 +2049,7 @@ Attempts Remaining :"</string>
     <string name="virus_scanner_lib_already_latest">Vírus adatbázis naprakész</string>
     <string name="virus_scanner_lib_update">Frissítés elérhető</string>
     <string name="virus_scanner_lib_update_failed">Frissiítés sikertelen!</string>
+    <string name="bluetooth_device_searchable">Eszköz láthatósága</string>
     <string name="virus_scanner_lib_updating">Frissítés...</string>
     <string name="virus_scanner_manual_update">Kézi frissítés</string>
     <string name="virus_scanner_scan">Keresés</string>
@@ -2068,9 +2069,9 @@ Attempts Remaining :"</string>
     <string name="volume_restore_alert">Visszaállítja az alapértelmezett hangerő beállításokat?</string>
     <string name="volume_system_description">Rendszer hangerő, kamera zárhang, záróképernyő és egyéb értesítések hangja</string>
     <string name="volume_voice_description">Beszédhang</string>
-    <string name="vpn_configure">Configure VPN</string>
-    <string name="vpn_safe">VPN Security</string>
-    <string name="vpn_settings_password">VPN Password Settings</string>
+    <string name="vpn_configure">VPN beállítás</string>
+    <string name="vpn_safe">VPN Biztonság</string>
+    <string name="vpn_settings_password">VPN jelszó beállítások</string>
     <string name="wfd_available_devices">Elérhető eszközök</string>
     <string name="wfd_disconnect_diag_msg">If your Wi-Fi session is interrupted your connection with %1$s will end.</string>
     <string name="wfd_disconnect_diag_title">Disconnect Wi-Fi session?</string>
@@ -2113,14 +2114,21 @@ Attempts Remaining :"</string>
     <string name="wifi_wps_pin_output">Type the PIN %1$s on the access point</string>
     <string name="xiaomi_account">Xiaomi fiók</string>
     <string name="header_category_accounts">FIÓKOK</string>
-    <string name="auto_startup_application_manage">Alk.indító</string>
+    <string name="auto_startup_application_manage">Indítópult</string>
     <string name="auto_startup_count">%d alkalmazás indítása engedélyezve</string>
     <string name="application_item_disable">Letilt</string>
     <string name="application_item_permission">Engedélyez</string>
     <string name="application_item_already_permission">Engedélyezve</string>
     <string name="application_forbid_auto_startup">Letiltva%s indítása a háttérben</string>
+    <string name="brightness_auto_adjust_off">A fényerő kézi beállítása a csúszka mozgatásával. A képernyő fényereje változatlan marad minden környezetben.</string>
+    <string name="brightness_auto_adjust_on">Automatikus fényerő beállítása a csúszka mozgatásával. A képernyő fényereje különböző környezetekhez automatikusan igazodik.</string>
     <string name="development_enable">Fejlesztői beállítások</string>
-
+	<string name="preferred_launcher_title">Kiválasztott Launcher</string>
+    <string name="preferred_launcher_warning_title">Alapértelmezett launcher lecserélése</string>
+    <string name="preferred_launcher_warning_message">Az alapértelmezett launcher lecserélése több erőforrást igényelhet. Biztos,hogy lecseréli?</string>
+    <string name="preferred_launcher_warning_replace">Launcher lecserélése</string>
+    <string name="preferred_launcher_warning_use_system">Alapértelmezett launcher használata</string>
     <string name="device_name">Eszköz neve</string>
+    <string name="device_edit_title">Név megváltoztatása</string>
     <string name="app_notifications_switch_label">Értesítések kijelzése</string>
 </resources>

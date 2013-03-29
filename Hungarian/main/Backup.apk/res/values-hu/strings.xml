@@ -16,7 +16,7 @@
     <string name="button_ok">OK</string>
     <string name="backup_finished">Mentés kész</string>
     <string name="backup_report">Mentési jelentés</string>
-    <string name="backup_hint">Ne kapcsolja ki mentés közben, mert hiba léphet fel!</string>
+    <string name="backup_hint">Ne kapcsolja ki, mert hiba léphet fel!</string>
     <string name="menu_patch_delete">Csoportos törlés</string>
     <string name="delete">Törlés</string>
     <string name="cancel">Mégse</string>
