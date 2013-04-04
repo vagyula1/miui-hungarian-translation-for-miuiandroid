@@ -112,7 +112,7 @@
   <string name="short_ringtone_resource">Rövid (&lt;5mp)</string>
   <string name="theme_another_import_running">Másik importálás folyamatban, próbálja később.</string>
   <string name="theme_changed_failed_message">%1$s téma beállítása nem sikerült.</string>
-  <string name="theme_changed_message">%1$s téma alkalmazva.</string>
+  <string name="theme_changed_message">A téma beállítva.</string>
   <string name="theme_changing_dialog_title">Téma alkalmazása, kérem várjon...</string>
   <string name="theme_component_title_alarm">Riasztások</string>
   <string name="theme_component_title_all">Téma</string>

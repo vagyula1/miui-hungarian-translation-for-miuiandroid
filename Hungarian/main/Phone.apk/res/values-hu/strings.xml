@@ -573,7 +573,7 @@
   <string name="not_allowed">SIM-kártyája nem teszi lehetővé a kapcsolódást ehhez a hálózathoz.</string>
   <string name="not_connected_miui">Nincs csatlakoztatva</string>
   <string name="not_voice_capable">A hanghívás nem támogatott</string>
-  <string name="notification_action_end_call">Hang up</string>
+  <string name="notification_action_end_call">Hívás befejezése</string>
   <string name="notification_incoming_call">Bejövő hívás</string>
   <string name="notification_missedCall_call_back">Visszahívás</string>
   <string name="notification_missedCall_message">Üzenet</string>

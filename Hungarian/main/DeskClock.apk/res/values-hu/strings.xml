@@ -61,7 +61,7 @@
   <string name="hide_clock">Óra elrejtése</string>
   <string name="home_button_description">Indító</string>
   <string name="hour">1 óra</string>
-  <string name="hour_unit">ó</string>
+  <string name="hour_unit">Ó</string>
   <string name="hours">%s óra</string>
   <string name="keep_screen_on">Képernyőn tart</string>
   <string name="label">Címke</string>
@@ -76,7 +76,7 @@
   <string name="menu_item_dock_settings">Dokkolási beállítások</string>
   <string name="menu_worldclock_edit">Világóra szerkesztése</string>
   <string name="minute">1 perc</string>
-  <string name="minute_unit">p</string>
+  <string name="minute_unit">P</string>
   <string name="minutes">%s perc</string>
   <string name="music_button_description">Zene</string>
   <string name="never">Soha</string>

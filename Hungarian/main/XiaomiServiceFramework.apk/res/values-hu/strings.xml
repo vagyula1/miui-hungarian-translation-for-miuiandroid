@@ -7,7 +7,7 @@
   <string name="account_name">Fiók: %1$s</string>
   <string name="activating">Aktiválás...</string>
   <string name="add_weibo_account">Fiók hozzáadása</string>
-  <string name="alert_title_remove_account">Fiók törlése</string>
+  <string name="alert_title_remove_account">Fiók eltávolítása</string>
   <string name="app_name">XiaoMi Service Framework</string>
   <string name="bad_authentication">Azonosítás sikertelen, hibás felhasználónév vagy jelszó</string>
   <string name="balance">Egyenleg:%1$sMi dollár</string>
@@ -76,9 +76,9 @@
   <string name="find_device_error_network">Hálózat nem elérhető</string>
   <string name="find_device_error_server">Szerver hiba</string>
   <string name="find_device_notice">When you cannot locate your phone, you can my.xiaomi.com to find, lock, or wipe data</string>
-  <string name="find_device_notice_p1">Ha nem találja a tlefonját,kérem látogassa meg az </string>
-  <string name="find_device_notice_p2">i.xiaomi.com weboldalt,hogy</string>
-  <string name="find_device_notice_p3">megtalálja,lezárja a telefonját vagy letötrölje adatait.</string>
+  <string name="find_device_notice_p1">Elveszett telefonja megkereséséhez látogassa meg az </string>
+  <string name="find_device_notice_p2">i.xiaomi.com weboldalt</string>
+  <string name="find_device_notice_p3">ahonnan beazonosíthatja telefonja helyzetét,lezárhatja, illetve törölheti annak adatait.</string>
   <string name="find_device_success_title">Eszközök keresése engedélyezve</string>
   <string name="forget_password" />
   <string name="frozen">(Locked)</string>
