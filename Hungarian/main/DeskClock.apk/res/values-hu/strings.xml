@@ -41,7 +41,7 @@
   <string name="day_concat">", "</string>
   <string name="days">%s nap</string>
   <string name="default_label">Ébresztő</string>
-  <string name="default_ringtone_setting_title">Az alapértelmezett csengőhang beállítása</string>
+  <string name="default_ringtone_setting_title">Csengőhang beállítása</string>
   <string name="delelte_selected_timezone">Biztos benne hogy törli a kiválasztott időzónát?</string>
   <string name="delete">Törlés</string>
   <string name="delete_alarm">Ébresztés törlése</string>

@@ -41,6 +41,8 @@
   <string name="disable_find_device_error">%1$s, eszköz keresésének tiltása sikertelen</string>
   <string name="email_already_be_used">Email cím már használatban van</string>
   <string name="enable_find_device_error">%1$s,eszköz keresésének engedélyezése sikertelen</string>
+  <string name="error_account_changed_summary">Xiaomi fiók frissítve. Ellenőrizze és próbálja újra</string>
+  <string name="error_account_changed_title">Fiók frissítve</string> 
   <string name="error_auth_summary">Belépési hiba, próbálja újra</string>
   <string name="error_auth_title">Fiók hiba</string>
   <string name="error_common_summary">Rendszer hiba,kérem próbálja később újra</string>

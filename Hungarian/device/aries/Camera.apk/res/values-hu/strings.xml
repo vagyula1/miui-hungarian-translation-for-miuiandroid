@@ -72,13 +72,13 @@
     <string name="group_by_location">Helység szerint</string>
     <string name="group_by_tags">By tags</string>
     <string name="group_by_time">Készítés dátuma szerint</string>
+    <string name="hand_night_exit_button_text">Kilépés az éjszakai módból</string> 
     <string name="hdr_exit_button_text">Kilépés a HDR módból</string>
     <string name="height">Magasság</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="Import">Importálás</string>
     <string name="import_complete">Importálás befejezve</string>
     <string name="import_fail">Importálás sikertelen</string>
-
     <string name="loading">Betötlés…</string>
     <string name="loading_video">Videófelvétel betöltés…</string>
     <string name="location">Hely</string>
@@ -118,9 +118,6 @@
     <string name="pref_camera_ae_bracket_hdr_value_hdr">HDR</string>
     <string name="pref_camera_ae_bracket_hdr_value_off">Ki</string>
     <string name="pref_camera_antibanding_entry_0">Ki</string>
-
-    
-
     <string name="pref_camera_antibanding_title">Csíkozódás csökkentés</string>
     <string name="pref_camera_audio_capture_title">Hangrögzítés</string>
 
@@ -175,8 +172,7 @@
     <string name="pref_camera_focusmode_entry_normal">Normál</string>
     <string name="pref_camera_focusmode_title">Fókusz mód</string>
     <string name="pref_camera_focusmode_value_default">auto</string>
-
-
+    <string name="pref_camera_hand_night_title">Éjszakai mód</string> 
     <string name="pref_camera_hfr_entry_off">Ki</string>
     <string name="pref_camera_hfr_title">Mintavételezési sebesség (a lassú mozgáshoz)</string>
     <string name="pref_camera_hfr_value_2x">60</string>
@@ -191,8 +187,6 @@
     <string name="pref_camera_histogram_value_enable">engedélyezve</string>
    
     <string name="pref_camera_id_title">Kamera választás</string>
-   
-
     <string name="pref_camera_iso_title">ISO választás</string>
     <string name="pref_camera_iso_value_auto">auto</string>
     <string name="pref_camera_iso_value_iso100">ISO100</string>
@@ -217,33 +211,32 @@
     <string name="pref_camera_movie_solid_value_off">ki</string>
     <string name="pref_camera_movie_solid_value_on">be</string>
     <string name="pref_camera_panoramamode_title">Panoráma</string>
-    
     <string name="pref_camera_picture_format_title">Képformátum választás</string>
-    
     <string name="pref_camera_picture_size_default">3264x1840</string>
     <string name="pref_camera_picturesize_entry_1280x720">0.9M Pixel</string>
     <string name="pref_camera_picturesize_entry_1920x1080">2 M Pixel</string>
-    <string name="pref_camera_picturesize_entry_3200x1800">Full screen 16:9</string>
-    <string name="pref_camera_picturesize_entry_3200x2400">Widescreen 4:3</string>
-    <string name="pref_camera_picturesize_entry_4208x2368">Full screen 16:9</string>
-    <string name="pref_camera_picturesize_entry_4208x3120">Widescreen 4:3</string>
+    <string name="pref_camera_picturesize_entry_3200x1800">Teljesképernyős 16:9</string>
+    <string name="pref_camera_picturesize_entry_3200x2400">Standard 4:3</string>
+    <string name="pref_camera_picturesize_entry_4208x2368">Teljesképernyős 16:9</string>
+    <string name="pref_camera_picturesize_entry_4208x3120">Standard 4:3</string>
     <string name="pref_camera_picturesize_professional_entry_1024x768">0.8Mp(1024x768)</string>
     <string name="pref_camera_picturesize_professional_entry_1280x720">0.9Mp(1280x720)</string>
     <string name="pref_camera_picturesize_professional_entry_1600x1200">2Mp(1600x1200)</string>
     <string name="pref_camera_picturesize_professional_entry_1920x1080">2Mp(1920x1088)</string>
     <string name="pref_camera_picturesize_professional_entry_2048x1536">3Mp(2048x1536)</string>
     <string name="pref_camera_picturesize_professional_entry_2592x1944">5Mp(2592x1944)</string>
-    <string name="pref_camera_picturesize_professional_entry_3200x1800">6Mp(3264x1840)</string>
+    <string name="pref_camera_picturesize_professional_entry_3200x1800">6Mp(3264x1836)</string>
     <string name="pref_camera_picturesize_professional_entry_3200x2400">8Mp(3264X2448)</string>
+    <string name="pref_camera_picturesize_professional_entry_3264x1836">6Mp (3264x1836)</string>
     <string name="pref_camera_picturesize_professional_entry_4208x2368">10Mp(4208x2368)</string>
     <string name="pref_camera_picturesize_professional_entry_4208x3120">13Mp(4208x3120)</string>
     <string name="pref_camera_picturesize_title">Fénykép méret</string>
+    <string name="pref_camera_picturesize_title_simple_mode">Fénykép méret</string>
     <string name="pref_camera_powermode_default">Normál_Teljesítmény</string>
     <string name="pref_camera_preview_entry_1000">1 mp</string>  
     <string name="pref_camera_preview_entry_2000">2 mp</string> 
     <string name="pref_camera_preview_entry_5000">5 mp</string>  
     <string name="pref_camera_preview_entry_off">ki</string>
-    
     <string name="pref_camera_preview_value_off">ki</string>
     <string name="pref_camera_recordlocation_default">hibás</string>
     <string name="pref_camera_recordlocation_entry_off">Ki</string>
@@ -394,8 +387,8 @@
     <string name="rotate_left">Elforgatás balra</string>
     <string name="rotate_right">Elforgatás jobbra</string>
     <string name="select_all">Mindet kijelöli</string>
-    <string name="select_group">Csoport választás</string>
-    <string name="select_item">Select item</string>
+    <string name="select_image">Fénykép választás</string>
+    <string name="select_item">Elem választás</string>
     <string name="select_video">Videófelvétel választás</string>
     <string name="send">Küldés</string>
     <string name="send_multiple_files_hint_format">Több fájl (%s) küldése</string>
@@ -410,6 +403,7 @@
     <string name="show_videos_only">Csak videófelvételek</string>
     <string name="simple_mode_button_text_audio_capture">Hangrögítő bezárása</string>
     <string name="simple_mode_button_text_color_effect">Szűrők bezárása</string>
+    <string name="simple_mode_button_text_hand_night">Éjszakai mód bezárása</string> 
     <string name="simple_mode_button_text_hdr">HDR mód bezárása</string>
     <string name="simple_mode_button_text_panorama">Panoráma mód bezárása</string>
     <string name="simple_mode_button_text_slow_video">Lassított kamera bezárása</string>

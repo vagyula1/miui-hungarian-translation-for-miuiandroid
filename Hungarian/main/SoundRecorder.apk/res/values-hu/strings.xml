@@ -30,6 +30,7 @@
   <string name="mark_now">(Aktuális)</string>
   <string name="max_length_reached">Maximális hosszúság elérve</string>
   <string name="menu_setting">Beállítások</string>
+  <string name="menu_settings">Beállítások</string>
   <string name="menu_view_record_list">Felvételek listája</string>
   <string formatted="false" name="minute">%d perc</string>
   <string name="no_file">Nincs felvétel</string>
@@ -47,6 +48,8 @@
   <string name="pref_title_enable_high_quality">Magas minőség engedélyezése</string>
   <string name="pref_title_enable_sound_effect">Hanghatások engedélyezése</string>
   <string name="pref_title_record_type">Felvétel kiterjesztése</string>
+  <string name="preference_led_indicator">LED értesítés lezárt képernyőnél</string>
+  <string name="preference_led_indicator_prompt">LED értesítés lezárt képernyőnél a felvétel ideje alatt</string> 
   <string name="preferences_title">Beállítások</string>
   <string name="record_list">Felvételek listája</string>
   <string name="record_loading">Felvétel betöltés, kérem várjon.</string>

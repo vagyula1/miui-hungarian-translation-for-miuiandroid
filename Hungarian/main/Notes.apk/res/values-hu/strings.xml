@@ -49,8 +49,10 @@
   <string name="menu_rename_folder">Mappa átnevezése</string>
   <string name="menu_send_to_desktop">Küldés az asztalra</string>
   <string name="menu_setting">Beállítás</string>
+  <string name="menu_stick">Lerögzít</string> 
   <string name="menu_share">Megosztás</string>
   <string name="menu_title_select_folder">Válasszon mappát</string>
+  <string name="menu_unstick">Felold</string> 
   <string name="not_now">Most nem</string>
   <string name="note_alert_expired">Lejárt</string>
   <string name="note_link_email">Küldés email-ben</string>

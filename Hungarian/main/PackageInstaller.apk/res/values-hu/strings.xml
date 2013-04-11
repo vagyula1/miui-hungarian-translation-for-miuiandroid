@@ -68,6 +68,7 @@
   <string name="uninstall_update_title">Frissítés eltávolítása</string>
   <string name="uninstalling">Eltávolítás...</string>
   <string name="unknown">Ismeretlen</string>
+  <string name="unknown_installer">Ismeretlen telepítő</string> 
   <string name="unknown_apps_dlg_text">"A telefonja biztonsági okokból úgy van beállítva, hogy letiltsa a nem az Android Marketről letöltött alkalmazások telepítését.Ezen a Beállítások/Biztonság/Ismeretlen források alatt változtathat."</string>
   <string name="unknown_apps_dlg_title">A telepítés letiltva</string>
 </resources>

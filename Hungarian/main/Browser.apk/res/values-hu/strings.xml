@@ -6,6 +6,7 @@
     <string name="uploads_disabled">A fájlok feltöltése le van tiltva.</string>
     <string name="new_tab">Új lap</string>
     <string name="new_incognito_tab">Új inkognitólap</string>
+	<string name="notif_install_successful">Letöltés kész</string>
     <string name="tab_bookmarks">Könyvjelzők</string>
     <string name="tab_most_visited">Leggyakrabban felkeresett</string>
     <string name="tab_history">Előzmények</string>
@@ -401,6 +402,7 @@
     <string name="import_bookmark_sucess">Könyvjelzők importálva</string>
     <string name="import_bookmark_failure">HIBA a könyvjelzők importálása közben!</string>
     <string name="importing_favorite_files">Adat importálása ...</string>
+	<string name="in_incognito">Inkongnitó mód aktív, a böngészés előzményei nem lesz látható.</string> 
     <string name="please_select_a_file_to_import">Válassza ki a fájlt</string>
     <string name="exported_bookmark_file_name">Kedvenceim</string>
     <string name="import_bookmark">Könyvjelző importálása</string>

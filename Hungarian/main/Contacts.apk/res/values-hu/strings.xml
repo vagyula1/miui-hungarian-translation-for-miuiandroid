@@ -17,8 +17,9 @@
     <string name="callShortcutActivityTitle">Válasszon telefonszámot a híváshoz</string>
     <string name="messageShortcutActivityTitle">Válasszon telefonszámot az üzenetküldéshez</string>
     <string name="contactPickerActivityTitle">Válasszon ki egy névjegyet</string>
-    <string name="starredList">Csillaggal megjelölt</string>
-    <string name="frequentList">Gyakori</string>
+    <string name="starredList">Kedvencek</string>
+    <string name="starred_contacts">Kedvencek</string> 
+    <string name="frequentList">Alapértelmezett</string>
     <string name="strequentList">Kedvencek</string>
     <string name="viewContactTitle">Névjegy adatai</string>
     <string name="viewContactDesription">Névjegy megtekintése</string>
@@ -401,7 +402,7 @@
     <string name="local_search_label">Összes névjegy</string>
     <string name="toast_making_personal_copy">Személyes másolat készítése</string>
     <string name="list_filter_all_accounts">Összes névjegy</string>
-    <string name="list_filter_all_starred">Csillaggal megjelölt</string>
+    <string name="list_filter_all_starred">Kedvencek</string>
     <string name="list_filter_custom">Egyéni</string>
     <string name="list_filter_customize">Személyre szabás...</string>
     <string name="list_filter_phones">Minden névjegy telefonszámokkal</string>
@@ -414,6 +415,7 @@
     <string name="menu_help">Segítség</string>
     <string name="preference_displayOptions">Megjelenítési beállítások</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
+	<string name="other_contacts">Egyéb</string> 
     <string name="hint_findContacts">Névjegy keresése</string>
     <string name="non_phone_caption">Telefonszám</string>
     <string name="non_phone_add_to_contacts">Hozzáadás névjegyekhez</string>

@@ -1276,8 +1276,8 @@ Attempts Remaining :"</string>
     <string name="credentials_configure_lock_screen_hint">Be kell állítani a zárolási képernyő PIN kódját vagy jelszavát, mielőtt használhatja az azonosítótárolót.</string>
     <string name="emergency_tone_title">Segélyhívás hangja</string>
     <string name="emergency_tone_summary">Viselkedés beállítása segélyhívás kezdeményezésekor</string>
-    <string name="privacy_settings">Biztonsági mentés és visszaállítás</string>
-    <string name="privacy_settings_title">Biztonsági mentés és visszaállítás</string>
+    <string name="privacy_settings">Mentés és visszaállítás</string>
+    <string name="privacy_settings_title">Mentés és visszaállítás</string>
     <string name="backup_section_title">Biztonsági mentés és visszaállítás</string>
     <string name="personal_data_section_title">Személyes adatok</string>
     <string name="backup_data_title">Adatok biztonsági mentése</string>

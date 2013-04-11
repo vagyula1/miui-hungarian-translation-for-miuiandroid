@@ -11,7 +11,7 @@
         <item>Ébresztés mostantól számítva %1$s, %2$s és %3$s múlva.</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Semelyik</item>
+        <item>Semmi</item>
         <item>Szundi</item>
         <item>Elvetés</item>
     </string-array>

@@ -13,6 +13,7 @@
   <string name="apply_update_dialog_cancel_button">Frissítés megszakítása</string>
   <string name="apply_update_dialog_update_button">Frissítés</string>
   <string name="apply_update_fail">A rendszer frissítése sikertelen</string>
+  <string name="apply_update_timer">Frissítés befejezve，újraindítás %d másodperc múlva</string> 
   <string name="apply_upload_info_message">Frissítés a háttérben, a normál használatot nem befolyásolja</string>
   <string name="apply_upload_info_message_manually">Kérjük, kapcsolja ki a telefont és Recovery módban kézzel telepítse a frissítést az SD kártyáról. Ha szeretne biztonsági másolatot készíteni, tegye meg, és próbálkozzon újra a rendszer frissítésével.</string>
   <string name="applying_rom_message">ROM frissítése</string>
@@ -82,6 +83,8 @@
   <string name="paused_queued_for_network">Várakozás hálózati kapcsolatra</string>
   <string name="paused_queued_for_wifi">Várakozás Wi-Fi csatlakozásra...</string>
   <string name="previous">Előző</string>
+  <string name="reboot_later">Újraindítás később</string>
+  <string name="reboot_now">Újraindítás</string> 
   <string name="reboot_to_new_system">Rendszer újraindítása</string>
   <string name="recommend">Ajánlja</string>
   <string name="recommend_comment_hint">Reason (optional)</string>
@@ -93,6 +96,7 @@
   <string name="sdcard_is_not_present_dialog_title">SD kártya nem található</string>
   <string name="send_install_log">Error log küldése</string>
   <string name="send_install_log_error">Az error log küldése sikertelen</string>
+  <string name="share">Megosztás</string> 
   <string name="share_qq">Post it via Tencent weibo</string>
   <string name="share_sina">Post it via Sina weibo</string>
   <string name="share_update">Rendszerfrissítési info. megosztása</string>
@@ -106,12 +110,15 @@
   <string name="stable_build">Stabil kiadás</string>
   <string name="start_update">Frissítés</string>
   <string name="submit">Elküld</string>
-  <string name="submit_fail">Failed to submit</string>
-  <string name="submit_progress">Submitting...</string>
+  <string name="submit_fail">Nem sikerült elküldeni</string>
+  <string name="submit_progress">Küldés...</string>
   <string name="submit_success">Elküldve,köszönöm!</string>
+  <string name="system_backup_apply_helper">Újraindítás a frissítés befejezése után</string>
+  <string name="system_backup_ask">Rákérdez</string> 
   <string name="system_backup_button_text">Rendszer biztonsági mentése</string>
   <string name="system_backup_cancel_text">Mégse</string>
   <string name="system_backup_error_message">Hiba a rendszer biztonsági mentésekor</string>
+  <string name="system_backup_helper">A rendszerfrissítés nem törli a felhasználói adatokat. Mentés ajánlott</string> 
   <string name="system_backup_ok_text">Ok</string>
   <string name="sytemt_backup_helper">A frissítés nem befolyásolja a felhasználó adatait. Ahhoz azonban, hogy védje az adatok biztonságát, javasoljuk, hogy az végezzen biztonsági mentést.</string>
   <string name="top_secret_build">Titkos kiadás</string>
