@@ -29,7 +29,7 @@
   <string name="low_battery_warning">A váratlan lekapcsolásssal elveszhet a felvétel, ajánlatos feltöltött akkumulátor mellett felvételt indítani.</string>
   <string name="mark_now">(Aktuális)</string>
   <string name="max_length_reached">Maximális hosszúság elérve</string>
-  <string name="menu_setting">Beállítások</string>
+  <string name="sound_recorder_settings">Beállítások</string>
   <string name="menu_settings">Beállítások</string>
   <string name="menu_view_record_list">Felvételek listája</string>
   <string formatted="false" name="minute">%d perc</string>
