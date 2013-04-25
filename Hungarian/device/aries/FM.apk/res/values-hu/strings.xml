@@ -74,7 +74,6 @@
     <string name="msg_searching">Searching for Stations to create a Preset List</string>
     <string name="msg_searching_title">Automatikus csatornakeresés</string>
     <string name="msg_seeking">Rádió állomás keresés</string>
-    <string name="msg_unable_start_fm_title">Az FM Rádió indítása sikertelen</string>
     <string name="msg_weak_searching">Frekvenciák keresése az átsugárzáshoz</string>
     <string name="no_storage">Helyezzen be SD kártyát a felvétel megkezdése előtt.</string>
     <string name="preparing_sd">SD kártya előkészítése</string>
@@ -89,7 +88,6 @@
     <string name="record_file_location_format">Kattintson a %s fájl meghallgatásához</string>
     <string name="record_sucess">Rögzítve</string>
     <string name="regional_band">Régió (Törli a mentett állomásokat)</string>
-    <string name="revert_to_fac">Gyári beállítások visszaállítása</string>
     <string name="search_dialog_title">Állomások keresése</string>
     <string name="sel_audio_output">Válasszon audio kimenetet</string>
     <string name="sel_band_menu">Régió választás</string>
@@ -98,7 +96,6 @@
     <string name="set_sigth">Signal Th beállítás</string>
     <string name="settings_menu">Beállítások</string>
     <string name="settings_revert_confirm_msg">Törölni fog minden beállítást és állomást.</string>
-    <string name="settings_revert_confirm_title">Visszaállítás</string>
     <string name="settings_revert_defaults_title">Gyári beállítás visszaállítása</string>
     <string name="spaceIsLow_content">Kevés a lemezterület. Csökkentsen a minőség beállításán vagy töröljön adatokat.</string>
     <string name="stat_notif_frequency">: %1$s MHz</string>

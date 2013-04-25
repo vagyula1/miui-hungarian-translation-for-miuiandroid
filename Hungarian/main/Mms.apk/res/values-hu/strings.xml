@@ -15,7 +15,6 @@
     <string name="add_slide_hint">Új dia létrehozásához válassza ezt.</string>
     <string name="add_slide">Dia hozzáadása</string>
     <string name="add_smiley">Smiley</string>
-    <string name="add_subject">Tárgy hozzáadása</string>
     <string name="add_timing">Időzítés</string>
     <string name="add_video">Videó hozzáadása</string>
     <string name="adding_attachments_title">Mellékletek hozzáadása</string>
@@ -30,7 +29,7 @@
     <string name="attach_subject">Tárgy</string>
     <string name="attach_take_photo">Kép rögzítése</string>
     <string name="attach_video">Videók</string>
-    <string name="batch_delete__confirm_dialog_message">Törli a kiválasztott üzeneteket?</string>
+    <string name="batch_delete_confirm_dialog_message">Törli a kiválasztott üzeneteket?</string>
     <string name="batch_deleting_message_progress_message">A kiválasztott üzenet(ek) törlése</string>
     <string name="batch_deleting_progress_message">A teljes beszélgetés törlése</string>
     <string name="bcc_label">"Titkos másolat: "</string>
@@ -85,7 +84,6 @@
     <string name="delete_bookmark">Törlés a kedvencek közül</string>
     <string name="delete_message">Törlés</string>
     <string name="delete_phrase">Kifejezés törlése</string>
-    <string name="delete_subject">Tárgy törlése</string>
     <string name="delete_unlocked">Zárolt üzenetek törlése</string>
     <string name="delete">Törlés</string>
     <string name="delivery_report_activity">Kézbesítési jelentés</string>
@@ -144,7 +142,6 @@
     <string name="hidden_sender_address">A küldő címe elrejtve</string>
     <string name="hint_search_sms">%d SMS</string>
     <string name="importing_progress_private_message">Üzenetek importálása a privát üzenetekhez</string>
-    <string name="inline_subject">&lt;Tárgy: %s></string>
     <string name="insufficient_drm_rights">Elégtelen DRM-jogosultság.</string>
     <string name="invalid_destination">Érvénytelen kézbesítési cím.</string>
     <string name="invalid_recipient_message">Kérjük, helyesbítse a címzett(ek)et, különben nem fogják megkapni az üzenetet.</string>
@@ -205,8 +202,7 @@
     <string name="mx_dspt">Ahhoz hogy üzeneteket küldjön a MIUI-nak az internet segítségével,a Szolgáltatójának be kell kapcsolnia</string>
     <string name="mx_enable_popup_msg">Felhő üzenetkezeléssel engedélyezi,hogy üzeneteket küldjön a MIUInak. Egy alapdíjas SMS szükséges az aktiváláshoz. Aktiválja?</string>
     <string name="mx_enable">MIUI Felhő üzenetkezelés</string>
-    <string name="mx_msg">Felhő üzenet</string>
-    
+    <string name="mx_msg">Felhő üzenet</string>  
     <string name="mx_reactivate">Re-activate Felhő üzenetkezelés újraaktiválása</string>
     <string name="mx_warning_notice">A felhő üzenetkezelés aktiválásához egy sms küldése szükséges. A szolgáltató költséget számíthat fel</string>
     <string name="need_download">Letöltés...</string>
@@ -313,7 +309,6 @@
     <string name="saved_ringtone">A csengőhang elmentve</string>
     <string name="search_empty">Nincs találat</string>
     <string name="search_hint">Keresés az üzenetekben</string>
-    <string name="search_history">%1$s találat a következőre: \"%2$s\"</string>
     <string name="search_label">Üzenetek</string>
     <string name="search_setting_description">Üzenetek szövegében</string>
     <string name="search">Üzenetek</string>
@@ -399,7 +394,6 @@
     <string name="unsticked_conversation">Már feloldotta a beszélgetést</string>
     <string name="unsupported_media_format">Nem támogatott %1$s formátum</string>
     <string name="view_message_details">Részletek megjelenítése</string>
-    <string name="view_slideshow">Diavetítés megtekintése</string>
     <string name="view">Megtekintés</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="yes">OK</string>

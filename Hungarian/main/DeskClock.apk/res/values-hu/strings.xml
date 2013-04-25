@@ -114,6 +114,7 @@ Leálíthatja az riasztást"</string>
     <string name="timer_tutorial">Csúsztassa jobbra</string>
     <string name="shutdown_alarm_title">Kikapcsolás jelzés</string>
     <string name="alarm_count_never_summary">, soha nem áll meg</string>
+	<string name="shutdown_alarm_enable_summary">Kikapcsolás jelzés engedélyezése</string>
     <string name="shutdown_alarm_disable_summary">Kikapcsolás jelzés tiltása</string>
     <string name="workday_alarm_clock">Munkanapi ébresztő</string>
     <string name="weekend_alarm_clock">Hétvégi ébresztő</string>

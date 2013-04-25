@@ -175,7 +175,7 @@
     <string name="settings_toggle_layout_style_single_page">Oldal</string>
     <string name="settings_toggle_layout_style">Egyéni Állapotsor</string>
     <string name="settings_toggle_position_divider_list">Állapotsor aktív</string>
-    <string name="settings_toggle_position_divider_page">%1$d állaporsor aktív</string>
+    <string name="settings_toggle_position_divider_page">%1$d állapotsor aktív</string>
     <string name="settings_toggle_position_reset">Állapértelmezett visszaállítása</string>
     <string name="settings_toggle_position">Állapotsor testreszabása</string>
     <string name="settings_toggle">Kapcsolók</string>
@@ -185,12 +185,7 @@
     <string name="status_bar_network_flow_exceed">"Ma:%1$s    Hátralévő:%2$s    App-ok:%3$s"</string>
     <string name="status_bar_network_flow_today">Ma:%1$s</string>
     <string name="status_bar_network_flow">Ma: %1$s Hátralévő: %2$s App-ok: %3$s</string>
-    <string name="status_bar_no_notifications_title">Nincs értesítés</string>
     <string name="status_bar_no_recent_apps">Nincs újabb alkalmazás</string>
-    <string name="status_bar_ongoing_events_title">Folyamatban van</string>
-    <string name="status_bar_please_disturb_button">Értesítések megjelenítése</string>
-    <string name="status_bar_recent_clear_nothing_result">Nem szabadult fel memória</string>
-    <string name="status_bar_recent_clear_result">Felszabadult %1$s memória. Elérhető memória %2$s.</string>
     <string name="status_bar_recent_guide_all">Bezáráshoz húzza fel,lezáráshoz le</string>
     <string name="status_bar_recent_guide_bottom">Lezáráshoz húzza le</string>
     <string name="status_bar_recent_guide_top">Bezáráshoz húzza fel</string>
@@ -200,7 +195,6 @@
     <string name="status_bar_settings_airplane">Repülőgép üzemmód</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_auto_rotation">Képernyő automatikus forgatása</string>
-    <string name="status_bar_settings_mute_label">NÉMÍT</string>
     <string name="status_bar_settings_notifications">Értesítések</string>
     <string name="status_bar_settings_settings_button">Beállítások</string>
     <string name="status_bar_settings_signal_meter_disconnected">Nincs internet</string>

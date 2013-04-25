@@ -3,7 +3,6 @@
 <string name="add_account_desc">A jegyzetek szinkronizálhatóak a Xiaomi fiókjával. Bejelentkezik és szinkronizálja most?</string>
   <string name="alert_edit_action_delete">Eltávolít</string>
   <string name="alert_edit_action_update">Frissít</string>
-  <string name="alert_message_delete_folder">Biztosan törli a mappát és a benne lévő jegyzeteket?</string>
   <string name="alert_message_delete_folders">Törli a kiválasztott %1$s mappát?</string>
   <string name="alert_message_delete_folders_notes">Törli a kiválasztott %1$s mappát és %2$s jegyzetet?</string>
   <string name="alert_message_delete_note">Biztosan törli jegyzetet?</string>
@@ -50,7 +49,6 @@
   <string name="menu_send_to_desktop">Küldés az asztalra</string>
   <string name="menu_setting">Beállítás</string>
   <string name="menu_stick">Lerögzít</string> 
-  <string name="menu_share">Megosztás</string>
   <string name="menu_title_select_folder">Válasszon mappát</string>
   <string name="menu_unstick">Felold</string> 
   <string name="not_now">Most nem</string>

@@ -129,5 +129,10 @@
   <string name="save_button">Mentés</string>
   <string name="show_firewall_notification">Ikon megjelenítése</string>
   <string name="show_notification">Értesítések tiltása</string>
+  <string name="smart_antispam">Ismeretlen szám azonosítás</string>
+  <string name="turn_on_smart_antispam_hint">Az engedélyezéssel az ismeretlen szám beazonosítható, mellyel megakadályozhatóak a nemkívánatos hívások.</string>
+  <string name="turn_on_smart_antispam_summary_off">Lekérdezés csak a helyi telefonkönyvből</string>
+  <string name="turn_on_smart_antispam_summary_on">Csak WI-FI és 3G hálózaton működik</string>
+  <string name="turn_on_smart_antispam_title">Ismeretlen számok azonosítása</string>
   <string name="whitelist_tab_title">Fehérlista</string>
 </resources>

@@ -120,7 +120,6 @@
   <string name="system_backup_error_message">Hiba a rendszer biztonsági mentésekor</string>
   <string name="system_backup_helper">A rendszerfrissítés nem törli a felhasználói adatokat. Mentés ajánlott</string> 
   <string name="system_backup_ok_text">Ok</string>
-  <string name="sytemt_backup_helper">A frissítés nem befolyásolja a felhasználó adatait. Ahhoz azonban, hogy védje az adatok biztonságát, javasoljuk, hogy az végezzen biztonsági mentést.</string>
   <string name="top_secret_build">Titkos kiadás</string>
   <string name="update_comment_hint">(opcionális)</string>
   <string name="update_comment_title">Kommentjei</string>

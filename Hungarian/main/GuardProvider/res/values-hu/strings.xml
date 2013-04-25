@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Kulcstartó</string>
-    <string name="title_no_certs">Nem található tanúsítvány</string>
-    <string name="title_select_cert">Válasszon tanúsítványt</string>
-    <string name="requesting_application">%s alkalmazás tanúsítványt kért. A tanúsítvány kiválasztásával az alkalmazás azonosítja magát a szerverrel.</string>
-    <string name="requesting_server">Az alkalmazást azonosította %s szerver, de csak akkor kap tanúsítványt,amennyiben n megbízik az alkalmazásban.</string>
-    <string name="install_new_cert_message">Tanúsítvány telepíthető egy PKCS#12 fájlból,aminek %1$s vagy %2$s a kiterjesztése.</string>
-    <string name="install_new_cert_button_label">Telepítés</string>
-    <string name="allow_button">Engedélyez</string>
-    <string name="deny_button">Letilt</string>
+    <string name="app_name">Jinshan Biztonsági védelem</string>
+    <string name="hello_world">Hello világ!</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="title_activity_main">Főtevékenység</string>
 </resources>

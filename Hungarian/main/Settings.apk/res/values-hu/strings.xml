@@ -679,6 +679,8 @@ Attempts Remaining :"</string>
     <string name="device_info_settings">Telefon állapota</string>
     <string name="system_update_settings_list_item_title">Rendszerfrissítések</string>
     <string name="firmware_version">Android verziója</string>
+	<string name="floating_window_switch_label">Felugró ablak</string>
+    <string name="floating_window_switch_label_disable">Felugró ablak</string> 
     <string name="model_number">Modellszám</string>
     <string name="baseband_version">Alapsáv verziója</string>
     <string name="kernel_version">Kernel verziója</string>
@@ -1176,7 +1178,7 @@ Attempts Remaining :"</string>
     <string name="usage_type_data_recv">Fogadott adatok</string>
     <string name="usage_type_audio">Hang</string>
     <string name="usage_type_video">Videó</string>
-    <string name="usage_type_on_time">Bekapcsolva eltöltött idő</string>
+    <string name="usage_type_on_time">Bekapcsolva</string>
     <string name="usage_type_no_coverage">Jel nélkül eltelt idő</string>
     <string name="battery_action_stop">Kényszerített leállítás</string>
     <string name="battery_action_app_details">Alkalmazásinformáció</string>

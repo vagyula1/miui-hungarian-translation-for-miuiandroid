@@ -196,7 +196,6 @@
   <string name="cannot_move_special_mailboxes_toast">A Piszkozatok, Kimenő levelek és Elküldött mappákban lévő üzeneteket nem lehet áthelyezni.</string>
   <string name="category_general_preferences">Alkalmazás</string>
   <string name="cc">Másolatot kap</string>
-  <string name="chips_waiting_for_directory_result">Várakozás több kapcsolatra</string>
   <string name="choose_attachment_dialog_title">Melléklet kiválasztása</string>
   <string name="choosertitle_sharevia">Megosztás a következővel:</string>
   <string name="close_action">Bezárás</string>
@@ -214,7 +213,6 @@
   <string name="contextmenu_send_mail">E-mail küldése</string>
   <string name="contextmenu_sharelink">Link megosztása</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="copy">E-mail cím másolása</string>
   <string name="create_action">Új létrehozása</string>
   <string name="debug_title">Hibakeresés</string>
   <string name="debug_version_fmt">Verzió: %s</string>

@@ -36,7 +36,6 @@
   <string name="cloud_album_set_create">Új</string>
   <string name="cloud_albums">Felhő albumok</string>
   <string name="cloud_camera_display_name">Rendszetlen</string>
-  <string name="cloud_gallery_setting">Felhő galéria beállítások</string>
   <string name="cloud_gallery_recyclebin_full">A lomtár megtelt,kérem látogassa meg az i.xiaomi.com webhelyet az ürítéshez.</string>
   <string name="cloud_gallery_space_full">A felhő album megtelt,töröljön néhány képet.</string>
   <string name="cloud_media_set_set">Felhő albumok</string>
@@ -53,7 +52,6 @@
   <string name="confirm_delete_pictures">%s</string>
   <string name="confirm_delete_system_album">%s album egy rendszer album, mégis törli?</string>
   <string name="confirm_delete_videos">%s videó</string>
-  
   <string name="contact_photo">Beállít kapcsolat képének</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="contrast">Kontraszt</string>
@@ -114,7 +112,6 @@
   <string name="group_by_album">Albumok szerint</string>
   <string name="group_by_faces">Személyek szerint</string>
   <string name="group_by_location">Helyek szerint</string>
-  <string name="group_by_size">Méret szerint</string>
   <string name="group_by_tags">Címke szerint</string>
   <string name="group_by_time">Idő szerint</string>
   <string name="height">Magasság</string>
@@ -158,7 +155,6 @@
   <string name="mimetype">MIME típus</string>
   <string name="miui_capture_screen_folder_display_name">MIUI képernyőmentések</string>
   <string name="model">Model</string>
-  <string name="modify_cloud_settings">MiCloud beállítások</string>
   <string name="more">Több</string>
   <string name="move_to_cloud_album">Áthelyezés</string>
   <string name="multiface_crop_help">Érintsen meg a kezdéshez.</string>
@@ -166,7 +162,6 @@
   <string name="negative">Negatív</string>
   <string name="no_albums_alert">Nincs elérhető album.</string>
   <string name="no_connectivity">"Some locations couldn't be identified due to network problems."</string>
-  <string name="no_file">A mappa üres</string>
   <string name="no_location">Hely nem látható</string>
   <string name="no_map_app">No map application</string>
   <string name="no_network_connected">Nincs kapcsolat</string>
@@ -176,7 +171,6 @@
   <string name="no">Nem</string>
   <string name="none_picture">Nincs kép a galériában</string>
   <string name="not_auto_create_recent_album">Nem automatikusan létrehozni újabb albumot</string>
-  <string name="not_show_hidden_albums">Ne mutassa a rejtett albumo(ka)t</string>
   <string name="open">Megnyitás</string>
   <string name="open_single_image_failure">Kép betöltése nem sikerült!</string>
   <string name="open_sync_title">Szinkronizálás megnyitása</string>
@@ -199,8 +193,7 @@
   <string name="remove_hidden_album">Elrejtés megszüntetése</string>
   <string name="remove_recent_album">Jelölje ki a legutóbbi albumot</string>
   <string name="rename_failed">Az átnevezés nem sikerült</string>
-  <string name="rotate_right">Forgatás jobbra</string>
-  <string name="rotate_tooltip">Drag photo to rotate it</string>
+  <string name="rotate_tooltip">Húzza a fényképet a forgatáshoz</string>
   <string name="rotate">Elforgatás</string>
   <string name="saturation">Szaturáció</string>
   <string name="save_error">Nem sikerült menteni a vágott képet.</string>
@@ -231,11 +224,10 @@
   <string name="settings_i_xiaomi_com">Az i.xiaomi.com weboldalra belépve láthatja az albumait</string>
   <string name="settings">Beállítások</string>
   <string name="shadow">Árnyékok</string>
-  <string name="share">Megoszt</string>
   <string name="sharpen">Élesítés</string>
   <string name="show_all">Képek és videók</string>
-  <string name="show_details">Részletek</string>
   <string name="show_hidden_albums">Rejtett album(ok) mutatása</string>
+  <string name="not_show_hidden_albums">Ne mutassa a rejtett albumo(ka)t</string>
   <string name="show_images_only">Csak képek</string>
   <string name="show_on_map">Mutasd a térképen</string>
   <string name="show_videos_only">Csak videók</string>

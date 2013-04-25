@@ -101,7 +101,6 @@
     <string name="listTotalAllContactsZeroCustom">Nincs látható névjegy.</string>
     <string name="listTotalAllContactsZeroStarred">Nincsenek kedvencek</string>
     <string name="listTotalAllContactsZeroGroup">Nincs névjegy : %s</string>
-    <string name="listAllContactsInAccount">Névjegyek: %s</string>
     <string name="listSingleContact">Egyéni névjegy</string>
     <string name="listCustomView">Névjegyek egyéni nézetben</string>
     <string name="foundTooManyContacts">több mint %d találat</string>
@@ -799,7 +798,6 @@
     <string name="device_import_progress_toast">%1$d névjegy importálva</string>
     <string name="no_contact_in_other_phone">There is no contact in your phone</string>
     <string name="import_weibo_dialog_title">Import Sina weibo contacts</string>
-    <string name="import_weibo_progress_hint">Importálás…</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>

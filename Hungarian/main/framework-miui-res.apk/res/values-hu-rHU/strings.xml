@@ -20,7 +20,7 @@
     <string name="clear_and_bright">Clear and Bright</string>
     <string name="cold_dews">Cold dew</string>
     <string name="delete">Töröl</string>
-	<string name="device_xiaomi">Xiaomi telefon</string> 
+    <string name="device_xiaomi">Xiaomi telefon</string> 
     <string name="error_forbidden">You account has some issues. Szinkronizálás letiltva.</string>
     <string name="error_not_acceptable">Szerver hiba. Szinkronizálás letiltva.</string>
     <string name="error_title">Szinkronizálási hiba : %s</string>
@@ -42,8 +42,8 @@ kérem tegyen be megfelelő SIM kártyát</string>
     <string name="find_device_turn_off_flight_mode_instructions">Az eszköz lezárva, 
 kérem kapcsolja ki a repülő üzemmódot</string>
     <string name="firewall_setting">Üzenetek szűrése</string>
-    <string name="first_back_long_press_message">"Do you want to enable the function of long-pressing the back key to kill the current process and its background services?
-Enable via Settings > System > Button Settings"</string>
+    <string name="first_back_long_press_message">"Engedélyezi,hogy a vissza gomb hosszan nyomva bezárja az aktuális folyamatot?
+Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</string>
     <string name="fm_record_smaple_prefix_miui">Rádióadás rögzítés</string>
     <string name="fools_day">"April Fool's Day"</string>
     <string name="force_exit_message">Alkalmazás kényszerített bezárása \"%1$s\"</string>
@@ -135,13 +135,13 @@ Enable via Settings > System > Button Settings"</string>
     <string name="wake_alarm_message">Riasztás szüneteltetve. Emlékeztessen %s</string>
     <string name="lockscreen_forgot_pattern_button_text">Elfelejtette a feloldómintát?</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Próbálja újra %d másodperc múlva.</string>
-    <string name="lockscreen_pattern_wrong">Hibás feloldómintat! Próbála újra</string>
+    <string name="lockscreen_pattern_wrong">Hibás feloldómintát! Próbála újra</string>
     <string name="lockscreen_pattern_instructions">Rajzolja le a feloldómintát a feloldáshoz</string>
     <string name="lockscreen_transport_next_description">Következő szám</string>
     <string name="lockscreen_access_pattern_cleared">Feloldóminta törölve</string>
     <string name="lockscreen_access_pattern_start">Feloldóminta elkezdődött</string>
     <string name="lockscreen_access_pattern_cell_added">Cell added</string>
-    <string name="lockscreen_access_pattern_detected">Felolóminta befejezve</string>
+    <string name="lockscreen_access_pattern_detected">Feloldóminta befejezve</string>
     <string name="lockscreen_transport_prev_description">Előző szám</string>
     <string name="lockscreen_transport_play_description">Lejátszás gomb</string>
     <string name="lockscreen_emergency_call">Segélyhívás</string>
@@ -149,9 +149,11 @@ Enable via Settings > System > Button Settings"</string>
     <string name="unlockscreen_recharge_completed">Feltöltve</string>
     <string name="emergency_call_string">Segélyhívás</string>
     <string name="forget_password_string">Elfelejtett jelszó</string>
-    <string name="miui_unlockscreen_password_wrong">Incorrect password! Try again</string>
+    <string name="miui_unlockscreen_password_wrong">Hibás jelszó! Próbálja újra</string>
+    <string name="contact_carrier_message">Vegye fel a kapcsolatot a szolgáltatójával</string>
     <string name="input_puk_code">Írja be a PUK kódot</string>
     <string name="input_puk_code_to_unlock">Írja be a PUK kódot az eszköz feloldásához</string>
+    <string name="unlocking_sim_card">SIM kártya feloldása</string>
     <string name="short_pukcode_error_msg">Csak kevesebb,mint 8 szám lehet</string>
     <string name="short_pincode_error_msg">Csak 4–8 szám lehet</string>
     <string name="input_pin_code">Kérem a PIN-t</string>
@@ -170,40 +172,4 @@ Enable via Settings > System > Button Settings"</string>
     <string name="send">Küldés</string>
     <string name="share">Megosztás</string>
     <string name="first_back_long_press_title">Vissza hardver gomb - Alkalmazás kényszerített bezárása</string>
-    <string name="global_action_privacy_mode_on_status">Adatvédelmi mód: Bekapcsolva</string>
-    <string name="global_action_privacy_mode_on_toast">Adatvédelmi mód bekapcsolva - üzenetek, hívások és értesítések rejtve maradnak a képernyőn és a képernyő nem módosítható</string>
-    <string name="global_action_privacy_mode_off_status">Adatvédelmi mód: Kikapcsolva</string>
-    <string name="status_bar_toggle_ac">Hozzáférési kontroll</string>
-    <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-    <string name="status_bar_toggle_brightness">Háttérv.</string>
-    <string name="status_bar_toggle_data">Adatforg.</string>
-    <string name="status_bar_toggle_divider" />
-    <string name="status_bar_toggle_flight_mode">Repülő üz.</string>
-    <string name="status_bar_toggle_gps">GPS</string>
-    <string name="status_bar_toggle_lock">Képernyőz.</string>
-    <string name="status_bar_toggle_mute">Néma</string>
-    <string name="status_bar_toggle_network_type">Hálózat típus</string>
-    <string name="status_bar_toggle_privacy_mode">Védelem</string>
-    <string name="status_bar_toggle_reboot">Újraindítás</string>
-    <string name="status_bar_toggle_rotate">Tájolás</string>
-    <string name="status_bar_toggle_screen_button">Képernyőgomb</string>
-    <string name="status_bar_toggle_screenshot">Képernyőkép</string>
-    <string name="status_bar_toggle_shutdown">Kikapcsolás</string>
-    <string name="status_bar_toggle_sync">Szinkr.</string>
-    <string name="status_bar_toggle_torch">Lámpa</string>
-    <string name="status_bar_toggle_vibrate">Rezgés</string>
-    <string name="status_bar_toggle_wifi">Wi-Fi</string>
-   
-    <string name="status_bar_toggle_power_mode">Teljesítmény</string>
-    <string name="status_bar_toggle_drive_mode">Autó mód</string>
-    <string name="status_bar_toggle_auto_brightness">Auto-Háttérvilágítás</string>
-    <string name="status_bar_toggle_ring">Csengetés</string>
-    <string name="status_bar_toggle_ringtone">Csengőhang</string>
-    <string name="status_bar_toggle_sync_auto">Auto Szinkr.</string>
-    <string name="status_bar_toggle_sync_manual">Szinkr.</string>
-    <string name="status_bar_toggle_syncing">Szinkr.</string>
-    <string name="status_bar_toggle_power_low">Energiatak.</string>
-    <string name="status_bar_toggle_power_mid">Normál</string>
-    <string name="status_bar_toggle_power_high">Teljesítmény</string>
-    <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
 </resources>

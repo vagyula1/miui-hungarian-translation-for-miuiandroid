@@ -34,7 +34,6 @@
   <string name="confirm">Rendben</string>
   <string name="cancel">Mégsem</string>
   <string name="cancle_warining">Alvó mód megszakítva</string>
-  <string name="category_num_format">(%s)</string>
   <string name="channel">FM</string>
   <string name="channel_postfix">MHZ</string>
   <string name="correct_id3_by_internet">Auto connect to correct song tags(ID3)</string>
@@ -60,7 +59,6 @@
   <string name="download_all_album">Borító letöltése</string>
   <string name="download_batch_start">Letöltés kezdése</string>
   <string name="download_all_track">Összes zeneszám letöltése</string>
-  <string name="download_finished">Letöltve</string>
   <string name="download_lyric_settings">Dalszöveg letöltése</string>
   <string name="download_lyric_summary">"Mobil adathálózaton sokáig tarthat, javasoljuk a Wi-Fi kapcsolat használatát."</string>
   <string name="download_processing">Letöltés</string>
