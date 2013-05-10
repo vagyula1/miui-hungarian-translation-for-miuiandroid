@@ -270,7 +270,21 @@
 	<item>Fehér</item>
 	<item>Lila</item>
     </string-array>
-    <string-array name="back_long_press_timeout">
+    <string-array name="screen_key_long_press_action">
+        <item>Nincs</item>
+        <item>Futó alkalmazások megnyitása</item>
+        <item>Hang asszinsztens indítása</item>
+        <item>Google Now indítása</item>
+        <item>Alkalmazás bezárása</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action_value">
+        <item>none</item>
+        <item>recent_panel</item>
+        <item>voice_assistant</item>
+        <item>google_now</item>
+        <item>close_app</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
         <item>0.5 másodperc</item>
         <item>1 másodperc</item>
         <item>1.5 másodperc</item>

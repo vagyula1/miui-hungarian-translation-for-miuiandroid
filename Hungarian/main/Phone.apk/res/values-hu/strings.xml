@@ -584,7 +584,7 @@
   <string name="notification_network_selection_title">Nincs szolgáltatás</string>
   <string name="notification_on_hold">Tartásban</string>
   <string name="notification_ongoing_call">Bejövő hívás</string>
-  <string name="notification_ongoing_calling_format_miui">Jelenlegi hívás (%s)</string>
+  <string name="notification_ongoing_calling_format_miui">Jelenlegi hívás</string>
   <string name="notification_voicemail_no_vm_number">A hangposta száma ismeretlen</string>
   <string name="notification_voicemail_text_format">%s tárcsázása</string>
   <string name="notification_voicemail_title">Új hangposta</string>

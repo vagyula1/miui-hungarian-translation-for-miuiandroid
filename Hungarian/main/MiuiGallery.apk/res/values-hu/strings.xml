@@ -4,6 +4,7 @@
   <string name="add_account">Fiók hozzáadása</string>
   <string name="add_to_cloud_album">Add hozzá</string>
   <string name="add_to_cloud_folder">Add a felhőmappába</string>
+  <string name="album_name">Album neve</string>
   <string name="albums">Albumok</string>
   <string name="alert">Megjegyzés</string>
   <string name="alert_message_initial_cloud">A rendszer automatikusan feltölti a fényképeket és képernyőmentéseket WI-FI csatlakozás esetén.</string>
@@ -15,7 +16,9 @@
   <string name="auto_create_recent_album">Kedvenc album automatikus létrehozása</string>
   <string name="auto_create_recent_album_confirm">After turn off this feature, Gallery will clear created data of favorite albums. Favorite albums set by user will not be affected. Alternatively, you can manually set that by long press an album.</string>
   <string name="auto_create_recent_album_over_ten_times">Az albumok automatikusan a kedvencekhez adva,amennyiben 10-nél több alkalommal nyitja meg</string>
+
   <string name="autofix">Auto-fix</string>
+  <string name="big_screen_alertdialog_title">Projektor</string>
   <string name="bigscrren_slide_exit">Kilépés a diavetítésből</string>
   <string name="browse_category">Fényképek böngészése</string>
   <string name="camera_connected">A kamera csatlakoztatva.</string>
@@ -24,6 +27,7 @@
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Háttérkép</string>
   <string name="camera_view_none_message">A fényképek jelenjenek meg itt.</string>
+  <string name="can_modified">Frissítések engedélyezése</string>
   <string name="cancel">Mégse</string>
   <string name="cant_delete_system_album">%s album ehy rendszeralbum, nem törölhető.</string>
   <string name="cleaning_cache">Cache törlése...</string>
@@ -36,6 +40,7 @@
   <string name="cloud_album_set_create">Új</string>
   <string name="cloud_albums">Felhő albumok</string>
   <string name="cloud_camera_display_name">Rendszetlen</string>
+  <string name="cloud_gallery_no_pictures">Nincs kép a MiCloud-ban</string>
   <string name="cloud_gallery_recyclebin_full">A lomtár megtelt,kérem látogassa meg az i.xiaomi.com webhelyet az ürítéshez.</string>
   <string name="cloud_gallery_space_full">A felhő album megtelt,töröljön néhány képet.</string>
   <string name="cloud_media_set_set">Felhő albumok</string>
@@ -49,6 +54,7 @@
   <string name="confirm_delete_folders_and_pictures">%s törlés megerősítése</string>
   <string name="confirm_delete_folders_including" formatted="false">%s mappa (beleértve %s)</string>
   <string name="confirm_delete_including_null">0 elem</string>
+  <string name="confirm_delete_items">%s elem</string>
   <string name="confirm_delete_pictures">%s</string>
   <string name="confirm_delete_system_album">%s album egy rendszer album, mégis törli?</string>
   <string name="confirm_delete_videos">%s videó</string>
@@ -65,8 +71,10 @@
   <string name="cut">Körülvágás</string>
   <string name="damaged_file">A fájlt sérült</string>
   <string name="defalt_local_mobile">mobil</string>
+  <string name="delete_fail_too_many_items">Failed to delete, too many items selected</string>
   <string name="delete">Törlés</string>
   <string name="deleting_files">File-ok törlése...</string>
+  <string name="demo_video_folder_display_name">Demó Videó</string>
   <string name="description">Leírás</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
@@ -108,12 +116,12 @@
   <string name="global_setting">Beállítások</string>
   <string name="grain">Film Grain</string>
   <string name="grayscale">B&amp;W</string>
-  <string name="group_by">Csoportok</string>
   <string name="group_by_album">Albumok szerint</string>
   <string name="group_by_faces">Személyek szerint</string>
   <string name="group_by_location">Helyek szerint</string>
   <string name="group_by_tags">Címke szerint</string>
   <string name="group_by_time">Idő szerint</string>
+  <string name="group_by">Csoport szerint</string>
   <string name="height">Magasság</string>
   <string name="highlight">Highlights</string>
   <string name="home_my_captured_items">Fotóim</string>
@@ -153,8 +161,10 @@
   <string name="miliao_painting_folder_display_name">MiTalk Képek</string>
   <string name="miliao_saved_folder_display_name">MiTalk mentve</string>
   <string name="mimetype">MIME típus</string>
+  <string name="mishop_saved_folder_display_name">MiShop mentések</string>
   <string name="miui_capture_screen_folder_display_name">MIUI képernyőmentések</string>
   <string name="model">Model</string>
+  <string name="modify_cloud_settings">MiCloud beállítások</string>
   <string name="more">Több</string>
   <string name="move_to_cloud_album">Áthelyezés</string>
   <string name="multiface_crop_help">Érintsen meg a kezdéshez.</string>
@@ -162,8 +172,9 @@
   <string name="negative">Negatív</string>
   <string name="no_albums_alert">Nincs elérhető album.</string>
   <string name="no_connectivity">"Some locations couldn't be identified due to network problems."</string>
+  <string name="no_file">Nem található fájl</string>
   <string name="no_location">Hely nem látható</string>
-  <string name="no_map_app">No map application</string>
+  <string name="no_map_app">Nincs térkép alkalmazás</string>
   <string name="no_network_connected">Nincs kapcsolat</string>
   <string name="no_storage_disable_cloud_albums">Felhő albumok nem elérhető, próbálja később.</string>
   <string name="no_such_item">Nem található elem.</string>
@@ -171,6 +182,7 @@
   <string name="no">Nem</string>
   <string name="none_picture">Nincs kép a galériában</string>
   <string name="not_auto_create_recent_album">Nem automatikusan létrehozni újabb albumot</string>
+  <string name="not_show_hidden_albums">Ne mutassa a rejtett albumo(ka)t</string>
   <string name="open">Megnyitás</string>
   <string name="open_single_image_failure">Kép betöltése nem sikerült!</string>
   <string name="open_sync_title">Szinkronizálás megnyitása</string>
@@ -184,7 +196,7 @@
   <string name="photo_page_save_uri_image_fail">Fénykép mentése nem sikerült.</string>
   <string name="photo_page_save_uri_image_ok">A fénykép elmentve ( a kamera könyvtárban).</string>
   <string name="photo_saved">Kép mentve %s néven</string>
-  <string name="photoeditor_name">Mi Photo Studio</string>
+
   <string name="photos">Kép(ek)</string>
   <string name="posterize">Poszterizálás</string> 
   <string name="projection">Vetítés</string> 
@@ -192,6 +204,7 @@
   <string name="redeye">Vörös szem</string>
   <string name="remove_hidden_album">Elrejtés megszüntetése</string>
   <string name="remove_recent_album">Jelölje ki a legutóbbi albumot</string>
+  <string name="rename_failed_duplicated_name">A név már létezik</string>
   <string name="rename_failed">Az átnevezés nem sikerült</string>
   <string name="rotate_tooltip">Húzza a fényképet a forgatáshoz</string>
   <string name="rotate">Elforgatás</string>
@@ -201,6 +214,7 @@
   <string name="save">Mentés</string>
   <string name="saving_failure">A képet nem lehetett menteni</string>
   <string name="saving_image">Kép mentése...</string>
+  <string name="scan_qr_code">Ossza meg a QR kódot barátaival a fájlmegosztás engedélyezásáhez</string>
   <string name="sd_not_available">SD kártya nincs csatolva</string>
   <string name="seconds">másodperc</string>
   <string name="select_album">Válasszon albumot</string>
@@ -209,7 +223,10 @@
   <string name="select_item">Elem kijelölése</string>
   <string name="select_video">Videó kiválasztása</string>
   <string name="send_multiple_files_hint_format">Több fájl küldése (%s)</string>
+  <string name="send_to_cloud_failed_message">Felhőtárolóba küldés sikertelen</string>
   <string name="send">Küldés</string>
+  <string name="sending_image_title">(%s) fénykép küldése</string>
+  <string name="sending_video_title">(%s) videó küldése</string>
   <string name="sepia">Szépia</string>
   <string name="set_hidden_album">Album elrejtése</string>
   <string name="set_image">Kép beállítása</string>
@@ -224,19 +241,26 @@
   <string name="settings_i_xiaomi_com">Az i.xiaomi.com weboldalra belépve láthatja az albumait</string>
   <string name="settings">Beállítások</string>
   <string name="shadow">Árnyékok</string>
+  <string name="share_album_owner">Megosztva</string>
+  <string name="share_album_qr_code">QR kód</string>
+  <string name="share_album_share_to">Megosztás a következővel</string>
+  <string name="share_album">Album megosztása</string>
+  <string name="sharer_status_accepted">Elfogadva</string>
+  <string name="sharer_status_refused">Elutasítva</string>
+  <string name="sharer_status_waitting">Várakozás</string>
   <string name="sharpen">Élesítés</string>
   <string name="show_all">Képek és videók</string>
+  <string name="show_hidden_album">Rejtett album(ok) mutatása</string>
   <string name="show_hidden_albums">Rejtett album(ok) mutatása</string>
-  <string name="not_show_hidden_albums">Ne mutassa a rejtett albumo(ka)t</string>
   <string name="show_images_only">Csak képek</string>
   <string name="show_on_map">Mutasd a térképen</string>
   <string name="show_videos_only">Csak videók</string>
   <string name="size_above">%1$s vagy újabb</string>
   <string name="size_below">%1$s vagy az alatti</string>
   <string name="size_between">%1$s to %2$s</string>
-  <string name="slideshow">Diavetítés</string>
   <string name="slideshow_category">Diavetítés</string>
   <string name="slideshow_dream_name">Diavetítés</string>
+  <string name="slideshow_interval_dialog_title">A diavetítés idejének nagyobbnak kell lennie 0 másodpercnél</string>
   <string name="slideshow_interval_invalid">Szünet beállított értéke érvénytelen</string>
   <string name="slideshow_interval">Szünet</string>
   <string name="slideshow_repeat_mode">Ismétlés</string>

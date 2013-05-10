@@ -6,7 +6,6 @@
     <string name="uploads_disabled">A fájlok feltöltése le van tiltva.</string>
     <string name="new_tab">Új lap</string>
     <string name="new_incognito_tab">Új inkognitólap</string>
-	<string name="notif_install_successful">Letöltés kész</string>
     <string name="tab_bookmarks">Könyvjelzők</string>
     <string name="tab_most_visited">Leggyakrabban felkeresett</string>
     <string name="tab_history">Előzmények</string>
@@ -39,10 +38,10 @@
     <string name="stopping">Leállítás...</string>
     <string name="stop">Leállítás</string>
     <string name="reload">Frissítés</string>
-    <string name="back">Vissza</string>
-    <string name="forward">Előre</string>
+    <string name="back">Előző</string>
+    <string name="forward">Következő</string>
     <string name="save">OK</string>
-    <string name="do_not_save">Mégse</string>
+    <string name="do_not_save">Mégsem</string>
     <string name="location">Cím</string>
     <string name="account">Fiók</string>
     <string name="containing_folder">Mentés ide:</string>
@@ -348,8 +347,8 @@
     <string name="empty_snapshots_folder">Nincs mentett oldal.</string>
     <string name="remove_snapshot">Mentett oldal törlése</string>
     <string name="snapshot_go_live">Élő adás</string>
-    <string name="accessibility_button_back">Vissza</string>
-    <string name="accessibility_button_forward">Előre</string>
+    <string name="accessibility_button_back">Előző</string>
+    <string name="accessibility_button_forward">Következő</string>
     <string name="accessibility_button_refresh">Oldal frissítése</string>
     <string name="accessibility_button_stop">Oldal betöltés leállítása</string>
     <string name="accessibility_button_addbookmark">Oldal felvétele a könyvjelzők közé</string>
@@ -402,7 +401,6 @@
     <string name="import_bookmark_sucess">Könyvjelzők importálva</string>
     <string name="import_bookmark_failure">HIBA a könyvjelzők importálása közben!</string>
     <string name="importing_favorite_files">Adat importálása ...</string>
-	<string name="in_incognito">Inkongnitó mód aktív, a böngészés előzményei nem lesz látható.</string> 
     <string name="please_select_a_file_to_import">Válassza ki a fájlt</string>
     <string name="exported_bookmark_file_name">Kedvenceim</string>
     <string name="import_bookmark">Könyvjelző importálása</string>
@@ -464,4 +462,9 @@
     <string name="url_copy_done">Url kimásolva</string>
     <string name="pref_setting_title">Oldal beállítások</string>
     <string name="pref_general_setting_title">Beállítás</string>
+    <string name="return_to_homepage">Vissza a kezdőlapra</string>
+    <string name="notif_install_successful">Letöltés kész</string>
+    <string name="in_incognito">Inkongnitó mód aktív, a privát böngészés előzményei nem lesz látható.</string>
+    <string name="tab_opened_background_in_incognito">Privát böngészőablak megnyitva</string>
+    <string name="stop_loading">Leállítás</string>
 </resources>
