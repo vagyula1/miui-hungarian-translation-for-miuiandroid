@@ -803,7 +803,6 @@
     <string name="input_method_selector_always_show_title">Mindig látszik</string>
     <string name="input_method_selector_show_automatically_title">Automatikus</string>
     <string name="input_method_selector">Bevitelimód-választó</string>
-
     <string name="input_method_settings_button">Beállítások</string>
     <string name="input_method_settings">Beállítások</string>
     <string name="input_method">Beviteli mód</string>
@@ -2125,12 +2124,4 @@
     <string name="zone_auto">Automatikus időzóna</string>
     <string name="zone_list_menu_sort_alphabetically">Rendezés név szerint</string>
     <string name="zone_list_menu_sort_by_timezone">Rendezés időzóna szerint</string>
-
 </resources>
-
-
-
- 
-
-    <string name="enable_snapshot_screenlock">Hold key to snapshot when screen lock</string>
-    <string name="disable_power_key_long_press_under_keyguard">Disable on lockscreen</string>
