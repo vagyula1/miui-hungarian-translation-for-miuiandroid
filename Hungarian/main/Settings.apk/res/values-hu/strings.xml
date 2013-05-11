@@ -1522,7 +1522,7 @@
     <string name="show_hw_screen_updates_summary">Ablakbeli nézetek villognak GPU-s rajznál</string>
     <string name="show_hw_screen_updates">GPU nézetfriss. mutatása</string>
     <string name="show_magnifier_when_input">Nagyítót mutat</string>
-    <string name="show_owner_info_on_lockscreen_label">Tulajdonosi adatok megjelenítése a lezáró képernyőn</string>
+    <string name="show_owner_info_on_lockscreen_label">Tulajdonos adatok megjelenítése a lezáró képernyőn</string>
     <string name="show_password">Jelszó láthatóvá tétele</string>
     <string name="show_rounded_corners_summary">Újraindtás szükséges</string>
     <string name="show_rounded_corners">Sarkok kerekítése</string>
@@ -2127,3 +2127,10 @@
     <string name="zone_list_menu_sort_by_timezone">Rendezés időzóna szerint</string>
 
 </resources>
+
+
+
+ 
+
+    <string name="enable_snapshot_screenlock">Hold key to snapshot when screen lock</string>
+    <string name="disable_power_key_long_press_under_keyguard">Disable on lockscreen</string>
