@@ -87,6 +87,7 @@
     <string name="manual">Kézi</string>
     <string name="mimetype">MIME típus</string>
     <string name="model">Modell</string>
+	<string name="no_save">"Ne mentse"</string> 
     <string name="no_storage">Helyezzen egy SD kártyát.</string> 
     <string name="no_thumbnail">Nincs indexkép</string>
     <string name="not_enough_space">Kevés a memória</string>
@@ -394,6 +395,7 @@
     <string name="review_cancel">MÉGSEM</string>
     <string name="rotate_left">Elforgatás balra</string>
     <string name="rotate_right">Elforgatás jobbra</string>
+	<string name="save">"Mentés"</string> 
     <string name="select_all">Mindet kijelöli</string>
     <string name="select_image">Fénykép választás</string>
     <string name="select_item">Elem választás</string>

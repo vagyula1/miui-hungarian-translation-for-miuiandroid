@@ -315,7 +315,7 @@
     <string name="bluetooth_hid_profile_summary_connected">Beviteli eszköz csatlakoztatva</string>
     <string name="bluetooth_hid_profile_summary_use_for">Használat beviteli eszközként</string>
     <string name="bluetooth_incoming_pairing_msg">Küldő:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Párosítja a készüléket?</string>
-    <string name="bluetooth_is_discoverable_always">Federíthető</string>
+    <string name="bluetooth_is_discoverable_always">Felderíthető</string>
     <string name="bluetooth_is_discoverable">%1$s másodpercig felderíthető...</string>
     <string name="bluetooth_lock_voice_dialing_summary">A bluetooth tárcsázó használatának megakadályozása, ha a képernyő le van zárva</string>
     <string name="bluetooth_lock_voice_dialing">Hanghívás zárolása</string>
@@ -1404,7 +1404,7 @@
     <string name="screen_compatibility_text">Nem biztos, hogy ezt az alkalmazást az Ön képernyőjére tervezték. Itt szabályozhatja az alkalmazás megjelenítését.</string>
     <string name="screen_key_long_press_action">Megnyomás művelete</string>
     <string name="screen_key_long_press_timeout">Tartás késleltetés</string>
-    <string name="screen_key_long_press">Gombok viselkedése</string>
+    <string name="screen_key_long_press">Gombok viselkedése (hosszan nyomva)</string>
     <string name="screen_on_proximity_sensor_summary">Megakadályozza a véletlen telefon használatot, ha a zsebében van (a közelségérzékelő érzékeli).</string>
     <string name="screen_on_proximity_sensor_title">Véletlen használat</string>
     <string name="screen_saturation_adjust">Telítettség</string>

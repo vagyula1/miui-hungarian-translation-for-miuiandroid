@@ -172,7 +172,7 @@
     <string name="enable_encrypt_fail">Titkosítás engedélyezése sikertelen</string>
     <string name="read_encrypt_fail">Titkosítás olvasása sikertelen</string>
     <string name="exchange_account">Exchange fiók</string>
-    <string name="system_backup">Bizt.mentés</string>
+    <string name="system_backup">Mentés</string>
     <string name="backup_empty_info">Adatok,programok és beállítások biztonsági mentése</string>
     <string name="system_backup_info">Rendszer beállítások és asztal elrendezés</string>
     <string name="software_backup_info">Alkalmazások és adataiak mentése</string>
