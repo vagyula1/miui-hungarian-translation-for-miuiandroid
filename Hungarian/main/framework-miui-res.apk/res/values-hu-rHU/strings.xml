@@ -90,6 +90,7 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="permlab_accessNote">Access your notes</string>
     <string name="private_num">Privát szám</string>
     <string name="reboot_confirm">A készülék újraindul</string>
+	<string name="reboot_confirm_title">Újraindítja a készüléket?</string> 
     <string name="reboot_progress">Újraindítás...</string>
     <string name="reverse_all">Mind törlése</string>
     <string name="safetylegal_activity_unreachable">A készülék nem kapcsolódik adatszolgáltatáshoz. Ezt ellenőrizheti %s egy Internet-hez csatlakoztatott számítógépen.</string>
@@ -132,7 +133,7 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="volume_icon_description_media">Média</string>
     <string name="volume_icon_description_notification">Értesítés</string>
     <string name="volume_icon_description_ringer">Csengetés</string>
-    <string name="wake_alarm_message">Riasztás szüneteltetve. Emlékeztessen %s</string>
+    <string name="wake_alarm_message">A következő riasztás %s</string>
     <string name="lockscreen_forgot_pattern_button_text">Elfelejtette a feloldómintát?</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Próbálja újra %d másodperc múlva.</string>
     <string name="lockscreen_pattern_wrong">Hibás feloldómintát! Próbála újra</string>
@@ -156,7 +157,8 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="unlocking_sim_card">SIM kártya feloldása</string>
     <string name="short_pukcode_error_msg">Csak kevesebb,mint 8 szám lehet</string>
     <string name="short_pincode_error_msg">Csak 4–8 szám lehet</string>
-    <string name="input_pin_code">Kérem a PIN-t</string>
+	<string name="shutdown_confirm_title">Kikapcsolja a készüléket?</string> 
+    <string name="input_pin_code">PIN kód</string>
     <string name="input_pin_code_to_unlock">Írja be a PIN kódot a feloldásához</string>
     <string name="pincode_set_to_default_msg">PIN kód code is set to 1234, please reset PIN here.</string>
     <string name="incorrect_pukcode_remaining_attempts">Hibás PUK kód, %d próbálkozása maradt</string>
@@ -171,5 +173,8 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="unlockscreen_low_battery">Csatlakoztassa a töltőt</string>
     <string name="send">Küldés</string>
     <string name="share">Megosztás</string>
+	<string name="days">nap</string>
+	<string name="hours">%d óra</string>
+	<string name="minutes">%d perc</string> 
     <string name="first_back_long_press_title">Vissza hardver gomb - Alkalmazás kényszerített bezárása</string>
 </resources>
