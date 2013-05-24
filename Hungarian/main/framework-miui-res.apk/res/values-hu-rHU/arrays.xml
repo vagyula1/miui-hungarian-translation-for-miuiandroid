@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="screen_key_long_press_default_action">
-        <item>hang asszisztens</item>
-        <item>futó alkalmazások</item>
-        <item>nincs</item>
     <string-array name="alarm_in_furture">
         <item>Ébresztés 1 percen belül</item>
         <item>Ébresztés %1$s múlva</item>
