@@ -233,6 +233,7 @@
     <string name="pref_font_size_category">Szöveg mérete</string>
     <string name="pref_lab_title">Labs</string>
     <string name="pref_lab_quick_controls">Gyorsbeállítások</string>
+    <string name="pref_lab_quick_controls_summary">Slide thumb from the left or right edge to open quick controls and hide app and URL bars</string>
     <string name="pref_use_instant_search">Google Instant</string>
     <string name="pref_use_instant_search_summary">A Google-keresésnél használja a Google Instantot, és a találatok gépelés közben megjelennek (az adatforgalom nőhet).</string>
     <string name="pref_lab_fullscreen">Teljes képernyő</string>
@@ -380,6 +381,7 @@
     <string name="bookmark_add_to">ide</string>
     <string name="add_folder">Új Könyvtár</string>
     <string name="folder_name">Könyvtár neve</string>
+    <string name="have_sent_bookmark_to_home_screen">Képernyőre küldve</string>
     <string name="bookmark_this_page_to_readmodelist">Oldal hozzáadása az olvasólista könyvjelzőhöz</string>
     <string name="readmodelist_bookmarks_to_show">Olvasólista</string>
     <string name="bookmark_to_readmodelist_saved">Mentve az olvasólista könyvjelzőkhöz.</string>
@@ -425,6 +427,7 @@
     <string name="pref_volume_key_operation">Hangerő gomb beállítása</string>
     <string name="pref_gesture_title">Mozgás beállítása</string>
     <string name="pref_fling_on_border_enabled">Fling on border</string>
+    <string name="pref_fling_on_border_enabled_title_summary">Fling on border of the screen</string>
     <string name="pref_fling_on_border_operation">Operation for fling on border</string>
     <string name="is_page_top">Ez már az oldal teteje</string>
     <string name="is_page_bottom">Ez már a lap alja</string>
@@ -465,6 +468,13 @@
     <string name="return_to_homepage">Vissza a kezdőlapra</string>
     <string name="notif_install_successful">Letöltés kész</string>
     <string name="in_incognito">Inkongnitó mód aktív, a privát böngészés előzményei nem lesz látható.</string>
+    <string name="alert_tips">Az oldal nem biztonságos!</string>
     <string name="tab_opened_background_in_incognito">Privát böngészőablak megnyitva</string>
     <string name="stop_loading">Leállítás</string>
+    <string name="navigation_button_close">Bezárás</string>
+    <string name="navigation_button_view">Nézet</string>
+    <string name="navigation_button_tab">Lapok</string>
+    <string name="navigation_button_newtab">Új</string>
+    <string name="close_all_tab_alert_title">Összes oldal bezárása</string>
+    <string name="close_all_tab_alert_message">Bezárja az összes oldalt?</string>
 </resources>
