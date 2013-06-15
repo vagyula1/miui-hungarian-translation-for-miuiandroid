@@ -12,6 +12,7 @@
         <item>Időjárás adatok</item>
         <item>Kamera</item>
         <item>Hálózati felügyelet</item>
+        <item>Időjárás</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Névjegyzék</item>

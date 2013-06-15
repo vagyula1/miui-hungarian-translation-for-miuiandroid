@@ -87,7 +87,11 @@
     <string name="data_no_enough_space_message">Helyreállítási hiba, kérem szabadítson fel helyet Internal memóriában és próbálja újra</string>
     <string name="task_running_hint">Az ütemezett folyamatok a háttérben futnak</string>
     <string name="task_running_dialog">A mentés a háttérben fut, nyomjon az OK gombra a folyamat megtekintéséhez</string>
-    <string name="task_service_not_launched">A mentési folyamat nem indult el, kérem, várjon!</string>
+    <string name="task_running_backup_hint">Mentés már folyamatban a háttérben</string>
+    <string name="task_running_restore_hint">Visszaállítás már folyamatban a háttérben!</string>
+    <string name="task_running_backup_dialog">Mentés folyamatban, kattintson az OK gombra a megtekintéshez</string>
+    <string name="task_running_restore_dialog">Visszaállítás folyamatban a háttérben, kattintson az OK gombra a megtekintéshez</string>
+    <string name="task_service_not_launched">A mentési folyamat nem indult el, kérem, várjon!</string>  
     <string name="task_local_backup_cancel_dialog">Mentés folyamatban...OK megnyomása a megszakításhoz</string>
     <string name="task_cloud_backup_cancel_dialog">Mentés folyamatban...OK megnyomása a megszakításhoz</string>
     <string name="task_restore_cancel_dialog">Helyreállítás folyamatban...megszakítás adat vesztéssel járhat</string>
