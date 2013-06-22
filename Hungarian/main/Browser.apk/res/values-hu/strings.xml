@@ -267,7 +267,7 @@
     <string name="loadSuspended">A böngésző nem tudja betölteni ezt az oldalt, mert nincs internetkapcsolat.</string>
     <string name="clear_history">Előzmények törlése</string>
     <string name="browser_history">A közelmúltban meglátogatott lapok</string>
-    <string name="empty_history">Nincsenek böngészőelőzmények.</string>
+    <string name="empty_history">Nincsenek előzmények</string>
     <string name="go_home">Kezdőlap</string>
     <string name="add_new_bookmark">Új könyvjelző</string>
     <string name="add_bookmark_short">Hozzáadás:</string>
@@ -370,6 +370,15 @@
     <string name="google_bookmarks">"Google: "</string>
     <string name="bookmarks_management">Könyvjelzők</string>
     <string name="bookmarks_root_folder">Gyökérkönyvtár</string>
+    <string name="bookmarks_content_is_null">Content is null</string>
+    <string name="history_browsed">Böngészési előzmények</string>
+    <string name="history_track">Előzmények</string>
+    <string name="history_most_visited">Leglátogatottabb</string>
+    <string name="history_saved_webpage">Honlap mentése</string>
+    <string name="clear_history_group">Előzmények törlése</string>
+    <string name="open_history_group_in_new_window">Összes előzmény megnyitása új ablakban</string>
+    <string name="open_history_most_visited_group_in_new_window">Összes gyakran látogatott oldal megnyitása</string>
+    <string name="pref_privacy_clear_history_by_group_dlg">Törli a böngészés előzményeket ?</string>
     <string name="edit">Szerkesztés</string>
     <string name="delete">Törlés</string>
     <string name="multi_select_title">%1$s elem kiválasztva</string>
@@ -477,4 +486,21 @@
     <string name="navigation_button_newtab">Új</string>
     <string name="close_all_tab_alert_title">Összes oldal bezárása</string>
     <string name="close_all_tab_alert_message">Bezárja az összes oldalt?</string>
+    <string name="file_picker">Vélasszon útvonalat</string>
+    <string name="file_name">Fájlnév</string>
+    <string name="file_dir">Könyvtár</string>
+    <string name="storage_internal">Belső tároló</string>
+    <string name="storage_sd_card">SD kártya</string>
+    <string name="storage_usb">USB tároló</string>
+    <string name="save_dialog_title">Mentés</string>
+    <string name="save_file_already_exist_alert_title">Figyelmezteés</string>
+    <string name="save_file_already_exist_alert_message">A Fájl már létezik, felülírja?</string>
+    <string name="filename_empty_alert_message">"A Fájlnév nem lehet üresy"</string>
+    <string name="filename_illegal_alert_message">A fájlnév érvénytelen karakterekett tartalmazott, melyek automatikusan el lettek távolítva.</string>
+    <string name="quicklinks_management">Hasznos oldalak</string>
+    <string name="download_failed">A letöltés nem sikerült</string>
+    <string name="download_complete">A letötlés befejeződött</string>
+    <string name="app_update_install">A ltötltés befejeződött és készen áll a frissített verzió telepítésére</string>
+    <string name="app_new_version">A letötlés befejeződöttmaz alkalmazás utolsó verziója már telepítve van</string>
+    <string name="clip_dialog_title">Megnyitja a kimásolt linket?</string>
 </resources>
