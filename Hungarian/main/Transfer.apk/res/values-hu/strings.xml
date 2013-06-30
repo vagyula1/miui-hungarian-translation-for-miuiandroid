@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="picker_title">Válasszon alkalmazást</string>
+    <string name="shortmessage">Rövid üzenet</string>
+    <string name="send_sound">Küldés hanggal</string>
+    <string name="send_2d_code">2D kód küldés</string>
+    <string name="send_nfc">Küldés NFC használatával</string>
+    <string name="scan_title">Fókuszáljon a 2D kódra</string>
+    <string name="recv_sound">Zene fogadás</string>
+    <string name="scan_2d_code">2D kód keresés</string>
     <string name="app_name">Fájlátvitel</string>
     <string name="ok">OK</string>
     <string name="cancel">Mégsem</string>
@@ -66,6 +73,13 @@
     <string name="sdcard_unavailable">Az SD kártya nem elérhető</string>
     <string name="receive_cannot_created_file">Fájl létrehozása nem sikerült</string>
     <string name="error_transmit">Átviteli hiba</string>
+    <string name="error_bad_file">Hibás fájl</string>
+    <string name="error_download">A letöltés nem sikerült</string>
+    <string name="error_general">Általános hiba történt</string>
+    <string name="error_network">Hálózati hiba</string>
+    <string name="error_not_enough_space">Nincs elég hely</string>
+    <string name="error_peer_disconnected">A párosítás megszakadt</string>
+    <string name="error_upload">A feltöltés nem sikerült</string>
     <string name="error_not_selected">Nincs fájl kiválasztva</string>
     <string name="error_select">Fájlhiba vag nincs fájl kiválasztva</string>
     <string name="device_default_name">Xiaomi telefon</string>
@@ -102,5 +116,4 @@
     <string name="button_last">Indítás</string>
     <string name="support_tip">MiShare utasításokat ad</string>
     <string name="share_text">A MIUI V5 támogatja a mobil adatkapcsolat nélküli fájlátvitelt. Nem-MIUI V5 felhasználók tölsék le ezt: %1$s</string>
-    <string name="trasfer_list">Átvitel lista</string>
 </resources>

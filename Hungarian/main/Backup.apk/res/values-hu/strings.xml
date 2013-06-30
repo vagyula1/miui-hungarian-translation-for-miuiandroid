@@ -117,8 +117,8 @@
     <string name="progress_backup_hint">Mentés folyamatban...</string>
     <string name="cancel_backup">Mentés megszakítása</string>
     <string name="restore_contact">Névjegyek helyreállítása</string>
-    <string name="restore_contact_content">Névjegyzék helyreállítása megduplázhatja a névjegyeket.Folytatja?
- Megjegyzés: A Személyek-beállítások menüpontban a dupla névjegyek később összefésülhetők.</string>
+    <string name="restore_contact_content">A névjegyzék helyreállítása megduplázhatja a névjegyeket.
+A Személyek->Beállítások menüpontban később összefésülhetők.</string>
     <string name="progress_restore_hint">Helyreállítás...</string>
     <string name="cancel_restore">Visszaállítás megszakítása</string>
     <string name="restore_failed">Visszaállítás nem sikerült</string>
@@ -149,15 +149,17 @@
     <string name="current_sim">SIM kártya</string>
     <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="dir_date_format">yyyy-MM-dd-HH-mm-ss</string>
-    <string name="no_network">Hálózati hiba.Kérem ellenőrizze a hálózati kapcsolatot majd próbálja újra</string>
+    <string name="no_network">Hálózati hiba.
+ Kérem ellenőrizze a hálózati kapcsolatot majd próbálja újra</string>
     <string name="retry">Újra</string>
     <string name="select_all">Összes kiválasztása</string>
     <string name="reverse_all">Összes törlése</string>
     <string name="refresh">Frissítés</string>
     <string name="cloud_item_info_summary">" (Helyi : %1$s | Felhő : %2$s)"</string>
     <string name="total_num">%d record(ok) összesen</string>
-    <string name="cloud_restore_guide">Klikk a Start-ra az adatok helyreállításához.Visszaállítás a mentésből %s</string>
-    <string name="import_from_xiaomi_account_hint1">1.Telepítse a MiTalk-ot és jelentkezzen be.http://www.miliao.com 3. Lépjen a MiTalk beállításaiba és válassza a ”Névjegyek mentése a Xiaomi fiókba”</string>
+    <string name="cloud_restore_guide">Klikk a Start-ra az adatok helyreállításához. 
+ Visszaállítás a mentésből %s</string>
+     <string name="import_from_xiaomi_account_hint1">1.Telepítse a MiTalk-ot és jelentkezzen be.http://www.miliao.com 3. Lépjen a MiTalk beállításaiba és válassza a ”Névjegyek mentése a Xiaomi fiókba”</string>
     <string name="import_from_xiaomi_account_hint2">Megjegyzés: Lépjen tovább ha a mentés befejeződött</string>
     <string name="import_from_xiaomi_account_hint_title">Használja a MiTalk-ot névjegyek mentéséhez, bármely készüléket, csak nem a MI-ONE-t</string>
     <string name="guarded_mode_dialog_title">Védett mód</string>
@@ -168,8 +170,10 @@
     <string name="enable_encrypt_indicator">A mentés nem titkosított,kattintson ide az engedélyezéshez.</string>
     <string name="enable_encrypt">Engedélyezés</string>
     <string name="already_enable_encrypt">Titkosítás engedélyezés</string>
-    <string name="enable_encrypt_summery1">A rendszer titkosítja a helyi mentést a Xiaomi fiók alapján, Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Xiaomi fiókjába.</string>
-    <string name="enable_encrypt_summery2">Az új mentés automatikusan titkosítva lesz. Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Xiaomi fiókjába.</string>
+    <string name="enable_encrypt_summery1">A rendszer titkosítja a helyi mentést a Xiaomi fiók alapján, 
+ Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Xiaomi fiókjába.</string>  
+    <string name="enable_encrypt_summery2">Az új mentés automatikusan titkosítva lesz. 
+ Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Xiaomi fiókjába.</string>
     <string name="enable_encrypt_xiaomi_account">A mentést készítette %1$s, kérem törölje jelenlegi fiókját, és %2$s jelentkezzen be, adatai visszaállításához.</string>
     <string name="enable_encrypt_ok">OK</string>
     <string name="no_encrypt_password">Nincs a titkosításhoz jelszó</string>

@@ -130,6 +130,7 @@
   <string name="how_many_videos">%d videó</string>
   <string name="import_complete">Importálás kész</string>
   <string name="import_fail">Importálás nem sikerült</string>
+  <string name="alert_message_open_sync">Először engedélyeznie kell a szinkronizálást</string>
   <string name="Import">Importálás</string>
   <string name="initial_cloud_button_text">felhőalbum használatának megkezdése</string>
   <string name="initial_cloud_text">Any time and any place · Organize and view your photos</string>
@@ -183,7 +184,7 @@
   <string name="none_picture">Nincs kép a galériában</string>
   <string name="not_auto_create_recent_album">Nem automatikusan létrehozni újabb albumot</string>
   <string name="not_show_hidden_albums">Ne mutassa a rejtett albumo(ka)t</string>
-  <string name="open">Megnyitás</string>
+  <string name="open">Engedélyezés</string>
   <string name="open_single_image_failure">Kép betöltése nem sikerült!</string>
   <string name="open_sync_title">Szinkronizálás megnyitása</string>
   <string name="operation_refresh">Frissítés</string>

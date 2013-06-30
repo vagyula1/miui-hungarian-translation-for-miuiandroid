@@ -37,6 +37,7 @@
   <string name="fail_to_add_account">Fiók hozzáadás sikertelen</string>
   <string name="live_wallpaper">Élő háttérkép</string>
   <string name="loading">Töltés...</string>
+  <string name="loading_resource_detail_fail">Téma betöltése nem sikerült!</string>
   <string name="loading_resource_detail_info">Töltés...</string>
   <string name="lockscreen_wallpaper">Zár háttere</string>
   <string name="lockstyle_personal_settings">Testreszabás</string>
@@ -108,11 +109,17 @@
   <string name="resource_title">Téma részlet</string>
   <string name="resource_title_select_ringtone">Csengőhang választás</string>
   <string name="resource_update">Frissítés</string>
+  <string name="resource_waiting_download">Várakozás</string>
   <string name="restore_default_theme_alert">Lehet,hogy a téma hamis,kérjük töltse le újra vagy vásárolja meg.</string>
   <string name="sdcard_status_changed_dialog_message">"Kilépés. Téma frissítéshez nyissa meg újra."</string>
   <string name="sdcard_status_changed_dialog_title">SD kártya tartalma megváltozott</string>
   <string name="short_ringtone_resource">Rövid (&lt;5mp)</string>
   <string name="theme_another_import_running">Másik importálás folyamatban, próbálja később.</string>
+  <string name="theme_batch_has_update_text">%1$d témának van új verziója</string>
+  <string name="theme_batch_update_all">Mind frissítése</string>
+  <string name="theme_batch_update_dlg_content">Frissíti most?</string>
+  <string name="theme_batch_update_dlg_title">Frissítés</string>
+  <string name="theme_batch_updating_text">%1$d téma frissítése</string>
   <string name="theme_changed_failed_message">%1$s téma beállítása nem sikerült.</string>
   <string name="theme_changed_message">A téma beállítva.</string>
   <string name="theme_changing_dialog_title">Téma alkalmazása, kérem várjon...</string>
@@ -149,6 +156,7 @@
   <string name="theme_import_item_delete_request_content">Téma nincs frissítve, frissítés után alkalmazza,vagy törölje.</string>
   <string name="theme_import_item_delete_request_title">Téma nem lett frissítve</string>
   <string name="theme_import_item_importing">Frissítés…</string>
+  <string name="theme_import_item_not_exist">Nem létezik</string>
   <string name="theme_import_item_not_upgraded">Nincs frissítve</string>
   <string name="theme_import_item_reject_use">Téma frissítés folyamatban,kérem várjon.</string>
   <string name="theme_import_item_waiting">Várakozás...</string>

@@ -383,7 +383,7 @@
     <string name="delete">Törlés</string>
     <string name="multi_select_title">%1$s elem kiválasztva</string>
     <string name="delete_multi_bookmarks_alert_title">Törli a kiválasztott %1$s elemet?</string>
-    <string name="add_bookmark">Könyvjelző létrehozás</string>
+    <string name="add_bookmark">Új könyvjelző</string>
     <string name="send_bookmark_to_home_screen">Küldés az asztalra</string>
     <string name="bookmark_title">Cím</string>
     <string name="bookmark_url">Url</string>

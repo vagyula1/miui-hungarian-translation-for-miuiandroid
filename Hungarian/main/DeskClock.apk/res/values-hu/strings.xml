@@ -4,7 +4,7 @@
     <string name="elapsed_time_format">(+%s)</string>
     <string name="app_label">Óra</string>
     <string name="alarm_list_title">Ébresztő</string>
-    <string name="add_alarm">Ébresztés hozzáadása</string>
+    <string name="add_alarm">Új ébresztés</string>
     <string name="menu_desk_clock">Asztali óra</string>
     <string name="edit_alarm">Ébresztő szerkesztés</string>
     <string name="delete_alarm">Ébresztés törlése</string>
