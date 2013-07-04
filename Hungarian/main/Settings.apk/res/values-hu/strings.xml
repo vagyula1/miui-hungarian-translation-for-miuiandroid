@@ -1923,8 +1923,8 @@
     <string name="wfd_menu_search">Eszközök keresése</string>
     <string name="wfd_menu_searching">Keresés...</string>
     <string name="wfd_menu_teardown">Szétkapcsolás</string>
-    <string name="wfd_settings_title">Wi-Fi Kijelzés beállításai</string>
-    <string name="wfd_wps_keypad">Button press</string>
+    <string name="wfd_settings_title">Wi-Fi Display beállításai</string>
+    <string name="wfd_wps_keypad">Gombnyomás</string>
     <string name="wfd_wps_pbc">Input PIN</string>
     <string name="widget_picker_title">Modul kiválasztása</string>
     <string name="wifi_access_points">WiFi-hálózatok</string>
@@ -1984,7 +1984,7 @@
     <string name="wifi_menu_modify">Hálózat módosítása</string>
     <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_scan">Keresés</string>
-    <string name="wifi_menu_wfd">Wi-Fi kijelzés</string>
+    <string name="wifi_menu_wfd">Wi-Fi Display</string>
     <string name="wifi_menu_wps_pbc">WPS Push Button</string>
     <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
     <string name="wifi_more">Több</string>
