@@ -20,8 +20,8 @@
     <string name="menu_view_record_list">Felvételek listája</string>
     <string name="delete_dialog_message">Törölni kívánja az aktuális felvételt?</string>
     <string name="overwrite_dialog_message">%s már létezik. Biztos felülírja?</string>
-    <string name="notification_recording">Felvétel...</string>
-    <string name="notification_playback">Felvétel visszajátszás…</string>
+    <string name="notification_recording">Felvétel folyamatban...</string>
+    <string name="notification_playback">Felvétel visszajátszása…</string>
     <string name="notification_stopped">Felvétel leállítva</string>
     <string name="notification_warning">Kevés a tárhely (kevesebb,mint %d perc)...</string>
     <string name="record_list">Felvételek listája</string>
@@ -38,7 +38,7 @@
     <string name="dialog_play">Lejátszás</string>
     <string name="dialog_send">Küldés</string>
     <string name="dialog_warning">Figyelmeztetés</string>
-    <string name="alert_message_delete_record">Szeretné törölni a kiválasztott felvételt?</string>
+    <string name="alert_message_delete_record">Törli a kiválasztott felvételt?</string>
     <string name="unknown_caller">Ismeretlen</string>
     <string name="rename">Átnevezés</string>
     <string name="send_to">Küldés</string>
@@ -53,7 +53,7 @@
     <string name="status_bar_anti_disturb">Telefon lenémítva, állítsa be a hangerőt.</string>
     <string name="status_bar_recording">Rögzítés...</string>
     <string name="status_bar_back">Vissza a felvételekhez</string>
-    <string name="status_bar_recording_pause">"Felvétel szünetetltetve. "</string>
+    <string name="status_bar_recording_pause">"A felvétel szüneteltetve."</string>
     <string name="record_saving">Felvétel mentése...</string>
     <string name="record_loading">Felvétel betöltés, kérem várjon.</string>
     <string name="low_battery_message_title">Akkumulátor lemerül</string>
@@ -63,17 +63,13 @@
     <string name="menu_settings">Beállítások</string>
     <string name="preference_led_indicator">LED értesítés lezárt képernyőnél</string>
     <string name="preference_led_indicator_prompt">LED értesítés lezárt képernyőnél a felvétel ideje alatt</string>
-    <string name="preference_silent_mode">Csendes felvételi mód</string>
-    <string name="preference_silent_mode_summary">Csendes felvételi mód engedélyezése</string>
-    <string name="record_name_minute">perc</string>
-    <string name="notification_playback_paused">Visszajátszás szünetetltetve...</string>
-    <string name="prefDefault_recordType">audio/3gpp</string>
-    <string name="prefDialogTitle_recordType">Válasszon fájl típust</string>
-    <string name="pref_summary_enable_high_quality">A hangfájl magas minőség esetén nagyobb méretű lesz</string>
-    <string name="pref_summary_enable_sound_effect">Hanghatás lejátszása ha az állapot megváltozott</string>
-    <string name="pref_title_enable_high_quality">Magas minőség engedélyezése</string>
-    <string name="pref_title_enable_sound_effect">Hanghatások engedélyezése</string>
-    <string name="pref_title_record_type">Felvétel fájltípusa</string>
-    <string name="preferences_title">Beálítások</string>
-    <string name="status_bar_recording_back">Vissza a hangögzítőhöz</string>
+    <string name="preference_record_type_title">Felvétel típusa</string>
+    <string name="preference_record_type_dialog_title">Válassza ki a felvétel típusát</string>
+    <string name="preference_silent_mode">Csörgés némítása felvétel alatt</string>
+    <string name="error_filename_too_long">A fájlnév túl hosszú</string>
+    <string name="duration_format_hour">%só</string>
+    <string name="duration_format_minute">%sp</string>
+    <string name="duration_format_second">%smp</string>
+    <string name="toast_max_record_time">Alk:%1$s maximum %2$s felvételt támogat</string>
+    <string name="message_file_size_error">A felvétel elérte a maximálisan %s támogatott hosszúságot</string>
 </resources>

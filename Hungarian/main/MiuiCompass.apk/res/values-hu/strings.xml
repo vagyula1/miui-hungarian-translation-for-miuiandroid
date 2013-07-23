@@ -9,10 +9,10 @@
     <string name="location_west">%s Ny</string>
     <string name="menu_calibrate">Kalibrálás</string>
     <string name="menu_calibrate_altitude">Kalibrálási magasság</string>
-    <string name="calibrate_success">Kalibrálás befejezvee</string>
+    <string name="calibrate_success">A kalibrálás befejeződött</string>
     <string name="calibrate_failed_no_location">A kalibráció hiba: Nem sikerült az aktuális hosszúságot és szélességet bemérni</string>
     <string name="pressure_title">Légnyomás</string>
-    <string name="altitude_title">Magasság</string> 
+    <string name="altitude_title">Magasság</string>
     <string name="pressure">%.1f</string>
     <string name="altitude">%.1f</string>
     <string name="dialog_title_no_network">Nem talált hálózatot, csatlakozzon Wi-Fi-hez vagy engedélyezze az adatkapcsolatot</string>
@@ -23,4 +23,6 @@
     <string name="direction_south">D</string>
     <string name="direction_east">K</string>
     <string name="direction_west">Ny</string>
+    <string name="guide_toast">"Lehetséges,hogy interferencia van a mágneses mező körül.
+Kalibrálja az iránytűt a kép közepén lévő ábra szerint."</string>
 </resources>

@@ -5,22 +5,23 @@
     <string name="activating">Aktiválás...</string>
     <string name="alwaysUsePrompt">Beállítás alapért.-ként (ne kérdezzen rá legközelebb)</string>
     <string name="android_lockscreen_glogin_instructions">Feoldáshoz lépjen be a fiókjába</string>
-    <string name="arbor_day">Arbor Day</string>
+    <string name="today">Ma</string>
+    <string name="tomorrow">Holnap</string>
+    <string name="yesterday">Tegnap</string>
     <string name="autumn_begins">Fall Begins</string>
     <string name="autumn_equinox">Fall Equinox</string>
     <string name="callNoAnswerTimeFormat">Csengetés %s alkalommal</string>
-    <string name="call_record_or">or</string>
+    <string name="call_record_or">vagy</string>
     <string name="call_record_sample_prefix_miui">Hívásrögzítés</string>
     <string name="caller_info_name_delimiter">vagy</string>
     <string name="check_phone_error_title">Szinkronizálás megnyitása sikertelen</string>
     <string name="check_phone_io_error">Hálózati hiba</string>
-    <string name="childrens_day">"Children's Day"</string>
+    <string name="childrens_day">"Gyermeknap"</string>
     <string name="chinese_youth_day">Youth Day</string>
-    <string name="christmas_day">Christmas Day</string>
+    <string name="christmas_day">Karácsony</string>
     <string name="clear_and_bright">Clear and Bright</string>
     <string name="cold_dews">Cold dew</string>
     <string name="delete">Töröl</string>
-    <string name="device_xiaomi">Xiaomi telefon</string> 
     <string name="error_forbidden">You account has some issues. Szinkronizálás letiltva.</string>
     <string name="error_not_acceptable">Szerver hiba. Szinkronizálás letiltva.</string>
     <string name="error_title">Szinkronizálási hiba : %s</string>
@@ -75,7 +76,10 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="month_of_october">Okt</string>
     <string name="month_of_september">Sze</string>
     <string name="multi_select_title">Kiválasztva: %1$s</string>
+    <string name="national_day">Nemzeti ünnep</string>
+    <string name="national_father_day">Apák napja</string>
     <string name="never">Soha</string>
+    <string name="new_years_day">Újév</string>
     <string name="no_sim">Nincs SIM, a szolgáltatás nem elérhető</string>
     <string name="payphone">Payphone</string>
     <string name="perm_auto_backup">Automatikus mentés</string>
@@ -90,7 +94,6 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="permlab_accessNote">Access your notes</string>
     <string name="private_num">Privát szám</string>
     <string name="reboot_confirm">A készülék újraindul</string>
-	<string name="reboot_confirm_title">Újraindítja a készüléket?</string> 
     <string name="reboot_progress">Újraindítás...</string>
     <string name="reverse_all">Mind törlése</string>
     <string name="safetylegal_activity_unreachable">A készülék nem kapcsolódik adatszolgáltatáshoz. Ezt ellenőrizheti %s egy Internet-hez csatlakoztatott számítógépen.</string>
@@ -157,7 +160,6 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="unlocking_sim_card">SIM kártya feloldása</string>
     <string name="short_pukcode_error_msg">Csak kevesebb,mint 8 szám lehet</string>
     <string name="short_pincode_error_msg">Csak 4–8 szám lehet</string>
-    <string name="shutdown_confirm_title">Kikapcsolja a készüléket?</string> 
     <string name="input_pin_code">PIN kód</string>
     <string name="input_pin_code_to_unlock">Írja be a PIN kódot a feloldásához</string>
     <string name="pincode_set_to_default_msg">PIN kód code is set to 1234, please reset PIN here.</string>
@@ -174,8 +176,7 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="send">Küldés</string>
     <string name="share">Megosztás</string>
     <string name="perm_data_update_lab">Adatfrissítés</string>
-
-
+    <string name="device_xiaomi">Xiaomi telefon</string>
     <string name="sim_unavailable">A SIM kártya nem elérhető</string>
     <string name="sim_locked">SIM kártya lezárva</string>
     <string name="sim_not_ready">Sim kártya használatban. Próbálja később.</string>
@@ -183,6 +184,8 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="sim_changed_reactivate_int_notice">A jelenlegi SIM kártya nincs aktiválva. A szolgáltatás aktiváláshoz egy üzenet elküldése szükséges,aktivála most?</string>
     <string name="days">nap</string>
     <string name="hours">%d óra</string>
-    <string name="minutes">%d perc</string> 
+    <string name="minutes">%d perc</string>
+    <string name="shutdown_confirm_title">Kikapcsolja a készüléket?</string>
+    <string name="reboot_confirm_title">Újraindítja a készüléket?</string>
     <string name="first_back_long_press_title">Vissza hardver gomb - Alkalmazás kényszerített bezárása</string>
 </resources>

@@ -10,7 +10,7 @@
         <item>Ébresztés %2$s %3$s múlva</item>
         <item>Ébresztés %1$s %2$s %3$s múlva</item>
     </string-array>
-    <string-array name="contact_entries">
+	 <string-array name="contact_entries">
         <item>Név</item>
         <item>Becenév</item>
         <item>Telefon</item>

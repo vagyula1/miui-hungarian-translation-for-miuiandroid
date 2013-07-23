@@ -21,7 +21,8 @@
     <string name="alert">Csengőhang</string>
     <string name="time">Időpont</string>
     <string name="alarm_alert_dismiss_text">Elvetés</string>
-    <string name="alarm_alert_alert_silenced">Az ébresztés elnémítva %d perc után</string>
+    <string name="alarm_alert_alert_silenced">Az ébresztés elnémítva %d perc után.</string>
+    <string name="timer_alert_alert_silenced">Az időzítő elnémítva %d perc után.</string>
     <string name="alarm_alert_snooze_text">Szundi</string>
     <string name="alarm_alert_snooze_set">Szundi %d percig.</string>
     <string name="day">1 nap</string>
@@ -102,7 +103,8 @@ Leálíthatja az riasztást"</string>
     <string name="stopwatch_lap_empty_text">Nincs részidő</string>
     <string name="timer_got_it">Ok</string>
     <string name="timer_start_alarm">Letelt az idő</string>
-    <string name="dialog_confirm_abort">Elvetni a módosításokat?</string>
+    <string name="dialog_confirm_abort">Menti a módosításokat?</string>
+    <string name="confirm_abort">Elvet</string>
     <string name="remind_ringtone">Emlékeztető hang</string>
     <string name="keep_screen_on">Képernyőn tart</string>
     <string name="start_up">Indít</string>
@@ -113,8 +115,7 @@ Leálíthatja az riasztást"</string>
     <string name="timer_message">%1$d perc</string>
     <string name="timer_tutorial">Csúsztassa jobbra</string>
     <string name="shutdown_alarm_title">Kikapcsolás jelzés</string>
-    <string name="alarm_count_never_summary">, soha nem áll meg</string>
-	<string name="shutdown_alarm_enable_summary">Kikapcsolás jelzés engedélyezése</string>
+    <string name="shutdown_alarm_enable_summary">Kikapcsolás jelzés engedélyezése</string>
     <string name="shutdown_alarm_disable_summary">Kikapcsolás jelzés tiltása</string>
     <string name="workday_alarm_clock">Munkanapi ébresztő</string>
     <string name="weekend_alarm_clock">Hétvégi ébresztő</string>
