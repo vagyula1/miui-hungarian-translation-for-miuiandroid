@@ -4,11 +4,11 @@
         <item>Ébresztés 1 percen belül.</item>
         <item>Ébresztés %1$s múlva.</item>
         <item>Ébresztés %2$s múlva.</item>
-        <item>Ébresztés %1$s és %2$s múlva.</item>
+        <item>Ébresztés %1$s %2$s múlva.</item>
         <item>Ébresztés %3$s múlva.</item>
-        <item>Ébresztés %1$s és %3$s múlva.</item>
-        <item>Ébresztés %2$s és %3$s múlva.</item>
-        <item>Ébresztés %1$s, %2$s és %3$s múlva.</item>
+        <item>Ébresztés %1$s %3$s múlva.</item>
+        <item>Ébresztés %2$s %3$s múlva.</item>
+        <item>Ébresztés %1$s, %2$s %3$s múlva.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 perc</item>

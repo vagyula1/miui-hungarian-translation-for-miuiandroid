@@ -99,7 +99,7 @@
     <string name="theme_import_new_download">Importálás...</string>
     <string name="theme_import_fail">%1$s téma importálása nem sikerült</string>
     <string name="theme_import_data">Téma adatok importálása...</string>
-    <string name="theme_batch_has_update_text">%1$d témának elérhető újabb verziója</string>
+    <string name="theme_batch_has_update_text">%1$d téma friisíthető újabb verzióra</string>
     <string name="theme_batch_updating_text">%1$d téma frissítése</string>
     <string name="theme_batch_update_all">Mind frissítése</string>
     <string name="theme_batch_update_dlg_title">Frissítés</string>
