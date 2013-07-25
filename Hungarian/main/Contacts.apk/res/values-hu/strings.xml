@@ -59,7 +59,6 @@ Please reopen this app to refresh resource."</string>
     <string name="loading_resource_detail_info">Betöltés ...</string>
     <string name="loading_resource_detail_fail">A téma betöltése nem sikerült!</string>
     <string name="account_abnormal_state">Abnormal account information, try to login in again or try again later!</string>
-
     <string name="launcherDialer">Telefon</string>
     <string name="people">Személyek</string>
     <string name="contactsList">Címtár</string>
@@ -77,6 +76,7 @@ Please reopen this app to refresh resource."</string>
     <string name="viewContactTitle">Névjegy adatai</string>
     <string name="viewContactDesription">Névjegy megtekintése</string>
     <string name="editContactDescription">Névjegy szerkesztése</string>
+	<string name="duplicate_group_name">A csoportnév már létezik</string> 
     <string name="insertContactDescription">Névjegy létrehozása</string>
     <string name="editGroupDescription">Csoport szerkesztés</string>
     <string name="insertGroupDescription">Új csoport létrehozása</string>

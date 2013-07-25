@@ -341,4 +341,20 @@
     <string name="kick_sharer_failed">Megosztó eltávolítása nem sikerült</string>
     <string name="share_user_name">Név</string>
     <string name="album_share_stat_content">Új album megosztása</string>
+	<string name="accept">Elfogadom</string>
+	<string name="album_quota_fulfiled">"Az új album létrehozása nem sikerült, albumok száma elérte a maximumot.."</string>
+	<string name="album_share_kicked">Eltávolítva innen: %1$s</string>
+	<string name="album_share_subtitle_accepting">%1$s meghívás elfogadása...</string>
+    <string name="album_share_subtitle_denying">%1$s meghívás elutasítása...</string>
+    <string name="album_share_subtitle_invited">Megosztva %1$s, elfogadja vagy elutasítja?</string>
+    <string name="album_share_subtitle_normal">Megosztva %1$s</string>
+    <string name="album_share_subtitle_not_ready">Album információ nincs kész. Kattintson a letöltéshez.</string>
+    <string name="album_share_subtitle_quitting">%1$s meghívás bezárása...</string>
+    <string name="album_share_subtitle_requesting">Album információ letöltése...</string>
+    <string name="album_share_title_new_album">Új megosztott album</string>
+	<string name="error_socket_timeout">Időtúllépés,próbálja később újra</string>
+	<string name="gallery_setting">Galéria beállítások</string>
+	<string name="image_quota_fulfiled">"Az új kép létrehozása nem sikerült, a képek száma elérte a maximumot."</string>
+	<string name="landscape_mode">Fekvő nézet engedélyezése</string>
+	<string name="sharer_quota_fulfiled">"Megosztó hozzáadása nem sikerült, a megosztás elérte a maximumot."</string> 
 </resources>
