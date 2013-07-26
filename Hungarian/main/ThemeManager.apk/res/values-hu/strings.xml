@@ -177,7 +177,7 @@ Téma frissítéshez nyissa meg újra.</string>
     <string name="resource_no_result">Nincs</string>
     <string name="resource_list_title">Legutóbb kiválasztott</string>
     <string name="resource_get_auth_checking">Engedélyezés...</string>
-    <string name="resource_get_auth_retrieving">Letöltés engedélyezése...</string>
+    <string name="resource_get_auth_retrieving">Engedélyezés...</string>
     <string name="resource_get_auth_missing">A téma nem a marketről származik, kérem töltse le onnan.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Nincs több próbálkozás!</string>
     <string name="resource_get_auth_exceed_max_limit_tips">A téma nem futtatható. Elérte a maximális 10 próbálkozást a Xiaomi fiókja. Próbálja másik fiókkal.</string>

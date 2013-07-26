@@ -115,7 +115,7 @@
     <string name="pref_summary_mms_auto_retrieval">Üzenetek automatikus letöltése</string>
     <string name="pref_title_mms_retrieval_during_roaming">Letöltés barangoláskor</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Üzenetek automatikus letöltése barangolás közben</string>
-    <string name="to_label">"To "</string>
+    <string name="to_label">"Címzett "</string>
     <string name="confirm_dialog_title">Törlés</string>
     <string name="confirm_dialog_locked_title">Zárolt üzenetek törlése?</string>
     <string name="confirm_delete_conversation">Az egész szál törlésre kerül.</string>
@@ -283,6 +283,7 @@
     <string name="pref_time_auto_group_summary">Csoportosítva időrendben</string>
     <string name="bookmark_list_title">Kedvencek</string>
     <string name="delete_bookmark">Törlés a kedvencek közül</string>
+    <string name="view_bookmark">Eredeti üzenet megtekintése</string>
     <string name="bookmark_confirm_delete_message">A kiválasztott üzenetek törlődnek a kedvencek közül</string>
     <string name="bookmark_empty">Nincs könyjelző</string>
     <string name="phrase_list_title">Kifejezések</string>

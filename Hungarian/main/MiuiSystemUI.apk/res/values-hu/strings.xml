@@ -242,7 +242,7 @@
     <string name="status_bar_recording_back">Vissza a Hangrögzítőhöz</string>
     <string name="status_bar_recording_pause">A felvétel szüneteltetve.</string>
     <string name="headset_settings">Fülhallgató csatlakoztatva</string>
-    <string name="headset_info">Gombok múveleteinek testreszabása</string>
+    <string name="headset_info">Hangerőgombok testreszabása</string>
     <string name="headset_custom">Testreszabás</string>
     <string name="status_bar_toggle_ac">Hozzáférési kontroll</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
