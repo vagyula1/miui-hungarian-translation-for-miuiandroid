@@ -189,4 +189,8 @@ Téma frissítéshez nyissa meg újra.</string>
     <string name="loading_resource_detail_info">Töltés...</string>
     <string name="loading_resource_detail_fail">Téma betöltése nem sikerült!</string>
     <string name="account_abnormal_state">A fiókazonosítás nem sikerült, lépjen be újra vagy próbálja később!</string>
+	<string name="deleting">Törlés...</string>
+    <string name="resource_delta_update_failed">A frissítés nem sikerült! A teljes téma letöltése</string>
+    <string name="resource_delta_update_successful">Frissítés sikeres，%1$s mentése.</string>
+	<string name="resource_import_successful">Letöltve.</string> 
 </resources>

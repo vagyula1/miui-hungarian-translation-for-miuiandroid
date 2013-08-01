@@ -4,20 +4,20 @@
         <item>Google</item>
         <item>google.com</item>
         <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/search?hl={language}&amp;amp;amp;amp;ie={inputEncoding}&amp;amp;amp;amp;source=android-browser&amp;amp;amp;amp;q={searchTerms}</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;amp;amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Mindig bekapcsolva</item>
         <item>Igény szerint</item>
-        <item>Ki</item>
+	<item>Ki</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>MIUI honlap</item>
         <item>Legtöbbet látogatott webhelyek</item>
-        <item>Egyéb</item>
-    </string-array>
+ 	<item>Egyéb</item>
+    </string-array> 
     <string-array name="pref_text_size_choices">
         <item>Apró</item>
         <item>Kicsi</item>
@@ -27,9 +27,9 @@
     </string-array>
     <string-array name="pref_default_zoom_choices">
         <item>Távoli</item>
-        <item>Közepes</item>
+  	<item>Közepes</item>
         <item>Közeli</item>
-    </string-array>
+    </string-array> 
     <string-array name="pref_development_ua_choices">
         <item>Android</item>
         <item>Desktop</item>
@@ -52,31 +52,32 @@
  	<item>Soha</item>
  	<item>Csak Wi-Fi</item>
  	<item>Mindig</item>
-	</string-array>
+    </string-array>
     <string-array name="pref_link_prefetch_choices">
-		<item>Soha</item>
-		<item>Csak Wi-Fi</item>
-		<item>Mindig</item>
-    </string-array> 
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-        <item>Froyo-N1</item>
-        <item>Honeycomb-Xoom</item>
+	<item>Soha</item>
+	<item>Csak Wi-Fi</item>
+	<item>Mindig</item>	
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Oldal fel/le</item>
-        <item>Ablakváltás</item>
+ 	<item>Ablakváltás</item>    
     </string-array>
     <string-array name="pref_fling_on_border_choices">
-        <item>Oldal eleje/vége</item>
-        <item>Ablakváltás</item>
-    </string-array>
+ 	<item>Oldal eleje/vége</item>
+	<item>Ablakváltás</item>
+    </string-array> 
     <string-array name="pref_images_preload_choices">
-        <item>Soha</item>
+	<item>Soha</item>
         <item>Intelligens</item>
-        <item>Mindig</item>
+ 	<item>Mindig</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Fehér</item>
+        <item>Sárga</item>
+        <item>Szürke</item>
+        <item>Barna</item>
+        <item>Zöld</item>
+        <item>Kék</item>
+        <item>Sötét</item>
     </string-array>
 </resources>

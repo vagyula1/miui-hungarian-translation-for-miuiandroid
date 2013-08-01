@@ -862,4 +862,10 @@ Please reopen this app to refresh resource."</string>
     <string name="keep_local_btn">Csak a telefonra mentse</string>
     <string name="batch_delete">Névjegyek törlése</string>
     <string name="batch_delete_msg">"Törli a %d kiválasztott névjegyet?</string>
+    <string name="deleting">Törlés...</string> 
+    <string name="dlg_add_blacklist">Hozzáadja számot a feketelistához?</string>
+    <string name="dlg_remove_blacklist">Eltávolítja a számot a feketelistából?</string> 
+    <string name="resource_delta_update_failed">A frissítés nem sikerült! A teljes téma letölthető</string>
+    <string name="resource_delta_update_successful">Frissítve, %1$s mentése.</string> 
+    <string name="resource_import_successful">Letöltve.</string> 
 </resources>

@@ -973,4 +973,7 @@
   <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="enable_antispam_strange_summary">&gt;Első hívás némítása ismeretlen szám esetén</string>
+  <string name="enable_antispam_strange_title">Ismeretlen hívás</string>
+  <string name="phone_info_divider">"  |  "</string> 
 </resources>

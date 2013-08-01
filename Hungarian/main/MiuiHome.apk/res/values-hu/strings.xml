@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="home_indicator">bottom_point</string>
     <string name="account_abnormal_state">Bejelentkezési hiba, próbálja újra.</string>
     <string name="activity_not_found">Az alkalmazás nincs telepítve.</string>
     <string name="application_name">MiuiHome</string>
@@ -165,6 +164,7 @@
     <string name="status_bar_toggle_torch">Lámpa</string>
     <string name="status_bar_toggle_vibrate">Rezgés</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
+    <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
     <string name="title_select_live_folder">Mappa kiválasztása</string>
     <string name="title_select_shortcut">Parancsikon kiválasztása</string>
     <string name="toggle_select_title">Kapcsoló választás</string>

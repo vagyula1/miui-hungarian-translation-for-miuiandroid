@@ -243,7 +243,7 @@
     <string name="status_bar_recording_pause">A felvétel szüneteltetve.</string>
     <string name="headset_settings">Fülhallgató csatlakoztatva</string>
     <string name="headset_info">Hangerőgombok testreszabása</string>
-    <string name="headset_custom">Testreszabás</string>
+    <string name="headset_custom">Beállítás</string>
     <string name="status_bar_toggle_ac">Hozzáférési kontroll</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Háttérv.</string>
@@ -254,6 +254,7 @@
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Képernyőz.</string>
     <string name="status_bar_toggle_mute">Néma</string>
+    <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
     <string name="status_bar_toggle_network_type">Hálózat típus</string>
     <string name="status_bar_toggle_privacy_mode">Védelem</string>
     <string name="status_bar_toggle_reboot">Újraindítás</string>

@@ -10,7 +10,8 @@
     <string name="menu_calibrate">Kalibrálás</string>
     <string name="menu_calibrate_altitude">Kalibrálási magasság</string>
     <string name="calibrate_success">A kalibrálás befejeződött</string>
-    <string name="calibrate_failed_no_location">A kalibráció hiba: Nem sikerült az aktuális hosszúságot és szélességet bemérni</string>
+    <string name="calibrate_failed_no_location">Hiba a kalibrálás során: Nem sikerült az aktuális hosszúságot és szélességet bemérni</string>
+    <string name="calibrate_failed_timeout">A szerverhez csatlakozás időtúllépése miatt nem sikerült a kalibrálás</string>
     <string name="pressure_title">Légnyomás</string>
     <string name="altitude_title">Magasság</string>
     <string name="pressure">%.1f</string>
