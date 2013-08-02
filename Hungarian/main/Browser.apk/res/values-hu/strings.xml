@@ -87,7 +87,6 @@
     <string name="bookmarks_content_is_null">Nincs könyvjelző</string>
     <string name="bookmarks_management">Könyvjelzők</string>
     <string name="bookmarks_root_folder">Gyökérkönyvtár</string>
-    <string name="bookmarks_search">Böngésző</string>
     <string name="bookmarks">Könyvjelzők</string>
     <string name="bookmarks_search">Böngésző</string>
     <string name="browserFrameFileErrorLabel">Probléma a fájllal</string>   
@@ -303,7 +302,6 @@
     <string name="pref_confirm_for_exit">Kilépéskor megerősítés</string>
     <string name="pref_content_autofit_summary">A képernyőhöz igazítja a weboldalakat</string>
     <string name="pref_content_autofit">Oldalak automatikus igazítása</string>
-    <string name="pref_content_autofit_summary">Honlapok illeszkesése a képernyőhöz</string>
     <string name="pref_content_block_popups">Pop-upok letiltása</string>
     <string name="pref_content_fontsize_setting">Betűtípus beállítás</string>
     <string name="pref_content_homepage">Kezdőlap beállítása</string>
@@ -331,7 +329,6 @@
     <string name="pref_default_zoom">Alapértelmezett nagyítás</string>
     <string name="pref_developer_options_summary">Hibakeresés vagy a hiba jelentés</string>
     <string name="pref_developer_options">Fejlesztői lehetőségek</string>
-    <string name="pref_developer_options_summary">Hibakeresés,hibajelentés</string>
     <string name="pref_development_cpu_upload_path">Enable Cpu Upload Path</string>
     <string name="pref_development_error_console">Show JavaScript Console</string>
     <string name="pref_development_hardware_accel">Enable OpenGL Rendering</string>
