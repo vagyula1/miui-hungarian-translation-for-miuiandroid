@@ -87,7 +87,6 @@
     <string name="bookmarks_content_is_null">Nincs könyvjelző</string>
     <string name="bookmarks_management">Könyvjelzők</string>
     <string name="bookmarks_root_folder">Gyökérkönyvtár</string>
-    <string name="bookmarks_search">Böngésző</string>
     <string name="bookmarks">Könyvjelzők</string>
     <string name="browserFrameFileErrorLabel">Probléma a fájllal</string>  
     <string name="browserFrameFormResubmitMessage">A megtekinteni kívánt oldal már elküldött adatokat (\"POSTDATA\") is tartalmaz. Ha újraküldi az adatokat, az oldalon lévő űrlappal kapcsolatos valamennyi művelet (például a keresés vagy az online vásárlás) újra végrehajtásra kerül.</string>
