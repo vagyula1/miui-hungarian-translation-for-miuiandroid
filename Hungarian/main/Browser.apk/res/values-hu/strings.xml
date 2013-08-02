@@ -89,8 +89,7 @@
     <string name="bookmarks_root_folder">Gyökérkönyvtár</string>
     <string name="bookmarks_search">Böngésző</string>
     <string name="bookmarks">Könyvjelzők</string>
-    <string name="bookmarks_search">Böngésző</string>
-    <string name="browserFrameFileErrorLabel">Probléma a fájllal</string>   
+    <string name="browserFrameFileErrorLabel">Probléma a fájllal</string>  
     <string name="browserFrameFormResubmitMessage">A megtekinteni kívánt oldal már elküldött adatokat (\"POSTDATA\") is tartalmaz. Ha újraküldi az adatokat, az oldalon lévő űrlappal kapcsolatos valamennyi művelet (például a keresés vagy az online vásárlás) újra végrehajtásra kerül.</string>
     <string name="browserFrameNetworkErrorLabel">Csatlakozási probléma</string>
     <string name="browser_bookmarks_page_bookmarks_text">Könyvjelzők</string>
@@ -128,7 +127,7 @@
     <string name="contextmenu_set_wallpaper">Beállítás háttérképként</string>
     <string name="contextmenu_sharelink">Link megosztása</string>
     <string name="contextmenu_view_image">Kép megtekintése</string>
-    <string name="copy_link">Link másolás</string>
+    <string name="copy_link">Másolás</string>
     <string name="copy_page_url">Az oldal URL-jének másolása</string>
     <string name="crash_recovcery_message">A böngésző szabálytalanul leállt. Visszaállítja az előzményeket?</string>
     <string name="create_shortcut_bookmark">Parancsikon a főoldalra</string>
@@ -206,7 +205,7 @@
     <string name="go_home">Kezdőlap</string>
     <string name="google_bookmarks">"Google: "</string>
     <string name="goto_dot">Ugrás</string>
-    <string name="have_sent_bookmark_to_home_screen">Képernyőre küldve</string>
+    <string name="have_sent_bookmark_to_home_screen">Az oldal parancsikonja az asztalra helyezve</string>
     <string name="history_browsed">Előzmények</string>
     <string name="history_most_visited">Leglátogatottabb</string>
     <string name="history_saved_webpage">Honlap mentése</string>
@@ -303,7 +302,6 @@
     <string name="pref_confirm_for_exit">Kilépéskor megerősítés</string>
     <string name="pref_content_autofit_summary">A képernyőhöz igazítja a weboldalakat</string>
     <string name="pref_content_autofit">Oldalak automatikus igazítása</string>
-    <string name="pref_content_autofit_summary">Honlapok illeszkesése a képernyőhöz</string>
     <string name="pref_content_block_popups">Pop-upok letiltása</string>
     <string name="pref_content_fontsize_setting">Betűtípus beállítás</string>
     <string name="pref_content_homepage">Kezdőlap beállítása</string>
@@ -329,9 +327,8 @@
     <string name="pref_default_text_encoding">Szöveg kódolása</string>
     <string name="pref_default_zoom_dialogtitle">Alapértelmezett nagyítás</string>
     <string name="pref_default_zoom">Alapértelmezett nagyítás</string>
-    <string name="pref_developer_options_summary">Hibakeresés vagy a hiba jelentés</string>
+    <string name="pref_developer_options_summary">Hibakeresés vagy a hibajelentés</string>
     <string name="pref_developer_options">Fejlesztői lehetőségek</string>
-    <string name="pref_developer_options_summary">Hibakeresés,hibajelentés</string>
     <string name="pref_development_cpu_upload_path">Enable Cpu Upload Path</string>
     <string name="pref_development_error_console">Show JavaScript Console</string>
     <string name="pref_development_hardware_accel">Enable OpenGL Rendering</string>
@@ -432,7 +429,9 @@
     <string name="pref_security_show_security_warning_summary">Figyelmeztetés megjelenítése, ha gond van a webhely biztonságával</string>
     <string name="pref_set_homepage_to">Beállítás</string>
     <string name="pref_setting_title">Oldal beállítások</string>
-    <string name="pref_text_zoom">Szöveg nagyítása</string>
+     <string name="pref_text_zoom">Szöveg nagyítása</string>
+   
+   
     <string name="pref_ua_string">szöveg</string>
     <string name="pref_ua_title">Felhasználói ügynök kezelése</string>  
     <string name="pref_use_instant_search">Google Instant</string>
@@ -462,7 +461,7 @@
     <string name="recover_from_crash">Az legutóbbi ablak megjelenítése</string>
     <string name="remove">Eltávolítás</string>
     <string name="reload">Frissítés</string>
-    <string name="remove_bookmark">Könyvjelző törlése</string>
+    <string name="remove_bookmark">Törlés</string>
     <string name="remove_from_bookmarks">Eltávolítás a könyvjelzők közül</string>
     <string name="remove_history_item">Eltávolítás az előzmények közül</string>
     <string name="remove_snapshot">Mentett oldal törlése</string>
@@ -491,10 +490,10 @@
     <string name="select_dot">Szöveg kijelölése</string>
     <string name="selection_all">Mind kijelölése</string>
     <string name="send_bookmark_to_home_screen">Küldés az asztalra</string>
-    <string name="send_to_desktop">Asztalra küldés</string>
+    <string name="send_to_desktop">Asztalra</string>
     <string name="set_as_homepage">Beállítás kezdőlapként</string>
     <string name="share_link">Link megosztás</string>
-    <string name="share_page">Oldal megosztása</string>
+    <string name="share_page">Megosztás</string>
     <string name="shortcut_bookmark_title">Válasszon egy könyvjelzőt</string>
     <string name="shortcut_bookmark">Könyvjelző</string>
     <string name="sign_in_to" formatted="false">Jelentkezzen be ide: %s1 \"%s2\"</string>
@@ -532,7 +531,7 @@
     <string name="too_many_windows_dialog_title">Elérte a lapok maximális számát</string>
     <string name="ua_switcher_desktop">Asztali webhely kérése</string>
     <string name="uploads_disabled">A fájlok feltöltése le van tiltva.</string>
-    <string name="url_copy_done">Url kimásolva</string>
+    <string name="url_copy_done">Link kimásolva</string>
     <string name="url_hint">Írja be az URL címet</string>
     <string name="username">Név</string>
     <string name="view_certificate">Tanúsítvány megtekintése</string>
