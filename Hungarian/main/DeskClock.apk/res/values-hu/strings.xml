@@ -127,15 +127,6 @@ Leálíthatja az riasztást"</string>
     <string name="legal_workday_invalidate">Az adatok elavultak (Az ébresztés Hétfőtől Péntekig tart)</string>
     <string name="legal_workday_invalidate_message">(Az adatok elavultak. Frissítés a beállításokban)</string>
     <string name="legal_workday_message">(Ébresztés kikapcsolva szabadnapokon)</string>
-    <string name="update_legal_workday_toast">Kinai ünnepnapok frissítése a beállításokban</string>
-    <string name="holiday_update_pref_title">Munkanapok frissítése</string>
-    <string name="holiday_update_pref_invalidate_title">Munkanapok frissítése (elavult)</string>
-    <string name="holiday_update_pref_summary">Kattintson a frissítések ellenőrzéséhez</string>
-    <string name="holiday_data_updating">Frissítés...</string>
-    <string name="holiday_data_update_failed">Frissítési hibák ellenőrzése.</string>
-    <string name="holiday_data_update_succeed">Teljes frissítés ellenőrzése</string>
-    <string name="holiday_data_already_newest">A munkanapok frissek</string>
-    <string name="holiday_data_no_network">Nincs hálózat, próbálja később</string>
     <string name="default_alarm_alert">Alapértelmezett ébresztőhang</string>
     <string name="default_alarm_title">Alapértelmezett ébresztőhang</string>
     <string name="alarm_alert">Ébresztés hangja</string>

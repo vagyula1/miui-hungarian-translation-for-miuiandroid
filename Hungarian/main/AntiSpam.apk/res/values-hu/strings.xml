@@ -30,8 +30,8 @@
   <string name="dlg_remove_blacklist_ok">Eltávolítás</string>
   <string name="dlg_retore">Visszaállítja az üzeneteket?</string>
   <string name="dlg_retore_ok">Visszaállítás</string>
-  <string name="fw_blocked">Blokkolási statisztika</string>
   <string name="fw_blocked_count" formatted="false">Blokkolva: %d hívás és %d üzenet</string>
+  <string name="fw_blocked">Blokkolási statisztika</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">%d személy kijelölve</string>
   <string name="marked_by_user">kijelölve</string>
@@ -58,17 +58,14 @@
   <string name="menu_sms">Üzenetküldés</string>
   <string name="qm_auto_button_title">Ütemezés</string>
   <string name="qm_auto_setting_group">Automatikus be és kikapcsolás</string>
-  <string name="qm_auto_time_setting">Csendes üzemmód intervalluma</string>
   <string name="qm_auto_time_setting_summary">Kezdete: %1$s, Vége: %2$s</string>
-  <string name="qm_auto_time_turn_off">Vége</string>
+  <string name="qm_auto_time_setting">Csendes üzemmód intervalluma</string>
   <string name="qm_auto_time_turn_off_title">Válassza ki a csendes üzemmód kikapcsolási idejét</string>
-  <string name="qm_auto_time_turn_on">Kezdete</string>
+  <string name="qm_auto_time_turn_off">Vége</string>
   <string name="qm_auto_time_turn_on_title">Válassza ki a csendes üzemmód bekapcsolási idejét</string>
+  <string name="qm_auto_time_turn_on">Kezdete</string>
   <string name="qm_notification">Csendes üzemmód bekapcsolva</string>
   <string name="qm_open">Csendes üzemmód</string>
-  <string name="qm_other_settings">Speciális</string>
-  <string name="qm_other_settings_group">Egyéb beállítások</string>
-  <string name="qm_other_settings_info">Hívások és üzenetek beállítása csendes üzuemmód esetén</string>
   <string name="qm_repeated_call_setting_title">"Ismételt bejövő hívások"</string>
   <string name="qm_repeated_call_summary_3min">Ne némítsa le a hívást, ha ugyanattól a személytől 3 percen belül újabb hívás érkezik</string>
   <string name="qm_repeated_call_summary_none">Ne tegyen kivételt az ismetélt hívásokra</string>
@@ -83,7 +80,6 @@
   <string name="qm_vip_list_custom">Fehérlista</string>
   <string name="qm_vip_list_custom_group">Fehérlistám</string>
   <string name="qm_vip_list_group">Fehérlista</string>
-  <string name="qm_vip_sms_setting_button">Fehérlistás üzenetek némítása</string>
   <string name="quiet_mode">Csendes üzemmód</string>
   <string name="st_bl_block_setting_title">Kérdezzen rá később</string>
   <string name="st_bl_setting_group">Feketelista beállítások</string>
@@ -101,7 +97,9 @@
   <string name="st_mute_all">Hívások és üzenetek lenémítva</string>
   <string name="st_mute_block">Lenémított hívások és blokkolt üzenetek</string>
   <string name="st_mute_title">Csendes üzemmód</string>
+  <string name="st_other_settings_group">Egyéb</string>
   <string name="st_settings_name">Beállítások</string>
+  <string name="st_show_block_notification">Blokkolt értesítések kijelzése</string>
   <string name="st_sms_group">Üzenetek</string>
   <string name="tab_blacklist">Feketelista</string>
   <string name="tab_block_log">Tűzfal</string>

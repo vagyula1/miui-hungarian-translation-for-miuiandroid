@@ -76,7 +76,7 @@ Please reopen this app to refresh resource."</string>
     <string name="viewContactTitle">Névjegy adatai</string>
     <string name="viewContactDesription">Névjegy megtekintése</string>
     <string name="editContactDescription">Névjegy szerkesztése</string>
-	<string name="duplicate_group_name">A csoportnév már létezik</string> 
+    <string name="duplicate_group_name">A csoportnév már létezik</string> 
     <string name="insertContactDescription">Névjegy létrehozása</string>
     <string name="editGroupDescription">Csoport szerkesztés</string>
     <string name="insertGroupDescription">Új csoport létrehozása</string>
@@ -467,7 +467,7 @@ Please reopen this app to refresh resource."</string>
     <string name="menu_help">Segítség</string>
     <string name="preference_displayOptions">Megjelenítési beállítások</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
-	<string name="other_contacts">Egyéb</string> 
+    <string name="other_contacts">Egyéb</string> 
     <string name="hint_findContacts">Névjegy keresése</string>
     <string name="non_phone_caption">Telefonszám</string>
     <string name="non_phone_add_to_contacts">Hozzáadás névjegyekhez</string>

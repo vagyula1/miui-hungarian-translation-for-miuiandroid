@@ -68,6 +68,7 @@
     <string name="noti_receiving">%1$s: Fogadás %2$d/%3$d fájl</string>
     <string name="noti_completed">Befejezve, Továbbítva %1$d/%2$d fájl</string>
     <string name="connect_confirm">%1$s csatlakozásra vár</string>
+    <string name="trasfer_list">Átviteli lista</string>
     <string name="about_to_receive">A fogadott fájl(ok)ról</string>
     <string name="receive_canceled">Megszakítva</string>
     <string name="sdcard_unavailable">Az SD kártya nem elérhető</string>
@@ -80,6 +81,7 @@
     <string name="error_not_enough_space">Nincs elég hely</string>
     <string name="error_peer_disconnected">A párosítás megszakadt</string>
     <string name="error_upload">A feltöltés nem sikerült</string>
+    <string name="error_connect_service">Nem sikerült a csatlakozás</string>
     <string name="error_not_selected">Nincs fájl kiválasztva</string>
     <string name="error_select">Fájlhiba vag nincs fájl kiválasztva</string>
     <string name="device_default_name">Xiaomi telefon</string>

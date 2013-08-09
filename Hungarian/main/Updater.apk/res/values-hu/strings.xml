@@ -4,6 +4,7 @@
   <string name="active_xiaomi_account">Aktív</string>
   <string name="active_xiaomi_account_msg">Please go to the MIUI forum to activate Xiaomi account:</string>
   <string name="active_xiaomi_account_title">Xiaomi fiók aktiválása</string>
+  <string name="active_xiaomi_account">Aktív</string>
   <string name="app_name">Frissítés</string>
   <string name="apply_buddy_update_info_message">Indítsa újra a telefont a frissítés érvénybe lépéséhez</string>
   <string name="apply_existing_update_md5error_title">Az MD5 fájl nem egyezik meg!</string>
@@ -57,6 +58,7 @@
   <string name="md5_check_cancelled">MD5 ellenőrzés megszakítva</string>
   <string name="mione_update_fail_description">Hiba, próbálja újra</string>
   <string name="mione_update_fail_title">Frissítés sikertelen</string>
+  <string name="mione_update_success_title">A frissítés befejeződött</string>
   <string name="monthly_build">Havi kiadás</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Nincs elég hely az SD kártyán %dMB adat áthelyezéséhez.</string>
   <string name="move_data_to_sdcard_title">Adat áthelyezése az SD kártyára</string>
@@ -86,7 +88,7 @@
   <string name="reboot_later">Újraindítás később</string>
   <string name="reboot_now">Újraindítás</string> 
   <string name="reboot_to_new_system">Rendszer újraindítása</string>
-  <string name="recommend">Ajánlja</string>
+  <string name="recommend">Ajánlott</string>
   <string name="recommend_comment_hint">Reason (optional)</string>
   <string name="recommend_vote_title">MIUI Beta Team Poll</string>
   <string name="refuse_recommend_reason">Please enter a reason</string>
@@ -121,6 +123,7 @@
   <string name="system_backup_helper">A rendszerfrissítés nem törli a felhasználói adatokat. Mentés ajánlott</string> 
   <string name="system_backup_ok_text">Ok</string>
   <string name="top_secret_build">Titkos kiadás</string>
+  <string name="unstable_build">Fejlesztői kiadás</string>
   <string name="update_comment_hint">(opcionális)</string>
   <string name="update_comment_title">Kommentjei</string>
   <string name="update_feedback">Four-grid Update Feedback</string>
