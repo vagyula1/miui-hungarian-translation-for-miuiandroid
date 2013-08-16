@@ -239,10 +239,10 @@
     <string name="accessibility_zoom_control">Zoomolás</string>
     <string name="empty">" "</string>
     <string name="pref_camera_autoexposure_default">frame-average</string>
-    <string name="pref_camera_autoexposure_title">Válassza ki a megvilágítási módot</string>
-    <string name="pref_camera_autoexposure_entry_frameaverage">Frame Average</string>
-    <string name="pref_camera_autoexposure_entry_centerweighted">Közép súlyozás</string>
-    <string name="pref_camera_autoexposure_entry_spotmetering">Spot Metering</string>
+    <string name="pref_camera_autoexposure_title">Automata expozíció</string>
+    <string name="pref_camera_autoexposure_entry_frameaverage">Keret-átlag</string>
+    <string name="pref_camera_autoexposure_entry_centerweighted">Középsúlyos fénymérés</string>
+    <string name="pref_camera_autoexposure_entry_spotmetering">Pontszerű fénymérés</string>
     <string name="pref_camera_audioencoder_default">aac</string>
     <string name="pref_camera_audio_capture_title">Hangrögzítés</string>
     <string name="pref_camera_video_duration_title">Videofelvétel hossza</string>
