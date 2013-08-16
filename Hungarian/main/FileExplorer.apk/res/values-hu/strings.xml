@@ -2,6 +2,7 @@
 <resources>  
     <string name="add_task">Feladat hozzáadás</string>
     <string name="adding_upload_tasks">Feltöltés hozzáadás.</string>
+    <string name="already_signin_description">Csak egyszer lehet bejelentjezni naponta, nézzen vissza holnap :)</string>
     <string name="app_cache_cleanup_indication">%s gyorsítótár</string>
     <string name="app_cache_title">Alkalmazás gyorsítótár</string>
     <string name="app_garbage_cleanup_indication">%s felesleges alkalmazás</string>
@@ -147,6 +148,7 @@
     <string name="net_lose_connected">Hálózat nem elérhető</string>
     <string name="networkView_notConnected">Nincs elérhető hálózat</string>
     <string name="new_folder_name">Új mappa</string>
+    <string name="no">Nem</string>
     <string name="no_app_cache_indication">Nincs alkalmazás gyorsítótár</string>
     <string name="no_app_garbage_indication">Nincs felesleges alkalmazás</string>
     <string name="no_empty_dir_indication">Nincs üres mappa</string>
@@ -160,7 +162,6 @@
     <string name="no_thumbnail_indication">Nincs indexkép fájl</string>
     <string name="no_wifi_hint">Nincs Wi-Fi kapcsolat</string>
     <string name="no_wifi">Nincs Wi-Fi hálózat</string>
-    <string name="no">Nem</string>
     <string name="notif_server_starting">FTP Szerver elindítva</string>
     <string name="notif_title">FTP Szerver</string>
     <string name="open_changed_file_message">"A megnyitni kívánt fájl megváltozott: 1. Letöltheti (frissíti a helyi fájlt) 2. Feltöltheti (frissíti a távoli fájlt)"</string>
@@ -170,10 +171,11 @@
     <string name="operation_compress">Tömörítés</string>
     <string name="operation_compressing">Tömörítés...</string>
     <string name="operation_copy">Másolás</string>
-    <string name="operation_copying_detail">Fájlok másolása (%1$d/%2$d)</string>
     <string name="operation_copying">Másolás…</string>
-    <string name="operation_create_folder_message">Adja meg a mappa nevét</string>
+    <string name="operation_copying_detail">Fájlok másolása (%1$d/%2$d)</string>
     <string name="operation_create_folder">Új mappa</string>
+    <string name="operation_create_folder_message">Adja meg a mappa nevét</string>
+    
     <string name="operation_decompressing">Kicsomagolás...</string>
     <string name="operation_delete_confirm_message_folder">A könyvtár törlése a benne lévő fájlokat is törli.</string>
     <string name="operation_delete_confirm_message">Biztosan törli?</string>
@@ -241,8 +243,8 @@
     <string name="thumbnail_cleanup_indication">%s indexképek</string>
     <string name="thumbnail_title">Indexképek</string>
     <string name="toast_file_not_can_read">A fájl hibás vagy nem olvasható.</string>
-    <string name="trans_task_delete_confirm_message">Törli a kiválasztott %1$d feladatot?</string>
     <string name="trans_task">Hálózati átvitel</string>
+    <string name="trans_task_delete_confirm_message">Törli a kiválasztott %1$d feladatot?</string>
     <string name="transing">Fájlátvitel…</string>
     <string name="trash_box_capacity">Kuka mérete: %1$s</string>
     <string name="trash_box_link">Látogassa meg a pan.xiaomi.com webhlyet a kuka ürítéséhez</string>
@@ -251,6 +253,7 @@
     <string name="ui_bar_txt_upload_progress">Feltöltés...</string>
     <string name="ui_filechange_btn_download">Fájlok letöltés</string>
     <string name="ui_filechange_btn_upload">Fájlok feltöltése</string>
+    <string name="ui_main_menu_option_sign_in">Bejelentkezés</string>
     <string name="ui_main_menu_option_task_manage">Átvitel kezelő</string>
     <string name="ui_main_progress_txt_open_file">Letöltés...</string>
     <string name="ui_main_toast_favorite_removed">Kedvenc(ek) eltávolítva</string>
@@ -261,12 +264,13 @@
     <string name="upload_file_toolarge_message">%1$d fájl mérete nagyobb,mint 300Mb,nem tölthető fel. Ellenőrizze az Átvitel Kezelőben.</string>
     <string name="uploading">Feltöltés…</string>
     <string name="used">Felhasznált</string>
+     <string name="user_guide">Használati útmutató</string>
     <string name="user_guide_download_other_version">Kuaipan letölthető PC-re és MAC-re egyaránt</string>
     <string name="user_guide_kuaipan_copy">Fájljai elérhetők több eszközön Kuaipan által</string>
     <string name="user_guide_other_version">Kuaipan verzióinak letöltése</string>
     <string name="user_guide_summary">Hogyan használja a MiDrive-ot</string>
     <string name="user_guide_upload_to_kuaipan">A telefonon egyszerűen másolja be a Kuaipan-ba</string>
-    <string name="user_guide">Használati útmutató</string>
+   
     <string name="utf8_summary">Alapértelmezett kódolás típusa</string>
     <string name="utf8_title">UTF-8</string>
     <string name="version_text">%1$s verzió</string>

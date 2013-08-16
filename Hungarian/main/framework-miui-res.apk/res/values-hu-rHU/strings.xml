@@ -7,6 +7,8 @@
     <string name="android_lockscreen_glogin_instructions">Feoldáshoz lépjen be a fiókjába</string>
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
+    <string name="app_notificaiton_on_notificationBar">Értesítési sáv</string>
+    <string name="app_notificaiton_on_statusBar_and_notificationBar">Állapotsor,értesítési sáv</string>
     <string name="yesterday">Tegnap</string>
     <string name="autumn_begins">Fall Begins</string>
     <string name="autumn_equinox">Fall Equinox</string>
@@ -187,8 +189,7 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="minutes">%d perc</string>
     <string name="shutdown_confirm_title">Kikapcsolja a készüléket?</string>
     <string name="reboot_confirm_title">Újraindítja a készüléket?</string>
-    <string name="first_back_long_press_title">Vissza hardver gomb - Alkalmazás kényszerített bezárása</string>
-	<string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
+    <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
     <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
     <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
     <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>

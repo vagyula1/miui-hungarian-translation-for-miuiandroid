@@ -81,12 +81,15 @@
   <string name="qm_vip_list_custom_group">Fehérlistám</string>
   <string name="qm_vip_list_group">Fehérlista</string>
   <string name="quiet_mode">Csendes üzemmód</string>
-  <string name="st_bl_block_setting_title">Kérdezzen rá később</string>
-  <string name="st_bl_setting_group">Feketelista beállítások</string>
+  <string name="st_advanced_setting_group">Egyéb</string>
   <string name="st_block_all">Hívások és üzenetek blokkolása</string>
   <string name="st_block_mute">Blokkolt hívások és lenémított üzenetek</string>
   <string name="st_block_private_call_button">Beérkező magántelefonszám blokkolás</string>
+  <string name="st_bl_setting_group">Feketelista beállítások</string>
+  <string name="st_block_setting_title">Hívások és üzenetek</string>
   <string name="st_block_title">Blokkolás és napló</string>
+  <string name="st_block_unknown_call">Az összes ismeretlen szám blokkolása</string>
+  <string name="st_block_unknown_sms">Az összes ismeretlen számról beérkező üzenet blokkolása</string>
   <string name="st_call_group">Hívás</string>
   <string name="st_common_setting_group">Gyorsnézet</string>
   <string name="st_filter_keywords_setting_summary1">Az ismeretlen telefonszámról érkező üzenetek blokkolva lesznek.</string>
@@ -106,8 +109,10 @@
   <string name="tab_call">Hívásnapló</string>
   <string name="tab_sms">Üzenetnapló</string>
   <string name="tab_title">Felügyelet</string>
+  <string name="toast_keyword_blank">"Írjon be szöveget vagy számot. "</string>
   <string name="toast_keyword_blank">Kulcsszó üres</string>
   <string name="toast_keyword_exist">Kulcsszó: %s már létezik</string>
   <string name="twelve_hour_time_format">a h:mm</string>
   <string name="twenty_four_hour_time_format">HH:mm</string>
+
 </resources>

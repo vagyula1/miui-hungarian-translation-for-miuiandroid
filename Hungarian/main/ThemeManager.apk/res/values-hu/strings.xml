@@ -183,14 +183,13 @@ Téma frissítéshez nyissa meg újra.</string>
     <string name="resource_get_auth_exceed_max_limit_tips">A téma nem futtatható. Elérte a maximális 10 próbálkozást a Xiaomi fiókja. Próbálja másik fiókkal.</string>
     <string name="resource_server_out_of_service">Szerver nem elérhető, próbálja később.</string>
     <string name="resource_switch_account">Fiókváltás</string>
-    <string name="processing">Folyamatban ...</string>
     <string name="resource_title_select_ringtone">Csengőhang választás</string>
     <string name="resource_tip_select_ringtone">Csengőhang nem lett kiválasztva</string>
     <string name="loading_resource_detail_info">Töltés...</string>
     <string name="loading_resource_detail_fail">Téma betöltése nem sikerült!</string>
     <string name="account_abnormal_state">A fiókazonosítás nem sikerült, lépjen be újra vagy próbálja később!</string>
-	<string name="deleting">Törlés...</string>
+    <string name="deleting">Törlés...</string>
     <string name="resource_delta_update_failed">A frissítés nem sikerült! A teljes téma letöltése</string>
     <string name="resource_delta_update_successful">Frissítés sikeres，%1$s mentése.</string>
-	<string name="resource_import_successful">Letöltve.</string> 
+    <string name="resource_import_successful">Letöltve.</string> 
 </resources>

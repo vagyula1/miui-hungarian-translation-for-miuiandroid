@@ -89,7 +89,7 @@
     <string name="finish_traffic_settings_hint">Beállítások mentve!</string>
     <string name="finish_traffic_settings_title">Adatforgalom állása</string>
     <string name="finish_traffic_settings_message">A felhasznált adatmennyiség %s. Ez az érték rendben?
-Ha nem, módosíthatod.</string>
+Ha nem, módosíthatja.</string>
     <string name="dialog_button_adjust">Módosítás</string>
     <string name="settings_page_adjust_summary_no_carrier">Szolgáltató nincs beállítva，Auto beállítás kikapcsolva</string>
     <string name="settings_page_traffic_summary">Elérhető: %1$s, Figyelmeztetés: %2$s, Mérés kezdete %3$d</string>

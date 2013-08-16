@@ -321,4 +321,10 @@
         <item>EngedélyezAllow</item>
         <item>Megtagad</item>
     </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Arcalapú feloldás</item>
+        <item>Minta</item>
+        <item>PINkód</item>
+        <item>Kevert jelszó</item>
+    </string-array>
 </resources>

@@ -52,4 +52,9 @@
         <item quantity="other">%d személy</item>
         <item quantity="one">1 személy</item>
     </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d elem kiválasztva"</item>
+        <item quantity="zero">Nincs kiválasztva</item>
+        <item quantity="one">%1$d elem kiválasztva</item>
+    </plurals>
 </resources>
