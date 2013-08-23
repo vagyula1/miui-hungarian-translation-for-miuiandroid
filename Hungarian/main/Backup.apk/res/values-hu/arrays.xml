@@ -6,7 +6,6 @@
     </string-array>
     <string-array name="system_package_label">
         <item>Böngésző</item>
-        <item>Fájl Explorer</item>
         <item>Galéria</item>
         <item>Biztonság</item>
         <item>Időjárás adatok</item>
