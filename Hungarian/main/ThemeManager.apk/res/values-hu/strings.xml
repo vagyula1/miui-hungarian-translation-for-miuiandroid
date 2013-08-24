@@ -7,8 +7,8 @@
     <string name="theme_changed_failed_message">%1$s téma beállítása nem sikerült.</string>
     <string name="backup_preference_title">A téma biztonsági mentése</string>
     <string name="backup_theme_dialog_ok">Biztonsági mentés</string>
-    <string name="backup_theme_dialog_message">Az aktuális téma mentése %1$s</string>
-    <string name="backup_theme_progress_message">Biztonsági mentés készítése, kérem várjon...</string>
+    <string name="backup_theme_dialog_message">Az aktuális téma mentése</string>
+    <string name="backup_theme_progress_message">Biztonsági mentés készítése...</string>
     <string name="backup_theme_success_message">A biztonsági másolat elkészült</string>
     <string name="backup_theme_name">Saját biztonsági mentés</string>
     <string name="theme_description_title_default">Alapértelmezett téma</string>

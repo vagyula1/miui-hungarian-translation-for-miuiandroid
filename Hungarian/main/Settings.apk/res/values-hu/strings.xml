@@ -1841,13 +1841,14 @@
     <string name="manually_add_network">Hálózat kézi hozzáadása</string>
     <string name="network_detail">%s hálózat részletei</string>
     <string name="incoming_call_vibrate_abbreviation">Hívások</string>
-    <string name="notification_vibrate_abbreviation">Értesítés</string>
+    <string name="notification_vibrate_abbreviation">Értesítések</string>
     <string name="mms_vibrate_abbreviation">Üzenetek</string>
-    <string name="breathing_light_color_title" />
+    <string name="breathing_light_color_title"></string>
     <string name="breathing_light_color_summary">LED színe amikor új értesítés érkezik</string>
     <string name="breathing_light_freq_title">LED villogás sebessége</string>
     <string name="breathing_light_freq_summary">LED villogások közti szünet</string>
-    <string name="led_colors_summary">Értesítés LED színe</string>
+    <string name="led_settings">Jelzőfény</string>
+    <string name="led_colors_summary">Értesítések</string>
     <string name="led_frequence_summary">LED villogások közti szünet beállítása</string>
     <string name="led_pulse_summary">LED villogás új értesítéskor</string>
     <string name="show_rounded_corners">Sarkok kerekítése</string>

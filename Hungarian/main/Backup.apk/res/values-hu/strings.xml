@@ -9,7 +9,7 @@
     <string name="backup_empty">Nem található biztonsági mentés!</string>
     <string name="backup_items_sysdata_tailer">" Rendszerfájl "</string>
     <string name="backup_items_app_tailer">" Alkalmazás fájl "</string>
-    <string name="backup_failed">Mentési hiba, Kérem próbálja újra</string>
+    <string name="backup_failed">Mentési hiba</string>
     <string name="backup_recently">(Legutolsó)</string>
     <string name="sdcard_unmounted">Az SD kártya nem található, vagy nem csatolható!</string>
     <string name="backup_progress">Mentés folyamatban...</string>
@@ -70,11 +70,11 @@
     <string name="task_pending">Várakozás</string>
     <string name="task_pre_running">Előkészítés</string>
     <string name="task_post_running">Utómunkálatok</string>
-    <string name="task_finished">Befejezett feladat</string>
-    <string name="task_canceled">Megszakított feladat</string>
+    <string name="task_finished">Befejezett művelet</string>
+    <string name="task_canceled">Megszakított művelet</string>
     <string name="task_failed">Sikertelen feladat</string>
     <string name="task_canceled_local">A következő %1$s feladat törölve</string>
-    <string name="task_canceled_all_local">Feladatok megszakítva</string>
+    <string name="task_canceled_all_local">Mentés megszakítva</string>
     <string name="task_failed_local">%1$s feladatot nem sikerült befejezni</string>
     <string name="task_failed_all_local">Feladat végrehajtási hiba</string>
     <string name="task_backup_finished_local">Mentés befejezve</string>

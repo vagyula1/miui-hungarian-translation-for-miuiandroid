@@ -613,8 +613,8 @@ Please reopen this app to refresh resource."</string>
     <string name="success_message_import_from_account">Sikeres import</string>
     <string name="unknown_contact_name">Ismeretlen névjegy</string>
     <string name="contactDetailCalllog">Híváslista</string>
-    <string name="add_blacklist">Feketelistához adás</string>
-    <string name="remove_blacklist">Törlés a feketelistából</string>
+    <string name="add_blacklist">Tiltólistára</string>
+    <string name="remove_blacklist">Törlés a tiltólistából</string>
     <string name="empty_divider_title">Ön szinkronizálhat</string>
     <string name="noContactHelpTextAccountsInfo">Google, Exchange névjegyeket.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Visszaállítás Xiaomi fiókban és MiTalk-ban mentett adat segítségével</string>
@@ -909,8 +909,8 @@ Please reopen this app to refresh resource."</string>
     <string name="import_sim_entries_finish">Az importálás befejeződött.</string>
     <string name="delete_sim_entries_finish">Névjegyek törölve.</string>
     <string name="deleting">Törlés...</string> 
-    <string name="dlg_add_blacklist">Hozzáadja ezt a számot a feketelistához?</string>
-    <string name="dlg_remove_blacklist">Eltávolítja ezt a számot a feketelistából?</string>
+    <string name="dlg_add_blacklist">Hozzáadja ezt a számot a tiltólistához?</string>
+    <string name="dlg_remove_blacklist">Eltávolítja ezt a számot a tiltólistából?</string>
     <string name="close_dial_pad">tárcsázó bezárása</string>
     <string name="dial">tárcsáz</string>
     <string name="delete_dial_input">töröl</string>
