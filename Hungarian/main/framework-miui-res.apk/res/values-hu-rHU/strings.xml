@@ -190,9 +190,7 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="shutdown_confirm_title">Kikapcsolja a készüléket?</string>
     <string name="reboot_confirm_title">Újraindítja a készüléket?</string>
     <string name="err_resource_leak">Unfortunately, %1$s has stopped for resource leak.</string>
-    <string name="app_notificaiton_on_statusBar_and_notificationBar">Állapotsor, értesítőpanel</string>
     <string name="app_no_notification">nincs</string>
-    <string name="app_notificaiton_on_notificationBar">Értesítőpanel</string>
     <string name="deprecated_49" />
     <string name="device_hongmi">Hongmi telefon</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d alkalommal hibásan adta meg jelszavát,a fiók bejelentkezés szükséges a telefon feloldásához.
@@ -203,7 +201,4 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
     <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
     <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d alkalommal hibásan adta meg a jelszót. %d hibás próbálkozás után you will be asked to unlock your phone using your account details.
-
-Próbálja %d másodperc múlva."</string> 
 </resources>
