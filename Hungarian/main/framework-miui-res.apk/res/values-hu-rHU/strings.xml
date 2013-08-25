@@ -7,8 +7,6 @@
     <string name="android_lockscreen_glogin_instructions">Feoldáshoz lépjen be a fiókjába</string>
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
-    <string name="app_notificaiton_on_notificationBar">Értesítési sáv</string>
-    <string name="app_notificaiton_on_statusBar_and_notificationBar">Állapotsor,értesítési sáv</string>
     <string name="yesterday">Tegnap</string>
     <string name="autumn_begins">Fall Begins</string>
     <string name="autumn_equinox">Fall Equinox</string>
@@ -190,15 +188,17 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="shutdown_confirm_title">Kikapcsolja a készüléket?</string>
     <string name="reboot_confirm_title">Újraindítja a készüléket?</string>
     <string name="err_resource_leak">Unfortunately, %1$s has stopped for resource leak.</string>
+    <string name="app_notificaiton_on_statusBar_and_notificationBar">Állapotsor, értesítőpanel</string>
     <string name="app_no_notification">nincs</string>
+    <string name="app_notificaiton_on_notificationBar">Értesítőpanel</string>
     <string name="deprecated_49" />
     <string name="device_hongmi">Hongmi telefon</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d alkalommal hibásan adta meg jelszavát,a fiók bejelentkezés szükséges a telefon feloldásához.
-
- Try again in %d seconds."</string>
     <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
     <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
     <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
     <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
     <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d alkalommal hibásan adta meg a jelszót. %d hibás próbálkozás után you will be asked to unlock your phone using your account details.
+
+Próbálja %d másodperc múlva."</string> 
 </resources>
