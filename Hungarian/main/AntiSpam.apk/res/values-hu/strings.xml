@@ -3,8 +3,8 @@
   <string name="app_name">Felügyelet</string>
   <string name="bl_block_info" formatted="false">Blokkolva: %d szám, %d részlet</string>
   <string name="bl_no_blacklist">Tiltólista üres</string>
-  <string name="bl_no_block_call">A tiltólista hívásai itt lesznek naplózva</string>
-  <string name="bl_no_block_sms">A tiltólista üzenetei itt lesznek naplózva</string>
+  <string name="bl_no_block_call">A blokkolt hívásaok itt lesznek naplózva</string>
+  <string name="bl_no_block_sms">A blokkolt üzenetek itt lesznek naplózva</string>
   <string name="dlg_add_blacklist">Hozzáadja a telefonszámot a tiltólistához?</string>
   <string name="dlg_add_keyword">Kulcsszavak hozzáadása</string>
   <string name="dlg_add_manual_hint">Írja be a telefonszámot</string>
@@ -46,8 +46,8 @@
   <string name="menu_bl_remove">Eltávolítás a fekelistából</string>
   <string name="menu_bl_sms_log">A tiltólista üzeneteinek ellenőrzése</string>
   <string name="menu_call">Tárcsázás</string>
-  <string name="menu_clear_all_call">A tiltólistán szereplő hívások törlése</string>
-  <string name="menu_clear_all_sms">A tiltólistán szereplő üzenetek törlése</string>
+  <string name="menu_clear_all_call">A blokkolt hívások törlése</string>
+  <string name="menu_clear_all_sms">A blokkolt üzenetek törlése</string>
   <string name="menu_clear_current_call">Erről a számról érkező hívások törlése</string>
   <string name="menu_clear_current_sms">Erről a számról érkező üzenetek törlése</string>
   <string name="menu_edit">Szerkesztés</string>
@@ -84,13 +84,13 @@
   <string name="st_advanced_setting_group">Ismeretlen számok</string>
   <string name="st_block_all">Hívások és üzenetek blokkolása</string>
   <string name="st_block_mute">A tiltólista hívásai és lenémított üzenetek</string>
-  <string name="st_block_private_call_button">Magántelefonszám tiltólistába</string>
+  <string name="st_block_private_call_button">Magántelefonszám tiltólistára</string>
   <string name="st_block_setting_group">Tiltólista beállítás</string>
   <string name="st_block_setting_title">Hívások és üzenetek</string>
   <string name="st_block_title">Átirányítás a tiltólistára</string>
   <string name="st_block_unknown_call">Hívások tiltólistára</string>
   <string name="st_block_unknown_sms">Üzenetek tiltólistára</string>
-  <string name="st_call_group">Hívás</string>
+  <string name="st_call_group">Hívások</string>
   <string name="st_common_setting_group">Szűrés</string>
   <string name="st_filter_keywords_setting_summary1">Az alábbi kulcsszavakat tartalmazó üzenetek a tiltólistára kerülnek.</string>
   <string name="st_filter_keywords_setting_summary2">(Vesszővel elválasztva egyszerre több kulcsszó beírható)</string>
@@ -105,7 +105,7 @@
   <string name="st_show_block_notification">Tiltólista értesítés kijelzés</string>
   <string name="st_sms_group">Üzenetek</string>
   <string name="tab_blacklist">Tiltólista</string>
-  <string name="tab_block_log">Tűzfal</string>
+  <string name="tab_block_log">Blokkolt</string>
   <string name="tab_call">Hívásnapló</string>
   <string name="tab_sms">Üzenetnapló</string>
   <string name="tab_title">Felügyelet</string>

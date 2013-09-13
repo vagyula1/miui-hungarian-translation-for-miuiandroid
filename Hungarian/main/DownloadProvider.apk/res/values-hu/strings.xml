@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Letöltéskezelő</string>
+  <string name="auto_restart_under_wifi">Wi-Fi kapcsolat esetén automatikusan letölti ezt a fájlt</string>
   <string name="button_cancel_download">Mégse</string>
   <string name="button_queue_for_wifi">Várólista</string>
   <string name="button_start_now">Indítás most</string>
@@ -28,14 +29,15 @@
   <string name="permlab_downloadManagerAdvanced">Speciális letöltéskezelő-funkciók.</string>
   <string name="permlab_downloadWithoutNotification">fájlok letöltése értesítés nélkül</string>
   <string name="permlab_seeAllExternal">SD-kártya letöltéseinek megtekintése</string>
+  <string name="wifi_recommended_title">Adatforgalmi figyelmeztetés</string>
+  <string name="wifi_required_title">A letöltés túl nagy a szolgáltató hálózatához</string>
   <string name="wifi_recommended_body">"A letöltés azonnali elkezdése meríti a telepet és/vagy túlzottan igénybe veheti a mobil adatkapcsolatot, amely az Ön adatcsomagjától függően költségeket jelenthet.
 
  Nyomja meg a \"Várólista\" gombot, hogy akkor kezdje a letöltést, amikor legközelebb Wi-Fi hálózathoz kapcsolódik.
-
  Az alapbeállítástokat megváltoztathatja a \"Beállítások\" között."</string>
-  <string name="wifi_recommended_title">Adatforgalmi figyelmeztetés</string>
+  
   <string formatted="false" name="wifi_required_body">"Wi-Fit kell használnia a letöltéshez (%s ). 
 
 Kattintson a %s  gombra, hogy a letöltést akkor kezdje, ha legközelebb Wi-Fi hálózathoz csatlakozik."</string>
-  <string name="wifi_required_title">A letöltés túl nagy a szolgáltató hálózatához</string>
+  
 </resources>
