@@ -2143,4 +2143,6 @@
    <string name="wifi_share_upload">Megosztás</string>
    <string name="wifi_share_upload_finish">Megosztás sikeres!</string>
    <string name="wifi_share_uploading">Wi-Fi hálózat megosztása</string> 
+   <string name="noise_suppression">Zajcsökkentés</string>
+   <string name="phone_call_noise_suppression">Telefonhívás zajcsökkentés</string>
 </resources>

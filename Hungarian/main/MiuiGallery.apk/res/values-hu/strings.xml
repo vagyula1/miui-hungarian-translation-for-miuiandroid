@@ -176,6 +176,7 @@
     <string name="sync_history_power_on">Szinkronizálás töltéskor</string>
     <string name="sync_only_in_wifi">csak Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Engedélyezése ajánlott,különben költséget számolhat fel.</string>
+    <string name="sync_only_in_wifi_alert">A feltöltés csak Wi-Fi használatával kikapcsolása adatforgalmi költséggel járhat; Biztos,hogy kikapcsolja?</string>
     <string name="alert">Megjegyzés</string>
     <string name="gallery_cloud_provider_name">Galéria</string>
     <string name="sync_album">Album szinkronizálás</string>
@@ -213,11 +214,9 @@
     <string name="none_picture">Nincs kép a galériában</string>
     <string name="show_hidden_albums">Rejtett album(ok) mutatása</string>
     <string name="not_show_hidden_albums">Ne mutassa a rejtett albumo(ka)t</string>
-    <string name="camera_path">/DCIM/Camera</string>
+    <string name="camera_path">/DCIM/Camera</string> 
     <string name="open_single_image_failure">Kép betöltése nem sikerült!</string>
     <string name="damaged_file">A fájlt sérült</string>
-    <string name="cloud_camera_display_name">Rendszetlen</string>
-    <string name="camera_folder_display_name">Fényképek</string>
     <string name="cloud_screenshots_display_name">Képernyőképek</string>
     <string name="miui_capture_screen_folder_display_name">MIUI képernyőmentések</string>
     <string name="internal_camera_folder_display_name">Fényképek</string>
@@ -278,6 +277,7 @@
     <string name="warn">Figyelem!</string>
     <string name="send_multiple_files_hint_format">Több fájl küldése (%s)</string>
     <string name="send">Küldés</string>
+    <string name="select_too_much_to_send_tips">Túl sok fénykép lett kiválasztva a küldéshez.</string>
     <string name="sd_not_available">SD kártya nincs csatolva</string>
     <string name="internal_sd_card">Belső SD kártya</string>
     <string name="external_sd_card">SD kártya</string>

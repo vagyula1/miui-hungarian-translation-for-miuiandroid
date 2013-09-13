@@ -327,4 +327,8 @@
         <item>PINkód</item>
         <item>Kevert jelszó</item>
     </string-array>
+     <string-array name="phone_call_noise_suppression_title">
+        <item>Egymikrofonos zajcsökkentés</item>
+        <item>Kétmikrofonos zajcsökkentés</item>
+    </string-array>
 </resources>

@@ -39,4 +39,6 @@
    <string name="text_copied_toast">Szöveg átmásolva.</string>
    <string name="standard">alap</string>
    <string name="scientific">tudományos</string>
+    <string name="switch_to_scientific_pad">váltás a tudományos módra</string>
+    <string name="switch_to_standard_pad">váltás az alap módra</string>
 </resources>

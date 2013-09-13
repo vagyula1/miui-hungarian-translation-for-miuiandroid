@@ -130,6 +130,7 @@
     <string name="fail_to_add_account">Fiók hozzáadás sikertelen</string>
     <string name="menu_refresh">Frissítés</string>
     <string name="restore_default_theme_alert">Lehet,hogy a téma hamis,kérjük töltse le újra vagy vásárolja meg.</string>
+    <string name="default_name">Alapértelmezett</string>
     <string name="resource_app_name">Téma böngésző</string>
     <string name="resource_price_free">Ingyenes</string>
     <string name="resource_price_unit">MI Kredit</string>
