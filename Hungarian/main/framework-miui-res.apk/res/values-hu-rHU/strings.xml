@@ -48,7 +48,6 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="fm_record_smaple_prefix_miui">Rádióadás rögzítés</string>
     <string name="fools_day">"April Fool's Day"</string>
     <string name="force_exit_message">Alkalmazás kényszerített bezárása \"%1$s\"</string>
-    <string name="format_time_in_12_hours">%1$s %2$s</string>
     <string name="global_action_privacy_mode_dialog_message">Adatvédelem üzemmódban a hívások,üzenetek,jegyzetek és a galéria rejtett lesz,valamint a launcherben sem lesz elérhető a szerkesztés. A hozzáférési kontrollban állíthat be jelszót az adatvédelmi üzemmódhoz.</string>
     <string name="global_action_toggle_privacy_mode">Adatvédelem</string>
     <string name="group_name_contacts">Névjegyek</string>
