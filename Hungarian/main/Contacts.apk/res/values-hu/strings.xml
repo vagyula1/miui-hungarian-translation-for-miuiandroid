@@ -50,18 +50,18 @@ Please reopen this app to refresh resource."</string>
     <string name="resource_no_result">Nincs eredmény</string>
     <string name="resource_list_title">Legutóbb kiválasztott</string>
     <string name="resource_get_auth_checking">Azonosítás ellenőrzése...</string>
-    <string name="resource_get_auth_retrieving">Retrieving authorization...</string>
-    <string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
-    <string name="resource_get_auth_exceed_max_limit_title">Authorized exceeds the limit</string>
+    <string name="resource_get_auth_retrieving">Engedély lekérése...</string>
+    <string name="resource_get_auth_missing">A táma nem a hivatalos marketről származik,kérem töltse le onnan.</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Jogosultság meghaladta a határértéket</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Theme can not run on the current equipment with your account which is up to 10 mobile devices every year. Please try other Xiaomi accounts.</string>
-    <string name="resource_server_out_of_service">Out of service, please try again later.</string>
+    <string name="resource_server_out_of_service">Nem működik,próbálja meg később.</string>
     <string name="resource_switch_account">Átvált</string>
     <string name="processing">Folyamatban ...</string>
     <string name="resource_title_select_ringtone">Csengőhang választás</string>
     <string name="resource_tip_select_ringtone">Nincs csngőhang kiválasztva</string>
     <string name="loading_resource_detail_info">Betöltés ...</string>
     <string name="loading_resource_detail_fail">A téma betöltése nem sikerült!</string>
-    <string name="account_abnormal_state">Abnormal account information, try to login in again or try again later!</string>
+    <string name="account_abnormal_state">Érvénytelen fiókinformáció,lépjen be újra vagy próbálja később!</string>
     <string name="launcherDialer">Telefon</string>
     <string name="people">Személyek</string>
     <string name="contactsList">Címtár</string>
@@ -73,13 +73,11 @@ Please reopen this app to refresh resource."</string>
     <string name="messageShortcutActivityTitle">Válasszon telefonszámot az üzenetküldéshez</string>
     <string name="contactPickerActivityTitle">Válasszon ki egy névjegyet</string>
     <string name="starredList">Kedvencek</string>
-    <string name="starred_contacts">Kedvencek</string> 
     <string name="frequentList">Alapértelmezett</string>
     <string name="strequentList">Kedvencek</string>
     <string name="viewContactTitle">Névjegy adatai</string>
     <string name="viewContactDesription">Névjegy megtekintése</string>
-    <string name="editContactDescription">Névjegy szerkesztése</string>
-    <string name="duplicate_group_name">A csoportnév már létezik</string> 
+    <string name="editContactDescription">Névjegy szerkesztése</string> 
     <string name="insertContactDescription">Névjegy létrehozása</string>
     <string name="editGroupDescription">Csoport szerkesztés</string>
     <string name="insertGroupDescription">Új csoport létrehozása</string>
@@ -115,6 +113,7 @@ Please reopen this app to refresh resource."</string>
     <string name="menu_set_ring_tone">Csengőhang</string>
     <string name="menu_redirect_calls_to_vm">Minden hívás a hangpostára</string>
     <string name="menu_not_redirect_calls_to_vm">Hívások nincsenek a hangpostára irányítva</string>
+    <string name="redirect_calls_to_vm_confirm_message">Mielőtt beállítja a emailfiókját, olvassa el a Szolgáltató felhasználási feltételeit.</string>
     <string name="readOnlyContactWarning">Írásvédett fiókból nem törölhet névjegyet, de saját címtárában elrejtheti azokat.</string>
     <string name="readOnlyContactDeleteConfirmation">Ez a névjegy több fiókból is tartalmaz adatokat. Az írásvédett fiókokból származó adatok nem jelennek meg a Címtárban, de nem kerülnek törlésre.</string>
     <string name="multipleContactDeleteConfirmation">A névjegy törlésével több fiókból is töröl adatokat.</string>
@@ -259,7 +258,6 @@ Please reopen this app to refresh resource."</string>
     <string name="select_vcard_title">Válassza ki a vCard fájlt</string>
     <string name="caching_vcard_title">vCard(ok) mentése ideiglenes helyi tárolóba</string>
     <string name="caching_vcard_message">Az importáló elmenti a vCardo(ka)t az ideiglenes helyi tárolóba. A tényleges importálás hamarosan megkezdődik.</string>  
-    <string name="progress_notifier_message" formatted="false">Importálás - %s/%s: %s</string>
     <string name="importing_vcard_description">Importálás - %s</string>
     <string name="reading_vcard_failed_title">Nem sikerült beolvasni a vCard adatait.</string>
     <string name="reading_vcard_canceled_title">névjegykártya olvasás megszakítva</string>
@@ -294,6 +292,7 @@ Please reopen this app to refresh resource."</string>
     <string name="cancel_export_confirmation_message">Biztosan megszakítja a(z) %s exportálását?</string>
     <string name="cancel_vcard_import_or_export_failed">vCard imp./exp. megszakítása sikertelen</string>
     <string name="search_settings_description">Ismerősök nevei</string>
+    <string name="add_2sec_pause">Add 2-mp szünet hozzáadás</string>
     <string name="add_wait">Várakozás hozzáadás</string>
     <string name="call_disambig_title">Hívás a következő használatával:</string>
     <string name="call_settings">Beállítások</string>
@@ -392,6 +391,7 @@ Please reopen this app to refresh resource."</string>
     <string name="video_chat">Videocsevegés</string>
     <string name="postal_address">Cím</string>
     <string name="postal_street">Utca</string>
+    <string name="postal_pobox">Postafiók</string>
     <string name="postal_city">Település</string>
     <string name="postal_region">Állapot</string>
     <string name="postal_postcode">Irányítószám</string>
@@ -428,7 +428,10 @@ Please reopen this app to refresh resource."</string>
     <string name="pick_new_photo">Új fotó kiválasztása a Galériából</string>
     <string name="locale_change_in_progress">Az ismerőslista frissítése folyamatban van, hogy tükrözze a nyelv módosítását.</string>
     <string name="upgrade_in_progress">Az ismerőslista frissítése folyamatban van.</string>
-    <string name="upgrade_out_of_memory">Az ismerősök frissítése folyamatban van. A frissítési folyamathoz kb. %s MB belső tárhelyre van szükség. Válasszon az alábbi lehetőségek közül:</string>
+    <string name="upgrade_out_of_memory">Az ismerősök frissítése folyamatban van. 
+A frissítési folyamathoz kb. %s MB belső tárhelyre van szükség. 
+
+Válasszon az alábbi lehetőségek közül:</string>
     <string name="upgrade_out_of_memory_uninstall">Távolítson el néhány alkalmazást</string>
     <string name="upgrade_out_of_memory_retry">Verziófrissítés újrapróbálása</string>
     <string name="search_results_searching">Keresés...</string>
@@ -470,7 +473,6 @@ Please reopen this app to refresh resource."</string>
     <string name="menu_help">Segítség</string>
     <string name="preference_displayOptions">Megjelenítési beállítások</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
-    <string name="other_contacts">Egyéb</string> 
     <string name="hint_findContacts">Névjegy keresése</string>
     <string name="non_phone_caption">Telefonszám</string>
     <string name="non_phone_add_to_contacts">Hozzáadás névjegyekhez</string>
@@ -545,6 +547,8 @@ Please reopen this app to refresh resource."</string>
     <string name="no_account_prompt">A Személyek alkalmazás jobban működik egy Google Fiókkal.  
 • Bármilyen bőngészőből elérheti.
 • Biztonsági másolatot készíthet névjegyeiről.</string>
+    <string name="generic_no_account_prompt">Őrizze biztonságos helyen névjegyzékét: szinkronizálja az online szolgáltatással.</string>
+    <string name="generic_no_account_prompt_title">Fiók hozzáadása</string>
     <string name="contact_editor_prompt_zero_accounts">Az Ön új névjegyéről nem készül biztonsági másolat. Hozzáad egy olyan fiókot, amelyik online biztonsági másolatot készít a névjegyekről?</string>
     <string name="contact_editor_prompt_one_account">Az új névjegyet a következő fiókkal fogjuk szinkronizálni: %1$s.</string>
     <string name="contact_editor_prompt_multiple_accounts">Szinkronizálhatja az új névjegyet a következő fiókok valamelyikével. Melyiket kívánja használni?</string>
@@ -577,6 +581,7 @@ Please reopen this app to refresh resource."</string>
     <string name="callrecordview_menu_delete_called">Tárcsázott hívások törlése</string>
     <string name="callrecordview_menu_delete_accepted">Fogadott hívások törlése</string>
     <string name="callrecordview_menu_delete_stranger">Ismeretlen számok törlése</string>
+    <string name="callrecordview_menu_delete_new">Új névjegyek törlése a híváslistából</string>
     <string name="callrecordview_menu_delete_confirm">%s?</string>
     <string name="callrecordview_menu_delete_one">Ez az egy törlése a híváslistából</string>
     <string name="delete_call_log_title">Kiválasztott törlése a híváslistából</string>
@@ -691,7 +696,7 @@ Please reopen this app to refresh resource."</string>
     <string name="pref_key_photo_word_title">Automatikus fénykép</string>
     <string name="pref_key_photo_word_summary">Automatikus fénykép választás</string>
     <string name="remove_duplicate">A MIUI megkeresi a dupla névjegyeket,melyet egyesíthet</string>
-    <string name="ic_menu_back">Back</string>
+    <string name="ic_menu_back">Vissza</string>
     <string name="preference_display">Megjelenítés</string>
     <string name="preference_simple_mode_title">Egyszerű mód</string>
     <string name="preference_simple_mode_description">A névjegyzékben nem jeleníti meg a fényképet, és a céget</string>
@@ -775,6 +780,7 @@ Please reopen this app to refresh resource."</string>
     <string name="contact_unfavorite_toast">Névjegy törlése a kedvencekből</string>
     <string name="group_member_remove_toast">Névjegy törölve a csoportból</string>
     <string name="contact_delete_toast">Névjegy törölve</string>
+    <string name="duplicate_group_name">A csoportnév már létezik.</string>
     <string name="all_list_empty">Nincs névjegy</string>
     <string name="favorites_list_empty">Nincs kedvenc</string>
     <string name="groups_list_empty">Nincs csoport</string>
@@ -860,7 +866,7 @@ Please reopen this app to refresh resource."</string>
     <string name="hint_distance">keep the distance</string>
     <string name="hint_more_contact">use merge contact when exits double contacts</string>
     <string name="device_import_account_dialog_title">Válasszon fiókot az importáláshoz</string>
-    <string name="device_import_account_dialog_title_suffix">(found %1$s contacts)</string>
+    <string name="device_import_account_dialog_title_suffix">(%1$s névjegy találat)</string>
     <string name="device_import_local_account">Helyi fiók</string>
     <string name="import_name">name</string>
     <string name="import_percent">0%</string>
@@ -874,6 +880,7 @@ Please reopen this app to refresh resource."</string>
     <string name="device_import_progress_toast">%1$d névjegy importálva</string>
     <string name="no_contact_in_other_phone">There is no contact in your phone</string>
     <string name="import_weibo_dialog_title">Import Sina weibo contacts</string>
+    <string name="import_weibo_fetch_followers">Névjegyzék lekérése…</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="import_weibo_notification_title_done">Importálás kész</string>
@@ -887,7 +894,10 @@ Please reopen this app to refresh resource."</string>
     <string name="add_xiaomi_account_dialog_btn">Xiaomi fiók használata</string>
     <string name="keep_local_btn">Csak a telefonra mentse</string>
     <string name="batch_delete">Névjegyek törlése</string>
-    <string name="batch_delete_msg">"Törli a %d kiválasztott névjegyet?</string>
+    <string name="batch_delete_msg">"Törli a %d kiválasztott névjegyet?  
+A MiCloud fiókban található névjegyzékből is törlésre kerül."</string>
+    <string name="starred_contacts">Kedvencek</string>
+    <string name="other_contacts">Egyéb névjegyek</string>
     <string name="set_photo_failed_msg">Kép hozzárendelése nem sikerült.</string>
     <string name="contact_is_readOnly">"Az írásvédett névjegyek nem szerkeszthetőek."</string>
     <string name="profile_name">Profilom</string>

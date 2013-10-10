@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>  
+    <string name="account_bind_prompt">Felhasználói adatok áttelepítése… Ez néhány percig eltarthat.</string>
     <string name="add_task">Feladat hozzáadás</string>
     <string name="adding_upload_tasks">Feltöltés hozzáadás.</string>
     <string name="already_signin_description">Csak egyszer lehet bejelentjezni naponta, nézzen vissza holnap :)</string>
@@ -11,11 +12,11 @@
     <string name="app_name">Fájlkezelő</string>
     <string name="application_size_label">Alkalmazás</string>
     <string name="background">Letöltés háttérben</string>
-    <string name="big5_summary">A windows rendszer tradícinális kínai verziója az alapértelmezett enkódolás</string>
-    <string name="bind_account_summary">Ha már rendelkezik KuaiPan fiókkal, személyes adatait letöltheti</string>
+    <string name="big5_summary">A windows rendszer tradícinális kínai verziója az alapértelmezett enkódolás</string>  
     <string name="bind_account">Összekapcsolás KuaiPan fiókkal</string>
+    <string name="bind_account_summary">Ha már rendelkezik KuaiPan fiókkal, személyes adatait letöltheti</string>
     <string name="binded_accout_description">Fiókok egyesítve, használhatja Xiaomi vagy KuaiPan fiókját a belépéshez, mindkettő adatait olvashatja</string>
-    <string name="binded_accout_warning">Figyelmeztetés: A művelet nem visszavonható. Biztos,hogy folytatja?</string>
+    <string name="binded_accout_title">Fiókok szinkronizálva</string>
     <string name="cache_size_label">Gyorsítótár</string>
     <string name="cancel_cleanup">Törlés megszakítása</string>
     <string name="cancel_with_count_down">Mégsem (%d)</string>
@@ -76,6 +77,7 @@
     <string name="dialog_type_video">Videó</string>
     <string name="directory_no_item">Üres mappa</string>
     <string name="dlg_error_unmount_text">"Nem sikerült az USB tárhely leválasztása. Próbálja újra."</string>
+    <string name="download_current_progress">100/%1$d</string>
     <string name="download_failed">Letöltés sikertelen!</string>
     <string name="download_link_completed">%1$s megosztva a MiDrive-on. Kattintson alább a nézethez:</string>
     <string name="downloading">Letöltés</string>
@@ -115,6 +117,7 @@
     <string name="garbage_size_metric">"%s felesleges"</string>
     <string name="gbk_summary">A kínai karakterek helyettesítésére válassza ezt a kódolási formát, pl. Windows Explorerhez</string>
     <string name="gbk_title">GBK</string>
+    <string name="give_up_cleaning">Mégsem</string>
     <string name="header_text_cleaned">Törölt szemét</string>
     <string name="header_text_cleaning">Tisztítás, szemét maradt</string>
     <string name="header_text_scanned">Törölheti a szükségtelen fájlokat</string>
@@ -123,9 +126,9 @@
     <string name="instruction">Írja be a következő címet az FTP kliensébe:</string>
     <string name="item_name">Nincs név</string>
     <string name="kingsoft_account">kingsoft kuaipan fiók</string>
-    <string name="kuaipan_over_space">MiDrive-on nincs elég hely.</string>
-    <string name="kuaipan_prompt_message">A szerver jelenleg nem elérhető,próbálja később</string>
+    <string name="kuaipan_over_space">MiDrive-on nincs elég hely.</string>  
     <string name="kuaipan_prompt">MiDrive Segítség</string>
+    <string name="kuaipan_prompt_message">A szerver jelenleg nem elérhető,próbálja később</string>
     <string name="kuaipan_tech_support">Műszaki támogatás: MIUI China</string>
     <string name="load_err">Betöltés sikertelen</string>
     <string name="loading">Betöltés…</string>
@@ -174,14 +177,13 @@
     <string name="operation_copying">Másolás…</string>
     <string name="operation_copying_detail">Fájlok másolása (%1$d/%2$d)</string>
     <string name="operation_create_folder">Új mappa</string>
-    <string name="operation_create_folder_message">Adja meg a mappa nevét</string>
-    
+    <string name="operation_create_folder_message">Adja meg a mappa nevét</string>  
     <string name="operation_decompressing">Kicsomagolás...</string>
+    <string name="operation_deleting">Törlés</string>
     <string name="operation_delete_confirm_message_folder">A könyvtár törlése a benne lévő fájlokat is törli.</string>
     <string name="operation_delete_confirm_message">Biztosan törli?</string>
     <string name="operation_delete">Törlés</string>
     <string name="operation_deleting_detail">Fájlok törlése (%1$d/%2$d)</string>
-    <string name="operation_deleting">Törlés</string>
     <string name="operation_download_link">Letöltőlink generálás</string>
     <string name="operation_favorite">Hozzáadás a kedvencekhez</string>
     <string name="operation_hide_sys">Rejtett fájlok elrejtése</string>
@@ -203,24 +205,31 @@
     <string name="operation_unfavorite">Eltávolítás a kedvencekből</string>
     <string name="pan_settting">MiDrive beállítások</string>
     <string name="paused">Szünetelteve</string>
+    <string name="pull_to_signin">Húzza le a bejelentkezéshez.</string>
+    <string name="query_bind_state">Csatlakozás a KuaiPan-nal…</string>
+    <string name="release_to_signin">Bejelentkezés engedélyezése</string>
     <string name="rename_description">Átnevezés,kérem várjon…</string>
     <string name="rename_failed">Átnevezés《%1$s》sikertelen</string>
     <string name="restart_cleaning">Újraindítás</string>
     <string name="scanned">A keresés befejeződött</string>
-    <string name="scanning_on_going">Keresés...</string>
     <string name="scanning" formatted="false">%d alkalmazás keresés ... (total %d apps)</string>
+    <string name="scanning_on_going">Keresés...</string>
     <string name="sd_card_available">Szabad hely:%1$s</string>
     <string name="sd_card_size">SD kártya:%1$s</string>
     <string name="sd_full">Az SD kártya megtelt</string>
+    <string name="sd_size_label">Tárhely</string>
     <string name="search_hint">Fájlok keresése</string>
     <string name="search_title">Fájlok keresése</string>
-    <string name="send_to_midrive_failed_message">A MiDrivera küldés sikertelen. A tartalom nem támogatott</string>
     <string name="send_to_midrive">Küldés a MiDrive-ra</string>
+    <string name="send_to_midrive_failed_message">Ez a fájltípus nem támogatott.</string>
     <string name="server_control_advanced_settings">Beállítások</string>
     <string name="server_control_charset">Átvitel kódolás</string>
     <string name="server_control_settings">Beállítás</string>
     <string name="share_link_failed">Link megoszás nem sikerült,kérem próbálja újra!</string>
     <string name="show_message">Letöltés nélkül a fájl nem nyitható meg</string>
+    <string name="sign_description">Bejelentkezés…</string>
+    <string name="signin_error">Csatlakozás sikertelen. Ellenőtizze a hálózati kapcsolatot.</string>
+    <string name="signin_success">"Üdvözöljük!%1$s ingyenes tárhely hozzáadva"</string>
     <string name="space_info">Tárhely mérete: %1$s elérhető，összes: %2$s</string>
     <string name="space_usage">Használat</string>
     <string name="start_cleanup">Tisztítás indítása</string>
@@ -284,4 +293,5 @@
     <string name="wifi_state">Wi-Fi állapota</string>
     <string name="xiaomi_account">Xiaomi fiók</string>
     <string name="yes">Igen</string>
+
 </resources>

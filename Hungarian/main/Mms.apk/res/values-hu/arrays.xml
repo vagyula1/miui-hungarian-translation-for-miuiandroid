@@ -53,13 +53,6 @@
         <item>Ötször</item>
         <item>Tízszer</item>
     </string-array>
-    <string-array name="prefValues_ringtone_repeat">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>Név</item>
         <item>Becenév</item>
@@ -72,19 +65,6 @@
         <item>Webhely</item>
         <item>Cím</item>
         <item>Feljegyzés</item>
-    </string-array>
-    <string-array name="contact_values">
-        <item>vnd.android.cursor.item/name</item>
-        <item>vnd.android.cursor.item/nickname</item>
-        <item>vnd.android.cursor.item/phone_v2</item>
-        <item>vnd.android.cursor.item/email_v2</item>
-        <item>vnd.android.cursor.item/organization</item>
-        <item>vnd.android.cursor.item/im</item>
-        <item>vnd.android.cursor.item/sip_address</item>
-        <item>vnd.android.cursor.item/contact_event</item>
-        <item>vnd.android.cursor.item/website</item>
-        <item>vnd.android.cursor.item/postal-address_v2</item>
-        <item>vnd.android.cursor.item/note</item>
     </string-array>
     <string-array name="entries_date_type">
         <item>Fogadott idő kijelzése</item>

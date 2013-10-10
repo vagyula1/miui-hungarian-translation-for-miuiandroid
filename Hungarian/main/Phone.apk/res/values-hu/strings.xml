@@ -13,7 +13,8 @@
   <string name="addSimEntries">SIM névjegy hozzáadás</string>
   <string name="administrative_disable">Közigazgatás letiltva</string>
   <string name="administrative_enable">Közigazgatás engedélyezve</string>
-  <string name="advanced_settings_container">advanced settings container</string>
+  <string name="advanced_settings">Opcionális beállítások</string>
+  <string name="advanced_settings_container">További beállítások</string>
   <string name="advanced_settings_hide">Érintse meg az összes elrejtéséhez</string>
   <string name="advanced_settings_show">Érintse meg az összes megjelenítéséhez</string>
   <string name="advertisements_disable">Hirdetések letiltva</string>
@@ -38,13 +39,14 @@
   <string name="answer_widget_sliding_horizontal_miui">Vízszintes csúsztatás</string>
   <string name="answer_widget_sliding_vertical_miui">Függőleges csúsztatás</string>
   <string name="answer_widget_title_miui">Válasz gesztus</string>
+  <string name="antispam_notification_title">Ismeretlen számok azonosítása</string>
   <string name="apn_settings">Hozzáférési pontok nevei</string>
   <string name="areacode_required_for_emergency_number_miui">Segélyhívó szám</string>
   <string name="areacode_required_miui">Inteligens IP engedélyezve, kérem írja be a körzet számot</string>
   <string name="atr_disable">A jelentések a környék forgalmáról le vannak tiltva</string>
   <string name="atr_enable">A jelentések a környék forgalmáról engedélyezve vannak</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
-  <string name="audio_mode_earpiece">Fülhallgatós headset </string>
+  <string name="audio_mode_earpiece">Fülhallgatós headset</string>
   <string name="audio_mode_speaker">Hangszoró</string>
   <string name="audio_mode_wired_headset">Vezetékes headset</string>
   <string name="auth_username">AuthUserName</string>
@@ -75,6 +77,7 @@
   <string name="auto_ip_remove_exception_numbers_confirm_miui">Törli a következő %d számot?</string>
   <string name="auto_ip_setting_miui">Auto IP beállítások</string>
   <string name="auto_ip_summary_not_enabled">Nem engedélyezett</string>
+  <string name="auto_ip_support_local_numbers">Helyi számok támogatása</string>
   <string name="auto_record_call_summary_miui">A felvétel megkezdődik amíg tart a hívás, és a MIUI/sound_recorder/call_rec mappába kerül mentésre</string>
   <string name="auto_record_call_title_miui">Automata hangrögzítés</string>
   <string name="auto_record_scenario_enteries_always_miui">Összes szám</string>
@@ -105,16 +108,21 @@
   <string name="call_forwarding_number_hint_miui">Írja be a hívásátirányításhoz használandó telefonszámot</string>
   <string name="call_forwarding_settings">Hívásátirányítás beállításai</string>
   <string name="call_forwarding_settings_miui">Hívásátirányítás beállításai</string>
+  <string name="call_ind_services">Független szolgáltató hívása</string>
   <string name="call_lost">A hívás megszakadt.</string>
+  <string name="call_number">Címzett:</string>
+  <string name="call_record_button_label">Felvétel %s</string>
   <string name="call_record_notification_message_low_space_miui">A felvétel megállítva a kevés hely miatt, klikkeljen a megtekintéshez %s.</string>
   <string name="call_record_notification_message_miui">Megtekintés %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">A felvétel megállítva, mert az SD kártya nincs csatolva.</string>
+  <string name="call_record_notification_message_start_failed">Másik alkalmazás használja a felvételt.</string>
   <string name="call_record_notification_title_error_miui">Hiba a felvétel közben</string>
   <string name="call_record_notification_title_miui">Felvétel befejeződött</string>
   <string name="call_record_path_name_of_sdcard_miui">SD kártya</string>
   <string name="call_record_sd_error_miui">SD kártya hozzáférési hiba!</string>
   <string name="call_record_sd_space_low_miui">SD kártyán kevés a hely, kérem próbálja újra miután törölt néhány dolgot</string>
   <string name="call_record_setting_miui">Hívásrögzítési beállítások</string>
+  <string name="call_record_unknown_error">Ismeretlen hiba történt a felvétel közben.</string>
   <string name="call_recording_notification_summary_miui">Értesítés amikor a felvétel befejeződött</string>
   <string name="call_recording_notification_title_miui">Hívásrögzítés értesítés</string>
   <string name="call_recording_prompt_miui">Hangrögzítő megnyitása</string>
@@ -303,6 +311,7 @@
   <string name="description_target_decline_miui">Elutasítás</string>
   <string name="description_target_send_sms">SMS küldése</string>
   <string name="description_target_send_sms_miui">SMS küldése</string>
+  <string name="dial">Tárcsázás</string>
   <string name="dial_emergency_empty_error">A hívás nem indítható, kérjük, tárcsázzon egy segélyhívó számot!</string>
   <string name="dial_emergency_error">A hívás nem indítható; a(z) %s nem segélyhívó szám!</string>
   <string name="dial_related_setting_catory_miui">Tárcsáz</string>
@@ -331,6 +340,7 @@
   <string name="dtmf_tones_summary_miui">DTMF hangjelzések hosszának beállítása</string>
   <string name="dtmf_tones_title">DTMF hangjelzések</string>
   <string name="dtmf_tones_title_miui">DTMF hangjelzések</string>
+  <string name="duringcall">A múvelet nem alkalmazható hívás közben</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="edit_custom_location_title_miui">Régiók, számok és karakterek tesztreszabása</string>
   <string name="edit_fdn_contact">Fix hívószám szerkesztése</string>
@@ -346,6 +356,8 @@
   <string name="empty_alert">%s kötelező, nem maradhat üresen</string>
   <string name="empty_networks_list">Nem található hálózat.</string>
   <string name="enable">Engedélyezés</string>
+  <string name="enable_antispam_strange_summary">&gt;Első hívás némítása ismeretlen szám esetén</string>
+  <string name="enable_antispam_strange_title">Ismeretlen hívás</string>
   <string name="enable_disable_administrative">Közigazgatás</string>
   <string name="enable_disable_advertisements">Hirdetések</string>
   <string name="enable_disable_atr">Jelentések a környék forgalmáról</string>
@@ -458,6 +470,7 @@
   <string name="incall_screen_background_summary_miui">"Használja a képernyőzár hátterét amikor nincs hívókép"</string>
   <string name="incall_screen_background_title_miui">Bejövő hívások háttere</string>
   <string name="incall_status_dialed_mmi">MMI-sorozat indítása...</string>
+  <string name="information">Információ</string>
   <string name="international_disable">Nemzetközi hírek letiltva.</string>
   <string name="international_enable">Nemzetközi hírek engedélyezve</string>
   <string name="internet_phone">Internetes hívás</string>
@@ -548,6 +561,7 @@
   <string name="name">Név</string>
   <string name="national_disable">Belföldi hírek letiltva</string>
   <string name="national_enable">Belföldi hírek engedélyezve</string>
+  <string name="network_manage_settings">Hálózati beállítások</string>
   <string name="network_message">Hálózati üzenet</string>
   <string name="network_query_error">Hiba történt a hálózatok keresése közben.</string>
   <string name="network_work_query_failed_message_miui">"Hálózathoz csatlakozás sikertelen, nyomja meg a 'mégsem' gombot az automatikus választáshoz, vagy 'ok' gombot az újra próbálkozáshoz"</string>
@@ -638,6 +652,7 @@
   <string name="ota_next">Tovább</string>
   <string name="ota_progress">Kérjük, várjon a telefonja beprogramozásáig.</string>
   <string name="ota_skip_activation_dialog_message">Ha kihagyja az aktiválást, nem indíthat hívásokat és nem kapcsolódhat mobil adathálózatokhoz (de csatlakozhat Wi-Fi hálózatokhoz). Amíg nem aktiválja telefonját, az minden egyes bekapcsoláskor felkéri Önt erre.</string>
+  <string name="ota_skip_activation_dialog_skip_label">Kihagyás</string>
   <string name="ota_skip_activation_dialog_title">Kihagyja az aktiválást?</string>
   <string name="ota_spc_failure">TÚL SOK HELYESÍRÁSI HIBA</string>
   <string name="ota_speaker">Hangszóró</string>
@@ -659,6 +674,8 @@
   <string name="phone_entered_ecm_text">Segélykérő visszahívása mód bekapcsolva</string>
   <string name="phone_in_ecm_call_notification_text">Adatkapcsolat letiltva</string>
   <string name="phone_in_ecm_notification_title">Segélykérő visszahívása mód</string>
+  <string name="phone_info_divider">"  |  "</string> 
+  <string name="phone_numbers">Adja meg a ttelefonszámokat</string>
   <string name="phoneAppLabel">Telefon</string>
   <string name="phoneIconLabel">Telefon</string>
   <string name="pick_outgoing_call_phone_type">Hívás indítása</string>
@@ -673,6 +690,7 @@
   <string name="pin_progress_set_fdn_lock_miui">FDN zár beállítás…</string>
   <string name="pin_progress_set_icc_lock_miui">ICC zár beállítás…</string>
   <string name="pin_progress_unlock_icc_miui">SIM kártya feloldása…</string>
+  <string name="pin2_attempts">"Próbálkozások száma :"</string>
   <string name="pin2_changed">A PIN2-kód sikeresen módosításra került</string>
   <string name="pin2_changed_miui">A PIN2-kód sikeresen módosításra került</string>
   <string name="pin2_invalid">Az FDN nincs frissítve: helytelen PIN-kódot adott meg.</string>
@@ -720,6 +738,7 @@
   <string name="radio_off_error">Kapcsolja be a rádiót a beállítások megtekintése előtt.</string>
   <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
   <string name="reading_settings">Beállítások olvasása...</string>
+  <string name="readingSimContacts">SIM kártya beolvasása…</string>
   <string name="regional_disable">Regionális hírek letiltva</string>
   <string name="regional_enable">Regionális hírek engedélyezve</string>
   <string name="register_automatically">Automatikus regisztráció...</string>
@@ -973,7 +992,4 @@
   <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="enable_antispam_strange_summary">&gt;Első hívás némítása ismeretlen szám esetén</string>
-  <string name="enable_antispam_strange_title">Ismeretlen hívás</string>
-  <string name="phone_info_divider">"  |  "</string> 
 </resources>

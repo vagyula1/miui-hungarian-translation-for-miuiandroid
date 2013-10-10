@@ -19,7 +19,6 @@
   <string name="dlg_clear_current_ok">Eltávolítás</string>
   <string name="dlg_clear_current_sms">Törli a telefonszámról érkezett összes üzenetet?</string>
   <string name="dlg_delete_keyword">Eltávolítja a kiválasztott kulcsszavakat?</string>
-  <string name="dlg_delete_vip">Eltávolítja a fehérlista telefonszámot?</string>
   <string name="dlg_edit_keyword">Kulcsszó szerkesztése</string>
   <string name="dlg_import_blacklist">Importálás a tiltólistába</string>
   <string name="dlg_import_whitelist">Importálás a fehérlistába</string>
@@ -30,15 +29,14 @@
   <string name="dlg_remove_blacklist_ok">Eltávolítás</string>
   <string name="dlg_retore">Visszaállítja az üzeneteket?</string>
   <string name="dlg_retore_ok">Visszaállítás</string>
-  <string name="fw_blocked_count" formatted="false">Blokkolva: %d hívás és %d üzenet</string>
   <string name="fw_blocked">Tiltólista statisztika</string>
+  <string name="fw_blocked_count" formatted="false">Blokkolva: %d hívás és %d üzenet</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">%d személy kijelölve</string>
   <string name="marked_by_user">kijelölve</string>
   <string name="menu_add">Hozzáadás</string>
   <string name="menu_add_into_contact">Létező névjegy hozzáadása</string>
   <string name="menu_add_new_contact">Új névjegy</string>
-  <string name="menu_add_vip_custom">Hozzáadás</string>
   <string name="menu_bl_add_contact">Névjegyek</string>
   <string name="menu_bl_add_manual">Hozzáadás</string>
   <string name="menu_bl_call_log">A tiltólista hívásainak ellenőrzése</string>
@@ -56,31 +54,6 @@
   <string name="menu_remove">Törlés</string>
   <string name="menu_restore">Üzenetek visszaállítása</string>
   <string name="menu_sms">Üzenetküldés</string>
-  <string name="qm_auto_button_title">Ütemezés</string>
-  <string name="qm_auto_setting_group">Automatikus be és kikapcsolás</string>
-  <string name="qm_auto_time_setting_summary">Kezdés: %1$s, Befejezés: %2$s</string>
-  <string name="qm_auto_time_setting">Csendes üzemmód intervalluma</string>
-  <string name="qm_auto_time_turn_off_title">Válassza ki a csendes üzemmód kikapcsolási idejét</string>
-  <string name="qm_auto_time_turn_off">Befejezés</string>
-  <string name="qm_auto_time_turn_on_title">Válassza ki a csendes üzemmód bekapcsolási idejét</string>
-  <string name="qm_auto_time_turn_on">Kezdés</string>
-  <string name="qm_notification">Csendes üzemmód bekapcsolva</string>
-  <string name="qm_open">Csendes üzemmód</string>
-  <string name="qm_repeated_call_setting_title">"Ismételt bejövő hívások"</string>
-  <string name="qm_repeated_call_summary_3min">Ha engedélyezi,akkor ugyanannak a személynek a három percen belüli beérkező hívása nem lesz némítva</string>
-  <string name="qm_repeated_call_summary_none">Ne tegyen kivételt az ismetélt hívásokra</string>
-  <string name="qm_special_call_setting_group">Kivételek</string>
-  <string name="qm_summary">A bejövő hívások és üzenetek némítva lesznek, de a híváslistában és üzenetnaplóban látható lesz</string>
-  <string name="qm_vip_call_button_title">Hívások engedélyezése</string>
-  <string name="qm_vip_call_setting_title">Fehérlistás hívások beállítása</string>
-  <string name="qm_vip_call_summary_contact">Minden névjegy</string>
-  <string name="qm_vip_call_summary_custom">%d kivétel</string>
-  <string name="qm_vip_call_summary_none">Még nem lett beállítva</string>
-  <string name="qm_vip_list_contact">Összes névjegy</string>
-  <string name="qm_vip_list_custom">Fehérlista</string>
-  <string name="qm_vip_list_custom_group">Fehérlistám</string>
-  <string name="qm_vip_list_group">Fehérlista</string>
-  <string name="quiet_mode">Csendes üzemmód</string>
   <string name="st_advanced_setting_group">Ismeretlen számok</string>
   <string name="st_block_all">Hívások és üzenetek blokkolása</string>
   <string name="st_block_mute">A tiltólista hívásai és lenémított üzenetek</string>
@@ -106,6 +79,7 @@
   <string name="st_sms_group">Üzenetek</string>
   <string name="tab_blacklist">Tiltólista</string>
   <string name="tab_block_log">Blokkolt</string>
+  <string name="tab_block_log_unKnowNumber">Ismeretlen szám</string>
   <string name="tab_call">Hívásnapló</string>
   <string name="tab_sms">Üzenetnapló</string>
   <string name="tab_title">Felügyelet</string>

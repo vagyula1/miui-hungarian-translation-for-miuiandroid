@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="app_name">MiVideo</string>
   <string name="about_app_name">MiPlayer</string>
+  <string name="about_developer_label">Fejlesztő</string>
   <string name="about_title">Névjegy</string>
   <string name="about_version">V4.0</string>
+  <string name="about_version_label">Verzió:</string>
   <string name="adjust_position_next_media_notice">Következő</string>
   <string name="adjust_position_prev_media_notice">Előző</string>
   <string name="airkan_control_device_des">A lejátszásaz alul lévő gombokkal vezérelhető</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-  <string name="airkan_video_playing_in">Video lejátszása…</string>
   <string name="airkan_video_playing" />
-  <string name="buffering_video_netplay_label_v5">Pufferelés...</string>
+  <string name="airkan_video_playing_in">Video lejátszása…</string>
+  <string name="app_name">MiVideo</string>
   <string name="buffering">Pufferelés...</string>
+  <string name="buffering_video_netplay_label_v5">Pufferelés...</string>
   <string name="loading_video_netplay_label">Töltés,kérem várjon...</string>
   <string name="loading_video_netplay_label_v5">Adatfolyam töltés, kérem várjon...</string>
   <string name="menu_item_about_label">Névjegy</string>
@@ -28,6 +30,10 @@
   <string name="menu_wh_item_full_screen_label">Teljes képernyő</string>
   <string name="menu_wh_item_using_16_9_label">16:9 képarány</string>
   <string name="menu_wh_item_using_4_3_label">4:3 képarány</string>
+  <string name="nowifi_alert_dialog_continue">Folytatás</string>
+  <string name="nowifi_alert_dialog_exit">Kilépés</string>
+  <string name="nowifi_alert_dialog_message">A streamelt videófájl mobil adatkapcsolatot használ,folytatja?</string>
+  <string name="nowifi_alert_dialog_title">Adatforgalmi figyelmeztetés</string>
   <string name="temp_play_history_button_label">Mutassa a lejátszás előzményeit</string>
   <string name="to_be_play_label_v5">Visszajátszás elindítása</string>
   <string name="toast_back_key_pressed_notice">Kilépéshez nyomja meg a vissza gombot.</string>
@@ -48,5 +54,6 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Sajnálom, a kiválasztott videóformátum nem streamelhető ez eszközön</string>
   <string name="vp_VideoView_error_text_unknown">Sajnálom, a kiválasztott videóformátum nem játszható le</string>
   <string name="vp_VideoView_error_title">Video visszajátszási hiba!</string>
+
 </resources>
 

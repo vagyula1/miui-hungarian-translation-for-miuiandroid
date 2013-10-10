@@ -28,6 +28,8 @@
   <string name="menu_settings">Keresés beállítása</string>
   <string name="remove_from_history">Törlés a keresési előzményekből</string>
   <string name="remove_from_history_failed">"Sikertelen a törlés a keresési előzményekből"</string>
+  <string name="search_in_app_store">Keresés az app store-ban</string>
+  <string name="search_in_web">Keresés az interneten</string>
   <string name="search_settings">Keresési beállítások</string>
   <string name="search_sources">Keresés tárgya, helye</string>
   <string name="search_sources_summary">M szeretne rákeresni a telefonon?</string>
@@ -36,4 +38,5 @@
   <string name="voice_search_hint_quotation_end">”</string>
   <string name="voice_search_hint_quotation_start">“</string>
   <string name="voice_search_hint_title">Próbálja a következőket:</string>
+
 </resources>

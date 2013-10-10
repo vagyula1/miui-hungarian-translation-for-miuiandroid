@@ -71,5 +71,6 @@
     <string name="retry_download">Újra</string>
     <string name="select_all">Összes kijelölése</string>
     <string name="select_operation_items">Válassza ki az elemeket</string>
-    <string name="selected_count">%2$d/%1$d kiválasztva</string>   
+    <string name="selected_count">%2$d/%1$d kiválasztva</string>  
+ 
 </resources>

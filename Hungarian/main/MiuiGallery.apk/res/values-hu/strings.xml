@@ -73,6 +73,7 @@
     <string name="delete_fail_too_many_items">A törlés nem sikerült, túl sok elem lett kijelölve</string>
     <string name="action_fail_unknown_error">Ismeretlen hiba miatt a művelet nem hajtható végre.</string>
     <string name="add_to_cloud_fail_too_many_items">A művelet nem hajtható végre,lehetséges,hogy túl sok elem lett kijelölve.</string>
+    <string name="comfirm_delete_current_album">Törli az albumot?</string>
     <string name="confirm_delete_album" formatted="false">Törli a kijelölt %s albumot (amiben %s kép található)?</string>
     <string name="confirm_delete_system_album">%s album egy rendszer album, mégis törli?</string>
     <string name="operation_delete_confirm_message_folder">"A fájlok és mappák törlése.
@@ -110,7 +111,6 @@
     <string name="appwidget_title">Képgaléria</string>
     <string name="appwidget_empty_text">Nincs kép.</string>
     <string name="no_albums_alert">Nincs elérhető album.</string>
-    <string name="empty_album">O elérhető kép/videó.</string>
     <string name="local_albums">Összes album</string>
     <string name="cloud_albums">Felhő albumok</string>
     <string name="home_my_captured_items">Fotóim</string>
@@ -118,6 +118,8 @@
     <string name="title">Cím</string>
     <string name="description">Leírás</string>
     <string name="time">Idő</string>
+    <string name="details_sharer">Megosztva</string>
+    <string name="me">én</string>
     <string name="location">Hely</string>
     <string name="path">Útvonal</string>
     <string name="width">Szélesség</string>
@@ -172,11 +174,12 @@
     <string name="tab_wallpaper_text">Háttérkép</string>
     <string name="tab_all_text">Mindkettő</string>
     <string name="cloud_gallery_space_full">A felhő album megtelt,töröljön néhány képet.</string>
+    <string name="share_album_space_full">A megoszott album megtelt. Töröljön néhény felesleges fényképet.</string>
     <string name="cloud_gallery_recyclebin_full">A lomtár megtelt,kérem látogassa meg az i.xiaomi.com webhelyet az ürítéshez.</string>
     <string name="sync_history_power_on">Szinkronizálás töltéskor</string>
+     <string name="sync_only_in_wifi_alert">A feltöltés csak Wi-Fi használatával kikapcsolása adatforgalmi költséggel járhat; Biztos,hogy kikapcsolja?</string>
     <string name="sync_only_in_wifi">csak Wi-Fi</string>
-    <string name="sync_only_in_wifi_summary">Engedélyezése ajánlott,különben költséget számolhat fel.</string>
-    <string name="sync_only_in_wifi_alert">A feltöltés csak Wi-Fi használatával kikapcsolása adatforgalmi költséggel járhat; Biztos,hogy kikapcsolja?</string>
+    <string name="sync_only_in_wifi_summary">Engedélyezése ajánlott,különben költséget számolhat fel.</string> 
     <string name="alert">Megjegyzés</string>
     <string name="gallery_cloud_provider_name">Galéria</string>
     <string name="sync_album">Album szinkronizálás</string>
@@ -193,6 +196,13 @@
     <string name="add_to_cloud_album">Add hozzá</string>
     <string name="move_to_cloud_album">Áthelyezés</string>
     <string name="send_to_cloud_failed_message">Felhőtárolóba küldés sikertelen</string>
+    <string name="add_to_cloud_successfully_message">Hozzáadva a felhőalbumhoz.</string>
+    <string name="add_to_cloud_space_full_message">A felhőalbum megtelt.</string>
+    <string name="add_to_cloud_local_space_full_message">A tárhely megtelt vagy nem áll készen.</string>
+    <string name="add_to_cloud_file_exist_message">A fénykép már létezik az albumban.</string>
+    <string name="add_to_cloud_exceeded_the_size_message">Túl nagy a fájl mérete.</string>
+    <string name="add_to_cloud_type_not_support_message">A fájltípus nem támogatott.</string>
+    <string name="add_to_cloud_file_not_exist_message">A fájl nem létezik.</string>
     <string name="add_to_cloud_failed_message_with_count">%s elem nem addható a felhő albumhoz</string>
     <string name="cant_delete_system_album">%s album ehy rendszeralbum, nem törölhető.</string>
     <string name="share_album">Album megosztása</string>
@@ -202,8 +212,11 @@
     <string name="scan_qr_code">Ossza meg a QR kódot barátaival a fájlmegosztás engedélyezásáhez</string>
     <string name="request_qr_code">QR kód kérése, kérem várjon...</string>
     <string name="request_qr_code_failed">QR kérés sikertelen, próbálja újra</string>
+    <string name="retry_to_request_qr_code">Újra</string>
+    <string name="album_member">%s album megosztó</string>
     <string name="add_sharer">Megosztó hozzáadás</string>
     <string name="album_name">Album neve</string>
+    <string name="already_apply_album">Megnyitja %1$s?</string>
     <string name="can_modified">Frissítések engedélyezése</string>
     <string name="sharer_status_waiting">Várakozás</string>
     <string name="sharer_status_accepted">Elfogadva</string>
@@ -292,6 +305,7 @@
     <string name="menu_item_sort_date_asc">Dátum szerint növekvő</string>
     <string name="menu_item_sort_date_desc">Dátum szerint csökkenő</string>
     <string name="operation_rename">Átnevezés</string>
+    <string name="operation_share">Megosztás</string>
     <string name="operation_refresh">Frissítés</string>
     <string name="operation_set_as_screensaver">Beállít képernyőkímélőnek</string>
     <string name="operation_unset_as_screensaver">Képernyőkímélő kikapcsolása</string>

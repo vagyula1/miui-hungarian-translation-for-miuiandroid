@@ -8,6 +8,10 @@
         <item quantity="other">%d dal</item>
         <item quantity="one">%d dal</item>
     </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d friss dal</item>
+        <item quantity="one">%d friss dal</item>
+    </plurals>
     <plurals name="Ntracks_string">
         <item quantity="other">%d dal</item>
         <item quantity="one">%d dal</item>
@@ -55,6 +59,14 @@
     <plurals name="NNNtrackstofavoriteplaylist">
         <item quantity="other">%1$d dal hozzáadva a kedvencekhez.</item>
         <item quantity="one">1 dal hozzáadva a kedvencekhez.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d dal törölve a lejátszólistából.</item>
+        <item quantity="one">1 dal törölve a lejátszólistából.</item>
+    </plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">%d results</item>
+        <item quantity="one">%d result</item>
     </plurals>
     <plurals name="Nonlinecategory">
         <item quantity="other">" kategóriák"</item>

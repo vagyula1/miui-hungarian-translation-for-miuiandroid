@@ -130,7 +130,9 @@
     <string name="fail_to_add_account">Fiók hozzáadás sikertelen</string>
     <string name="menu_refresh">Frissítés</string>
     <string name="restore_default_theme_alert">Lehet,hogy a téma hamis,kérjük töltse le újra vagy vásárolja meg.</string>
+    <string name="maml_component_customization_title">Beállítások</string>
     <string name="default_name">Alapértelmezett</string>
+    <string name="resource_select">Kiválasztás</string>
     <string name="resource_app_name">Téma böngésző</string>
     <string name="resource_price_free">Ingyenes</string>
     <string name="resource_price_unit">MI Kredit</string>
@@ -158,7 +160,6 @@ Téma frissítéshez nyissa meg újra.</string>
     <string name="resource_waiting_download">Várakozás</string>
     <string name="resource_apply">Alkalmaz</string>
     <string name="resource_update">Frissítés</string>
-    <string name="resource_select">Kiválasztás</string>
     <string name="resource_buy">Vásárlás</string>
     <string name="resource_importing">Importálás</string>
     <string name="online_no_network">A csatlakozás nem sikerült</string>

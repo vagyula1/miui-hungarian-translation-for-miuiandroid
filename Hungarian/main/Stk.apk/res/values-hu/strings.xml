@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM Eszköztár</string>
+    <string name="app_name2">SIM Eszköztár2</string>
+    <string name="menu_end_session">End session</string>
+    <string name="help">Segítség</string>
+    <string name="menu_back">Vissza</string>
+    <string name="service_name">Szolgáltatás neve</string>
+    <string name="stk_no_service">Nincs elérhető szolgáltatás</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Mégsem</string>
+    <string name="button_yes">Igen</string>
+    <string name="button_no">Nem</string>
+    <string name="alphabet">BetűkAlphabets</string>
+    <string name="digits">Számok (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Hívás folyamatban…</string>
+    <string name="default_setup_call_msg">Hívás beállítás</string>
+    <string name="stk_app_state">Alkalmazás állapota</string>
+    <string name="enable_app">Engedélyezve</string>
+    <string name="disable_app">Letiltva</string>
+    <string name="stk_dialog_title">SIM Eszköztár</string>
+    <string name="default_open_channel_msg">Megnyitja a csatornát?</string>
+    <string name="default_send_data_msg">Adatok küldése</string>
+    <string name="default_receive_data_msg">adatok fogadása</string>
+    <string name="default_close_channel_msg">CSatorna bezárva</string>
+    <string name="stk_dialog_accept">IGEN</string>
+    <string name="stk_dialog_reject">NEM</string>
+</resources>

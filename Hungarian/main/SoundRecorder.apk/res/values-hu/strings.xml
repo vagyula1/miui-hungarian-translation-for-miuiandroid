@@ -64,12 +64,21 @@
     <string name="preference_led_indicator">LED értesítés lezárt képernyőnél</string>
     <string name="preference_led_indicator_prompt">LED értesítés lezárt képernyőnél a felvétel ideje alatt</string>
     <string name="preference_record_type_title">Felvétel típusa</string>
+    <string name="preference_scenes">Hely beállítása</string>
     <string name="preference_record_type_dialog_title">Válassza ki a felvétel típusát</string>
-    <string name="preference_silent_mode">Csörgés némítása felvétel alatt</string>
+    <string name="preference_record_scenes_dialog_title">Váalassza ki a felvétel helyét</string>
+    <string name="preference_silent_mode">Csörgés némítása felvétel közben.</string>
     <string name="error_filename_too_long">A fájlnév túl hosszú</string>
     <string name="duration_format_hour">%só</string>
     <string name="duration_format_minute">%sp</string>
     <string name="duration_format_second">%smp</string>
     <string name="toast_max_record_time">Alk:%1$s maximum %2$s felvételt támogat</string>
     <string name="message_file_size_error">A felvétel elérte a maximálisan %s támogatott hosszúságot</string>
+    <string name="start_recording">felvétel indítása</string>
+    <string name="pause">szüneteltetés</string>
+    <string name="play_record">lejátszás</string>
+    <string name="stop_recording">felvétel megállítása</string>
+    <string name="view_list_of_recordings">felvételek megtekintése</string>
+    <string name="search_for_recordings_in_folders">Felvételek keresése a mappákban</string>
+    <string name="back">vissza</string>
 </resources>

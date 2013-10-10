@@ -38,7 +38,7 @@
     <string name="added_to_bookmarks">Hozzáadva a könyvjelzőkhöz</string>
     <string name="alert_tips">Az oldal nem biztonságos!</string>
     <string name="allow">Engedélyezés</string>
-    <string name="app_new_version">A letötlés befejeződöttmaz alkalmazás utolsó verziója már telepítve van</string>
+    <string name="app_new_version">A letöltés befejeződött.Az alkalmazás utolsó verziója már telepítve van</string>
     <string name="app_update_install">A letöltés befejeződött és készen áll a frissített verzió telepítésére</string>
     <string name="application_name">Böngésző</string>
     <string name="autofill_profile_editor_address_line_1">Cím 1. sora:</string>
@@ -88,6 +88,7 @@
     <string name="bookmarks_content_is_null">Nincs könyvjelző</string>
     <string name="bookmarks_management">Könyvjelzők</string>
     <string name="bookmarks_root_folder">Gyökérkönyvtár</string>
+    <string name="bookmarks_search">Keresés</string>
     <string name="browser_bookmarks_page_bookmarks_text">Könyvjelzők</string>
     <string name="browser_history">A közelmúltban meglátogatott lapok</string>
     <string name="browserFrameFileErrorLabel">Probléma a fájllal</string>  
@@ -137,15 +138,15 @@
     <string name="delete_bookmark_warning">Könyvjelző törlése: \"%s\"?</string>
     <string name="delete_folder">Mappa törlése</string>
     <string name="delete_multi_bookmarks_alert_title">Törli a kiválasztott %1$s elemet?</string>
-    <string name="download_dialog_default_path_invalid">A letöltés helyének útvonala nem megfelelő, alapértelmezett útvonal beállítva</string>
     <string name="disable_autofill">Automatikus kitöltés letiltása</string>
     <string name="disk_space_available">%1$s elérhető</string>
     <string name="disk_space_selected">%1$s kiválasztva</string>
     <string name="disk_space_used">%1$s használt</string>
     <string name="do_not_save">Mégsem</string>
     <string name="download">Letöltés</string>
-    <string name="download_complete">A letötlés befejeződött</string>
+    <string name="download_complete">A letöltés befejeződött</string>
     <string name="download_default_path_txt">Beállítás alapértelmezett mappának</string>
+    <string name="download_dialog_default_path_invalid">A letöltés helyének útvonala nem megfelelő, alapértelmezett útvonal beállítva</string>
     <string name="download_dialog_file_length_hint_txt">Fájlméret:</string>
     <string name="download_dialog_file_length_lessthan1kb">Kevesebb,mint 1K</string>
     <string name="download_dialog_file_length_nolength_error_txt">A letöltés nem sikerült</string>
@@ -198,6 +199,7 @@
     <string name="filename_illegal_alert_message">A fájlnév érvénytelen karakterekett tartalmazott, melyek automatikusan el lettek távolítva.</string>
     <string name="find_on_page">Keresés az oldalon</string>
     <string name="folder_name">Könyvtár neve</string>
+    <string name="folder_name_too_long">Túl hosszú a mappa neve</string>
     <string name="forward">Következő</string>
     <string name="geolocation_permissions_prompt_dont_share">Elutasítás</string>
     <string name="geolocation_permissions_prompt_message">A(z) %s meg akarja ismerni az Ön tartózkodási helyét</string>
@@ -314,6 +316,7 @@
     <string name="pref_autofill_profile_editor">Automatikus kitöltés szövege</string>
     <string name="pref_autofill_profile_editor_summary">Szöveg beállítása webes űrlapok automatikus kitöltéséhez</string>
     <string name="pref_autologin_progress">Bejelentkezés Google-webhelyekre a következők használatával: %s</string>
+    <string name="pref_autologin_progress_in_background">Bejelentkezés a Google oldalakra %s használatával a háttérben</string>
     <string name="pref_autologin_title">Automatikus Google bejelentkezés</string>
     <string name="pref_clear_cache_for_exit">Gyorsítótár törlése</string>
     <string name="pref_clear_history_for_exit">Előzmények törlése</string>
@@ -438,6 +441,8 @@
     <string name="pref_privacy_security_title">Adatvédelem és biztonság</string>
     <string name="pref_reading_mode_enabled_title">Olvasó mód</string>
     <string name="pref_reading_mode_enabled_title_summary">JavaScript engedélyezése szükséges</string>
+    <string name="pref_save_bandwidth_mode_summary">"A böngésző nem  tölti be előre a honlapokat és nem jeleníti meg a képeket mobil adatkapcsolat esetén"</string>
+    <string name="pref_save_bandwidth_mode_title">Adatforgalom csökkentése</string>
     <string name="pref_security_accept_cookies">Cookie-k fogadása</string>
     <string name="pref_security_accept_cookies_summary">Engedélyezze, hogy a webhelyek cookie-adatokat mentsenek el és olvassanak be</string>
     <string name="pref_security_passwords_title">Jelszavak</string>
@@ -465,6 +470,7 @@
     <string name="progress_dialog_setting_wallpaper">Háttérkép beállítása...</string>
     <string name="quicklinks_management">Hasznos oldalak</string>
     <string name="readmode_already_add_to_bookshelf">Hozzáadva a könyvespolchoz</string>
+    <string name="readmode_battery">Akkumulátor </string>
     <string name="readmode_login">Fiók bejelentkezés</string>
     <string name="readmode_login_message">A későbbi fejezetek olvasásához bejelentkezés szükséges</string>
     <string name="readmode_page_load_error">Oldal betöltése nem sikerült, kattintson a frissítésre</string>
@@ -474,6 +480,7 @@
     <string name="readmode_reach_last_page">Ez az utolsó oldal</string>
     <string name="readmode_recommend">Ajánlott megtekintése</string>
     <string name="readmode_recommend_message">"Kiolvasta a könyvet.Válasszon másikat"</string>
+    <string name="readmode_refresh">Frissítés</string>
     <string name="readmodelist_bookmarks_to_show">Olvasólista</string>
     <string name="recover">visszaállítás</string>
     <string name="recover_from_crash">Az legutóbbi ablak megjelenítése</string>
@@ -496,6 +503,7 @@
     <string name="save_file_already_exist_alert_title">Figyelmezteés</string>
     <string name="save_to_bookmarks">Könyvjelző mentése</string>
     <string name="saving_snapshot">Mentés…</string>
+    <string name="search">Keresés</string>
     <string name="search_button_text">Ugrás</string>
     <string name="search_cancel">Mégsem</string>
     <string name="search_google">Google</string>
@@ -565,6 +573,4 @@
     <string name="webstorage_origin_summary_mb_stored">MB tárolva a telefonján</string>
     <string name="webstorage_outofspace_notification_text">Érintse meg terület felszabadításához.</string>
     <string name="webstorage_outofspace_notification_title">A böngésző tárterülete megtelt</string>
-
-    <string name="readmode_refresh">Frissítés</string> 
 </resources>

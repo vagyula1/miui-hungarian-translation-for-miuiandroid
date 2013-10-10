@@ -3,6 +3,7 @@
     <string name="action_submit">Elküld</string>
     <string name="app_label">Visszajelzés</string>
     <string name="btn_send">Küld</string>
+    <string name="bugreport_feedback_from">Feladó: %s</string>
     <string name="description">Leírás (szükséges)</string>
     <string name="discard_draft_dialog_button_cancel">Mégsem</string>
 

@@ -146,5 +146,14 @@ Ha nem, módosíthatja.</string>
     <string name="text_done">Kész</string>
     <string name="text_save">Mentés</string>
     <string name="adjust_no_network_update_data_fail">Adatfrissítés sikertelen.A hálózatbeállítások ellenőrzése után próbálja újra.</string>
+    <string name="custom_adjust_title">Egyéni beállítások módosítása</string>
+    <string name="custom_adjust_sender">Feladó száma</string>
+    <string name="custom_adjust_command">Tartalom a Feladótól</string>
+    <string name="custom_adjust_receiver">Fogadó száma</string>
+    <string name="custom_adjust_sender_hint">A szolgáltató száma megkapja a felhasználótól a lekérdezések részleteit</string>
+    <string name="custom_adjust_command_hit">Elküldendő tartalom</string>
+    <string name="custom_adjust_receiver_hint">A szolgáltató száma küldi a részleteket.</string>
+    <string name="custom_adjust_recevier_same_with_sender">Ugyanaz,mint a küldő száma</string>
+    <string name="custom_adjust_is_empty">%s üres!</string>
     <string name="app_has_deleted">%s törölve.</string>
 </resources>

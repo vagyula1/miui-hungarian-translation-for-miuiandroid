@@ -34,12 +34,10 @@
     <string name="menu_move_parent_folder">Gyökérkönyvtár</string>
     <string name="menu_rename_folder">Mappa átnevezése</string>
     <string name="info_note_enter_desktop">Jegyzet az asztalra küldve</string>
-    <string name="alert_title_delete">Kiválasztott jegyzetek törlése</string>
     <string name="alert_message_delete_notes">Biztosan törli a(z) %d kijelölt jegyzetet?</string>
     <string name="alert_message_delete_folders">Törli a kiválasztott %1$s mappát?</string>
     <string name="alert_message_delete_folders_notes">Törli a kiválasztott %1$s mappát és %2$s jegyzetet?</string>
     <string name="alert_message_delete_note">Biztosan törli jegyzetet?</string>
-    <string name="alert_title_discard">Elveti a változásokat?</string>
     <string name="alert_message_discard_changes">Elveti a változtatásokat?</string>
     <string name="format_move_notes_to_folder">A kiválasztott %1$d jegyzet áthelyezve a(z) %2$s mappába</string>
     <string name="alert_title_edit_anyway">Szerkeszti a jegyzetet,ami adatvesztéssel járhat?</string>
@@ -55,6 +53,7 @@
     <string name="failed_sdcard_export">Mentés sikertelen</string>
     <string name="format_exported_file_location">A %1$s szöveg mentve az SD kárya %2$s mappájába</string>
     <string name="error_unsupport_content">A jegyzet nem támogatott tartalmat tartalmaz, kattintson a rendszer frissítéséhez</string>
+    <string name="error_contact_not_exist">A névjegy nem létezik</string>
     <string name="preferences_title">Beállítások</string>
     <string name="preferences_bg_random_appear_title">Véletlen jegyzet színek</string>
     <string name="call_record_folder_name">Híváslista</string>
@@ -76,6 +75,7 @@
     <string name="notify_alarm_action_mute">Némít</string>
     <string name="toast_message_add_image_fail">Kép beillesztése sikertelen!</string>
     <string name="toast_privacy_mode">Védett üzemmódban nem szerkeszthető jegyzet</string>
+    <string name="toast_folder_privacy_mode">Védelem módban a mappa nem szerkeszthető</string>
     <string name="toast_reach_text_limit_truncate">"A jegyzet automatikusan levágva,mert túl hosszú."</string>
     <string name="toast_reach_text_limit_attachment">A jegyzet túl nagy új csatolmányok hozzáadásához.</string>
     <string name="select_account_prompt">Jegyzet szinkronizálás engedélyezése</string>
@@ -83,7 +83,7 @@
     <string name="add_account_desc">A jegyzetek szinkronizálhatóak a Xiaomi fiókjával. Bejelentkezik és szinkronizálja most?</string>
     <string name="not_now">Most nem</string>
     <string name="enable_sync">Szinkronizálás</string>
-	<string name="error_contact_not_exist">A névjegy nem létezik</string> 
+    <string name="login_sync">Belépés &amp; szink.</string>
     <string name="pref_title_note_style">Jegyzet stílus</string>
     <string name="pref_desc_mode_list">Lista</string>
     <string name="pref_desc_mode_grid">Rács</string>

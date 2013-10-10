@@ -122,7 +122,12 @@
     <string name="confirm_delete_all_conversations">Az összes szál törlésre kerül.</string>
     <string name="confirm_delete_group_message">A csoport törlésre kerül.</string>
     <string name="confirm_delete_message">Az üzenet törlésre kerül.</string>
-    <string name="confirm_delete_locked_message">Biztosan törli ezt a zárolt üzenetet?</string>
+    <string name="confirm_delete_locked_message">Biztosan törli ezt a zárolt üzenetet?</string>   
+    <string name="confirm_restore_all_title">Visszállítja ennek a számnak az összes üzenetét?</string>
+    <string name="confirm_no_block_title">Feloldja ezt a számot és visszaállítja minden üzenetét?</string>
+    <string name="confirm_no_block_positive">Feloldás</string>
+    <string name="confirm_restore_title">Visszaállítja a kiválaszott üzeneteket?</string>
+    <string name="confirm_restore_positive">Visszaállítás</string>
     <string name="delete_unlocked">Zárolt üzenetek törlése</string>
     <string name="delete">Törlés</string>
     <string name="stick">Lerögzít</string>
@@ -131,6 +136,7 @@
     <string name="unstick_conversation">Beszélgetés feloldása</string>
     <string name="sticked_conversation">Már lerögzítette a beszélgetést</string>
     <string name="unsticked_conversation">Már feloldotta a beszélgetést</string>
+    <string name="invalid_conversation">Érvénytelen beszélgetés</string>
     <string name="no_conversations">Nincs üzenet.</string>
     <string name="loading_conversations">Beszélgetés betöltése...</string>
     <string name="cannot_get_details">Nem lehet lekérni a részleteket</string>
@@ -190,6 +196,7 @@
     <string name="type_audio">hanganyag</string>
     <string name="type_picture">kép</string>
     <string name="type_video">videó</string>
+    <string name="type_attachment">melléklet</string>
     <string name="confirm">Megerősítés</string>
     <string name="message_send_read_report">A program olvasási visszaigazolást küld majd.</string>
     <string name="message_queued">Jelenleg nem lehet elküldeni az üzenetet. A küldés akkor történik meg, ha a szolgáltatás elérhetővé válik.</string>
@@ -354,6 +361,7 @@
     <string name="mx_msg">Felhő üzenet</string>
     <string name="mx_enable">MIUI Felhő üzenetkezelés</string>
     <string name="mx_warning_notice">A felhő üzenetkezelés aktiválásához egy sms küldése szükséges. A szolgáltató költséget számíthat fel</string>
+    <string name="mx_int_warning_notice">Egy nemzetközi sms elküldése szükséges a felhő üzenetkezelés aktiválásához (a szolgáltató költséget számolhat fel).</string>
     <string name="mx_btn_enable">Engedélyez</string>
     <string name="ex_type_sms">SMS</string>
     <string name="ex_type_mx">Felhő üzenet</string>
@@ -373,8 +381,11 @@
     <string name="mx_activate_error_malformed_info">Felhő üzenetkezelés aktiválása nem sikerült, újraaktiválása szükséges</string>
     <string name="mx_activate_error_server">Központnak nem sikerült az aktiválás</string>
     <string name="mx_activate_hint_sim_change">SIM kártya megváltozott, újraaktiválás szükséges.Aktiválja?</string>
+    <string name="mx_activate_int_hint_sim_change">Egy nemzetközi sms elküldése szükséges a felhő üzenetkezelés újraaktiválásához (a szolgáltató költséget számíthat fel).</string>
     <string name="mx_activate_hint_malformed_info">A művelet megszakítva, újraaktiválása szükségesd. Aktiválja?</string>
+    <string name="mx_activate_int_hint_malformed_info">>Egy nemzetközi sms elküldése szükséges a felhő üzenetkezelés újraaktiválásához (a szolgáltató költséget számíthat fel).</string>
     <string name="mx_activate_hint_server">Központnak nem sikerült az aktiválás? Aktiválja?</string>
+    <string name="mx_activate_int_hint_server">>Egy nemzetközi sms elküldése szükséges a felhő üzenetkezelés újraaktiválásához (a szolgáltató költséget számíthat fel).</string>
     <string name="need_download">Letöltés...</string>
     <string name="found_wild_messages_title">Üzenetek letöltése</string>
     <string name="found_wild_messages">%s üzenetet találtam a másik SIM kártyán a MiCloud-ban, letölti őket?</string>
@@ -385,6 +396,7 @@
 
     <string name="mx_enable_popup_msg">Cloud Message enables you to send messages between MIUI users. To activate, an SMS will be sent. Carrier messaging rates may apply, activate now? If not, you may enable it in Settings later</string>
     <string name="mx_enable_int_popup_msg">Cloud Message enables you to send messages between MIUI users. To activate, an international SMS will be sent. Carrier messaging rates may apply, activate now? If not, you may enable it in Settings later</string>
+    <string name="mx_activation_done">Felhő üzenetkezelés engedélyezve</string>
     <string name="loading_mms">MMS betöltés…</string>
     <string name="add_number_to_sender">Szám hozzáadás %s</string>
     <string name="unknown_num">Ismeretlen szám</string>
@@ -399,6 +411,7 @@
     <string name="private_protect">Privát üzenet beállítás</string>
     <string name="private_new_notification">Új privát üzenet értesítés</string>
     <string name="enable_password_protect">Jelszavas védelem</string>
+    <string name="enable_visible_pattern_title">Látható minta készítésee</string>
     <string name="importing_progress_private_message">Üzenetek importálása a privát üzenetekhez</string>
     <string name="exporting_progress_private_message">Üzenetek exporálása a privát üzenetekból</string>
     <string name="confirm_export_dialog_title">Privát névjegy eltávolítása</string>
@@ -409,4 +422,16 @@
     <string name="select_local_audio">Válasszon hanganyagot...</string>
     <string name="select_local_video">Válasszon videót...</string>
     <string name="mx_recommend_msg">felhő üzenetkezelés engedélyezése. Kattintson az engedélyezéshez és küldjön üzeneteket ingyen</string>
+    <string name="restore_all_button_msg">Visszaállítja a szám összes elküldött üzenetét?</string>
+    <string name="no_block_button_msg">Szám feloldása</string>
+    <string name="restore_blocked_message">Üzenet visszaállítása</string>
+    <string name="overwrite_edited_content">A szerkesztett tartalom felülíródik.</string>
+    <string name="back_to_message_list">Vissza az üzenetekhez</string>
+    <string name="select_recipient">Válasszon címzetteket</string>
+    <string name="add_attachment">Melléklet hozzáadása</string>
+    <string name="send_sms">Üzenet küldése</string>
+    <string name="file_share_message_description">Megosztom a fájlt</string>
+    <string name="addBlackList">Feketelistához adás</string>
+    <string name="confirm_add_blacklist_dialog_dspt">Hozzáadja a számot a feketelistához?</string>
+    <string name="batch_adding_progress_message">Hozzáadás …</string>
 </resources>

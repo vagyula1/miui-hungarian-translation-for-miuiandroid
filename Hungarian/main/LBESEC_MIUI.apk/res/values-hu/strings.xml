@@ -179,6 +179,7 @@
   <string name="Privacy_AppPerm_Count_Trust">%1$dengedély - &lt;font color=#478800&gt;Megbízható&lt;/font&gt;</string>
   <string name="Privacy_Perm_Count">Engedélyezve: %1$d Letiltva: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s Rendszergazdai jogosultságot kér, amely alapértelmezetten le van tiltva a biztonság érdekében. Ha engedélyezni szeretné, az Engedélykezelőben teheti meg.</string>
+  <string name="Su_Unavailable">A rendszergazdai jogosultság le van tiltva a MIUI stabil verziójában. A jogosultság engedélyezéséhez telepítse a MIUI fejlesztői verzióját.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart engedély</string>
   <string name="SysOpt_Boost_AutoStart_Group">Automatikus indulás</string>
   <string name="SysOpt_Boost_Boot">Indulás</string>

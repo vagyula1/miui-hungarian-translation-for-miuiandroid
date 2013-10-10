@@ -13,6 +13,13 @@
   <string name="debug_tool_email_subject">Naptár-adatbázis mellékelve</string>
   <string name="debug_tool_message">Arra készül, hogy 1) másolatot készítsen a naptár adatbázisáról a bármilyen alkalmazás által olvasható SD-kártyára/usb-tárhelyre, és 2) e-mailben elküldje. Ne felejtse el azonnal törölni, amint sikeresen átmásolta a készülékről, vagy miután az e-mail megérkezett.</string>
   <string name="debug_tool_start_button">Indítás</string>
+  <string name="holiday_data_no_network">Nincs hálózat, próbálja később</string>
+  <string name="holiday_data_update_failed">Ellenőrizze a frissítési hibákat, és próbálja újra később</string>
+  <string name="holiday_data_update_succeed">Ellenőrizze a frissítést</string>
+  <string name="holiday_data_updating">Frissítés...</string>
+  <string name="holiday_update_summary">Kattintson a frissítések ellenőrzéséhez</string>
+  <string name="holiday_update_title">A munkanapok adataihoz hálózati kapcsolat és frissítés szükséges</string>
   <string name="provider_label">Naptár</string>
   <string name="upgrade_msg">A Naptár adatbázisának frissítése</string>
+
 </resources>

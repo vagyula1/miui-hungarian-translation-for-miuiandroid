@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remote_service_stopped">Távoli szolgáltatás leállt</string>
+    <string name="app_name">DS</string>
+    <string name="name_widget_extra_large">DS 6 Profil Widget</string>
+    <string name="name_widget_large">DS 3 Profil Widget</string>
+    <string name="name_widget_small">DS Be/Ki Widget</string>
+    <string name="movie">Mozi</string>
+    <string name="music">Zene</string>
+    <string name="game">Játék</string>
+    <string name="voice">Hang</string>
+    <string name="preset_1">Egyéni 1</string>
+    <string name="preset_2">Egyéni 2</string>
+</resources>

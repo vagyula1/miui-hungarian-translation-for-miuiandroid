@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="uid_label">Média</string>
-    <string name="app_label">Médiatároló</string>
-    <string name="upgrade_msg">Médiaszolgáltató adatbázisának frissítése</string>
+    <string name="app_label">Média tároló</string>
+    <string name="upgrade_msg">Média adatbázis frissítése.</string>
     <string name="artist_label">Előadó</string>
 </resources>
