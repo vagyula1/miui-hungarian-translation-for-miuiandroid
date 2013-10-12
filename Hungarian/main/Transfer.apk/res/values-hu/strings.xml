@@ -19,7 +19,7 @@
     <string name="share">Megosztás</string>
     <string name="first_in_tip">A fájlátvitel első használatának megkezdése</string>
     <string name="welcome_tip1">Fájlok megosztása mobil adatkapcsolat használata nélkül</string>
-    <string name="welcome_tip2">>Fényképek,zenék,névjegyek és egyéb fájlok megosztása!</string>
+    <string name="welcome_tip2">>Fényképek, zenék, névjegyek és egyéb fájlok megosztása</string>
     <string name="voice_assist_match">Fast auto matching</string>
     <string name="voice_match">Fast matching</string>
     <string name="input_device_name">Írja be az eszköz nevét</string>
@@ -107,11 +107,11 @@
     <string name="settings_auto_pair_sender_summary">Automatikus párosítás a küldővel/fogadóval</string>
     <string name="settings_receive_confirm_title">Fájlfogadás visszaigazolás</string>
     <string name="settings_receive_confirm_summary">Fájlátvitel kérés(ek) visszaigazolása</string>
-    <string name="guide_label">Fájlátviteli útmutató</string>
-    <string name="title_step_one">1. Gyors fájlmegosztás mobil adatkapcsolat használata nélkül</string>
-    <string name="title_step_two">2. MiShare az általános átvitel protokoll</string>
+    <string name="guide_label">Fájlátvitel használata</string>
+    <string name="title_step_one">1. Fájlok gyors megosztás mobil adatkapcsolat használata nélkül</string>
+    <string name="title_step_two">2. A nem MIUI rendszert használók az MiShare segítségét használhatják fájlátvitelre  különböző rendszerek között</string>
     <string name="title_step_three">3. Ossza meg a fájlokat barátaival</string>
-    <string name="summary_step_one">Fényképek,zenék,névjegyek és egyéb fájlok küldése</string>
+    <string name="summary_step_one">Fényképek, zenék, névjegyek és egyéb fájlok küldése</string>
     <string name="summary_step_two">Barátok meghívása a MiShare használatára</string>
     <string name="button_pre">Vissza</string>
     <string name="button_next">Következő</string>

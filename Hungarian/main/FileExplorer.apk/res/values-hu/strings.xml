@@ -18,7 +18,6 @@
     <string name="binded_accout_description">Fiókok egyesítve, használhatja Xiaomi vagy KuaiPan fiókját a belépéshez, mindkettő adatait olvashatja</string>
     <string name="binded_accout_title">Fiókok szinkronizálva</string>
     <string name="cache_size_label">Gyorsítótár</string>
-    <string name="cancel_cleanup">Törlés megszakítása</string>
     <string name="cancel_with_count_down">Mégsem (%d)</string>
     <string name="cancel">Mégsem</string>
     <string name="category_all">Mind</string>
@@ -64,13 +63,12 @@
     <string name="decompress_to_here">Kicsomagolás ide:</string>
     <string name="decompress_to">Kicsomagolás…</string>
     <string name="delete_failed">A törlés nem sikerült</string>
-    <string name="delete_file">Törli?</string>
-    <string name="delete_files_and_folders">Biztos törli a kiválasztott %1$d fájlt és %2$d mappát?</string>
-    <string name="delete_files">Biztos,hogy törli a kiválasztott %1$d fájlt?</string>
-    <string name="delete_folder">Biztos törli?</string>
-    <string name="delete_folders">Biztos,hogy törli a kiválasztott %1$d mappát?</string>
+    <string name="delete_files_and_folders">Törli a kiválasztott %1$d fájlt és %2$d mappát?</string>
+    <string name="delete_files">Törli a kiválasztott %1$d fájlt?</string>
+    <string name="delete_folder">Törli a mappát?</string>
+    <string name="delete_folders">Törli a kiválasztott %1$d mappát?</string>
     <string name="des_running_trans">%1$d fájl átvitele még szükséges</string>
-    <string name="dialog_select_type">File tipus kiválasztása</string>
+    <string name="dialog_select_type">Fájl tipus kiválasztása</string>
     <string name="dialog_type_audio">Audió</string>
     <string name="dialog_type_image">Kép</string>
     <string name="dialog_type_text">Szöveg</string>
@@ -125,7 +123,6 @@
     <string name="instruction_pre">Indítás az FTP kapcsolat engedélyezésével</string>
     <string name="instruction">Írja be a következő címet az FTP kliensébe:</string>
     <string name="item_name">Nincs név</string>
-    <string name="kingsoft_account">kingsoft kuaipan fiók</string>
     <string name="kuaipan_over_space">MiDrive-on nincs elég hely.</string>  
     <string name="kuaipan_prompt">MiDrive Segítség</string>
     <string name="kuaipan_prompt_message">A szerver jelenleg nem elérhető,próbálja később</string>
@@ -181,7 +178,7 @@
     <string name="operation_decompressing">Kicsomagolás...</string>
     <string name="operation_deleting">Törlés</string>
     <string name="operation_delete_confirm_message_folder">A könyvtár törlése a benne lévő fájlokat is törli.</string>
-    <string name="operation_delete_confirm_message">Biztosan törli?</string>
+    <string name="operation_delete_confirm_message">Törlés megerősítése</string>
     <string name="operation_delete">Törlés</string>
     <string name="operation_deleting_detail">Fájlok törlése (%1$d/%2$d)</string>
     <string name="operation_download_link">Letöltőlink generálás</string>
@@ -229,7 +226,7 @@
     <string name="show_message">Letöltés nélkül a fájl nem nyitható meg</string>
     <string name="sign_description">Bejelentkezés…</string>
     <string name="signin_error">Csatlakozás sikertelen. Ellenőtizze a hálózati kapcsolatot.</string>
-    <string name="signin_success">"Üdvözöljük!%1$s ingyenes tárhely hozzáadva"</string>
+    <string name="signin_success">"Üdvözöljük! Az ingyenes %1$s tárhely hozzáadása megtörtént."</string>
     <string name="space_info">Tárhely mérete: %1$s elérhető，összes: %2$s</string>
     <string name="space_usage">Használat</string>
     <string name="start_cleanup">Tisztítás indítása</string>
@@ -273,13 +270,12 @@
     <string name="upload_file_toolarge_message">%1$d fájl mérete nagyobb,mint 300Mb,nem tölthető fel. Ellenőrizze az Átvitel Kezelőben.</string>
     <string name="uploading">Feltöltés…</string>
     <string name="used">Felhasznált</string>
-     <string name="user_guide">Használati útmutató</string>
+    <string name="user_guide">Használati útmutató</string>
     <string name="user_guide_download_other_version">Kuaipan letölthető PC-re és MAC-re egyaránt</string>
     <string name="user_guide_kuaipan_copy">Fájljai elérhetők több eszközön Kuaipan által</string>
     <string name="user_guide_other_version">Kuaipan verzióinak letöltése</string>
     <string name="user_guide_summary">Hogyan használja a MiDrive-ot</string>
     <string name="user_guide_upload_to_kuaipan">A telefonon egyszerűen másolja be a Kuaipan-ba</string>
-   
     <string name="utf8_summary">Alapértelmezett kódolás típusa</string>
     <string name="utf8_title">UTF-8</string>
     <string name="version_text">%1$s verzió</string>
@@ -293,5 +289,4 @@
     <string name="wifi_state">Wi-Fi állapota</string>
     <string name="xiaomi_account">Xiaomi fiók</string>
     <string name="yes">Igen</string>
-
 </resources>

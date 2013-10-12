@@ -43,22 +43,12 @@
         <item>2 nap</item>
  	 <item>1 hét</item>       
     </string-array>
-        
-       
-       
-   
-        
-       
-   
     <string-array name="preferences_week_start_day_labels">
         <item>Helyi alapértelmezett</item>
         <item>Szombat</item>
         <item>Vasárnap</item>
 	<item>Hétfő</item>
     </string-array>
-
-        
-    
     <string-array name="timezone_labels">
         <item>Marshall-szigetek</item>
         <item>Midway-szigetek</item>
@@ -186,6 +176,12 @@
         <item>hét</item>
         <item>Hónap</item>
         <item>Napirend</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Rohanok,csak pár percet kések.</item>
+        <item>Kb.10 perc múlva ott leszek.</item>
+        <item>Indulj el nélkülem.</item>
+        <item>"Sajnálom,nem tudok elmenni.Egyeztetünk egy új időpontot."</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Mindig</item>

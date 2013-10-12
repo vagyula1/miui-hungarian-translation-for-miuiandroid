@@ -77,17 +77,17 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="data_keep_in_phone">Hagyja meg</string>
     <string name="data_wipe_from_phone">Törölje le</string>
     <string name="login_notice">Bejelentkezés...</string>
-    <string name="data_sync_notice">Használja Xiaomi fiókját az üzenetei,névjegyei és egyéb adatai szinkronizálásához.Használja ki a felhő szolgáltatásokat.</string>
-    <string name="sync_dspt">Szinkronizálás és felhő szolgáltatások engedélyezés</string>
-    <string name="sync_sub_dspt">Egy SMS elküldése szükséges az aktiválásához</string>
-    <string name="sync_sub_int_dspt">Egy nemzetközi üzenetdíjnak megfelelő SMS-t lett elküldve a szolgáltatás aktiválásához</string>
+    <string name="data_sync_notice">Használja ki a MiCloud szolgáltatásait névjegyei,üzenetei és egyéb adatai szinkronizálásához.</string>
+    <string name="sync_dspt">MiCloud szolgáltatások és szinkronizálás</string>
+    <string name="sync_sub_dspt">Egy üzenet elküldése szükséges az aktiválásához</string>
+    <string name="sync_sub_int_dspt">Egy nemzetközi SMS-nek megfelelő üzenetdíjjal terheli meg a számláját a szolgáltatás aktiválásához.</string>
     <string name="send_sms_for_sync_title">A szolgáltatás nincs aktiválva</string>
-    <string name="send_sms_for_sync_notice">Egy SMS elküldése szükséges az aktiválásához. Aktiválja?</string>
+    <string name="send_sms_for_sync_notice">Egy üzenet elküldése szükséges az aktiválásához. Aktiválja?</string>
     <string name="send_int_sms_for_sync_notice">Egy nemzetközi üzenetdíjnak megfelelő SMS szükséges a szinkronizálás aktiválásához. Folytatja?</string>
     <string name="failed_to_send_activate_email">Az aktiváló email elküldése nem sikerült.</string>
     <string name="access_denied">Hozzáférés megtagadva</string>
     <string name="reging">Regisztrálás. Kérem várjon…</string>
-    <string name="reg_success_summary">Your mobile number %1$s telefonszám már meg be van regisztrálva a MiLock-hoz,ahová beléphet és módosíthatja jelszavát.</string>
+    <string name="reg_success_summary">%1$s telefonszám már meg be van regisztrálva a MiLock-hoz,ahová beléphet és módosíthatja jelszavát.</string>
     <string name="sync_on">Be</string>
     <string name="sync_off">Ki</string>
     <string name="btn_activate">Aktiválás</string>
@@ -105,22 +105,22 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="find_device_error_network">Hálózat nem elérhető</string>
     <string name="find_device_error_server">Szerver hiba</string>
     <string name="find_device_success_title">Eszköz keresés bekapcsolva</string>
-    <string name="find_device_notice_p1">Ha elveszítette telefonját, keresse fel a</string>
-    <string name="find_device_notice_p2">i.xiaomi.com - weboldalt</string>
-    <string name="find_device_notice_p3">ahol megtalálhatja,lezárhatja vagy törölheti telefonja személyes adatait</string>
+    <string name="find_device_notice_p1">Ha elvesztette telefonját, keresse fel a</string>
+    <string name="find_device_notice_p2">i.xiaomi.com</string>
+    <string name="find_device_notice_p3"> - weboldalt,melynek segítségével telefonja megtalálható vagy zárolható,illetve személyes adatiat is törölheti.</string>
     <string name="i_know">Tudom</string>
     <string name="find_device_disabled_title">Eszköz keresés kikapcsolva</string>
     <string name="find_device_disabled_notice">Nyissa meg újra az eszköz keresést a beállítások -> fiókok &amp; szinkronizálás-> xiaomi fiók menüpontban</string>
     <string name="activate_phone_send_sms_fail">Az aktiváló SMS elküldése nem sikerült, a szinkronizálás nem nyitható meg</string>
     <string name="activate_phone_server_error">Szerverhiba，a szinkronizálás nem nyitható mege</string>
-    <string name="activate_phone_failed_notif_title">A MiCloud szolgáltatás nincs engedélyezése nem sikerült</string>
+    <string name="activate_phone_failed_notif_title">A MiCloud szolgáltatás engedélyezése nem sikerült</string>
     <string name="activate_phone_send_sms_failed_notif">Az aktiváló SMS elküldése nem sikerült</string>
     <string name="activate_phone_server_error_notif">Szerverhiba</string>
     <string name="user_agreement_p1">A bejelentkezéssel Ön elfogadja a</string>
     <string name="user_agreement_p2">Xiaomi felhasználói feltételeket</string>
     <string name="user_agreement_p3"> és az </string>
     <string name="user_agreement_p4">adatvédelmi nyilatkozatot</string>
-    <string name="user_agreement_p5">A bejelentkezéssel Ön elfogadja </string>
+    <string name="user_agreement_p5">A bejelentkezéssel Ön elfogadja</string>
     <string name="skip_setup_account_title">Fiókbeállítás kihagyása</string>
     <string name="skip_setup_account_msg">A Xiaomi fiók használatával szinkronizálhatja üzeneteit,névjegyeit, fényképeit , jegyzeteit és egyéb adatait. Beállítja később?</string>
     <string name="account_dspt">Xiaomi fiókban lévő üzenetek,névjegyek,fényképek és egyéb adatok visszaállíthatóak és szinkronizálhatóak</string>
@@ -133,7 +133,7 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="checking_account">Fiók ellenőrzése...</string>
     <string name="label_order_name">Termék név:</string>
     <string name="label_order_price">Mennyiség:</string>
-    <string name="order_price">%1$s Mi kredit</string>
+    <string name="order_price">%1$s MiCredit</string>
     <string name="password_hint">Írja be a Xiaomi fiók jelszavát</string>
     <string name="password_error">Ellenőrizze a jelszót</string>
     <string name="progress_creating">Megrendelés elküldése...</string>
@@ -143,9 +143,9 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="button_retry">Újra</string>
     <string name="button_pay">Megerősít</string>
     <string name="button_recharge">Feltöltés</string>
-    <string name="balance">Egyenleg: %1$s Mi kredit</string>
+    <string name="balance">Egyenleg: %1$s MiCredit</string>
     <string name="frozen">(Felfüggesztve)</string>
-    <string name="mili_center">Mi kredit központ</string>
+    <string name="mili_center">MiCredit központ</string>
     <string name="memu_refresh">Frissítés</string>
     <string name="error_mili_title">Nincs fedezet</string>
     <string name="error_network_title">Hálózati hiba</string>
@@ -175,7 +175,7 @@ Ellenőrizze és próbálja újra</string>
 Próbálkozzon néhány perc múlva"</string>
     <string name="error_giftcard_summary">Unable to get gift card info for now</string>
     <string name="error_bankcard_verify_summary">Bankkártya ellenőrzési hiba</string>
-    <string name="title_recharge">Mi kredit feltöltés</string>
+    <string name="title_recharge">MiCredit feltöltés</string>
     <string name="title_pay">Fizetés MiCredittel</string>
     <string name="recharge_group_favorite">Használt feltöltési módok</string>
     <string name="recharge_group_others">egyéb feltöltési módok</string>
@@ -184,9 +184,9 @@ Próbálkozzon néhány perc múlva"</string>
     <string name="recharge_tenpay_title">Tenpay</string>
     <string name="recharge_bankcall_title">Bankkártya</string>
     <string name="recharge_message_title">SMS feltöltés</string>
-    <string name="recharge_voucher_title">Mi kredit kártya</string>
+    <string name="recharge_voucher_title">MiCredit kártya</string>
     <string name="recharge_pcpay_title">Feltöltés számítógépen keresztül</string>
-    <string name="recharge_hint">1 RMB = 1 Mi kredit</string>
+    <string name="recharge_hint">1 RMB = 1 MiCredit</string>
     <string name="account_detail">"Xiaomi fiók:
 %1$s"</string>
     <string name="paytool_alipay">Alipay</string>
@@ -230,8 +230,8 @@ Próbálkozzon néhány perc múlva"</string>
     <string name="voucher_input_password_prompt">Ítja be a jelszót</string>
     <string name="voucher_edit_hint">Jelszó</string>
     <string name="voucher_edit_limit">számjegy</string>
-    <string name="voucher_error_code">Mi kredit kártya jelszó hibás</string>
-    <string name="progress_voucher_creating">Mi kredit kértya feltöltés…</string>
+    <string name="voucher_error_code">MiCredit kártya jelszó hibás</string>
+    <string name="progress_voucher_creating">MiCredit kártya feltöltés…</string>
     <string name="msg_picker_hint_1_1">1.</string>
     <string name="msg_picker_hint_1_2">SMS recharge method costs more to charge, so &lt;font color=red>2 RMB = 1 MiCredit&lt;/font></string>
     <string name="msg_picker_hint_2_1">2.</string>
@@ -305,24 +305,24 @@ We will check for you within two working days"</string>
     <string name="btn_back">Vissza</string>
     <string name="btn_recharge_other">Feltöltés</string>
     <string name="btn_call">Hívás</string>
-    <string name="recharge_notification">%1$s Mi kredit feltöltés</string>
-    <string name="title_mili_center">Mi kredit központ</string>
+    <string name="recharge_notification">%1$s MiCredit feltöltés</string>
+    <string name="title_mili_center">MiCredit központ</string>
     <string name="title_recharge_record">Feltöltések</string>
     <string name="title_pay_record">%1$s vásárlás</string>
     <string name="my_mili_record">My MiCredit</string>
     <string name="recharge_record">Feltöltések</string>
     <string name="giftcard_record">MiCredit received</string>
     <string name="pay_record">Vásárlások</string>
-    <string name="btn_mili_center_recharge">Mi kredit feltöltés</string>
-    <string name="btn_voucher">Mi kredit kártya (%1$s)</string>
-    <string name="fee">%1$s Mi kredit</string>
+    <string name="btn_mili_center_recharge">MiCredit feltöltés</string>
+    <string name="btn_voucher">MiCredit kártya (%1$s)</string>
+    <string name="fee">%1$s MiCredit</string>
     <string name="recharge_record_empty">Nincs feltöltés</string>
     <string name="pay_record_empty">Nincs vásárlás</string>
     <string name="progress_downloading">Betöltés…</string>
-    <string name="btn_net_connection_retry">Retry</string>
+    <string name="btn_net_connection_retry">Újra</string>
     <string name="mibi_license_title">Felhasználói szerződés</string>
-    <string name="mibi_license_message">A Xiaomi Mi kredit központ elérhető. Bővebb információ: %1$s.</string>
-    <string name="mibi_license_message_span">Mi kredit felhasználói szerződés</string>
+    <string name="mibi_license_message">A Xiaomi MiCredit központ elérhető. Bővebb információ: %1$s.</string>
+    <string name="mibi_license_message_span">MiCredit felhasználói szerződés</string>
     <string name="sina_weibo">Sina WeiBo</string>
     <string name="bind_sina_weibo">Bind Sina WeiBo</string>
     <string name="bind_weibo_description">Find, phone contacts microblogging Friends supplementary information such as Avatar, birthday.</string>
@@ -357,11 +357,4 @@ We will check for you within two working days"</string>
     <string name="micloud_dspt">A felhőszolgáltatás tartalmazza a MiCloud üzenetszolgáltatást, szinkronizálást, eszközének nyomonkövetését valamint egyéb funkciókat. Adatait bármikor elérheti!</string>
     <string name="start_micloud">Indítás</string>
     <string name="micloud_proceed">Folytatás</string>
-    <string name="voucher_btn_has_exchanged">Beváltva</string>
-    <string name="voucher_btn_exchange_error">Érvénytelen</string>
-    <string name="voucher_exchange_success">%1$s Mi kredit beváltás kész</string>
-    <string name="progress_submit_summary">Feltöltés: %1$s RMB</string>
-    <string name="progress_success_title">%1$s Mi kredit feltöltés befejezve</string>
-    <string name="progress_success_summary">Egyenleg: %1$s Mi kredit</string>
-    <string name="progress_error_title">A feltöltés nem sikerült</string>
 </resources>

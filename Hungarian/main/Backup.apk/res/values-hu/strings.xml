@@ -127,7 +127,7 @@ A Személyek->Beállítások menüpontban később összefésülhetők.</string>
     <string name="local_select_account_contact">Fiókok és névjegyzék</string>
     <string name="local_no_backup">Nincs helyi mentés</string>
     <string name="auto_backup_setting">Automatikus mentés beállítása</string>
-    <string name="auto_backup_open">Automatikus mentés engedélyezése</string>
+    <string name="auto_backup_open">Automatikus mentés</string>
     <string name="auto_backup_only_wifi">Automatikus mentés csak WIFI csatlakozás esetén</string>
     <string name="auto_backup_date">Ütemezett mentés (napban)</string>
     <string name="auto_backup_time">Ütemezett mentés ideje</string>
@@ -165,11 +165,11 @@ A Személyek->Beállítások menüpontban később összefésülhetők.</string>
     <string name="guarded_mode_dialog_title">Védett mód</string>
     <string name="guarded_mode_dialog_message">Nem lehetséges a mentés/helyreállítás védett módban</string>
     <string name="multi_select_title">%1$s elem kijelölve</string>
-    <string name="enable_encrypt_title">Titkosítás engedélyezve</string>
+    <string name="enable_encrypt_title">Titkosítás engedélyezése</string>
     <string name="disable_encrypt_title">Titkosítás letiltva</string>
     <string name="enable_encrypt_indicator">A mentés nem titkosított,kattintson ide az engedélyezéshez.</string>
     <string name="enable_encrypt">Engedélyezés</string>
-    <string name="already_enable_encrypt">Titkosítás engedélyezés</string>
+    <string name="already_enable_encrypt">Titkosítás engedélyezve</string>
     <string name="enable_encrypt_summery1">A rendszer titkosítja a helyi mentést a Xiaomi fiók alapján, 
  Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Xiaomi fiókjába.</string>  
     <string name="enable_encrypt_summery2">Az új mentés automatikusan titkosítva lesz. 

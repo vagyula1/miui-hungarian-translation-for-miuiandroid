@@ -19,12 +19,12 @@
         <item>Ehavi 2G/3G forgalom</item>
     </string-array>
     <string-array name="network_speed_update_internals">
-        <item>3 mp</item>
-        <item>4 mp</item>
-        <item>5 mp</item>
-        <item>6 mp</item>
-        <item>7 mp</item>
-        <item>8 mp</item>
-        <item>9 mp</item>
+        <item>3 másodpercenként</item>
+        <item>4 másodpercenként</item>
+        <item>5 másodpercenként</item>
+        <item>6 másodpercenként</item>
+        <item>7 másodpercenként</item>
+        <item>8 másodpercenként</item>
+        <item>9 másodpercenként</item>
     </string-array>
 </resources>

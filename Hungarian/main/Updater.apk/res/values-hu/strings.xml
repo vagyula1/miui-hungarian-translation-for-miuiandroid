@@ -55,11 +55,13 @@
   <string name="file_not_found_error_message">Frissítés nem található</string>
   <string name="finish">Vége</string>
   <string name="finish_download">Letöltés befejezve</string>
+  <string name="fourgrid_hint_text">Köszönjük,hogy a MIUI fejlesztői verzióját használja. Kérjük ossza meg véleményét, ami segít minket abban,hogy a MIUI még jobb Android ROM lehessen!</string>
+  <string name="fourgrid_no_notificaiont">"Ne jelezze ki az állapotsorban"</string>
+  <string name="fourgrid_notificaiont">Kijelzés az állapotsoron</string> 
   <string name="get_update_error">Failed to get update information</string>
   <string name="install_email">E-mail app telepítése</string>
   <string name="install_file_explorer">Kérem telepítsen fájlkezelőtt</string>
   <string name="install_rom_from_sd">ROM telepítés kiválasztása</string>
-  <string name="install_sina">Sina alkalmazás telepítése</string>
   <string name="install_whole_rom">Teljes ROM letöltése javasolt</string>
   <string name="internal_build">Belső kiadás</string>
   <string name="kernel_upgrade_version">2.6.39.4-g86aa44d</string>

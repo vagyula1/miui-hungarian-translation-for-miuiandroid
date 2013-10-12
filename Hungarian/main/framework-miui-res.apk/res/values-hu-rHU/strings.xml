@@ -21,7 +21,7 @@
     <string name="christmas_day">Karácsony</string>
     <string name="clear_and_bright">Clear and Bright</string>
     <string name="cold_dews">Cold dew</string>
-    <string name="delete">Töröl</string>
+    <string name="delete">Törlés</string>
     <string name="error_forbidden">You account has some issues. Szinkronizálás letiltva.</string>
     <string name="error_not_acceptable">Szerver hiba. Szinkronizálás letiltva.</string>
     <string name="error_title">Szinkronizálási hiba : %s</string>

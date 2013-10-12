@@ -9,7 +9,7 @@
     <string name="emptyPhoneNumber">(Nincs telefonszám)</string>
     <string name="httpErrorBadUrl">Nem sikerült megnyitni az oldalt, mert az URL érvénytelen.</string>
     <string name="httpErrorUnsupportedScheme">Nem támogatott protokoll.</string>
-    <string name="no">Mégsem</string>
+    <string name="no">Nem</string>
     <string name="ok">Ok</string>
     <string name="paste">Beillesztés</string>
     <string name="search_go">Keresés</string>
@@ -19,7 +19,7 @@
     <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_unknown">Nem lehet lejátszani ezt a videót.</string>
     <string name="VideoView_error_title">Videoprobléma</string>
-    <string name="yes">OK</string>
+    <string name="yes">Igen</string>
     <string name="dialog_alert_title">Figyelem</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Ezt a videót nem lehet megjeleníteni ezen az eszközön.</string>
     <string name="selectTextMode">Szöveg kijelölése</string>

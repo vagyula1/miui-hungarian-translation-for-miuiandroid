@@ -68,11 +68,11 @@
     <string name="response_yes">Igen</string>
     <string name="response_maybe">Lehet</string>
     <string name="response_no">Nem</string>
-    <string name="email_guests_label">Email guests</string>
-    <string name="email_picker_label">Email with</string>
+    <string name="email_guests_label">Résztvevők</string>
+    <string name="email_picker_label">Email vele</string>
     <string name="email_subject_prefix">"Re: "</string>
     <string name="quick_response_settings">Gyors válasz</string>
-    <string name="quick_response_settings_summary">Edit default responses when emailing guests</string>
+    <string name="quick_response_settings_summary">Email küldéshez az alapértelmezett válaszok szerkesztése</string>
     <string name="quick_response_settings_title">Gyors válasz szerkesztés</string>
     <string name="quick_response_settings_edit_title">Gyors válasz</string>
     <string name="quick_response_dialog_title">Válasszon gyors választ</string>
@@ -113,7 +113,7 @@
     <string name="delete_this_event_title">Az esemény törlésre kerül.</string>
     <string name="delete_recurring_event_title">Törli %s?</string>
     <string name="change_response_title">Válasz módosítása</string>
-    <string name="menu_general_preferences">Általános preferenciák</string>
+    <string name="menu_general_preferences">Általános beállítások</string>
     <string name="menu_about_preferences">A Naptárról</string>
     <string name="preferences_title">Beállítások</string>
     <string name="preferences_general_title">A naptár megjelenésének beállítása</string>

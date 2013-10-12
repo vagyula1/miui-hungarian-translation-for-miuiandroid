@@ -78,7 +78,7 @@ Leálíthatja az riasztást"</string>
     <string name="worldclock_title">Világóra</string>
     <string name="stopwatch_title">Stopper</string>
     <string name="timer_title">Időzítő</string>
-    <string name="menu_add_worldclock">Időzóna hozzáadása</string>
+    <string name="menu_add_worldclock">Új időzóna</string>
     <string name="menu_worldclock_edit">Világóra szerkesztése</string>
     <string name="menu_alarmclock_edit">Ébresztőóra szerkesztése</string>
     <string name="menu_delete">Törlés</string>
@@ -119,7 +119,7 @@ Leálíthatja az riasztást"</string>
     <string name="shutdown_alarm_disable_summary">Kikapcsolás jelzés tiltása</string>
     <string name="workday_alarm_clock">Munkanapi ébresztő</string>
     <string name="weekend_alarm_clock">Hétvégi ébresztő</string>
-    <string name="system_time_setting">Idő beállítás</string>
+    <string name="system_time_setting">Beállítás</string>
     <string name="lap_num">részidő</string>
     <string name="hour_unit">Ó</string>
     <string name="minute_unit">P</string>

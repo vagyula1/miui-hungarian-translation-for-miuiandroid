@@ -65,7 +65,6 @@
     <string name="menu_record_stop">Rögzítés befejezése</string>
     <string name="menu_rename_list">Lista átnevezés</string>
     <string name="menu_reorder_list">Reorder List</string>
-    <string name="menu_save_station">Állomás mentés</string>
     <string name="menu_scan_for_preset">Csatornakeresés</string>
     <string name="menu_scan_start">Állomás-keresés</string>
     <string name="menu_scan_stop">Keresés megállítása</string>
@@ -118,7 +117,7 @@
     <string name="station_freq_format">%sMHz</string>
     <string name="station_move">Áthelyezés</string>
     <string name="station_name_already_used">Az állomás neve már létezik. Válasszon másik nevet</string>
-    <string name="stations_list">Elmentett csatornák</string>
+    <string name="stations_list">Elmentett állomások</string>
     <string name="stations_list_empty">Állomás lista üres</string>
     <string name="status_recording">%s</string>
     <string name="status_recording_time">(rögzítés: %s)</string>
@@ -143,4 +142,8 @@
     <string name="turn_on_speaker_phone">Hangszóró bekapcsolása</string>
     <string name="type_rd" />
     <string name="view_stations_list">Mentett állomások</string>
+	<string name="menu_exit">Kilépés</string>
+	<string name="menu_save_station_list">Állomás mentése a listába</string>
+    <string name="menu_save_station_presets">Hozzáadás a mentett állomáskoz</string>
+	<string name="station_check_favorite">Hozzáadás a kedvencekhez</string> 
 </resources>

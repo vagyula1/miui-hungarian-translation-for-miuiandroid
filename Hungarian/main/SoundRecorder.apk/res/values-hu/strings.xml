@@ -38,7 +38,7 @@
     <string name="dialog_play">Lejátszás</string>
     <string name="dialog_send">Küldés</string>
     <string name="dialog_warning">Figyelmeztetés</string>
-    <string name="alert_message_delete_record">Törli a kiválasztott felvételt?</string>
+    <string name="alert_message_delete_record">Törli a felvételt?</string>
     <string name="unknown_caller">Ismeretlen</string>
     <string name="rename">Átnevezés</string>
     <string name="send_to">Küldés</string>
@@ -49,7 +49,7 @@
     <string name="rename_duplicate">Már használatban, válasszon másikat:</string>
     <string name="record_picker_title">Válasszon felvételt</string>
     <string name="dialog_title_storage_full">A tároló megtelt</string>
-    <string name="dialog_content_storage_full">Due to lack of storage space, recording was forced to stop. Remove unnecessary files through the File Explorer, would you like to open it now?</string>
+    <string name="dialog_content_storage_full">A tároló hamarosan megtelik,a felvétel leállítva. Szabad hely felszabadításához töröljön néhány fájlt a Fájlkezelővel.Megnyitja most?</string>
     <string name="status_bar_anti_disturb">Telefon lenémítva, állítsa be a hangerőt.</string>
     <string name="status_bar_recording">Rögzítés...</string>
     <string name="status_bar_back">Vissza a felvételekhez</string>
@@ -77,6 +77,8 @@
     <string name="start_recording">felvétel indítása</string>
     <string name="pause">szüneteltetés</string>
     <string name="play_record">lejátszás</string>
+    <string name="preference_enable_earpiece_summary">Fülhallgató használata külső visszajátszáshoz</string>
+    <string name="preference_enable_earpiece_title">Fülhallgató engedélyezése</string> 
     <string name="stop_recording">felvétel megállítása</string>
     <string name="view_list_of_recordings">felvételek megtekintése</string>
     <string name="search_for_recordings_in_folders">Felvételek keresése a mappákban</string>

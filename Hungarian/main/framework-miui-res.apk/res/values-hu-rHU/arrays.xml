@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
+    <string-array name="alarm_in_future">
         <item>Ébresztés 1 percen belül</item>
         <item>Ébresztés %1$s múlva</item>
         <item>Ébresztés %2$s múlva</item>

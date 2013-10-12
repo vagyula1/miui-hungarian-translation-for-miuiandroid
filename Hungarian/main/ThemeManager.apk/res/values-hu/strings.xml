@@ -43,7 +43,6 @@
     <string name="theme_select_others">Egyéb</string>
     <string name="third_party_pickers_activity_title">%1$s beállítása</string>
     <string name="lockstyle_personal_settings">Testreszabás</string>
-    <string name="component_lockstyle_personal_title">Beállítások</string>
     <string name="wallpaper_settings">Háttérkép beállítások</string>
     <string name="desktop_wallpaper">Háttérkép</string>
     <string name="live_wallpaper">Élő háttérkép</string>

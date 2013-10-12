@@ -201,8 +201,18 @@
         <item>Animáció mérete: 1x</item>
         <item>Animáció mérete: 1,5x</item>
         <item>Animáció mérete: 2x</item>   
-        <item>Animáció mérete: 5x</item>
-        <item>Animáció mérete: 10x</item>
+        <item>Animáció mérete: 5x</item>     
+	<item>Animáció mérete: 10x</item>
+    </string-array>
+
+    <string-array name="animator_duration_scale_entries">
+        <item>Animáció ki</item>
+	<item>Animáció mérete: 0,5x</item>
+        <item>Animáció mérete: 1x</item>
+        <item>Animáció mérete: 1,5x</item>
+        <item>Animáció mérete: 2x</item>   
+        <item>Animáció mérete: 5x</item>     
+	<item>Animáció mérete: 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
 	<item>Normál korlátozás</item>

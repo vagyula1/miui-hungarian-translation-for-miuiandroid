@@ -35,7 +35,6 @@
     <string name="mark_number_dialog_maintitle">Mark unknown number and upload</string>
     <string name="mark_number_custom_dialog_maintitle">Agree or correct the mark</string>
     <string name="delete">Törlés</string>
-    <string name="mark_number_dialog_subtitle">Jointly developed with 搜狗号码通</string>
     <string name="selected_category_format">%1$s(%2$d people have marked, click to agree)</string>
     <string name="smart_antispam">Intelligens ismeretlen szám azonosítás</string>
     <string name="turn_on_smart_antispam_hint">Engedélyezés után az ismeretlen számok azonosítva lesznek. If not identified, you can mark it to help determine fraudulent calls.</string>

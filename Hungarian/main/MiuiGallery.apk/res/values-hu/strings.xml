@@ -76,9 +76,7 @@
     <string name="comfirm_delete_current_album">Törli az albumot?</string>
     <string name="confirm_delete_album" formatted="false">Törli a kijelölt %s albumot (amiben %s kép található)?</string>
     <string name="confirm_delete_system_album">%s album egy rendszer album, mégis törli?</string>
-    <string name="operation_delete_confirm_message_folder">"A fájlok és mappák törlése.
-"</string>
-    <string name="confirm_delete_folders_and_pictures">%s törlés megerősítése</string>  
+    <string name="operation_delete_confirm_message_folder">"A fájlok és mappák törlése."</string>
     <string name="delete_file">Törli a %1$d kiválasztott fájlt?</string>
     <string name="delete_files_and_folders">Törli a %1$d kiválasztott fájlt és %2$d könyvtárat?</string>
     <string name="confirm_delete_pictures">%s</string>
@@ -204,12 +202,9 @@
     <string name="add_to_cloud_type_not_support_message">A fájltípus nem támogatott.</string>
     <string name="add_to_cloud_file_not_exist_message">A fájl nem létezik.</string>
     <string name="add_to_cloud_failed_message_with_count">%s elem nem addható a felhő albumhoz</string>
-    <string name="cant_delete_system_album">%s album ehy rendszeralbum, nem törölhető.</string>
     <string name="share_album">Album megosztása</string>
     <string name="share_album_qr_code">QR kód</string>
     <string name="share_album_owner">Megosztva</string>
-    <string name="share_album_share_to">Megosztás a következővel</string>
-    <string name="scan_qr_code">Ossza meg a QR kódot barátaival a fájlmegosztás engedélyezásáhez</string>
     <string name="request_qr_code">QR kód kérése, kérem várjon...</string>
     <string name="request_qr_code_failed">QR kérés sikertelen, próbálja újra</string>
     <string name="retry_to_request_qr_code">Újra</string>
@@ -218,11 +213,7 @@
     <string name="album_name">Album neve</string>
     <string name="already_apply_album">Megnyitja %1$s?</string>
     <string name="can_modified">Frissítések engedélyezése</string>
-    <string name="sharer_status_waiting">Várakozás</string>
-    <string name="sharer_status_accepted">Elfogadva</string>
-    <string name="sharer_status_refused">Elutasítva</string>
     <string name="initializing_cloud">Cloud Album inicializálása...</string>
-    <string name="click_to_enter_camera">Kamera megnyitása</string>
     <string name="camera_view_none_message">A fényképek jelenjenek meg itt.</string>
     <string name="none_picture">Nincs kép a galériában</string>
     <string name="show_hidden_albums">Rejtett album(ok) mutatása</string>
@@ -332,7 +323,6 @@
     <string name="cloud_tab_locations">Helyek</string>
     <string name="cloud_album_set_create">Új</string>
     <string name="big_screen_alertdialog_title">Projektor</string>
-    <string name="sharer_status_waitting">Várakozás</string>
     <string name="enter_email_hint">"Írja be az email címet "</string>
     <string name="messagelist_sender_self">Én</string>
     <string name="adding_recipients">Címzettek hozzáadása…</string>

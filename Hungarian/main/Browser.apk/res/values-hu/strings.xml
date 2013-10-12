@@ -89,6 +89,9 @@
     <string name="bookmarks_management">Könyvjelzők</string>
     <string name="bookmarks_root_folder">Gyökérkönyvtár</string>
     <string name="bookmarks_search">Keresés</string>
+	<string name="bottom_bar_tabs_long_click_down_tip_txt">Bezáráshoz húzza le</string>
+    <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Utolsó ablak</string>
+    <string name="bottom_bar_tabs_long_click_up_tip_txt">Bezáráshoz húzza fel</string> 
     <string name="browser_bookmarks_page_bookmarks_text">Könyvjelzők</string>
     <string name="browser_history">A közelmúltban meglátogatott lapok</string>
     <string name="browserFrameFileErrorLabel">Probléma a fájllal</string>  
@@ -100,6 +103,7 @@
     <string name="choosertitle_sharevia">Megosztás itt:</string>
     <string name="clear">Törlés</string>
     <string name="clear_history">Előzmények törlése</string>
+	<string name="clear_search_history">Előzmények törlése</string> 
     <string name="clear_history_group">Előzmények törlése</string>
     <string name="clip_dialog_title">Megnyitja a kimásolt linket?</string>
     <string name="close_all_tab_alert_message">Bezárja az összes oldalt?</string>
@@ -185,7 +189,7 @@
     <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
     <string name="error_console_header_text_maximized">JavaScript konzol</string>
     <string name="error_console_header_text_minimized">JavaScript konzolt mutat</string>
-    <string name="exit_browser_warning">Kilépés a böngészőböl?</string>
+    <string name="exit_browser_warning">Kilép a böngészőből?</string>
     <string name="export_bookmark">Könyvjelzők exportálása</string>
     <string name="export_bookmark_failure">Hiba a könyvjelzők SD kártyára való exportálása közben!</string>
     <string name="export_bookmark_sucess">Könyvjelzők exportálva az SD kártyáról!</string>
@@ -201,6 +205,10 @@
     <string name="folder_name">Könyvtár neve</string>
     <string name="folder_name_too_long">Túl hosszú a mappa neve</string>
     <string name="forward">Következő</string>
+	<string name="general_set_default_browser_dialog_close_txt">Bezárás</string>
+    <string name="general_set_default_browser_dialog_ok_txt">OK</string>
+    <string name="general_set_default_browser_dialog_summary">Use MIUI-integrated apps for faster and smoother performance</string>
+    <string name="general_set_default_browser_title">Alapértelmezett böngésző</string> 
     <string name="geolocation_permissions_prompt_dont_share">Elutasítás</string>
     <string name="geolocation_permissions_prompt_message">A(z) %s meg akarja ismerni az Ön tartózkodási helyét</string>
     <string name="geolocation_permissions_prompt_remember">A beállítás megjegyzése</string>
@@ -336,7 +344,6 @@
     <string name="pref_content_open_in_background">Megnyitás a háttérben</string>
     <string name="pref_content_open_in_background_summary">Új lapok megnyitása a jelenlegi mögött</string>
     <string name="pref_content_plugins">Plug-inek engedélyezése</string>
-    <string name="pref_content_preload_title">Tartalom betöltése</string>
     <string name="pref_content_search_engine">Keresőmotor beállítása</string>
     <string name="pref_content_search_engine_summary">Válasszon egy keresőmotort</string>
     <string name="pref_content_title">Oldaltartalom</string>
@@ -365,7 +372,6 @@
     <string name="pref_development_uastring">UAString</string>
     <string name="pref_development_viewport">Use wide viewport</string>
     <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
-    <string name="pref_exit_on_closing_last_tab_enabled_summary">Bejelölve bezárja a böngészőt az utolsó ablak bezárásakor,egyébként a kezdőoldalt jeleníti meg.</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Kilép az utolsó ablak bezárásakor</string>
     <string name="pref_extras_reset_default">Visszaállítás alaphelyzetbe</string>
     <string name="pref_extras_reset_default_dlg">Beállítások visszaállítása az alapértelmezett értékekre?</string>
@@ -390,7 +396,6 @@
     <string name="pref_general_sync_title">Szinkronizálás</string>
     <string name="pref_general_title">Általános</string>
     <string name="pref_gesture_title">Kézmozdulat művelete</string>
-    <string name="pref_image_display_control">Képek megjelenítésének ellenőrzése</string>
     <string name="pref_images_preload_dialogtitle">Képek betöltése</string>
     <string name="pref_images_preload_summary">" A böngésző engedélyezi a képek betöltését,ha a szerver engedélyezi"</string>
     <string name="pref_images_preload_title">Képek betöltése</string>
