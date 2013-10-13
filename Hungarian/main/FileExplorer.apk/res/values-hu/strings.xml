@@ -18,8 +18,8 @@
     <string name="binded_accout_description">Fiókok egyesítve, használhatja Xiaomi vagy KuaiPan fiókját a belépéshez, mindkettő adatait olvashatja</string>
     <string name="binded_accout_title">Fiókok szinkronizálva</string>
     <string name="cache_size_label">Gyorsítótár</string>
-    <string name="cancel_with_count_down">Mégsem (%d)</string>
-    <string name="cancel">Mégsem</string>
+    <string name="cancel_with_count_down">Nem (%d)</string>
+    <string name="cancel">Nem</string>
     <string name="category_all">Mind</string>
     <string name="category_apk">APK-k</string>
     <string name="category_bluetooth">Bluetooth</string>
@@ -47,7 +47,7 @@
     <string name="compress_message">Becsomagolás ide:</string>
     <string name="compress_title">Becsomagolás</string>
     <string name="confirm_know">OK</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">Igen</string>
     <string name="copy_failed">Másolás nem sikerült</string>
     <string name="create_kuaipan_shortcut_pref">Parancsikon létrehozása az asztalon</string>
     <string name="create_new_folder_desctiption">Úja mappa létrehozása…</string>
@@ -56,7 +56,7 @@
     <string name="cution">Tippek</string>
     <string name="data_capacity">Tárhely: %1$s</string>
     <string name="data_size_label">Adat</string>
-    <string name="decompress_cancel">Mégsem</string>
+    <string name="decompress_cancel">Nem</string>
     <string name="decompress_confirm">Kicsomagolja?</string>
     <string name="decompress_fail">A kicsomagolás nem sikerült!</string>
     <string name="decompress_success">Kicsomagolás sikeres</string>
@@ -115,7 +115,7 @@
     <string name="garbage_size_metric">"%s felesleges"</string>
     <string name="gbk_summary">A kínai karakterek helyettesítésére válassza ezt a kódolási formát, pl. Windows Explorerhez</string>
     <string name="gbk_title">GBK</string>
-    <string name="give_up_cleaning">Mégsem</string>
+    <string name="give_up_cleaning">Nem</string>
     <string name="header_text_cleaned">Törölt szemét</string>
     <string name="header_text_cleaning">Tisztítás, szemét maradt</string>
     <string name="header_text_scanned">Törölheti a szükségtelen fájlokat</string>

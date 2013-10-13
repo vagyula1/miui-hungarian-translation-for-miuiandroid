@@ -97,7 +97,7 @@
     <string name="browserFrameFileErrorLabel">Probléma a fájllal</string>  
     <string name="browserFrameFormResubmitMessage">A megtekinteni kívánt oldal már elküldött adatokat (\"POSTDATA\") is tartalmaz. Ha újraküldi az adatokat, az oldalon lévő űrlappal kapcsolatos valamennyi művelet (például a keresés vagy az online vásárlás) újra végrehajtásra kerül.</string>
     <string name="browserFrameNetworkErrorLabel">Csatlakozási probléma</string>
-    <string name="cancel">Mégsem</string>
+    <string name="cancel">Nem</string>
     <string name="cannot_download">Csak \"http\" vagy \"https\" URL-ek letöltése lehetséges.</string>
     <string name="choose_upload">Válassza ki a feltölteni kívánt fájlt</string>
     <string name="choosertitle_sharevia">Megosztás itt:</string>
@@ -146,7 +146,7 @@
     <string name="disk_space_available">%1$s elérhető</string>
     <string name="disk_space_selected">%1$s kiválasztva</string>
     <string name="disk_space_used">%1$s használt</string>
-    <string name="do_not_save">Mégsem</string>
+    <string name="do_not_save">Nem</string>
     <string name="download">Letöltés</string>
     <string name="download_complete">A letöltés befejeződött</string>
     <string name="download_default_path_txt">Beállítás alapértelmezett mappának</string>
@@ -300,7 +300,7 @@
     <string name="not_enough_disk_space_alert">Nincs elég hely</string>
     <string name="not_remind_again">Ne emlékeztessen újra</string>
     <string name="notif_install_successful">Letöltés kész</string>
-    <string name="ok">OK</string>
+    <string name="ok">Igen</string>
     <string name="open_all_bookmarks">Mind megnyitása</string>
     <string name="open_all_in_new_window">Összes megnyitása új lapon</string>
     <string name="open_bookmark">Megnyitás</string>

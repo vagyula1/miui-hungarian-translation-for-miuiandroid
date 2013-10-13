@@ -15,7 +15,7 @@
     <string name="access_control_need_to_unlock">Jelszó szükséges a feloldásához</string>
     <string name="access_control_no_back_footer">Nyomja meg a [icon] kilépéshez</string>
     <string name="access_control_password_title">Jelszó bekapcsolása</string>
-    <string name="access_control_recording_intro_header">Draw pattern to create password lock</string>
+    <string name="access_control_recording_intro_header">Minta rajzolása a képernyőzárhoz</string>
     <string name="accessibility_enable">Kisegítő lehetőségek</string>
     <string name="accessibility_long_press_timeout_title">Érintés és tartási késleltetés</string>
     <string name="accessibility_menu_item_settings">Beállítások</string>
@@ -305,7 +305,7 @@
     <string name="bluetooth_enter_passkey_msg">A(z) &lt;br>&lt;b> %1$s &lt;/b>&lt;br>&lt;br> készülékkel való párosításhoz írja be a készülék szükséges jelszavát:</string>
     <string name="bluetooth_enter_passkey_other_device">Előfordulhat, hogy az azonosító kulcsot a másik készüléken is meg kell adnia.</string>
     <string name="bluetooth_enter_pin_msg">A(z) &lt;br>&lt;b> %1$s &lt;/b>&lt;br>&lt;br> eszközzel való párosításhoz írja be a készülékhez szükséges PIN kódot:</string>
-    <string name="bluetooth_enter_pin_msg_hs">"Írja be a \"%1$s\ párosításásához szükséges PIN kódot". [Magads biztonsági szint engedélyezve: 16 karakter szükséges]"</string>
+    <string name="bluetooth_enter_pin_msg_hs">"Írja be a \"%1$s\ párosításásához szükséges PIN kódot". [Magas biztonsági szint engedélyezve: 16 karakter szükséges]"</string>
     <string name="bluetooth_enter_pin_other_device">Előfordulhat, hogy a PIN-kódot a másik készüléken is meg kell adnia.</string>
     <string name="bluetooth_ftp_acceptance_dialog_text">%1$s hozzáférést szeretne fájljaihoz. Engedélyezi?</string>
     <string name="bluetooth_ftp_connection_permission_request">Ftp-kapcsolat kérése</string>
@@ -1123,11 +1123,11 @@
     <string name="perm_hips_calllog_access">hívásnapló olvasás</string>
     <string name="perm_hips_cancel_missed_calls">nem fogadott hívások értesítéseinek törlése</string>
     <string name="perm_hips_contact_access">kapcsolat beolvasás</string>
-    <string name="perm_hips_desc">Monitoring %1$d alkalmazás biztonságának és adatvédelmének kezelése</string>
+    <string name="perm_hips_desc">%1$d alkalmazás biztonságának és adatvédelmének kezelése</string>
     <string name="perm_hips_desc1">Alkalmazások biztonságának és adatvédelmének kezelése</string>
     <string name="perm_hips_desc2">%1$d alkalmazás biztonságának és adatvédelmének kezelése</string>
-    <string name="perm_hips_disable_content">Disabling it will make MIUI stop monitoring application requests and no longer protecting your security and privacy. Are you sure wish to disable it?</string>
-    <string name="perm_hips_disable_title">Engedély kezelő</string>
+    <string name="perm_hips_disable_content">A letiltással leállítja az alkalmazások biztonságának és adatvédelmének kezelését. Le szeretné tiltani?</string>
+    <string name="perm_hips_disable_title">Engedélykezelő</string>
     <string name="perm_hips_end_call">Hívás befejezése</string>
     <string name="perm_hips_get_call_state">Hívás állapota</string>
     <string name="perm_hips_group_data_privacy">Adatvédelem</string>
@@ -1292,7 +1292,7 @@
     <string name="preferred_launcher_warning_use_system">Alapértelmezett launcher használata</string>
     <string name="preferred_media_app_summary">Válasszon Zenelejátszót</string>
     <string name="privacy_mode_enable_sum">Hívásnapló,üzenetek és egyéb adatok elrejtése védelem módban</string>
-    <string name="privacy_mode_enable_title">Biztonsági üzemmód engedélyezése</string>
+    <string name="privacy_mode_enable_title">Biztonsági üzemmód</string>
     <string name="privacy_protect_title">Adatvédelem</string>
     <string name="privacy_relative">Adatvédelmi kapcsolat</string>
     <string name="privacy_settings">Mentés és visszaállítás</string>

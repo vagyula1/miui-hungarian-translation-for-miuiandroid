@@ -160,7 +160,7 @@ aa<?xml version='1.0' encoding='UTF-8'?>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Biztos benne hogy %1$s ROOT jogokat kapjon?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT jogok a rendszer instabilitásához vezethetnek</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Az Ön adatai, mint például jelszavak és üzenetei veszélyben lehetnek</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step4">Előfordulhat hardware meghibásodás</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step4">Előfordulhat hardver meghibásodás</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Használja körültekintően!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Biztos benne hogy engedélyezi %1$s a ROOT jogokat?</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s megkíséreli a %2$s -t</string>

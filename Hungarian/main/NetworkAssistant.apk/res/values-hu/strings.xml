@@ -13,7 +13,6 @@
     <string name="pref_traffic_adjust_title">Adatforgalmi adatok módosítása</string>
     <string name="pref_traffic_daily_limit_settings">Napi limit beállításai</string>
     <string name="pref_connect_settings_title">Hálózat figyelésének beállítása</string>
-    <string name="pref_connect_settings_notify_in_statusbar">Összesítés a legördülő értesítésen</string>
     <string name="pref_connect_settings_exceed_limit">Adatforgalom tiltása</string>
     <string name="pref_connect_settings_exceed_limit_hint">Figyelmeztetés és a kapcsolat bontása havi limit elérésekor</string>
     <string name="pref_connect_settings_enable_backgroung">Háttérszolg. engedélyezése</string>
@@ -58,7 +57,7 @@
     <string name="carrier_query_number_brand">Szolgáltató</string>
     <string name="unknown_location">Ismeretlen hely</string>
     <string name="adjust_traffic_auto_adjust_open_hint">Automata beállítás engedélyezve, és folyamatosan ellenőrizve</string>
-    <string name="unknown_free_traffic_text">Nem ismeri a az adatforgalmi csomag típusát?</string>
+    <string name="unknown_free_traffic_text">Ha nem ismeri a az adatforgalmi csomagja típusát...</string>
     <string name="unknown_free_traffic_title">Akkor...</string>
     <string name="unknown_free_traffic_hint">Ha nem tudja az adatforgalmi csomag típusát, keresse fel a mobilszolgáltatójának ügyfélszolgálatát.</string>
     <string name="i_known_button">OK</string>
@@ -106,8 +105,9 @@
     <string name="traffic_settings_error">Hiba lépett fel a havi ingyenes adatforgalom beállítása során. A beállítasai és a szolgáltatói SMS szerint a havi ingyenes adatforgalma: %1$s, a hátralévő adatforgalom: %2$s.</string>
     <string name="app_traffic_detail">Forgalom (%s)</string>
     <string name="sms_match_fail">Nem egyzik az SMS</string>
-    <string name="pref_network_status_bar">Értesítések</string>
-    <string name="pref_network_speed_settings">Hálózati sebesség az állapotsoron</string>
+    <string name="pref_network_status_bar">Értesítések kijelzése</string>
+    <string name="pref_network_speed_settings">Hálózati sebesség állapotsoron</string>
+	<string name="pref_connect_settings_notify_in_statusbar">Összesítés az értesítési sávon</string>
     <string name="pref_network_speed_internal_title">Hálózat sebesség frissítése</string>
     <string name="pref_netwotk_speed_internal_summary">Frissítés %d másodpercenként</string>
     <string name="force_stop_dlg_title">Kényszeríti a leállítást?</string>
@@ -137,7 +137,7 @@
     <string name="version_label">"Verzió: "</string>
     <string name="sms_template_updated_label">"Frissítve: "</string>
     <string name="unknown">ismeretlen</string>
-    <string name="overseas_unknown_traffic_hint">Az adatforgalmi határ még nem lett beállítva. Beállítja most?</string>
+    <string name="overseas_unknown_traffic_hint">Az adatforgalmi határ még nincs beállítva. Beállítja most?</string>
     <string name="overseas_menu_traffic_settings">Adatforgalmi határ beállítása</string>
     <string name="overseas_menu_traffic_adjust">Kézi beállítás</string>
     <string name="about">Névjegy</string>

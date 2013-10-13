@@ -359,7 +359,7 @@
     <string name="processing">Feldolgozás...</string>
     <string name="title_date_type">Üzenet időbélyeg</string>
     <string name="mx_msg">MiCloud üzenet</string>
-    <string name="mx_enable">MCloud üzenetkezelés</string>
+    <string name="mx_enable">MiCloud üzenetkezelés</string>
     <string name="mx_warning_notice">A MiCloud üzenetkezelés aktiválásához egy sms küldése szükséges. A szolgáltató költséget számíthat fel</string>
     <string name="mx_int_warning_notice">Egy nemzetközi sms elküldése szükséges a MiCloud üzenetkezelés aktiválásához (a szolgáltató költséget számolhat fel).</string>
     <string name="mx_btn_enable">Engedélyez</string>
@@ -393,8 +393,8 @@
     <string name="found_old_messages">%1$s üzenetet találtam a régi telefon fiókján. Feltölti őket a %2$s fiókjába?</string>
     <string name="show_all_messages">Minden üzenet</string>
     <string name="loading_all_messages">Minden üzenet betöltése...</string>
-    <string name="mx_enable_popup_msg">MiCloud engedélyezi az ingyenes üzenetek küldését a MIUI felhasználók között. Az aktiváláshoz egy nemzetközi SMS elküldése szükséges. A szolgáltató költséget számolhat fel.Aktiválhatja most vagy később a beállításoknál.</string>
-    <string name="mx_enable_int_popup_msg">MiCloud engedélyezi az ingyenes üzenetek küldését a MIUI felhasználók között. Az aktiváláshoz egy nemzetközi SMS elküldése szükséges. A szolgáltató költséget számolhat fel.Aktiválhatja most vagy később a beállításoknál.</string>
+    <string name="mx_enable_popup_msg">MiCloud támogatja az ingyenes üzenetek küldését a MIUI felhasználók között. Az aktiváláshoz egy nemzetközi SMS elküldése szükséges. A szolgáltató költséget számolhat fel. Engedélyezheti most vagy később a beállításoknál.</string>
+    <string name="mx_enable_int_popup_msg">MiCloud támogatja az ingyenes üzenetek küldését a MIUI felhasználók között. Az aktiváláshoz egy nemzetközi SMS elküldése szükséges. A szolgáltató költséget számolhat fel. Engedélyezheti most vagy később a beállításoknál.</string>
     <string name="mx_activation_done">MiCloud üzenetkezelés engedélyezve</string>
     <string name="loading_mms">MMS betöltés…</string>
     <string name="add_number_to_sender">Szám hozzáadás %s</string>

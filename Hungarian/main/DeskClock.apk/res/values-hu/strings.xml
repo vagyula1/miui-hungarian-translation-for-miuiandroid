@@ -10,7 +10,7 @@
     <string name="delete_alarm">Ébresztés törlése</string>
     <string name="enable_alarm">Az ébresztés bekapcsolása</string>
     <string name="disable_alarm">Az ébresztés kikapcsolása</string>
-    <string name="delete_alarm_confirm">Az ébresztés törölve lesz.</string>
+    <string name="delete_alarm_confirm">Törli az ébresztést?</string>
     <string name="show_clock">Óra megjelenítése</string>
     <string name="hide_clock">Óra elrejtése</string>
     <string name="label">Címke</string>

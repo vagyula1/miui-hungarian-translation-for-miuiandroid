@@ -3,8 +3,8 @@
     <string name="app_name">Csomagtelepítő</string>
     <string name="install">Telepítés</string>
     <string name="done">Kész</string>
-    <string name="security_settings_desc">Engedélyezés:</string>
-    <string name="cancel">Mégse</string>
+    <string name="security_settings_desc">Alkalmazás engedélyezése a következőkre:</string>
+    <string name="cancel">Nem</string>
     <string name="unknown">Ismeretlen</string>
     <string name="installing">Telepítés...</string>
     <string name="install_done">Az alkalmazás telepítve</string>
@@ -20,9 +20,9 @@
     <string name="install_failed_msg">A(z) %1$s alkalmazás nem telepíthető erre a telefonra.</string>
     <string name="launch">Megnyitás</string>
     <string name="unknown_apps_dlg_title">A telepítés letiltva</string>
-    <string name="unknown_apps_dlg_text">A telefonja biztonsági okokból úgy van beállítva, hogy letiltsa a nem az Android Marketről letöltött alkalmazások telepítését.
+    <string name="unknown_apps_dlg_text">Engedélyezi telefonja ismeretlen forrásokból származó alkalmazások telepítését?
     
-Ezen a Beállítások/Biztonság/Ismeretlen források alatt változtathat.</string>
+Ezen a Beállítások/Biztonság és adatvédelem/Ismeretlen források menüpont alatt változtathat.</string>
     <string name="ok">OK</string>
     <string name="settings">Beállítások</string>
     <string name="allow_source_dlg_title">Lehetővé teszi az új forrást az alkalmazások számára?</string>
@@ -37,7 +37,7 @@ A korábbi felhasználói adatok mentésre kerülnek.</string>
     <string name="dlg_app_replacement_statement_with_version">"Lecseréli a(z) %1$s (%3$s) verzióját az új (%2$s) verzióra?
 A felhasználói tartalom megmarad."</string>
  <string name="dlg_sys_app_replacement_statement">Ez egy rendszeralkalmazás. Biztosan lecseréli?Minden korábbi felhasználói adat mentésre kerül.</string>
-    <string name="lift_ban">Tiltás</string>
+    <string name="lift_ban">Engedélyezés</string>
     <string name="out_of_space_dlg_title">Nincs elég hely</string>
     <string name="out_of_space_dlg_text">A(z) %1$s alkalmazást nem lehet telepíteni. Szabadítson fel egy kis helyet és próbálja újra.</string>
     <string name="dlg_ok">OK</string>
@@ -64,7 +64,7 @@ A felhasználói tartalom megmarad."</string>
     <string name="privacy_relative">Adatvédelmi engedélyek</string>
     <string name="other_relative">Egyéb engedélyek</string>
     <string name="perm_notice">Biztonsági figyelmeztetés</string>
-    <string name="trust_switch_dialog_msg">MIUI nem fog rákérdezni az alkalmazás biztonsági és adatvédelmi engedélyeire. Megbízik az alkalmazásban？</string>
+    <string name="trust_switch_dialog_msg">MIUI nem fog rákérdezni az alkalmazás biztonsági és adatvédelmi engedélyeire. Megbízik az alkalmazásban?</string>
     <string name="auto_startup_dialog_msg">A MIUI figyelmeztetés nélkül engedlyezi indításkor az alkalmazás automatikus futtatását,mely nagyobb fogyasztással vagy adatforgalommal járhat. Engedélyezei az automatikus indítást?</string>
     <string name="low_risk_perms">Alacsony kockázatú engedélyek</string>
     <string name="high_risk_perms">Magas kockázatú engedélyek</string>

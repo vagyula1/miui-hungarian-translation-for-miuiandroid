@@ -240,7 +240,7 @@
     <string name="status_bar_toggle_brightness">Háttérv.</string>
     <string name="status_bar_toggle_auto_brightness">Auto.háttérv.</string>
     <string name="status_bar_toggle_data">Adatforg.</string>
-    <string name="status_bar_toggle_divider">Több</string>
+    <string name="status_bar_toggle_divider">Egyebek</string>
     <string name="status_bar_toggle_flight_mode">Repülő üz.</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Képernyőz.</string>

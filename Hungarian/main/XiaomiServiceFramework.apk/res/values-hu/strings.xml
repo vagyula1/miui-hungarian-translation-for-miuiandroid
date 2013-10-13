@@ -116,8 +116,8 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="activate_phone_failed_notif_title">A MiCloud szolgáltatás engedélyezése nem sikerült</string>
     <string name="activate_phone_send_sms_failed_notif">Az aktiváló SMS elküldése nem sikerült</string>
     <string name="activate_phone_server_error_notif">Szerverhiba</string>
-    <string name="user_agreement_p1">A bejelentkezéssel Ön elfogadja a</string>
-    <string name="user_agreement_p2">Xiaomi felhasználói feltételeket</string>
+    <string name="user_agreement_p1">A bejelentkezéssel Ön elfogadja a </string>
+    <string name="user_agreement_p2">Xiaomi felhasználói feltételeit</string>
     <string name="user_agreement_p3"> és az </string>
     <string name="user_agreement_p4">adatvédelmi nyilatkozatot</string>
     <string name="user_agreement_p5">A bejelentkezéssel Ön elfogadja</string>

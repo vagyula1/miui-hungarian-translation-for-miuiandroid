@@ -49,7 +49,7 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="fools_day">"April Fool's Day"</string>
     <string name="force_exit_message">Alkalmazás kényszerített bezárása \"%1$s\"</string>
     <string name="format_time_in_12_hours">%1$s %2$s</string>
-    <string name="global_action_privacy_mode_dialog_message">Adatvédelem üzemmódban a hívások,üzenetek,jegyzetek és a galéria rejtett lesz,valamint a launcherben sem lesz elérhető a szerkesztés. A hozzáférési kontrollban állíthat be jelszót az adatvédelmi üzemmódhoz.</string>
+    <string name="global_action_privacy_mode_dialog_message">Adatvédelem üzemmódban a hívások az üzenetek a jegyzetek és a galéria rejtett lesz, valamint a launcherben sem lesz elérhető a szerkesztés. A Felhasználó ellenőrzése menüpontban (lentebb) állíthat be jelszót az adatvédelmi üzemmódhoz.</string>
     <string name="global_action_toggle_privacy_mode">Adatvédelem</string>
     <string name="group_name_contacts">Névjegyek</string>
     <string name="group_name_coworkers">Munkatársak</string>
@@ -121,10 +121,10 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="user_agreement2">" Felhasználó szerződést"</string>
     <string name="user_agreement3">" és az "</string>
     <string name="user_agreement4">Adatvédelmi nyilatkozatot</string>
-    <string name="user_agreement5">，Az IGEN kiválasztásával elfogadja a fenti irányelveket és azokat mérvadónak tekinti. Kattintson a NEM gombra a kilépéshez.</string>
+    <string name="user_agreement5">Elfogadja a fenti irányelveket és azokat mérvadónak tekinti? Kattintson a NEM gombra a kilépéshez.</string>
     <string name="v5_deselect_all">Egyik sem</string>
     <string name="v5_edit_mode_title_empty">Kijelöl</string>
-    <string name="v5_icon_menu_bar_more_item_label">Több</string>
+    <string name="v5_icon_menu_bar_more_item_label">Egyebek</string>
     <string name="v5_select_all">Mindet</string>
     <string name="v5_time_picker_label_hour" />
     <string name="v5_time_picker_label_minute" />
@@ -202,6 +202,6 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
     <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
     <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
-
+	<string name="volume_ring_description">Csengőhang és értesítések</string>
     <string name="login_website_in_case_forget_password">Elfelejtett jelszava visszaállításához látogassa meg az i.xiaomi.com honlapot</string>
 </resources>
