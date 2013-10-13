@@ -90,7 +90,7 @@
     <string name="show_on_map">Mutasd a térképen</string>
     <string name="no_map_app">Nincs térkép alkalmazás</string>
     <string name="no_such_item">Nem található elem.</string>
-    <string name="edit">Szerkeszt</string>
+    <string name="edit">Szerkesztés</string>
     <string name="activity_not_found">Nincs elérhető alkalmazás befjezni a műveletet.</string>
     <string name="video_err">Nem lehet lejátszani.</string>
     <string name="group_by_location">Helyek szerint</string>
@@ -176,12 +176,12 @@
     <string name="cloud_gallery_recyclebin_full">A lomtár megtelt,kérem látogassa meg az i.xiaomi.com webhelyet az ürítéshez.</string>
     <string name="sync_history_power_on">Szinkronizálás töltéskor</string>
      <string name="sync_only_in_wifi_alert">A feltöltés csak Wi-Fi használatával kikapcsolása adatforgalmi költséggel járhat; Biztos,hogy kikapcsolja?</string>
-    <string name="sync_only_in_wifi">csak Wi-Fi</string>
+    <string name="sync_only_in_wifi">Feltöltés csak Wi-Fi-vel</string>
     <string name="sync_only_in_wifi_summary">Engedélyezése ajánlott,különben költséget számolhat fel.</string> 
     <string name="alert">Megjegyzés</string>
     <string name="gallery_cloud_provider_name">Galéria</string>
     <string name="sync_album">Album szinkronizálás</string>
-    <string name="sync_album_summary">Upload your pictures and screenshots to your MiCloud album storage</string>
+    <string name="sync_album_summary">Fényképek és képernyőmentések feltöltése a MiCloudba</string>
     <string name="open_sync_title">Szinkronizálás megnyitása</string>
     <string name="alert_message_open_sync">Először engedélyeznie kell a szinkronizálást</string>
     <string name="open">Engedélyezés</string>
@@ -241,7 +241,7 @@
     <string name="cut">Körülvágás</string>
     <string name="turn_left">Balra forgatás</string>
     <string name="turn_right">Jobbra forgatás</string>
-    <string name="more">Több</string>
+    <string name="more">Egyebek</string>
     <string name="deleting_files">File-ok törlése...</string>
     <string name="bigscrren_slide_exit">Kilépés a diavetítésből</string>
     <string name="defalt_local_mobile">mobil</string>

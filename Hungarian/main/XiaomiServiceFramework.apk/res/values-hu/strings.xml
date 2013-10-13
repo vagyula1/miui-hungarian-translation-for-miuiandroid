@@ -50,7 +50,7 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="micloud_active_email_sent_2" />
     <string name="micloud_click_email">Kattintson a linkre a Xiaomi fiók aktiválásához</string>
     <string name="completed">Befejezés</string>
-    <string name="header_data_and_synchronization">Adatok &amp; szinkronizálás</string>
+    <string name="header_data_and_synchronization">Adatok és szinkronizálás</string>
     <string name="title_reg">Belépés a Xiaomi fiókba</string>
     <string name="micloud_account_label">Fiók: %1$s</string>
     <string name="email_already_be_used">Ez az emailcím már használatban van</string>
@@ -77,8 +77,8 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="data_keep_in_phone">Hagyja meg</string>
     <string name="data_wipe_from_phone">Törölje le</string>
     <string name="login_notice">Bejelentkezés...</string>
-    <string name="data_sync_notice">Használja ki a MiCloud szolgáltatásait névjegyei,üzenetei és egyéb adatai szinkronizálásához.</string>
-    <string name="sync_dspt">MiCloud szolgáltatások és szinkronizálás</string>
+    <string name="data_sync_notice">Használja a MiCloud szolgáltatásait névjegyek,üzenetek,fényképek és egyéb adatok szinkronizálásához.</string>
+    <string name="sync_dspt">MiCloud szolgáltatások</string>
     <string name="sync_sub_dspt">Egy üzenet elküldése szükséges az aktiválásához</string>
     <string name="sync_sub_int_dspt">Egy nemzetközi SMS-nek megfelelő üzenetdíjjal terheli meg a számláját a szolgáltatás aktiválásához.</string>
     <string name="send_sms_for_sync_title">A szolgáltatás nincs aktiválva</string>
@@ -107,7 +107,7 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="find_device_success_title">Eszköz keresés bekapcsolva</string>
     <string name="find_device_notice_p1">Ha elvesztette telefonját, keresse fel a</string>
     <string name="find_device_notice_p2">i.xiaomi.com</string>
-    <string name="find_device_notice_p3"> - weboldalt,melynek segítségével telefonja megtalálható vagy zárolható,illetve személyes adatiat is törölheti.</string>
+    <string name="find_device_notice_p3"> weboldalt,melynek segítségével megtalálható vagy zárolható,illetve telefonja személyes adatait is törölheti.</string>
     <string name="i_know">Tudom</string>
     <string name="find_device_disabled_title">Eszköz keresés kikapcsolva</string>
     <string name="find_device_disabled_notice">Nyissa meg újra az eszköz keresést a beállítások -> fiókok &amp; szinkronizálás-> xiaomi fiók menüpontban</string>
@@ -122,8 +122,8 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="user_agreement_p4">adatvédelmi nyilatkozatot</string>
     <string name="user_agreement_p5">A bejelentkezéssel Ön elfogadja</string>
     <string name="skip_setup_account_title">Fiókbeállítás kihagyása</string>
-    <string name="skip_setup_account_msg">A Xiaomi fiók használatával szinkronizálhatja üzeneteit,névjegyeit, fényképeit , jegyzeteit és egyéb adatait. Beállítja később?</string>
-    <string name="account_dspt">Xiaomi fiókban lévő üzenetek,névjegyek,fényképek és egyéb adatok visszaállíthatóak és szinkronizálhatóak</string>
+    <string name="skip_setup_account_msg">A Xiaomi fiók segítségével szinkronizálja üzeneteit,névjegyeit,fényképeit,jegyzeteit és egyéb adatait. Folytatja és beállítja később?</string>
+    <string name="account_dspt">A Xiaomi fiók segítségével szinkronizálja üzeneteit,névjegyeit,fényképeit,jegyzeteit és egyéb adatait.</string>
     <string name="remove_unactivated_account_notice">A Xiaomi fiók nincs aktiválva,eltávolítja?</string>
     <string name="remove_confirm">Eltávolítás</string>
     <string name="find_password_on_web_msg">Keresse fel az account.xiaomi.com weboldalt a jelszó helyreállításához</string>

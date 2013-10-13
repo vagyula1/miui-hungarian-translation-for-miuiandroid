@@ -19,7 +19,7 @@
   <string name="applying_rom_message">ROM frissítése</string>
   <string name="applying_update">Frissítés...</string>
   <string name="best_update">2. Best update</string>
-  <string name="boot_recovery">Indítás Recovery módban</string>
+  <string name="boot_recovery">Újraindítja Recovery módban?</string>
   <string name="cancel_download_buton_text">Letöltés megszakítása</string>
   <string name="check_update">Frissítés ellenőrzése</string>
   <string name="check_update_policy">Ellenőrizze a frissítési beállításokat</string>
@@ -35,7 +35,7 @@
   <string name="comment_upload_success">Hozzászólás elküldve!</string>
   <string name="confirm_download_cancelation_dialog_message">Biztos meg akarja szakítani letöltést?</string>
   <string name="copy_install_log">Vágólapra másol</string>
-  <string name="current_version_text">Legfrissebb verzió:</string>
+  <string name="current_version_text">A legfrissebb verzió</string>
   <string name="current_version_update_monthly_build">Jelenlegi változat (Frissítés Havonta)</string>
   <string name="daily_build">Napi kiadás</string>
   <string name="dialog_no">Nem</string>
@@ -117,9 +117,9 @@
   <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! Részletes változásokért látogassa meg %2$s</string>
   <string name="sign_in_add_account">Aktiválja Xiaomi fiókját</string>
   <string name="sign_in_add_account_helper">A telefon nem rendelkezik MIUI fiók beállítással, hozzon létre egyet</string>
-  <string name="sign_in_info">"Ez a frissítés a %1$s%2$s felhasználó által aláírva, a MIUI részére %3$s"</string>
-  <string name="sign_in_info_rank_more">"Frissítés után %1$s%2$s felhasználó által aláírva, a MIUI részére %3$s"</string>
-  <string name="sign_in_info_total_more">"Frissítés után %1$s%2$s felhasználó által aláírva, a MIUI részére %3$s"</string>
+  <string name="sign_in_info">"Ez a frissítés a %1$s felhasználó által aláírva, a MIUI részére %3$s"</string>
+  <string name="sign_in_info_rank_more">"A MIUI %3$s verzióját több,mint %2$s felhasználó ellenőrizte."</string>
+  <string name="sign_in_info_total_more">"A MIUI %3$s verzióját több,mint %2$s felhasználó ellenőrizte."</string>
   <string name="sina_share_fail">A küldés nem sikerült!</string>
   <string name="sina_share_pendding">Küldés...</string>
   <string name="sina_share_success">Elküldve!</string>

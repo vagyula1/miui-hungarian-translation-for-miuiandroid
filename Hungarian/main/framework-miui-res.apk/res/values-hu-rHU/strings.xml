@@ -117,11 +117,11 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="text_pastelist">Vágólap</string>
     <string name="unknown">Ismeretlen szám</string>
     <string name="unknown_caller">Ismeretlen</string>
-    <string name="user_agreement1">Az online szolgáltatások használata előtt olvassa el a következőt</string>
-    <string name="user_agreement2">" Felhasználó szerződés"</string>
-    <string name="user_agreement3">" &amp; "</string>
-    <string name="user_agreement4">Adatvédelmi irányelvek</string>
-    <string name="user_agreement5">，Az OK kiválasztásával elfogadja a fenti irányelveket és azokat nérvadónak tekinti. Klikkeljen a Mégsem gombra a kilépéshez.</string>
+    <string name="user_agreement1">Az online szolgáltatások használata előtt olvassa el a</string>
+    <string name="user_agreement2">" Felhasználó szerződést"</string>
+    <string name="user_agreement3">" és az "</string>
+    <string name="user_agreement4">Adatvédelmi nyilatkozatot</string>
+    <string name="user_agreement5">，Az IGEN kiválasztásával elfogadja a fenti irányelveket és azokat mérvadónak tekinti. Kattintson a NEM gombra a kilépéshez.</string>
     <string name="v5_deselect_all">Egyik sem</string>
     <string name="v5_edit_mode_title_empty">Kijelöl</string>
     <string name="v5_icon_menu_bar_more_item_label">Több</string>

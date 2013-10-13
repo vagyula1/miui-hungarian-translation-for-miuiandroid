@@ -2,7 +2,7 @@
 <resources>
     <string name="about_settings">A telefonról</string>
     <string name="about_settings_summary">Jogi információk, állapot, szoftververzió megtekintése</string>
-    <string name="ac_enable_title">Felhasználó ellenőrzés bekapcsolása</string>
+    <string name="ac_enable_title">Felhasználó ellenőrzése</string>
     <string name="ac_privacy_mode_sum">írja be a jelszót a védelem mód letiltásához</string>
     <string name="ac_privacy_mode_title">Biztonsági mód védelme</string>
     <string name="ac_set_apps_title">Alkalmazások védelme</string>
@@ -443,8 +443,8 @@
     <string name="clear_activities_summary">Használja az alkalmazások alapértelmett beállításainak visszaállításához</string>
     <string name="clear_cache_btn_text">A gyorsítótár törlése</string>
     <string name="clear_data_dlg_text">Az alkalmazás minden adata véglegesen törlésre kerül. Ez magában foglalja az összes fájlt, beállítást, fiókot, adatbázist stb.</string>
-    <string name="clear_data_dlg_title">Alkalmazásadatok törlése?</string>
-    <string name="clear_data_failed">Az alkalmazásadatok törlése sikertelen.</string>
+    <string name="clear_data_dlg_title">Törli az Alkalmazás adatait?</string>
+    <string name="clear_data_failed">Az alkalmazás adatainak törlése sikertelen.</string>
     <string name="clear_failed_dlg_text">Az alkalmazás adatainak törlése sikertelen.</string>
     <string name="clear_failed_dlg_title">Adatok törlése</string>
     <string name="clear_user_data_text">Adatok törlése</string>
@@ -666,7 +666,7 @@
     <string name="dndm_repeated_call_summary_none">Ismételt bejövő hívások némítása</string>
     <string name="dndm_special_call_setting_group">Kivételek</string>
     <string name="dndm_summary">Ha a Ne zavarjanak engedélyezve van,a bejövő hívások és üzenetek némítva lesznek (egy holdikon jelenik meg az állapotsoron).</string>
-    <string name="dndm_vip_call_button_title">Hívások engedélyezése a névjegyzékből</string>
+    <string name="dndm_vip_call_button_title">Kivételek a névjegyzékből</string>
     <string name="dndm_vip_call_setting_title">Névjegyek beállítása</string>
     <string name="dndm_vip_call_summary_contact">Összes névjegy</string>
     <string name="dndm_vip_call_summary_custom">%d névjegy</string>
@@ -908,8 +908,8 @@
     <string name="lock_after_timeout">Automatikus zárolás</string>
     <string name="lock_after_timeout_summary">%1$s alvó mód után</string>
     <string name="lock_intro_message">Védje meg telefonját a jogosulatlan használattól egy személyes képernyőfeloldási minta létrehozásával. Ujjával tetszőleges sorrendben kössön össze legalább négy pontot a következő képernyőn. Készen áll? Érintse meg a Tovább gombot.</string>
-    <string name="lock_screen_unlock_show">Display screen password interface directly</string>
-    <string name="lock_screen_unlock_show_summary">"Don't use other lockscreens after enabling, just go to screen unlock interface"</string>
+    <string name="lock_screen_unlock_show">Képernyőzárolás megjelenítése</string>
+    <string name="lock_screen_unlock_show_summary">"Engedélyezése után nem használ egyéb képernyőzárat"</string>
     <string name="lock_settings_common_title">Képernyőzár beállítása</string>
     <string name="lock_settings_picker_settings">Képernyőzár beállítása</string>
     <string name="lock_settings_picker_title">Képernyőzár-választás</string>
@@ -1424,14 +1424,14 @@
     <string name="screen_button_custom">Képernyőgombok helyzete</string>
     <string name="screen_button_key">Képernyőgombok</string>
     <string name="screen_color_temperature">Színhőmérséklet</string>
-    <string name="screen_color_temperature_and_saturation">Színhőmérséklet &amp; telítettség</string>
+    <string name="screen_color_temperature_and_saturation">Színhőmérséklet és telítettség</string>
     <string name="screen_compatibility_label">Képernyő-kompatibilitás</string>
     <string name="screen_compatibility_text">Nem biztos, hogy ezt az alkalmazást az Ön képernyőjére tervezték. Itt szabályozhatja az alkalmazás megjelenítését.</string>
     <string name="screen_key_long_press">Gombok viselkedése (hosszan nyomva)</string>
     <string name="screen_key_long_press_action">Megnyomás művelete</string>
     <string name="screen_key_long_press_timeout">Tartás késleltetés</string>
     <string name="screen_never_timeout_title">Soha nem kapcsol ki</string>
-    <string name="screen_on_proximity_sensor_summary">Automatikus lezárja a telefont, ezáltal elkerülhető pl.a véletlen tácsázás a zsebében (a közelségérzékelő érzékeli).</string>
+    <string name="screen_on_proximity_sensor_summary">Automatikusan lezárja a telefont, így elkerülhető pl.a véletlen tárcsázás a zsebben.</string>
     <string name="screen_on_proximity_sensor_title">Véletlen használat megelőzése</string>
     <string name="screen_saturation">Telítettség</string>
     <string name="screen_timeout">Alvó mód</string>
@@ -1499,7 +1499,7 @@
     <string name="search_unlock_set">Zár beállítása</string>
     <string name="search_wallpaper">Háttérkép</string>
     <string name="security_passwords_title">Jelszavak</string>
-    <string name="security_privacy_settings_title">Biztonság &amp; adatvédelem</string>
+    <string name="security_privacy_settings_title">Biztonság és adatvédelem</string>
     <string name="security_settings_desc">Ez az alkalmazás a következőkhöz fér hozzá a telefonján:</string>
     <string name="security_settings_desc_multi">Ez az alkalmazás a következőkhöz fér hozzá a telefonján. In order to improve performance and reduce memory usage, some of these permissions are available to %1$s because it runs in the same process as %2$s:</string>
     <string name="security_settings_summary">Saját pozíció beállítása, képernyőzár feloldása, SIM-kártya zárolása, hitelesítési adatok tárolójának zárolása</string>
@@ -1905,7 +1905,7 @@
     <string name="vpn_configure">VPN beállítás</string>
     <string name="vpn_connect">Csatlakozás</string>
     <string name="vpn_connect_to">Csatlakozás ide: %s</string>
-    <string name="vpn_create">VPN-hálózat hozzáadása</string>
+    <string name="vpn_create">Új VPN-hálózat</string>
     <string name="vpn_dns_servers">DNS szerverek (pl. 8.8.8.8)</string>
     <string name="vpn_edit">VPN-hálózat szerkesztése</string>
     <string name="vpn_ipsec_ca_cert">IPSec CA tanúsítvány</string>
@@ -2035,6 +2035,8 @@
     <string name="wifi_p2p_wps_pin">Type PIN</string>
     <string name="wifi_p2p_wps_setup">Wi-Fi védett beállítás</string>
     <string name="wifi_password">Jelszó</string>
+	<string name="wifi_poor_network_detection">Rossz minőségű kapcsolatok kerülése</string>
+    <string name="wifi_poor_network_detection_summary">Csak akkor használjon Wi-Fi hálózatot, ha jó internetkapcsolatot tud biztosítani.</string>
     <string name="wifi_quick_toggle_summary">Wi-Fi bekapcsolása</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">Mentve</string>
@@ -2144,11 +2146,11 @@
     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">A könyvtár létrehozása nem sikerült.</string>
     <string name="wifi_wapi_cert_mgmt_subdir_exist">A könyvtárnév már létezik.</string>
     <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Írja be a könyvtár nevét.</string>
-    <string name="wifi_wapi_cert_mgmt_titlebar">WAPI Tanúsítvány kezelés</string>
+    <string name="wifi_wapi_cert_mgmt_titlebar">WAPI Tanúsítványkezelés</string>
     <string name="wifi_wapi_cert_mgmt_user_dont_exist">Adja meg a felhsználói tanúsítvány nevét</string>
     <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Felhasználói tanúsítvány formátuma érvénytelen.</string>
     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Írja be a tanúsítvány nevét</string>
-    <string name="wifi_wapi_cert_uninstall">Uninstall WAPI tanúsítvány eltávolítása</string>
+    <string name="wifi_wapi_cert_uninstall">WAPI tanúsítvány eltávolítása</string>
     <string name="wifi_wapi_cert_uninstall_button">Eltávolítás</string>
     <string name="wifi_wapi_certification_dont_exist">A hálózati jelszó hibás. Próbálja újra.</string>
     <string name="wifi_wapi_user_certificate">Felhasználói tanúsítvány</string>
@@ -2162,8 +2164,8 @@
     <string name="wifi_wps_failed_tkip">A vezeték nélküli router biztonsági beállítása (TKIP) nem támogatott.</string>
     <string name="wifi_wps_failed_wep">A vezeték nélküli router biztonsági beállítása (WEP) nem támogatott.</string>
     <string name="wifi_wps_in_progress">A WPS beállítása folyamatban van, és néhány tíz másodperc múlva befejeződik</string>
-    <string name="wifi_wps_onstart_pbc">Nyomja meg a Wi-Fi védett beállítás gombot a routerén. It may be called \"WPS\" or contain this symbol:</string>
-    <string name="wifi_wps_onstart_pin">Enter pin %1$s on your Wi-Fi router. The setup can take up-to two minutes to complete.</string>
+    <string name="wifi_wps_onstart_pbc">Nyomja meg a Wi-Fi védett beállítás gombot a routerén. Ezt \"WPS\"-nek hívják vagy az alábbi szimbólum jelzi:</string>
+    <string name="wifi_wps_onstart_pin">Írja be a %1$s kódot a Wi-Fi routerébe. A beállítás két percet vesz igénybe.</string>
     <string name="wifi_wps_overlap_error">Másik védett Wi-Fi programfolyamat látható. Próbálja újra pár perc múlva.</string>
     <string name="wifi_wps_setup_msg">WPS indítása...</string>
     <string name="wifi_wps_setup_title">WPS beállítása</string>
@@ -2172,7 +2174,7 @@
     <string name="window_animation_scale_title">Ablakanimáció mérete</string>
     <string name="wireless_networks_settings_title">Vezeték nélküli és egyéb hálózatok</string>
     <string name="wps_category">WPS</string>
-    <string name="wps_connect_summary">Make sure the router supports and has enabled WPS</string>
+    <string name="wps_connect_summary">WPS csatlakozás ha a router támogatja és engedélyezett</string>
     <string name="wps_connect_title">WPS csatlakozás</string>
     <string name="xiaomi_account">Xiaomi fiók</string>
     <string name="xiaomi_cloud_service">MiCloud</string>

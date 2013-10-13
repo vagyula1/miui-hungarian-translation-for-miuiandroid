@@ -3,7 +3,7 @@
     <string name="wifi_type">WiFi</string>
     <string name="wifi_traffic">WiFi: %s</string>
     <string name="app_name">Adatforgalom</string>
-    <string name="used_flux">Az adatforgalom állása</string>
+    <string name="used_flux">Adatforgalom állása</string>
     <string name="sorted_flux">Felhasznált adatforgalom</string>
     <string name="menu_settings">Beállítások</string>
     <string name="menu_traffic_adjust">Adatforgalom módosítása</string>

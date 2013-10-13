@@ -67,7 +67,7 @@
     <string name="preference_scenes">Hely beállítása</string>
     <string name="preference_record_type_dialog_title">Válassza ki a felvétel típusát</string>
     <string name="preference_record_scenes_dialog_title">Váalassza ki a felvétel helyét</string>
-    <string name="preference_silent_mode">Csörgés némítása felvétel közben.</string>
+    <string name="preference_silent_mode">Csörgés némítása felvétel alatt</string>
     <string name="error_filename_too_long">A fájlnév túl hosszú</string>
     <string name="duration_format_hour">%só</string>
     <string name="duration_format_minute">%sp</string>

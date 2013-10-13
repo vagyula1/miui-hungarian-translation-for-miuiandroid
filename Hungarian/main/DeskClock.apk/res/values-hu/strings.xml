@@ -40,8 +40,8 @@
     <string name="settings">Beállítások</string>
     <string name="alarm_in_silent_mode_title">Ébresztés néma üzemmódban</string>
     <string name="snooze_duration_title">Szundi időtartama</string>
-    <string name="auto_silence_title">Auto-elcsendesedés</string>
-    <string name="auto_silence_summary">A riasztás elcsendesedik %d perc után</string>
+    <string name="auto_silence_title">Riasztás kikapcsolása</string>
+    <string name="auto_silence_summary">Az ébresztés kikapcsol %d perc után</string>
     <string name="auto_silence_never">Ki</string>
     <string name="done">Kész</string>
     <string name="revert">Visszavonás</string>
@@ -99,7 +99,7 @@ Leálíthatja az riasztást"</string>
     <string name="timer_continue">Folytatás</string>
     <string name="elapsed_hour">%d óra</string>
     <string name="worldclock_empty_text">Nincs Világóra beállítva</string>
-    <string name="alarmclock_empty_text">Nincs Ébresztőóra beállítva</string>
+    <string name="alarmclock_empty_text">Nincs ébresztés beállítva</string>
     <string name="stopwatch_lap_empty_text">Nincs részidő</string>
     <string name="timer_got_it">Ok</string>
     <string name="timer_start_alarm">Letelt az idő</string>

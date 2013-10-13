@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+aa<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Biztonság</string>
   <string name="Dashboard_App">Appok</string>
@@ -149,7 +149,7 @@
   <string name="HIPS_Perm_SMS_Hint">%1$s app férhet hozzá a bejövő SMSekhez</string>
   <string name="HIPS_Perm_WIFINetwork">WIFI</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">Access Internet through WIFI</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s apps are allowed to access Internet</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s alkalmazás Internet hozzáférési jogokat kapott.</string>
   <string name="HIPS_SecurityPrompt_Accept">Engedélyezve (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Engedély</string>
   <string name="HIPS_SecurityPrompt_Caption">Biztonsági figyelmeztetés</string>
@@ -170,15 +170,15 @@
   <string name="Privacy_App_Log">Listák</string>
   <string name="Privacy_App_Manage">Részletek</string>
   <string name="Privacy_App_Trust">Megbízom az appban</string>
-  <string name="Privacy_App_Trust_Summary_Off">A MIUI felügyeli az appot</string>
-  <string name="Privacy_App_Trust_Summary_On">A MIUI megbízik az appban</string>
+  <string name="Privacy_App_Trust_Summary_Off">A MIUI felügyeli az alkalmazást</string>
+  <string name="Privacy_App_Trust_Summary_On">A MIUI megbízik az alkalmazásban</string>
   <string name="Privacy_App_TrustDialog_Content">A MIUI nem fog rákérdezni az app biztonsági engedélyeire.</string>
   <string name="Privacy_App_TrustDialog_Title">Megbízható</string>
   <string name="Privacy_App_Uninstall">Eltávolítás</string>
   <string name="Privacy_AppPerm_Count">%1$d engedély</string>
   <string name="Privacy_AppPerm_Count_Trust">%1$dengedély - &lt;font color=#478800&gt;Megbízható&lt;/font&gt;</string>
   <string name="Privacy_Perm_Count">Engedélyezve: %1$d Letiltva: %2$d</string>
-  <string name="Su_Enable_Dialog">%1$s Rendszergazdai jogosultságot kér, amely alapértelmezetten le van tiltva a biztonság érdekében. Ha engedélyezni szeretné, az Engedélykezelőben teheti meg.</string>
+  <string name="Su_Enable_Dialog">%1$s alkalmazás rendszergazdai jogosultságot kér, amely alapértelmezetten le van tiltva a biztonság érdekében. Ha engedélyezni szeretné, az Engedélyek alkalmazásban teheti meg.</string>
   <string name="Su_Unavailable">A rendszergazdai jogosultság le van tiltva a MIUI stabil verziójában. A jogosultság engedélyezéséhez telepítse a MIUI fejlesztői verzióját.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart engedély</string>
   <string name="SysOpt_Boost_AutoStart_Group">Automatikus indulás</string>
