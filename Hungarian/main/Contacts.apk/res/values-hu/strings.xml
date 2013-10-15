@@ -119,7 +119,7 @@ Please reopen this app to refresh resource."</string>
     <string name="multipleContactDeleteConfirmation">A névjegy törlésével több fiókból is töröl adatokat.</string>
     <string name="deleteConfirmation">A névjegy törlésre kerül.</string>
     <string name="menu_done">Kész</string>
-    <string name="menu_doNotSave">Mégse</string>
+    <string name="menu_doNotSave">Nem</string>
     <string name="menu_discard">Elvetés</string>
     <string name="label_notes">Jegyzetek</string>
     <string name="label_sip_address">Internetes hívás</string>
@@ -848,8 +848,8 @@ Please reopen this app to refresh resource."</string>
     <string name="title_other_devices">Más elérhető eszközök</string>
     <string name="button_scan">Újra keresés</string>
     <string name="button_cancel_scan">Megállítás</string>
-    <string name="device_other_title">other phone</string>
-    <string name="device_other_guide">if your phone is not in the manufacturer list, try to use the help below</string>
+    <string name="device_other_title">egyéb telefon</string>
+    <string name="device_other_guide">Ha a készüléke nincs a gyártói listába,alább kérhet segítséget</string>
     <string name="my_phone_provider_bluetooth">Phone supports Bluetooth</string>
     <string name="my_phone_not_provider_bluetooth">Phone does not support Bluetooth</string>
     <string name="other_phone">other phones</string>
@@ -863,7 +863,7 @@ Please reopen this app to refresh resource."</string>
     <string name="device_import_account_dialog_title">Válasszon fiókot az importáláshoz</string>
     <string name="device_import_account_dialog_title_suffix">(%1$s névjegy találat)</string>
     <string name="device_import_local_account">Helyi fiók</string>
-    <string name="import_name">name</string>
+    <string name="import_name">név</string>
     <string name="import_percent">0%</string>
     <string name="percent_sign">%</string>
     <string name="ret_sign">" "</string>
@@ -885,7 +885,7 @@ Please reopen this app to refresh resource."</string>
     <string name="import_weibo_error_user_cancel">Felhasználó által megszakítva.</string>
     <string name="import_weibo_error_unknown">Ismeretlen hiba.</string>
     <string name="add_xiaomi_account_dialog_title">Válasszon a névjegyzékhez fiókot</string>
-    <string name="add_xiaomi_account_dialog_msg">It is recommended to save your contacts in the Xiaomi account. Xiaomi accounts allows you to sync and backup contact information and manage contacts on your computer.</string>
+    <string name="add_xiaomi_account_dialog_msg">Ajánlott a nevjegyek mentése a Xiaomi fiókba,melyből szinkronizálhatja és visszaállíthatja,valamint a számítógépén is menedzselheti.</string>
     <string name="add_xiaomi_account_dialog_btn">Xiaomi fiók használata</string>
     <string name="keep_local_btn">Csak a telefonra mentse</string>
     <string name="batch_delete">Névjegyek törlése</string>
@@ -896,7 +896,7 @@ A MiCloud fiókban található névjegyzékből is törlésre kerül."</string>
     <string name="set_photo_failed_msg">Kép hozzárendelése nem sikerült.</string>
     <string name="contact_is_readOnly">Az írásvédett névjegyek nem szerkeszthetőek.</string>
     <string name="profile_name">Profilom</string>
-    <string name="profile_name_photo">I</string>
+    <string name="profile_name_photo">Én</string>
     <string name="toast_copying">Másolás…</string>
     <string name="toast_copy_done">Kész.</string>
     <string name="importing_sim_contacts_miui">Importálás…</string>

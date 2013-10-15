@@ -19,7 +19,7 @@
     <string name="pref_connect_settings_enable_backgroung_hint">Engedje automatikusan a hálózati csatlakozást, ha az app a háttérben fut</string>
     <string name="warning_title">Figyelmeztetés</string>
     <string name="close_txt">Bezárás</string>
-    <string name="cancel_txt">Mégse</string>
+    <string name="cancel_txt">Mégsem</string>
     <string name="disable_background_connect_warning">Mikor a háttéradatok limitáltak, néhány alkalmazás vagy szolgáltatás képtelen futni 2G/3G nélkül. Biztosan be szeretnéd zárni?</string>
     <string name="menu_refresh">Frissítés</string>
     <string name="menu_sort">Rendezés</string>

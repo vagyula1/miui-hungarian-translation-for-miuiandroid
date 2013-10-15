@@ -5,7 +5,7 @@
     <string name="app_label">Letöltések</string>
     <string name="button_sort_by_date">Rendezés dátum szerint</string>
     <string name="button_sort_by_size">Rendezés méret szerint</string>
-    <string name="cancel_running_download">Mégse</string>
+    <string name="cancel_running_download">Mégsem</string>
     <string name="confirm_delete_downloads_message">%d kiválasztott letöltés törlésre kerül!</string>
     <string name="confirm_delete_the_download_item_message">Erősítse meg a törlést!</string>
     <string name="delete_download">Törlés</string>
@@ -72,5 +72,4 @@
     <string name="select_all">Összes kijelölése</string>
     <string name="select_operation_items">Válassza ki az elemeket</string>
     <string name="selected_count">%2$d/%1$d kiválasztva</string>  
- 
 </resources>

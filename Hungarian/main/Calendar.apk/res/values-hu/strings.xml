@@ -91,7 +91,7 @@
     <string name="edit_label">Szerkeszt</string>
     <string name="delete_label">Törlés</string>
     <string name="save_label">Kész</string>
-    <string name="discard_label">Mégse</string>
+    <string name="discard_label">Mégsem</string>
     <string name="snooze_all_label">Az összes halasztása</string>
     <string name="dismiss_all_label">Az összes törlése</string>
     <string name="snooze_label">Szundi</string>

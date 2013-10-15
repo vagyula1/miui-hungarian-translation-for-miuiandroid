@@ -23,7 +23,7 @@
     <string name="unknown_apps_dlg_text">Engedélyezi telefonja ismeretlen forrásokból származó alkalmazások telepítését?
     
 Ezen a Beállítások/Biztonság és adatvédelem/Ismeretlen források menüpont alatt változtathat.</string>
-    <string name="ok">OK</string>
+    <string name="ok">Igen</string>
     <string name="settings">Beállítások</string>
     <string name="allow_source_dlg_title">Lehetővé teszi az új forrást az alkalmazások számára?</string>
     <string name="allow_source_dlg_text">%1$s más alkalmazásokat akar telepíteni.
@@ -34,13 +34,13 @@ Engedélyezi ezt most és a jövőben?</string>
     <string name="dlg_app_replacement_statement">A telepített alkalmazás lecserél egy másik alkalmazást.
     
 A korábbi felhasználói adatok mentésre kerülnek.</string>
-    <string name="dlg_app_replacement_statement_with_version">"Lecseréli a(z) %1$s (%3$s) verzióját az új (%2$s) verzióra?
+    <string name="dlg_app_replacement_statement_with_version">"Lecseréli a(z) %1$s (%3$s) verzióját az új (%2$s) verziójára?
 A felhasználói tartalom megmarad."</string>
  <string name="dlg_sys_app_replacement_statement">Ez egy rendszeralkalmazás. Biztosan lecseréli?Minden korábbi felhasználói adat mentésre kerül.</string>
     <string name="lift_ban">Engedélyezés</string>
     <string name="out_of_space_dlg_title">Nincs elég hely</string>
     <string name="out_of_space_dlg_text">A(z) %1$s alkalmazást nem lehet telepíteni. Szabadítson fel egy kis helyet és próbálja újra.</string>
-    <string name="dlg_ok">OK</string>
+    <string name="dlg_ok">Igen</string>
     <string name="app_not_found_dlg_title">Az alkalmazás nem található</string>
     <string name="app_not_found_dlg_text">Az alkalmazás nem található meg a telepített alkalmazások listájában.</string>
     <string name="uninstall_application_title">Alkalmazás eltávolítása</string>

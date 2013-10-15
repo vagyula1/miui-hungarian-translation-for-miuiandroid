@@ -14,7 +14,7 @@
     <string name="theme_description_title_default">Alapértelmezett téma</string>
     <string name="theme_description_title_customized">Egyéni téma</string>
     <string name="component_category_finest_title">Kiemelt</string>
-    <string name="component_category_more_title">Több</string>
+    <string name="component_category_more_title">Egyebek</string>
     <string name="theme_component_title_framework">Téma</string>
     <string name="theme_component_title_mms">SMS</string>
     <string name="theme_component_title_wallpaper">Háttérkép</string>

@@ -425,7 +425,7 @@
     <string name="camera_key_action_shortcut_wake">Lock/Wake device</string>
     <string name="camera_key_action_title">MI Gomb</string>
     <string name="camera_key_action_toggle_title">Kapcsolókimenet váltás</string>
-    <string name="cancel">Mégsem</string>
+    <string name="cancel">Nem</string>
     <string name="cancel_alert">Törli a riasztást?</string>
     <string name="cant_sync_dialog_message">Az elem szinkronizálása jelenleg le van tiltva. A beállítás módosításához ideiglenesen kapcsolja be a háttéradatokat és az automatikus szinkronizálást.</string>
     <string name="cant_sync_dialog_title">Nem lehet manuálisan szinkronizálni</string>
@@ -619,7 +619,7 @@
     <string name="device_memory">RAM:</string>
     <string name="device_miui_version">MIUI verzió:</string>
     <string name="device_name">Eszköz neve</string>
-    <string name="device_name_usage_point">This name will be visable to other Bluetooth enabled devices in your area</string>
+    <string name="device_name_usage_point">Ez a név fog megjelenni ha Bluetooth kapcsolat létesítésekor</string>
     <string name="device_picker">Bluetooth-eszközválasztó</string>
     <string name="device_sd_memory">SD-kártya:</string>
     <string name="device_status">Állapot</string>
@@ -692,7 +692,7 @@
     <string name="does_not_exist">Az alkalmazás nem létezik.</string>
     <string name="dolby_dialogue_enhancer">Párbeszéd felerősítés</string>
     <string name="dolby_effects">Dolby hanghatás</string>
-    <string name="dolby_eq_enter_alert_msg">You can only use the Az equalizer csak a Dolby zene módban használható. Bekapcsolja?</string>
+    <string name="dolby_eq_enter_alert_msg">Az equalizer csak a Dolby zene módban használható. Bekapcsolja?</string>
     <string name="dolby_eq_enter_alert_title">Dolby zene mód bekapcsolása</string>
     <string name="dolby_ieq_flat">Ki</string>
     <string name="dolby_ieq_focused">Összpontosított</string>
@@ -1669,7 +1669,7 @@
     <string name="testing">Tesztelés</string>
     <string name="testing_battery_info">Akkumulátoradatok</string>
     <string name="testing_phone_info">Telefon adatai</string>
-    <string name="testing_sim_toolkit">SIM toolkit</string>
+    <string name="testing_sim_toolkit">SIM eszköztár</string>
     <string name="testing_usage_stats">Használati statisztika</string>
     <string name="testing_wifi_info">Wi-Fi információ</string>
     <string name="tether_settings_title_all">Internet megosztása</string>
@@ -1775,7 +1775,7 @@
     <string name="unlock_set_unlock_summary">Engedélyezze a képernyővédelmet a jelszavas védelem beállításához</string>
     <string name="unmount_inform_text">Az USB-tár leválasztásra kerül.</string>
     <string name="untitled_apn">Névtelen</string>
-    <string name="upload_debug_log_summary">Hibajelentés feltöltése csak akkor, ha a WLAN-kapcsolat rendelkezésre áll.</string>
+    <string name="upload_debug_log_summary">Hibajelentés feltöltése csak akkor, ha a Wi-Fi kapcsolat rendelkezésre áll.</string>
     <string name="upload_debug_log_title">Hibajelentés feltöltése</string>
     <string name="usage_log">Alkalmazás használati adatai</string>
     <string name="usage_stats_label">Használati statisztikák</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+aa<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Biztonság</string>
   <string name="Dashboard_App">Appok</string>
@@ -184,5 +184,4 @@
   <string name="SysOpt_Boost_AutoStart_Group">Automatikus indulás</string>
   <string name="SysOpt_Boost_Boot">Indulás</string>
   <string name="SysOpt_Boost_Receiver">Háttér</string>
-
 </resources>

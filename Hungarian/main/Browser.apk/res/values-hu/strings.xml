@@ -67,7 +67,7 @@
     <string name="autologin_bar_text">Bejelentkezés mint</string>
     <string name="back">Előző</string>
     <string name="block">Letiltás</string>
-    <string name="bookmark_add_to">Mentés helye</string>
+    <string name="bookmark_add_to">Elmenti a fájlt?</string>
     <string name="bookmark_folder_needs_title">A mappanév nem lehet üres.</string>
     <string name="bookmark_cannot_save_url">Ezt az URL-t nem lehet a könyvjelzők közé tenni.</string>
     <string name="bookmark_list_view">Lista</string>
@@ -565,7 +565,7 @@
     <string name="url_copy_done">Link kimásolva</string>
     <string name="url_hint">Írja be az URL címet</string>
     <string name="username">Név</string>
-    <string name="view_certificate">Tanúsítvány megtekintése</string>
+    <string name="view_certificate">Megtekintés</string>
     <string name="warning">Figyelmezteés</string>
     <string name="website_settings_clear_all">Az összes törlése</string>
     <string name="website_settings_clear_all_dialog_cancel_button">Mégse</string>

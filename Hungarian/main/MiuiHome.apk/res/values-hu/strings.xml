@@ -9,8 +9,8 @@
     <string name="aqi_quality_index_moderate">Közepes</string>
     <string name="aqi_quality_index_unhealthy">Egészségtelen</string>
     <string name="buffering">Pufferelés...</string>
-    <string name="cancel_action">Mégse</string>
-    <string name="cancel_btn_label">Mégse</string>
+    <string name="cancel_action"></string>
+    <string name="cancel_btn_label">Nem</string>
     <string name="cant_remove_folder">Nem lehet törölni a mappát, mert nem üres!</string>
     <string name="cant_remove_retained_app">Az alkalmazást nem lehet eltávolítani, a szolgáltató engedélye nélkül.</string>
     <string name="cant_remove_system_app">Rendszer alkalmazást nem lehet eltávolítani!</string>
@@ -181,9 +181,9 @@
     <string name="transformation_type_leftpage">Oldalról</string>
     <string name="transformation_type_rotate">Forgatás</string>
     <string name="transformation_type_stack">Lépcsőzetes</string>
-    <string name="uninstall">Eltávolítás</string>
-    <string name="uninstall_dialog_message">Az eltávolítás töröl minden adatot</string>
-    <string name="uninstall_dialog_title_format">Eltávolít \"%s\"</string>
+    <string name="uninstall">Igen</string>
+    <string name="uninstall_dialog_message">Az eltávolítás törölni fog minden adatot.</string>
+    <string name="uninstall_dialog_title_format">Eltávolítja az alkalmazást?</string>
     <string name="unknown_artist_name">Ismeretlen előadó</string>
     <string name="unnamed_folder_name">Névtelen mappa</string>
     <string name="wallpaper_scrolling">összes</string>

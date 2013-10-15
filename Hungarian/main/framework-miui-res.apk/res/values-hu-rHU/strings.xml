@@ -100,7 +100,7 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="screen_button_notification_text">"Engedélyezéshez nyomja meg a 'Home'+'Power' gombot"</string>
     <string name="screen_button_notification_title">Képernyőgombok letiltva</string>
     <string name="screen_on_proximity_sensor_hint">"Tipp: Kilépéshez nyomja meg hosszan a 'Power' gombot. Letiltás :Beállítások-Megjelenítés"</string>
-    <string name="screen_on_proximity_sensor_summary">Véletlen használati mód engedélyezve. A telefon funkciói letiltva!</string>
+    <string name="screen_on_proximity_sensor_summary">Véletlen használati mód engedélyezve. A telefon funkciók letiltva!</string>
     <string name="screen_on_proximity_sensor_title">Véletlen használat megelőzése</string>
     <string name="sd_not_available">SD-kártya nincs csatlakoztatva vagy nem elérhető</string>
     <string name="sd_not_available_low_internal_storage">SD-kártya nincs csatlakoztatva vagy nem elérhető és a belső tárolóhelyen kevés a hely</string>
@@ -120,8 +120,8 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="user_agreement1">Az online szolgáltatások használata előtt olvassa el a</string>
     <string name="user_agreement2">" Felhasználó szerződést"</string>
     <string name="user_agreement3">" és az "</string>
-    <string name="user_agreement4">Adatvédelmi nyilatkozatot</string>
-    <string name="user_agreement5">Elfogadja a fenti irányelveket és azokat mérvadónak tekinti? Kattintson a NEM gombra a kilépéshez.</string>
+    <string name="user_agreement4">Adatvédelmi nyilatkozatot.</string>
+    <string name="user_agreement5"> Elfogadja a fenti irányelveket és azokat mérvadónak tekinti? Kattintson a NEM gombra a kilépéshez.</string>
     <string name="v5_deselect_all">Egyik sem</string>
     <string name="v5_edit_mode_title_empty">Kijelöl</string>
     <string name="v5_icon_menu_bar_more_item_label">Egyebek</string>

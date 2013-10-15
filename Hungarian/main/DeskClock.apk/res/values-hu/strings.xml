@@ -10,7 +10,7 @@
     <string name="delete_alarm">Ébresztés törlése</string>
     <string name="enable_alarm">Az ébresztés bekapcsolása</string>
     <string name="disable_alarm">Az ébresztés kikapcsolása</string>
-    <string name="delete_alarm_confirm">Törli az ébresztést?</string>
+    <string name="delete_alarm_confirm">Biztos,hogy törli az ébresztést?</string>
     <string name="show_clock">Óra megjelenítése</string>
     <string name="hide_clock">Óra elrejtése</string>
     <string name="label">Címke</string>
@@ -84,7 +84,7 @@ Leálíthatja az riasztást"</string>
     <string name="menu_delete">Törlés</string>
     <string name="menu_edit_systemtime">Rendszeridő szerkesztése</string>
     <string name="delete_timezone_title">Időzóna törlése</string>
-    <string name="delelte_selected_timezone">Biztos benne hogy törli a kiválasztott időzónát?</string>
+    <string name="delelte_selected_timezone">Biztos benne, hogy törli a kiválasztott időzónát?</string>
     <string name="wait_when_operating_data_message">Adatok feldolgozása, kérem várjon.</string>
     <string name="timezone_exist_error_message">Hiba a hozzáadásakor az időzóna már létezik. Kérem válasszon másikat.</string>
     <string name="timezone_search_hint">Város keresése a világidő hozzáadásához</string>

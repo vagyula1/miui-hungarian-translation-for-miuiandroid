@@ -11,7 +11,7 @@
     <string name="button_cancel">Mégsem</string>
     <string name="button_yes">Igen</string>
     <string name="button_no">Nem</string>
-    <string name="alphabet">BetűkAlphabets</string>
+    <string name="alphabet">Betűk</string>
     <string name="digits">Számok (0-9, *, #, +)</string>
     <string name="default_call_setup_msg">Hívás folyamatban…</string>
     <string name="default_setup_call_msg">Hívás beállítás</string>
@@ -22,7 +22,7 @@
     <string name="default_open_channel_msg">Megnyitja a csatornát?</string>
     <string name="default_send_data_msg">Adatok küldése</string>
     <string name="default_receive_data_msg">adatok fogadása</string>
-    <string name="default_close_channel_msg">CSatorna bezárva</string>
+    <string name="default_close_channel_msg">Csatorna bezárva</string>
     <string name="stk_dialog_accept">IGEN</string>
     <string name="stk_dialog_reject">NEM</string>
 </resources>
