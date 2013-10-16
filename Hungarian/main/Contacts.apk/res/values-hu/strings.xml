@@ -101,7 +101,7 @@ Please reopen this app to refresh resource."</string>
     <string name="menu_deleteGroup">Törlés</string>
     <string name="menu_new_contact_action_bar">Új</string>
     <string name="menu_new_group_action_bar">Új</string>
-    <string name="splitConfirmation_title">Névjegy szétválasztása</string>
+    <string name="splitConfirmation_title">Szétválasztja a névjegyet?</string>
     <string name="splitConfirmation">Biztos benne, hogy több névjegyre választja szét ezt a névjegyet?</string>
     <string name="menu_joinAggregate">Összekapcsolás</string>
     <string name="titleJoinContactDataWith">Névjegyek összekapcsolása</string>
@@ -112,8 +112,8 @@ Please reopen this app to refresh resource."</string>
     <string name="contactsJoinedMessage">A névjegyek összekapcsolása megtörtént</string>
     <string name="menu_set_ring_tone">Csengőhang</string>
     <string name="menu_redirect_calls_to_vm">Minden hívás a hangpostára</string>
-    <string name="menu_not_redirect_calls_to_vm">Hívások nincsenek a hangpostára irányítva</string>
-    <string name="redirect_calls_to_vm_confirm_message">Mielőtt beállítja a emailfiókját, olvassa el a Szolgáltató felhasználási feltételeit.</string>
+    <string name="menu_not_redirect_calls_to_vm">Hangposta nincs használatban</string>
+    <string name="redirect_calls_to_vm_confirm_message">Mielőtt beállítja a postafiókját, olvassa el a Szolgáltató felhasználási feltételeit.</string>
     <string name="readOnlyContactWarning">Írásvédett fiókból nem törölhet névjegyet, de saját címtárában elrejtheti azokat.</string>
     <string name="readOnlyContactDeleteConfirmation">Ez a névjegy több fiókból is tartalmaz adatokat. Az írásvédett fiókokból származó adatok nem jelennek meg a Címtárban, de nem kerülnek törlésre.</string>
     <string name="multipleContactDeleteConfirmation">A névjegy törlésével több fiókból is töröl adatokat.</string>
@@ -795,9 +795,9 @@ Please reopen this app to refresh resource."</string>
     <string name="select_photo_from_photo_package">Fénykép kiválasztása</string>
     <string name="select_new_photo_from_photo_package">Böngészés a mappákban</string>
     <string name="photo_package_activity_title">Böngészés a mappákban</string>
-    <string name="btn_delete_one_contact">Névjegy törlés</string>
-    <string name="btn_delete_multi_contacts">Törölve %d névjegy</string>
-    <string name="btn_split_contact">Separate contact</string>
+    <string name="btn_delete_one_contact">Névjegy törlése</string>
+    <string name="btn_delete_multi_contacts">%d névjegy törlése</string>
+    <string name="btn_split_contact">Névjegy szétválasztása</string>
     <string name="use_photo_as_primary2">%s fénykép használata</string>
     <string name="label_custom_type">Egyéni</string>
     <string name="pkgLabel">Névjegyzék és a tárcsázó</string>

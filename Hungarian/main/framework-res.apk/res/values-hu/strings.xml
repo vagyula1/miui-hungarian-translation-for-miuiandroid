@@ -273,13 +273,13 @@ hátra van :"</string>
     <string name="turn_on_radio">Vezeték nélküli eszköz bekapcsolása</string>
     <string name="turn_off_radio">Vezeték nélküli eszköz kikapcsolása</string>
     <string name="screen_lock">Képernyő lezárása</string>
-    <string name="power_off">Kikapcsolás</string>
+    <string name="power_off">Igen</string>
     <string name="silent_mode_silent">Csengő kikapcsolva</string>
     <string name="silent_mode_vibrate">Csengő rezeg</string>
     <string name="silent_mode_ring">Csengő bekapcsolva</string>
     <string name="shutdown_progress">Leállítás...</string>
     <string name="shutdown_confirm">A telefon le fog állni.</string>
-    <string name="shutdown_confirm_question">Kikapcsolja?</string>
+    <string name="shutdown_confirm_question">Kikapcsolja a készüléket?</string>
     <string name="reboot_safemode_title">Újraindítás csökkentett módban</string>
     <string name="reboot_safemode_confirm">Szeretné csökkentett módban újraindítani a rendszert? Ez letiltja a telepített, harmadik féltől származó alkalmazásokat. Újraindításkor ezek visszaállnak.</string>
     <string name="recent_tasks_title">Legutóbbiak</string>
@@ -989,7 +989,6 @@ Szeretné bezárni?"</string>
     <string name="ringtone_silent">Néma</string>
     <string name="ringtone_picker_title">Csengőhangok</string>
     <string name="ringtone_unknown">Ismeretlen csengőhang</string>
-
     <string name="wifi_available_sign_in">Bejelentkezés Wi-Fi hálózatba</string>
     <string name="wifi_watchdog_network_disabled">Nem sikerült csatlakozni a Wi-Fi hálózathoz</string>
     <string name="wifi_watchdog_network_disabled_detailed">" rossz internetkapcsolattal rendelkezik."</string>

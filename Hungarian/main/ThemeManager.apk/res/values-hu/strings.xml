@@ -91,7 +91,7 @@
     <string name="theme_import_item_not_exist">Nem létezik</string>
     <string name="theme_import_item_delete_request_title">Téma nem lett frissítve</string>
     <string name="theme_import_item_delete_request_content">Téma nincs frissítve, frissítés után alkalmazza,vagy törölje.</string>
-    <string name="theme_import_item_delete_request_button">Törlés</string>
+    <string name="theme_import_item_delete_request_button">Törlés megerősítése</string>
     <string name="theme_import_item_reject_use">Téma frissítés folyamatban,kérem várjon.</string>
     <string name="theme_another_import_running">Másik importálás folyamatban, próbálja később.</string>
     <string name="theme_is_imported">A téma importálva!</string>
@@ -137,8 +137,7 @@
     <string name="resource_price_unit">MI Kredit</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_status_changed_dialog_title">SD kártya tartalma megváltozott</string>
-    <string name="sdcard_status_changed_dialog_message">Kilépés. 
-Téma frissítéshez nyissa meg újra.</string>
+    <string name="sdcard_status_changed_dialog_message">Kilépés. Téma frissítéshez nyissa meg újra.</string>
     <string name="resource_mute">Néma</string>
     <string name="resource_default">Alapértelmezett csengőhang</string>
     <string name="resource_ringtone_default">Csengőhangok</string>
@@ -157,6 +156,9 @@ Téma frissítéshez nyissa meg újra.</string>
     <string name="resource_download">Letöltés</string>
     <string name="resource_downloading">Letöltés</string>
     <string name="resource_waiting_download">Várakozás</string>
+    <string name="resource_import_successful">Letöltve.</string>
+    <string name="resource_delta_update_successful">Frissítés sikeres，%1$s mentése.</string>
+    <string name="resource_delta_update_failed">A frissítés nem sikerült! A teljes téma letöltése</string>
     <string name="resource_apply">Alkalmaz</string>
     <string name="resource_update">Frissítés</string>
     <string name="resource_buy">Vásárlás</string>
@@ -166,7 +168,7 @@ Téma frissítéshez nyissa meg újra.</string>
     <string name="loading">Töltés...</string>
     <string name="download_failed">Letöltés nem sikerült!</string>
     <string name="download_preview_failed">Előnézet betöltése nem sikeült</string>
-    <string name="resource_delete_confirm">Törli a témát?</string>
+    <string name="resource_delete_confirm">Biztos,hogy törli a témát?</string>
     <string name="all_resources">Minden</string>
     <string name="resource_default_name">Téma</string>
     <string name="resource_detail">Részletek</string>
@@ -184,13 +186,10 @@ Téma frissítéshez nyissa meg újra.</string>
     <string name="resource_get_auth_exceed_max_limit_tips">A téma nem futtatható. Elérte a maximális 10 próbálkozást a Xiaomi fiókja. Próbálja másik fiókkal.</string>
     <string name="resource_server_out_of_service">Szerver nem elérhető, próbálja később.</string>
     <string name="resource_switch_account">Fiókváltás</string>
+    <string name="deleting">Törlés...</string>
     <string name="resource_title_select_ringtone">Csengőhang választás</string>
     <string name="resource_tip_select_ringtone">Csengőhang nem lett kiválasztva</string>
     <string name="loading_resource_detail_info">Töltés...</string>
     <string name="loading_resource_detail_fail">Téma betöltése nem sikerült!</string>
     <string name="account_abnormal_state">A fiókazonosítás nem sikerült, lépjen be újra vagy próbálja később!</string>
-    <string name="deleting">Törlés...</string>
-    <string name="resource_delta_update_failed">A frissítés nem sikerült! A teljes téma letöltése</string>
-    <string name="resource_delta_update_successful">Frissítés sikeres，%1$s mentése.</string>
-    <string name="resource_import_successful">Letöltve.</string> 
 </resources>

@@ -16,7 +16,7 @@
     <string name="caller_info_name_delimiter">vagy</string>
     <string name="check_phone_error_title">Szinkronizálás megnyitása sikertelen</string>
     <string name="check_phone_io_error">Hálózati hiba</string>
-    <string name="childrens_day">"Gyermeknap"</string>
+    <string name="childrens_day">Gyermeknap</string>
     <string name="chinese_youth_day">Youth Day</string>
     <string name="christmas_day">Karácsony</string>
     <string name="clear_and_bright">Clear and Bright</string>
@@ -35,13 +35,10 @@
     <string name="experimental_validate_username">Xiaomi ID</string>
     <string name="experimental_validate_warning">Your every exploration helps MIUI become better!</string>
     <string name="find_device_check_sim">SIM ellenőrzés…</string>
-    <string name="find_device_sim_change_instructions">A telefon le van zárva. 
-Kérem helyezze be a SIM kártyát és gépelje be a Xiaomi fiókja jelszavát</string>
-    <string name="find_device_sim_change_instructions_no_network">SIM kártyazár aktív, 
-kérem tegyen be megfelelő SIM kártyát</string>
+    <string name="find_device_sim_change_instructions">A telefon le van zárva. Kérem helyezze be a SIM kártyát és gépelje be a Xiaomi fiókja jelszavát</string>
+    <string name="find_device_sim_change_instructions_no_network">SIM kártyazár aktív, kérem tegyen be megfelelő SIM kártyát</string>
     <string name="find_device_turn_off_flight_mode">Repülő üzemmód kikapcsolás</string>
-    <string name="find_device_turn_off_flight_mode_instructions">Az eszköz lezárva, 
-kérem kapcsolja ki a repülő üzemmódot</string>
+    <string name="find_device_turn_off_flight_mode_instructions">Az eszköz lezárva, kérem kapcsolja ki a repülő üzemmódot</string>
     <string name="firewall_setting">Üzenetek szűrése</string>
     <string name="first_back_long_press_message">"Engedélyezi,hogy a vissza gomb hosszan nyomva bezárja az aktuális folyamatot?
 Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</string>
@@ -121,7 +118,7 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="user_agreement2">" Felhasználó szerződést"</string>
     <string name="user_agreement3">" és az "</string>
     <string name="user_agreement4">Adatvédelmi nyilatkozatot.</string>
-    <string name="user_agreement5"> Elfogadja a fenti irányelveket és azokat mérvadónak tekinti? Kattintson a NEM gombra a kilépéshez.</string>
+    <string name="user_agreement5">Elfogadja a fenti irányelveket és azokat mérvadónak tekinti? Kattintson a NEM gombra a kilépéshez.</string>
     <string name="v5_deselect_all">Egyik sem</string>
     <string name="v5_edit_mode_title_empty">Kijelöl</string>
     <string name="v5_icon_menu_bar_more_item_label">Egyebek</string>
@@ -197,11 +194,11 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d alkalommal hibásan adta meg a jelszavát. %d sikertelen próbálkozás után a fiókbejelentkezés szükséges a feloldáshoz.
 
  Próbálja újra %d mp múlva."</string>
+    <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
     <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
     <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
-    <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
     <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
     <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
-	<string name="volume_ring_description">Csengőhang és értesítések</string>
+    <string name="volume_ring_description">Csengőhang és értesítések</string>
     <string name="login_website_in_case_forget_password">Elfelejtett jelszava visszaállításához látogassa meg az i.xiaomi.com honlapot</string>
 </resources>

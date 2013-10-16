@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Biztonság</string>
-  <string name="Dashboard_App">Appok</string>
+  <string name="Dashboard_App">Alkalmazások</string>
   <string name="Dashboard_HIPS_Disable_Content">"Ennek kikapcsolására a MIUI a továbbiakban nem felügyeli az alkalmazások engedélyeit.Bztosan kikapcsolja?"</string>
   <string name="Dashboard_HIPS_Disable_Title">Engedélyfelügyelet</string>
   <string name="Dashboard_Log">Listák</string>
@@ -11,23 +11,24 @@
   <string name="Dashboard_Perm_AutoStart">Automatikusan induló app-ok kezelése</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Automatikus indulás lehetőségének tiltása vagy engedélyezése</string>
   <string name="Dashboard_Perm_AutoStart_Switch">Automatikus indulás kezelő</string>
-  <string name="Dashboard_Perm_Header">%1$d app felügyelete</string>
+  <string name="Dashboard_Perm_Header">%1$d alk.felügyelete</string>
   <string name="Dashboard_Perm_Header_Disabled">Engedélyfelügyelet kikapcsolva</string>
-  <string name="Dashboard_Perm_HIPS">Appok engedélyeinek kezelése</string>
-  <string name="Dashboard_Perm_HIPS_Desc">%1$d app biztonsági és titoktartási felügyelete</string>
-  <string name="Dashboard_Perm_HIPS_Desc2">%1$d app biztonsági és titoktartási felügyelete</string>
+  <string name="Dashboard_Perm_HIPS">Alk.-ok engedélyeinek kezelése</string>
+  <string name="Dashboard_Perm_HIPS_Desc">%1$d alk.biztonsági és titoktartási felügyelete</string>
+  <string name="Dashboard_Perm_HIPS_Desc2">%1$d alk.biztonsági és titoktartási felügyelete</string>
   <string name="Dashboard_Perm_HIPS_Disabled">Engedélyfelügyelet letiltva</string>
   <string name="Dashboard_Perm_HIPS_Risky">Rizikós engedély (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Safe">Normál engedély (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Switch">Engedélyfelügyelet</string>
   <string name="Dashboard_Perm_SU">Rendszergazdai jogosultság kezelése</string>
-  <string name="Dashboard_Perm_SU_Desc">%1$d app Rendszergazdai jogosultságának felügyelete</string>
+  <string name="Dashboard_Perm_SU_Desc">%1$d alk rendszergazdai jogosultságának felügyelete</string>
   <string name="Dashboard_Perm_SU_Disabled">Rendszergazdai jogosultság letiltva</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Rendszergazdai jogosultság nem elérhető a stabil MIUI verziókban</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Rendszergazdai jogosultség engedélyezése 3.alkalmazás számára a rendszer instabilitásához, vagy személyes adatai elvesztéséhez,illetve a rendszer vagy az eszköz sérüléséhez vezethet.Kérem váltson a MIUI fejlesztői verziójára a rendszergazdai jogosultság engedélyezéséhez."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI letöltése</string>
   <string name="Dashboard_Perm_SU_Switch">Rendszergazdai jogosultság</string>
-  <string name="Dashboard_Su_Enable_Content">"Ennek engedélyezése lehetővé teszi a Rendszergazdai jogosultság kérvényezését.Megj.: A jogosultsággal rendelkező alkalmazások okozhatnak instabilitást, adatvesztést, szoftver/hardverkárosodást, legyen óvatos. Biztosan bekapcsolja?"</string>
+  <string name="Dashboard_Su_Enable_Content">"Ennek engedélyezése lehetővé teszi a Rendszergazdai jogosultság kérvényezését.
+A jogosultsággal rendelkező alkalmazások okozhatnak instabilitást, adatvesztést, szoftver illetve hardverkárosodást, legyen óvatos."</string>
   <string name="Dashboard_Su_Enable_Title">Rendszergazdai jogosultság</string>
   <string name="Generic_Canceling">Visszavonás...</string>
   <string name="Generic_Check">Ellenőrzés</string>
@@ -49,11 +50,11 @@
   <string name="Generic_ShowSystemApp">Rendszer Appok Mutatása</string>
   <string name="Generic_Summary_Disabled">Ki</string>
   <string name="Generic_Summary_Enabled">Be</string>
-  <string name="Generic_SystemApp">Rendszer Appok (%d)</string>
+  <string name="Generic_SystemApp">Rendszeralkalmazások (%d)</string>
   <string name="Generic_SystemApp_Label">[Rendszer App]</string>
-  <string name="Generic_TrustedApp">Megbízható Appok (%1$d)</string>
+  <string name="Generic_TrustedApp">Megbízható Alkalmazások (%1$d)</string>
   <string name="Generic_Update">Szoftver frissítése</string>
-  <string name="Generic_UserApp">Letöltött Appok (%d)</string>
+  <string name="Generic_UserApp">Letöltött Alkalmazások (%d)</string>
   <string name="Generic_Version">Verzió: %1$s</string>
   <string name="HIPS_Action_Accept">Engedélyez</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Engedélyez&lt;/font&gt;</string>
@@ -76,23 +77,23 @@
   <string name="HIPS_Perm_AnswerCall">pillanatnyi hívás fogadása</string>
   <string name="HIPS_Perm_Call">Telefonhívás</string>
   <string name="HIPS_Perm_Call_Desc">Közvetlen hívásindítás, -fogadás és -megszakítás</string>
-  <string name="HIPS_Perm_Call_Hint">%1$s app indíthat, fogadhat és szakíthat meg közvetlenül hívásokat</string>
+  <string name="HIPS_Perm_Call_Hint">%1$s alk.indíthat, fogadhat és szakíthat meg közvetlenül hívásokat</string>
   <string name="HIPS_Perm_Call_Number">%1$s hívása</string>
   <string name="HIPS_Perm_CallLog">Híváslista</string>
   <string name="HIPS_Perm_CallLog_Access">híváslista olvasása</string>
   <string name="HIPS_Perm_CallLog_Desc">Hozzáférés a híváslistához</string>
-  <string name="HIPS_Perm_CallLog_Hint">%1$s app férhet hozzá a híváslistához</string>
+  <string name="HIPS_Perm_CallLog_Hint">%1$s alk.férhet hozzá a híváslistához</string>
   <string name="HIPS_Perm_CallMonitor">Hívás felügyelete</string>
   <string name="HIPS_Perm_CallMonitor_Desc">Bejövő és kimenő hívások felügyelete, hangerő szabályozása, stb.</string>
   <string name="HIPS_Perm_CallMonitor_Hint">%1$s app felügyelheti a hívásokat, szabályozhatja a csengőhang erejét.</string>
   <string name="HIPS_Perm_CallState">Telefon állapota</string>
   <string name="HIPS_Perm_CallState_Desc">Telefon állapot lekérdezése</string>
-  <string name="HIPS_Perm_CallState_Hint">%1$s app kérdezheti le a telefon állapotát</string>
+  <string name="HIPS_Perm_CallState_Hint">%1$s alk.kérdezheti le a telefon állapotát</string>
   <string name="HIPS_Perm_CancelMissedCalls">nem fogadott hívások értesítésének törlése </string>
   <string name="HIPS_Perm_Contact">Telefonkönyv</string>
   <string name="HIPS_Perm_Contact_Access">telefonkönyv</string>
   <string name="HIPS_Perm_Contact_Desc">Hozzáférés a telefonkönyvhöz</string>
-  <string name="HIPS_Perm_Contact_Hint">%1$s app férhet hozzá a névjegyekhez</string>
+  <string name="HIPS_Perm_Contact_Hint">%1$s alk.férhet hozzá a névjegyekhez</string>
   <string name="HIPS_Perm_EndCall">pillanatnyi hívás megszakítása</string>
   <string name="HIPS_Perm_GetCallState">pillanatnyi hívásállapot meghatározása</string>
   <string name="HIPS_Perm_ListenCallState">hívásállapot meghatározása</string>
@@ -136,7 +137,7 @@
   <string name="HIPS_Perm_SendSMS_Content">Tartalom:</string>
   <string name="HIPS_Perm_SendSMS_Data">SMS küldése: %1$s:%2$d</string>
   <string name="HIPS_Perm_SendSMS_Desc">SMS közvetlen küldése</string>
-  <string name="HIPS_Perm_SendSMS_Hint">%1$s app küldhet SMSt</string>
+  <string name="HIPS_Perm_SendSMS_Hint">%1$s alk.küldhet SMS-t</string>
   <string name="HIPS_Perm_SendSMS_Port">Dest Port:</string>
   <string name="HIPS_Perm_SendSMS_Recipient">Címzett:</string>
   <string name="HIPS_Perm_SendSMS_SMSC">SMS központ:</string>
@@ -144,7 +145,7 @@
   <string name="HIPS_Perm_SendSMS_Text">SMS küldése: %1$s</string>
   <string name="HIPS_Perm_SilenceRinger">csörgés némítása</string>
   <string name="HIPS_Perm_SMS">SMS</string>
-  <string name="HIPS_Perm_SMS_Access">bejövő SMSek olvasása</string>
+  <string name="HIPS_Perm_SMS_Access">Bejövő SMS-ek olvasása</string>
   <string name="HIPS_Perm_SMS_Desc">Hozzáférés a bejövő SMSekhez</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s app férhet hozzá a bejövő SMSekhez</string>
   <string name="HIPS_Perm_WIFINetwork">WIFI</string>

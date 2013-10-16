@@ -67,8 +67,7 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="error_sim_not_ready">SIM kártya nem áll készen</string>
     <string name="error_unknown">Ismeretlen hiba: %1$s</string>
     <string name="error_invalid_dev_id">Érvénytelen eszköz id</string>
-    <string name="quick_login_title">Azonosítás szükséges.
-Írja be a jelszót</string>
+    <string name="quick_login_title">Azonosítás szükséges. Írja be a jelszót</string>
     <string name="account_name">Fiók: %1$s</string>
     <string name="input_password_hint">Írja be a jelszót</string>
     <string name="confirm">Megerősít</string>
@@ -105,9 +104,9 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="find_device_error_network">Hálózat nem elérhető</string>
     <string name="find_device_error_server">Szerver hiba</string>
     <string name="find_device_success_title">Eszköz keresés bekapcsolva</string>
-    <string name="find_device_notice_p1">Ha elvesztette telefonját, keresse fel a</string>
+    <string name="find_device_notice_p1">Elveszett vagy ellopott készüléke az</string>
     <string name="find_device_notice_p2">i.xiaomi.com</string>
-    <string name="find_device_notice_p3"> weboldalt,melynek segítségével megtalálható vagy zárolható,illetve telefonja személyes adatait is törölheti.</string>
+    <string name="find_device_notice_p3">weboldal segítségével megtalálható vagy zárolható,illetve arról személyes adatai azonnal törölhető.</string>
     <string name="i_know">Tudom</string>
     <string name="find_device_disabled_title">Eszköz keresés kikapcsolva</string>
     <string name="find_device_disabled_notice">Nyissa meg újra az eszköz keresést a beállítások -> fiókok &amp; szinkronizálás-> xiaomi fiók menüpontban</string>
@@ -116,7 +115,7 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="activate_phone_failed_notif_title">A MiCloud szolgáltatás engedélyezése nem sikerült</string>
     <string name="activate_phone_send_sms_failed_notif">Az aktiváló SMS elküldése nem sikerült</string>
     <string name="activate_phone_server_error_notif">Szerverhiba</string>
-    <string name="user_agreement_p1">A bejelentkezéssel Ön elfogadja a </string>
+    <string name="user_agreement_p1">A bejelentkezéssel Ön elfogadja a</string>
     <string name="user_agreement_p2"> Xiaomi felhasználói feltételeit</string>
     <string name="user_agreement_p3"> és az </string>
     <string name="user_agreement_p4">adatvédelmi nyilatkozatot</string>
@@ -168,8 +167,7 @@ Addig tornáztasd meg a szemed..."</string>
     <string name="error_frozen_title">Fiók felfüggesztve</string>
     <string name="error_frozen_summary">Fiókja fel van függesztve</string>
     <string name="error_account_changed_title">Fiók belépési adatai megváltoztak</string>
-    <string name="error_account_changed_summary">A belépési adatok megváltoztak.
-Ellenőrizze és próbálja újra</string>
+    <string name="error_account_changed_summary">A belépési adatok megváltoztak. Ellenőrizze és próbálja újra</string>
     <string name="error_too_frequent_visits_title">Túl gyakran!</string>
     <string name="error_too_frequent_visits_summary">"Túl gyakori művelet. 
 Próbálkozzon néhány perc múlva"</string>
@@ -349,12 +347,12 @@ We will check for you within two working days"</string>
     <string name="current_account">Jelenlegi fiók</string>
     <string name="my_xiaomi_account">Xiaomi fiókom</string>
     <string name="micloud_intro_01_part_01">Ingyen küldhető SMS</string>
-    <string name="micloud_intro_01_part_02">A MIUI-sok számára a hálózaton keresztül ingyen küldhető üzenet</string>
-    <string name="micloud_intro_02_part_01">Nem szükséges csinálnia semmit</string>
-    <string name="micloud_intro_02_part_02">A felhőszolgáltatással szinkronizálhatja névjegyeit, üzeneteit, fényképei és egyéb adatait egyéb mobil eszközre.</string>
+    <string name="micloud_intro_01_part_02">A MIUI felhasználók számára a hálózaton keresztül ingyen küldhető üzenet</string>
+    <string name="micloud_intro_02_part_01">Nem kell egyebet tennie</string>
+    <string name="micloud_intro_02_part_02">A felhőszolgáltatással szinkronizálhatja névjegyeit, üzeneteit, fényképeit és egyéb adatait más mobil eszközre.</string>
     <string name="micloud_intro_03_part_01">Biztonságos tartalom</string>
-    <string name="micloud_intro_03_part_02">Az eszköz nyomonkövethető, lezárhatja illetve letörölheti annak tartalmát az i.xiaomi.com-on keresztül</string>
-    <string name="micloud_dspt">A felhőszolgáltatás tartalmazza a MiCloud üzenetszolgáltatást, szinkronizálást, eszközének nyomonkövetését valamint egyéb funkciókat. Adatait bármikor elérheti!</string>
+    <string name="micloud_intro_03_part_02">Az eszköz nyomonkövethető, lezárható illetve törölhető annak tartalma az i.xiaomi.com-on keresztül</string>
+    <string name="micloud_dspt">A felhőszolgáltatás tartalmazza a MiCloud üzenetszolgáltatást, szinkronizálást, eszközének nyomonkövetését valamint egyéb funkciókat.Adataihoz bármikor Online is hozzáférhető!</string>
     <string name="start_micloud">Indítás</string>
     <string name="micloud_proceed">Folytatás</string>
 </resources>

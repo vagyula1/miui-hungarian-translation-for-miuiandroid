@@ -85,7 +85,7 @@
     <string name="select_all">Összes kiválasztása</string>
     <string name="slideshow">Diavetítés</string>
     <string name="details">Részletek</string>
-    <string name="details_title"> %2$d/%1$d :</string>
+    <string name="details_title">%2$d/%1$d :</string>
     <string name="close">Bezár</string>
     <string name="show_on_map">Mutasd a térképen</string>
     <string name="no_map_app">Nincs térkép alkalmazás</string>
@@ -204,7 +204,7 @@
     <string name="add_to_cloud_failed_message_with_count">%s elem nem adható a MiCloud albumhoz</string>
     <string name="add_to_cloud_unknow_reasons">ismeretlen hiba</string>
     <string name="cant_delete_cloud_album">A törlés nem sikerült: %s egy rendszeralbum vagy megosztásra került.</string>
-    <string name="cannot_delete_sharer_photo">Nem törölhető  %s elem(ek) mert másik személy töltötte fel.</string>
+    <string name="cannot_delete_sharer_photo">Nem törölhető %s elem(ek) mert másik személy töltötte fel.</string>
     <string name="share_album">Album megosztása</string>
     <string name="share_album_qr_code">QR kód</string>
     <string name="share_album_owner">Megosztva</string>
@@ -221,8 +221,8 @@
     <string name="no_picture_or_video">Üres.</string>
     <string name="camera_view_none_message">A fényképek jelenjenek meg itt.</string>
     <string name="none_picture">Nincs kép a galériában</string>
-    <string name="show_hidden_albums">Rejtett album(ok) mutatása</string>
-    <string name="not_show_hidden_albums">"Ne mutassa a rejtett albumo(ka)t"</string>
+    <string name="show_hidden_albums">Rejtett album(ok) megjelenítése</string>
+    <string name="not_show_hidden_albums">Ne jelenítse meg a rejtett albumo(ka)t</string>
     <string name="fail_to_sync_album">Az album szinkronizálása nem sikerült. Ellenőrizze a hálózat állapotát</string>
     <string name="sync_album_in_proecess">Album szinkronizálása folyamatban. Kérem várjon...</string>
     <string name="retry_to_create_album">Újra</string>
@@ -233,7 +233,7 @@ ismerőseivel. Ön és barátai
 közösen nézhetik az albumot és további fényképeket adhatnak hozzá. 
 Használja ki!"</string>
     <string name="cloud_be_shared_guide_title">Az album egyik ismerősétől érkezett</string>
-    <string name="cloud_be_shared_guide_message">"Megnézheti barátai fényképeit, képeket addhat hozzá, és azokat ők is megnézhetik."</string>
+    <string name="cloud_be_shared_guide_message">Megnézheti barátai fényképeit, képeket addhat hozzá, és azokat ők is megnézhetik.</string>
     <string name="cloud_owner_album_share_guide">Megoszthatja ezt az albumot ismerőseivel</string>
     <string name="view_sharers">Megosztók megtekintése</string>
     <string name="camera_path">/DCIM/Camera</string>
@@ -263,7 +263,7 @@ Használja ki!"</string>
     <string name="input_cloudfolder_name">MiCloud album neve</string>
     <string name="cloudfolder_already_exists">Ez a MiCloud album már létezik</string>
     <string name="other_category">Egyéb beállítások</string>
-    <string name="show_hidden_album">Rejtett album(ok) mutatása</string>
+    <string name="show_hidden_album">Rejtett album(ok) megjelenítése</string>
     <string name="auto_create_recent_album">Kedvenc album automatikus létrehozása</string>
     <string name="photo_page_always_rotate">Automatikus elforgatás</string>
     <string name="auto_create_recent_album_over_ten_times">Az albumok automatikusan a kedvencekhez adva,amennyiben 10-nél több alkalommal nyitja meg</string>
@@ -424,7 +424,7 @@ Használja ki!"</string>
     <string name="gallery_setting">Galéria beállítások</string>
     <string name="error_unknown_host">Nincs elérhető hálózat.</string>
     <string name="error_repeat_apply">Már megosztotta az albumot</string>
-    <string name="error_album_not_exist">"Nincs album."</string>
+    <string name="error_album_not_exist">Nincs album.</string>
     <string name="error_invalid_link">Érvénytelen hivatkozás</string>
     <string name="error_socket_timeout">Időtúllépés.</string>
     <string name="error_cloud_not_active">MiCloud album nincs használatban</string>

@@ -28,7 +28,8 @@
     <string name="download">Letöltés</string>
     <string name="downloading">Letöltés</string>
     <string name="insufficient_drm_rights">Elégtelen DRM-jogosultság.</string>
-    <string name="copy_message_text">Szöveg másolása</string>
+    <string name="copy_message_text">Másolás</string>
+	<string name="copy_message_text_success">Szöveg kimásolva</string>
     <string name="done">Kész</string>
     <string name="move_up">Fel</string>
     <string name="move_down">Le</string>

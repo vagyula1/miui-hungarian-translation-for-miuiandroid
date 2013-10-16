@@ -9,7 +9,7 @@
     <string name="aqi_quality_index_moderate">Közepes</string>
     <string name="aqi_quality_index_unhealthy">Egészségtelen</string>
     <string name="buffering">Pufferelés...</string>
-    <string name="cancel_action"></string>
+    <string name="cancel_action">Nem</string>
     <string name="cancel_btn_label">Nem</string>
     <string name="cant_remove_folder">Nem lehet törölni a mappát, mert nem üres!</string>
     <string name="cant_remove_retained_app">Az alkalmazást nem lehet eltávolítani, a szolgáltató engedélye nélkül.</string>
