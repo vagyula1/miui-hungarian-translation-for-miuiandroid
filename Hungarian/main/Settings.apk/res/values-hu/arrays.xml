@@ -204,18 +204,17 @@
         <item>Animáció mérete: 5x</item>     
 	<item>Animáció mérete: 10x</item>
     </string-array>
-
     <string-array name="animator_duration_scale_entries">
         <item>Animáció ki</item>
-	<item>Animáció mérete: 0,5x</item>
+		<item>Animáció mérete: 0,5x</item>
         <item>Animáció mérete: 1x</item>
         <item>Animáció mérete: 1,5x</item>
         <item>Animáció mérete: 2x</item>   
         <item>Animáció mérete: 5x</item>     
-	<item>Animáció mérete: 10x</item>
+		<item>Animáció mérete: 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-	<item>Normál korlátozás</item>
+		<item>Normál korlátozás</item>
         <item>Nincsenek háttérfolyamatok</item>
         <item>Legfeljebb 1 folyamat</item>
         <item>Legfeljebb 2 folyamat</item>
@@ -242,18 +241,18 @@
         <item>Szétkapcsolva</item>
         <item>Inicializálás...</item>
         <item>Csatlakozás…</item>
-	<item>Csatlakoztatva</item>
-	<item>Időtúllépés</item>
+		<item>Csatlakoztatva</item>
+		<item>Időtúllépés</item>
         <item>Sikertelen</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-  	<item>Gyenge</item>
-        <item>Közepes</item>
         <item>Erős</item>
+        <item>Közepes</item>
+        <item>Gyenge</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafikus</item>
-	<item>Százalék</item>
+		<item>Százalék</item>
         <item>Állapotsor</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
@@ -272,13 +271,13 @@
         <item>9 másodperc</item>
     </string-array>
     <string-array name="led_color_entries">
-	<item>Kék</item>
+		<item>Kék</item>
         <item>Piros</item>
         <item>Sárga</item>
         <item>Zöld</item>
         <item>Cián</item>
-	<item>Fehér</item>
-	<item>Lila</item>
+		<item>Fehér</item>
+		<item>Lila</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Nincs</item>
@@ -318,10 +317,9 @@
         <item>Hideg</item>
     </string-array>
     <string-array name="screen_saturation_title">
-	<item>Kiváló</item>
-	<item>Alapértelmezett</item>
-    </string-array>
-        
+		<item>Kiváló</item>
+		<item>Alapértelmezett</item>
+    </string-array>     
     <string-array name="perm_hips_action">
         <item>Engedélyez</item>
         <item>Rékerdez</item>

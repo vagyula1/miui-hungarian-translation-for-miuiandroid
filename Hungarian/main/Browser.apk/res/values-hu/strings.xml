@@ -205,10 +205,10 @@
     <string name="folder_name">Könyvtár neve</string>
     <string name="folder_name_too_long">Túl hosszú a mappa neve</string>
     <string name="forward">Következő</string>
-	<string name="general_set_default_browser_dialog_close_txt">Bezárás</string>
-    <string name="general_set_default_browser_dialog_ok_txt">OK</string>
-    <string name="general_set_default_browser_dialog_summary">Use MIUI-integrated apps for faster and smoother performance</string>
-    <string name="general_set_default_browser_title">Alapértelmezett böngésző</string> 
+	<string name="general_set_default_browser_dialog_close_txt">Nem</string>
+    <string name="general_set_default_browser_dialog_ok_txt">Igen</string>
+    <string name="general_set_default_browser_dialog_summary">Használja a MIUI beépített alkalmazásait a legjobb teljesítmény elérése érdekében.</string>
+    <string name="general_set_default_browser_title">Beállítja alapértelmezett böngészőnek?</string> 
     <string name="geolocation_permissions_prompt_dont_share">Elutasítás</string>
     <string name="geolocation_permissions_prompt_message">A(z) %s meg akarja ismerni az Ön tartózkodási helyét</string>
     <string name="geolocation_permissions_prompt_remember">A beállítás megjegyzése</string>
@@ -503,9 +503,9 @@
     <string name="same_folder_name_warning">A mappa már létezik</string>  
     <string name="save">OK</string>
     <string name="save_bookmark">Mentés</string>
-    <string name="save_dialog_title">Mentés helye</string>
+    <string name="save_dialog_title">Letölti a fájlt az alábbi mappába?</string>
     <string name="save_file_already_exist_alert_message">A Fájl már létezik, felülírja?</string>
-    <string name="save_file_already_exist_alert_title">Figyelmezteés</string>
+    <string name="save_file_already_exist_alert_title">Figyelmeztetés</string>
     <string name="save_to_bookmarks">Könyvjelző mentése</string>
     <string name="saving_snapshot">Mentés…</string>
     <string name="search">Keresés</string>

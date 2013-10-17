@@ -1614,7 +1614,7 @@
     <string name="perm_service_disabled">Szolgáltatás lekapcsolva</string>
     <string name="perm_summary_enabled">Be</string>
     <string name="perm_summary_disabled">Ki</string>
-    <string name="perm_enable">Rendszergazdai jogosultság</string>
+    <string name="perm_enable">Rendszergazdai jogosultságok</string>
     <string name="perm_disable">Letiltás</string>
     <string name="perm_optimize">Optimalizálás</string>
     <string name="perm_check">Ellenőrzés</string>
@@ -1644,9 +1644,9 @@
     <string name="perm_hips_network_listen">listen on port %1$s</string>
     <string name="perm_hips_network_recv">adatfogadás</string>
     <string name="perm_hips_network_send">adatküldés</string>
-    <string name="perm_hips_root_desc">Rendszergazdai jogosultság kérése</string>
+    <string name="perm_hips_root_desc">Rendszergazdai jogosultságok kérése</string>
     <string name="perm_hips_root_desc_stable">A MIUI Stabil verziójában nem érhető el</string>
-    <string name="perm_hips_root_hint">%1$s alkalmazás rendszergazdai jogosultságot szerzett</string>
+    <string name="perm_hips_root_hint">%1$s alkalmazás rendszergazdai jogosultságokat kapott</string>
     <string name="perm_hips_send_sms_recipient">Recipient:</string>
     <string name="perm_hips_send_sms_content">Tartalom:</string>
     <string name="perm_hips_send_sms_smsc">SMS központ:</string>
@@ -1674,7 +1674,7 @@
     <string name="perm_hips_prompt_all">Mindent engedélyez</string>
     <string name="perm_hips_reject_all">Mindet letiltja</string>
 	<string name="perm_hips_root">ROOT</string>
-    <string name="perm_hips_root_title">Rendszergazdai jogosultság</string>
+    <string name="perm_hips_root_title">Rendszergazdai jogosultságok</string>
     <string name="perm_hips_listen_call_state">hívás állapot kezelés</string>
     <string name="perm_hips_get_call_state">Hívás állapota</string>
     <string name="perm_hips_end_call">Hívás befejezése</string>
@@ -1691,27 +1691,27 @@
     <string name="perm_hips_security_prompt_accept_root">Engedélyez</string>
     <string name="perm_hips_security_prompt_next">Következő</string>
     <string name="perm_hips_security_prompt_root_caption">Fontos figyelmeztetés</string>
-    <string name="perm_hips_security_prompt_root_step1">%1$s alkalmazásnak jóváhagyja a rendszergazdai jogosultságot?</string>
-    <string name="perm_hips_security_prompt_root_step2">A rendszergazdai jogosultság engedélyezése instabillá teheti a rendszert</string>
+    <string name="perm_hips_security_prompt_root_step1">%1$s alkalmazásnak jóváhagyja a rendszergazdai jogosultságokat?</string>
+    <string name="perm_hips_security_prompt_root_step2">A rendszergazdai jogosultságok engedélyezése instabillá teheti a rendszert</string>
     <string name="perm_hips_security_prompt_root_step3">Fiókjelszavak és üzenetek veszélybe kerülhetnek</string>
     <string name="perm_hips_security_prompt_root_step4">hardverkárosodást is okozhat</string>
     <string name="perm_hips_security_prompt_root_step5">Használja óvatosan!</string>
-    <string name="perm_hips_security_prompt_root_step6">%1$s alkalmazásnak jóváhagyja a rendszergazdai jogosultságot?</string>
+    <string name="perm_hips_security_prompt_root_step6">%1$s alkalmazásnak jóváhagyja a rendszergazdai jogosultságokat?</string>
     <string name="perm">Engedélyek</string>
     <string name="perm_app">Alkalmazások</string>
     <string name="perm_log">Naplók</string>
     <string name="perm_header">%1$d alkalmazás megfigyelése</string>
-    <string name="perm_header_disabled">A rendszergazdai jogosultság letiltva</string>
-    <string name="perm_su_switch">Rendszergazdai jogosultság engedélyezése</string>
+    <string name="perm_header_disabled">A rendszergazdai jogosultságok letiltva</string>
+    <string name="perm_su_switch">Rendszergazdai jogosultságok engedélyezése</string>
     <string name="perm_su">Jogosultságok kezelése</string>
-    <string name="perm_su_desc">%1$d alkalmazás rendszergazdai jogosultságának kezelése</string>
+    <string name="perm_su_desc">%1$d alkalmazás rendszergazdai jogosultságainak kezelése</string>
     <string name="perm_su_desc1">Jogosultságok kezelése</string>
-    <string name="perm_su_disabled">Rendszergazdai jogosultság letiltva</string>
-    <string name="perm_su_disabled_in_stable">A rendszergazdai jogosultság nem elérhető a MIUI Stabil verziójában</string>
-    <string name="perm_su_disabled_in_stable_desc">Ennek engedélyezése lehetővé teszi a rendszergazdai jogosultság kérvényezését.
-A jogosultsággal rendelkező alkalmazások instabilitást, adatvesztést, szoftver illetve hardverkárosodást okozhatnak. A Rendszergazdai jogosultság engedélyezéséhez váltson át a MIUI fejlesztői változatára.</string>
+    <string name="perm_su_disabled">Rendszergazdai jogosultságok letiltva</string>
+    <string name="perm_su_disabled_in_stable">A rendszergazdai jogosultságok nem elérhetőek a MIUI Stabil verziójában</string>
+    <string name="perm_su_disabled_in_stable_desc">Ennek engedélyezése lehetővé teszi a rendszergazdai jogosultságok kérvényezését.
+A jogosultságokkal rendelkező alkalmazások instabilitást, adatvesztést, szoftver illetve hardverkárosodást okozhatnak. A Rendszergazdai jogosultság engedélyezéséhez váltson át a MIUI fejlesztői változatára.</string>
     <string name="perm_su_disabled_desc">Ennek engedélyezése lehetővé teszi a rendszergazdai jogosultság kérvényezését.
-A jogosultsággal rendelkező alkalmazások instabilitást, adatvesztést, szoftver illetvehardverkárosodást okozhatnak. Legyen óvatos.</string>
+A jogosultságokkal rendelkező alkalmazások instabilitást, adatvesztést, szoftver illetvehardverkárosodást okozhatnak. Legyen óvatos.</string>
     <string name="perm_su_disabled_in_stable_download">MIUI letöltése</string>
     <string name="perm_hips_switch">Engedélykezelő</string>
     <string name="perm_hips">Alkalmazás engedélyeinek kezelése</string>
@@ -1724,9 +1724,9 @@ A jogosultsággal rendelkező alkalmazások instabilitást, adatvesztést, szoft
     <string name="perm_auto_start_desc">alkalmazások automatikus insításának kezelése</string>
     <string name="perm_hips_disable_title">Engedélykezelő</string>
     <string name="perm_hips_disable_content">A letiltással leállítja az alkalmazások biztonságának és adatvédelmének kezelését. Le szeretné tiltani?</string>
-    <string name="perm_su_enable_title">Engedélyezi a rendszergazdai jogosultságot?</string>
-    <string name="perm_su_enable_content">Ennek engedélyezése lehetővé teszi a rendszergazdai jogosultság kérvényezését.
-A jogosultsággal rendelkező alkalmazások instabilitást, adatvesztést, szoftver illetve hardverkárosodást okozhatnak. Legyen óvatos.</string>
+    <string name="perm_su_enable_title">Engedélyezi a rendszergazdai jogosultságokat?</string>
+    <string name="perm_su_enable_content">Ennek engedélyezése lehetővé teszi a rendszergazdai jogosultságok kérvényezését.
+A jogosultságokkal rendelkező alkalmazások instabilitást, adatvesztést, szoftver illetve hardverkárosodást okozhatnak. Legyen óvatos.</string>
     <string name="perm_log_clear_title">Naplók törlése</string>
     <string name="perm_log_clear_content">Minden naplózás törölve lesz. Engedélyezi?</string>
     <string name="perm_privacy_count">Engedélyezve: %1$d Letiltva: %2$d</string>
