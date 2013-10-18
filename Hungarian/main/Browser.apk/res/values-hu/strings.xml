@@ -208,7 +208,7 @@
 	<string name="general_set_default_browser_dialog_close_txt">Nem</string>
     <string name="general_set_default_browser_dialog_ok_txt">Igen</string>
     <string name="general_set_default_browser_dialog_summary">Használja a MIUI beépített alkalmazásait a legjobb teljesítmény elérése érdekében.</string>
-    <string name="general_set_default_browser_title">Beállítja alapértelmezett böngészőnek?</string> 
+    <string name="general_set_default_browser_title">Alapértelmezett böngésző</string> 
     <string name="geolocation_permissions_prompt_dont_share">Elutasítás</string>
     <string name="geolocation_permissions_prompt_message">A(z) %s meg akarja ismerni az Ön tartózkodási helyét</string>
     <string name="geolocation_permissions_prompt_remember">A beállítás megjegyzése</string>
@@ -473,7 +473,12 @@
     <string name="pref_zoom_on_double_tap">Dupla érintéssel közelítés</string>
     <string name="preview">Előnézet</string>
     <string name="progress_dialog_setting_wallpaper">Háttérkép beállítása...</string>
+    <string name="quicklink_user_define_webpage_title">Név</string>
+    <string name="quicklink_user_define_webpage_url">URL</string>
+    <string name="quicklinks_group_default_subtitle">Üres</string> 
     <string name="quicklinks_management">Hasznos oldalak</string>
+    <string name="quicklinks_most_visited">Új oldal hozzáadása a kedvencekhez</string>
+    <string name="quicklinks_most_visited_subtitle">A kedvenc oldal egy új ablakban fog megjelenni</string> 
     <string name="readmode_already_add_to_bookshelf">Hozzáadva a könyvespolchoz</string>
     <string name="readmode_battery">Akkumulátor </string>
     <string name="readmode_login">Fiók bejelentkezés</string>
@@ -564,6 +569,8 @@
     <string name="uploads_disabled">A fájlok feltöltése le van tiltva.</string>
     <string name="url_copy_done">Link kimásolva</string>
     <string name="url_hint">Írja be az URL címet</string>
+	<string name="user_defined_webpage">URL hozzáadása</string>
+    <string name="user_defined_webpage_title">URL hozzáadása a kezdőlapra</string> 
     <string name="username">Név</string>
     <string name="view_certificate">Megtekintés</string>
     <string name="warning">Figyelmezteés</string>

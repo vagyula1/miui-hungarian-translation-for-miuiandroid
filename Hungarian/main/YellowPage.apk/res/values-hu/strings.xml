@@ -11,6 +11,7 @@
     <string name="yellow_page_call_log_title">Hívásnapló</string>
     <string name="yellow_page_website">Hivatalos honlap</string>
     <string name="menu_copy_text">Másolás a vágólapra</string>
+	<string name="menu_correct_yellow_page">Javítás</string>
     <string name="menu_call_ip_number">IP hívás tárcsázása (dial %s)</string>
     <string name="toast_text_copied">A szöveg kimásolva</string>
     <string name="provider_tag">Adatok forrása</string>

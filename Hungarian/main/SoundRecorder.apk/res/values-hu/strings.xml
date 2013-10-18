@@ -73,6 +73,7 @@
     <string name="duration_format_minute">%sp</string>
     <string name="duration_format_second">%smp</string>
     <string name="toast_max_record_time">Alk:%1$s maximum %2$s felvételt támogat</string>
+	<string name="toast_uninstall_fileexplorer">Nincs telepítve fájlkezelő alkalmazás!</string> 
     <string name="message_file_size_error">A felvétel elérte a maximálisan %s támogatott hosszúságot</string>
     <string name="start_recording">felvétel indítása</string>
     <string name="pause">szüneteltetés</string>

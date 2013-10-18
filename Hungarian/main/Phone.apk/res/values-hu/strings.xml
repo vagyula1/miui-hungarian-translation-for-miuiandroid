@@ -897,6 +897,7 @@
   <string name="sum_xdivert_disabled">X-Divert Disabled</string>
   <string name="sum_xdivert_enabled">X-Divert Enabled</string>
   <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
+  <string name="suspect_info">"Ne fogadja a hívást,valószínűleg zaklatás!"</string> 
   <string name="t9_indexing_method_pinyin">PinYin</string>
   <string name="t9_indexing_method_title_miui">T9 keresés beállítás</string>
   <string name="t9_indexing_method_zhuyin">ZhuYin</string>

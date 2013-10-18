@@ -19,6 +19,7 @@
   <string name="read_write_all_voicemail_label">Hozzáférés az összes hangüzenetekhez</string>
   <string name="send_sms">Üzenet küldése</string>
   <string name="sharedUserLabel">Android Core Apps</string>
+  <string name="third_party_delete_contact_info">\"%s\" törli a Xiaomi névjegyzékét, használja a rendszer névjegyzéket a nagyobb biztonságú névjegyzék helyett.</string>
   <string name="upgrade_msg">A névjegyek adatbázis frissítése.</string>
   <string name="upgrade_out_of_memory_notification_text">Válassza ezt a verziófrissítéshez.</string>
   <string name="upgrade_out_of_memory_notification_ticker">A névjegy frissítéséhez több memóriára van szükség</string>

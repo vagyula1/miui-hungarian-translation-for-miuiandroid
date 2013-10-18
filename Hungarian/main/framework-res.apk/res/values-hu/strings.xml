@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cancel">Nem</string>
+    <string name="cancel">Mégsem</string>
     <string name="copy">Másolás</string>
     <string name="copyUrl">URL másolása</string>
     <string name="cut">Kivágás</string>

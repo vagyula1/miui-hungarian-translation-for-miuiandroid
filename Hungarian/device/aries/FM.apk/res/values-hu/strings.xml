@@ -129,12 +129,16 @@
     <string name="toast_channel_searched">%1$d csatorna találat.</string>
     <string name="toast_delete_station">%sMHz frekvencia törölve.</string>
     <string name="toast_edit_station">Változások elmentve</string>
+    <string name="toast_fm_not_stated">FM not stated</string>
+    <string name="toast_fm_recorder_internal_error">Felvétel hiba!</string>
+    <string name="toast_fm_recorder_storage_full">A tároló megtelt!</string> 
     <string name="toast_fm_seeking">Állomás keresés</string>
     <string name="toast_fm_starting">FM rádió indítása</string>
     <string name="toast_fm_stoping">FM rádió leállítása</string>
     <string name="toast_removed_from_presets">Eltávolítva a mentett állomásokból</string>
     <string name="toast_save_station">%sMHz mentve</string>  
-    <string name="toast_sleep_mode">Rádió megállítása %s</string>
+    <string name="toast_sleep_mode">Rádió kikapcsolása %s</string>
+    <string name="toast_sleep_mode_exit">Időzített kikapcsolás megszakítva.</string> 
     <string name="transmit_msg_string">Jeltovábbítás:</string>
     <string name="turn_off_fm">Rádió kikapcsolása</string>
     <string name="turn_off_speaker_phone">Hangszóró kikapcsolása</string>

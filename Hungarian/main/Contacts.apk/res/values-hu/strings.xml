@@ -190,6 +190,10 @@ Please reopen this app to refresh resource."</string>
     <string name="dialerDialpadHintText">Tárcsázás hívás hozzáadásához</string>
     <string name="simContacts_emptyLoading">Betöltés a SIM-kártyáról...</string>
     <string name="simContacts_title">Névjegyek a SIM-kártyán</string>
+	<string name="sim_capacity_content" formatted="false">Teljes kapacitás %d, felhasznált %d</string>
+    <string name="sim_card1">1.SIM káryta</string>
+    <string name="sim_card2">2.SIM káryta</string>
+   <string name="sim_card_cloud">%s (felhő üzenet)</string> 
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Nincsenek megjeleníthető névjegyei. (Ha a fiókot csak most adta hozzá, a névjegyek szinkronizálása néhány percig is eltarthat.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Nincsenek megjeleníthető névjegyek.</string>
     <string name="noContactsHelpText">"Nincsenek megjeleníthető névjegyei.Névjegyek hozzáadásához nyomja meg a "</string>
@@ -206,6 +210,7 @@ Please reopen this app to refresh resource."</string>
     <string name="type_outgoing">Kimenő hívás</string>
     <string name="type_missed">Nem fogadott hívás</string>
     <string name="type_voicemail">Hangposta</string>
+	<string name="type_vcard">vCard</string> 
     <string name="actionIncomingCall">Bejövő hívások</string>
     <string name="callBack">Visszahívás</string>
     <string name="callAgain">Újratárcsáz</string>
@@ -213,6 +218,7 @@ Please reopen this app to refresh resource."</string>
     <string name="callDetailsDurationFormat" formatted="false">%s perc %s másodperc</string>
     <string name="favoritesFrequentContacted">Gyakran keresett</string>
     <string name="favoritesFrequentCalled">Gyakran hívott</string>
+	<string name="forward_from">Továbbítás:</string> 
     <string name="add_contact_dlg_message_fmt">Hozzáadja a(z) \"%s\"címet a Címtárhoz?</string>
     <string name="description_image_button_one">egy</string>
     <string name="description_image_button_two">kettő</string>
@@ -391,6 +397,7 @@ Please reopen this app to refresh resource."</string>
     <string name="video_chat">Videocsevegés</string>
     <string name="postal_address">Cím</string>
     <string name="postal_street">Utca</string>
+	<string name="pref_forward_title">Továbbítás</string> 
     <string name="postal_pobox">Postafiók</string>
     <string name="postal_city">Település</string>
     <string name="postal_region">Állapot</string>
@@ -482,6 +489,7 @@ Please reopen this app to refresh resource."</string>
     <string name="contacts_unavailable_create_contact">Új névjegy létrehozása</string>
     <string name="contacts_unavailable_add_account">Jelentkezzen be fiókjába</string>
     <string name="contacts_unavailable_import_contacts">Névjegyek importálása fájlból</string>
+	<string name="context_menu_add_to_browser_favorite">Hozzáadás a kedvencekhez</string> 
     <string name="create_group_dialog_title">Új csoport létrehozása</string>
     <string name="create_group_item_label">[Új csoport létrehozása]</string>
     <string name="delete_group_dialog_title">Csoport törlése</string>
@@ -670,6 +678,14 @@ Please reopen this app to refresh resource."</string>
     <string name="sim_card_no_free_space_title">SIM kártya megtelt</string>
     <string name="sim_card_no_free_space_message">A SIM kártya megtelt, új névjegy nem importálható.Kérem töröljön a kártyáról és próbálja újra</string>
     <string name="sim_contacts">SIM névjegyek</string>
+	<string name="sim_error_anr_full">A SIM kártya megtelt!</string>
+    <string name="sim_error_email_full">E-mail tárhely megtelt!</string>
+    <string name="sim_error_email_too_long">Túl hosszú az email cím.</string>
+    <string name="sim_error_generic_failure">Általános SIM hiba.</string>
+    <string name="sim_error_number_too_long">SIM kártya szám túl hosszú!</string>
+    <string name="sim_error_password_error">Hibás jelszó.</string>
+    <string name="sim_error_storage_full">SIM kártya tárolója megtelt!</string>
+    <string name="sim_error_text_too_long">Túl hosszú a név!</string> 
     <string name="export_sim_contacts_dialog_message">A Sim kártyán %d névjegy található, exportálja?</string>
     <string name="export_sim_contact_finish">SIM névjegyek exportálása befejezve</string>
     <string name="export_sim_contact_finish_success">Átmásolva %d névjegy.</string>
@@ -894,6 +910,7 @@ A MiCloud fiókban található névjegyzékből is törlésre kerül."</string>
     <string name="starred_contacts">Kedvencek</string>
     <string name="other_contacts">Egyéb névjegyek</string>
     <string name="set_photo_failed_msg">Kép hozzárendelése nem sikerült.</string>
+	<string name="set_smsc_address_title_miui">SMS központ száma</string> 
     <string name="contact_is_readOnly">Az írásvédett névjegyek nem szerkeszthetőek.</string>
     <string name="profile_name">Profilom</string>
     <string name="profile_name_photo">Én</string>
@@ -921,4 +938,6 @@ A MiCloud fiókban található névjegyzékből is törlésre kerül."</string>
     <string name="clear_digits">telefonszám törlése</string>
     <string name="call_record_setting_miui">Rögzítési beállítások</string>
     <string name="processing">Folyamatban ...</string>
+	<string name="add_slide_before">Dia hozzáadása (előtte)</string>
+	<string name="accessibility_calllog_detail">Híváslista részletek</string> 
 </resources>

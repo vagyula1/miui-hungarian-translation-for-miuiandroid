@@ -14,6 +14,7 @@
   <string name="app_name">MiVideo</string>
   <string name="buffering">Pufferelés...</string>
   <string name="buffering_video_netplay_label_v5">Pufferelés...</string>
+  <string name="episode_prefix">epizód</string> 
   <string name="loading_video_netplay_label">Töltés,kérem várjon...</string>
   <string name="loading_video_netplay_label_v5">Adatfolyam töltés, kérem várjon...</string>
   <string name="menu_item_about_label">Névjegy</string>
