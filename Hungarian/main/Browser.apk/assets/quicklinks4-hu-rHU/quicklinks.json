@@ -1,0 +1,262 @@
+{
+    "quicklinks":[
+        {
+            "title":"Google",
+            "url":"http://www.google.com/",
+            "thumbnail":"thumb_google.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Google",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 0
+        },
+        {
+            "title":"Index",
+            "url":"http://index.hu/",
+            "thumbnail":"thumb_index.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Index",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 1
+        },
+        {
+            "title":"Origo!",
+            "url":"http://www.origo.hu/index.html/",
+            "thumbnail":"thumb_origo.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Origo!",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 2
+        },
+        {
+            "title":"Mi2 Prohardver",
+            "url":"http://prohardver.hu/tema/re_xiaomi_mi-2_lehetetlen_kuldetes/friss.html",
+            "thumbnail":"thumb_prohardver.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Mi2 Prohardver",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 3
+        },
+        {
+            "title":"Idõkép",
+            "url":"http://www.idokep.hu/",
+            "thumbnail":"thumb_idokep.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Idõkép",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 4
+        },
+        {
+            "title":"Ibuygou",
+            "url":"http://www.ibuygou.com/",
+            "thumbnail":"thumb_ibuy.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Ibuygou",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 5
+        },
+        {
+            "title":"EN MIUI Forum",
+            "url":"http://en.miui.com/forum.php",
+            "thumbnail":"thumb_miui.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "EN MIUI Forum",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 6
+        },
+        {
+            "title":"Miuiandroid",
+            "url":"http://miuiandroid.com/",
+            "thumbnail":"thumb_miuiandroid.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Miuiandroid",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 7
+        },
+
+        {
+            "title":"Xiaomi",
+            "url":"http://xiaomi.eu/",
+            "thumbnail":"thumb_xiaomi.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Xiaomi",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 8
+        },
+        {
+            "title":"XDA Forum",
+            "url":"http://forum.xda-developers.com/",
+            "thumbnail":"thumb_xda.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "XDA Forum",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 9
+        },
+        {
+            "title":"eBay",
+            "url":"http://www.ebay.com/",
+            "thumbnail":"thumb_ebay.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "eBay",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 10
+        },
+
+        {
+            "title":"CNN",
+            "url":"http://www.cnn.com/",
+            "thumbnail":"thumb_cnn.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "CNN",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 11
+        }
+    ],
+"topquicklinks": [
+                {
+            "title":"Google",
+            "url":"http://www.google.com/",
+            "thumbnail":"thumb_google.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Google"
+        },
+        {
+            "title":"Index",
+            "url":"http://index.hu/",
+            "thumbnail":"thumb_index.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Index"
+        },
+        {
+            "title":"Origo!",
+            "url":"http://www.origo.hu/index.html/",
+            "thumbnail":"thumb_origo.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Origo!"
+        },
+        {
+            "title":"MSi2 Prohardver",
+            "url":"http://prohardver.hu/tema/re_xiaomi_mi-2_lehetetlen_kuldetes/friss.html",
+            "thumbnail":"thumb_prohardver.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Mi2 Prohardver"
+        },
+        {
+            "title":"Idõkép",
+            "url":"http://www.idokep.hu/",
+            "thumbnail":"thumb_idokep.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Idõkép"
+        },
+        {
+            "title":"Ibuygou",
+            "url":"http://www.ibuygou.com/",
+            "thumbnail":"thumb_ibuy.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Ibuygou"
+        },
+        {
+            "title":"EN MIUI Forum",
+            "url":"http://en.miui.com/forum.php",
+            "thumbnail":"thumb_miui.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "EN MIUI Forum"
+        },
+        {
+            "title":"Miuiandroid",
+            "url":"http://miuiandroid.com/",
+            "thumbnail":"thumb_miuiandroid.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Miuiandroid"
+        },
+
+        {
+            "title":"Xiaomi",
+            "url":"http://xiaomi.eu/",
+            "thumbnail":"thumb_xiaomi.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Xiaomi"
+        },
+        {
+            "title":"XDA Forum",
+            "url":"http://forum.xda-developers.com/",
+            "thumbnail":"thumb_xda.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "XDA Forum"
+        },
+        {
+            "title":"eBay",
+            "url":"http://www.ebay.com/",
+            "thumbnail":"thumb_ebay.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "eBay"
+        },
+
+        {
+            "title":"CNN",
+            "url":"http://www.cnn.com/",
+            "thumbnail":"thumb_cnn.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "CNN"
+        }
+    ]
+}
