@@ -286,14 +286,14 @@ Follow prompts to complete instruction."</string>
     <string name="progress_submit_hint">A feltöltés 3 percen belül megjelenik</string>
     <string name="btn_count_down_auto">Ellenőrizze %1$s másodperc múlva</string>
     <string name="btn_count_down_wait">Várjon %1$s másodpercet</string>
-    <string name="btn_query">Ellenőrizze</string>
-    <string name="progress_querying">Feltöltés ellenőrzése folyamatban…</string>
-    <string name="progress_success_recharge_title">%1$s MiCredit recharge complete</string>
-    <string name="progress_success_pay_title">%1$s MiCredit pay complete</string>
-    <string name="progress_success_recharge_summary">Account balance: %1$s MiCredits</string>
+    <string name="btn_query">Ellenőrzés</string>
+    <string name="progress_querying">A feltöltés ellenőrzése folyamatban…</string>
+    <string name="progress_success_recharge_title">%1$s MiCredit feltöltés befejeződött</string>
+    <string name="progress_success_pay_title">%1$s MiCredit fizetés befejeződött</string>
+    <string name="progress_success_recharge_summary">Account balance: %1$s MiCredit</string>
     <string name="progress_success_pay_summary">Your order has paid successfully!</string>
-    <string name="progress_error_recharge_title">Recharge failed</string>
-    <string name="progress_error_pay_title">Pay failed</string>
+    <string name="progress_error_recharge_title">A feltöltés nem sikerült</string>
+    <string name="progress_error_pay_title">A fizetés nem sikerült</string>
     <string name="progress_warning_waiting">Still not reflected. Please try again later.</string>
     <string name="progress_warning_contact_server">"Still not reflected. 
 1. Please contact customer service in Shenzhou：%1$s 

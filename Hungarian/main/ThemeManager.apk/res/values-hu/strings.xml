@@ -133,7 +133,7 @@
     <string name="resource_pack_warning">Figyelmeztetés! Ön már megvásárolt %1$d témát, az aktuálisi ár már nem érvényes, kérjük vásárolja meg őket külön-külön.</string>
     <string name="resource_preview">Előnézet</string>
     <string name="resource_price_free">Ingyenes</string>
-    <string name="resource_price_unit">MI Kredit</string>
+    <string name="resource_price_unit">MiCredit</string>
     <string name="resource_ranking_free">Ingyenes</string>
     <string name="resource_ranking_purchase">Fizetős</string>
     <string name="resource_ranking">Népszerű</string>
@@ -144,7 +144,7 @@
     <string name="resource_server_alert_dialog_title">A szolgáltatás jelenleg nem elérhető</string>
     <string name="resource_server_out_of_service">A szerver nem elérhető, próbálja később.</string>
     <string name="resource_share_subject">Megosztott téma: %1$s</string>
-    <string name="resource_share_text">Azt hiszem ez a téma Neked is tetszeni fog: %1$s! Link: %2$s</string>
+    <string name="resource_share_text">Azt hiszem ez a téma tetszeni fog: %1$s! Link: %2$s</string>
     <string name="resource_share_title">Megosztás</string>
     <string name="resource_switch_account">Fiókváltás</string>
     <string name="resource_system_title">Rendszer források</string>

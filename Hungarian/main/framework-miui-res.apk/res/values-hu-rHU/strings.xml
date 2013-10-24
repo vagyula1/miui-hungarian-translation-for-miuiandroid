@@ -56,7 +56,7 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="memory_clear_nothing_result">Nincs felszabadítható memória</string>
     <string name="memory_clear_result">%1$s felszabadítva | %2$s elérhető</string>
     <string name="miui_copyright_title">Szerzői jog</string>
-    <string name="miui_mibi_license_title">Mi Credit Felhasználói nyilatkozat</string>
+    <string name="miui_mibi_license_title">MiCredit Felhasználói nyilatkozat</string>
     <string name="miui_privacy_policy_title">Adatvédelmi irányelvek</string>
     <string name="miui_user_agreement_title">Felhasználó szerződés</string>
     <string name="miui_user_manual_title">Felhasználói útmutató</string>
