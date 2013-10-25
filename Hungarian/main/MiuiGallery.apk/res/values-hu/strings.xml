@@ -70,7 +70,6 @@
     <string name="delete">Törlés</string>
     <string name="confirm_delete">Törli a kijelölt %s képet?</string>
     <string name="confirm_delete_cloud_all_item_page" formatted="false">%s kép az %s albumban, törli őket?</string>
-    <string name="delete_fail_too_many_items">A törlés nem sikerült, túl sok elem lett kijelölve</string>
     <string name="action_fail_unknown_error">Ismeretlen hiba miatt a művelet nem hajtható végre.</string>
     <string name="add_to_cloud_fail_too_many_items">A művelet nem hajtható végre,lehetséges,hogy túl sok elem lett kijelölve.</string>
     <string name="comfirm_delete_current_album">Törli az albumot?</string>
@@ -185,7 +184,6 @@
     <string name="open_sync_title">Szinkronizálás megnyitása</string>
     <string name="alert_message_open_sync">Először engedélyeznie kell a szinkronizálást</string>
     <string name="open">Engedélyezés</string>
-    <string name="alert_message_initial_cloud">A rendszer automatikusan feltölti a fényképeket és képernyőmentéseket WI-FI csatlakozás esetén.</string>
     <string name="cloud_gallery_no_pictures">Nincs kép a MiCloud-ban</string>
     <string name="no_network_connected">Nincs kapcsolat</string>
     <string name="initial_cloud_text">Rendszerezze és nézegesse fényképeit · bárhol és bármikor</string>
@@ -193,7 +191,6 @@
     <string name="storage_no_space">A tároló nem elérhető.</string>
     <string name="add_to_cloud_album">Add hozzá</string>
     <string name="move_to_cloud_album">Áthelyezés</string>
-    <string name="send_to_cloud_failed_message">Küldés a MiCloud albumba sikertelen</string>
     <string name="add_to_cloud_successfully_message">MiCloud albumhozhoz adva.</string>
     <string name="add_to_cloud_space_full_message">A MiCloud tárhely megtelt.</string>
     <string name="add_to_cloud_local_space_full_message">A tárhely megtelt vagy nem áll készen.</string>
@@ -206,18 +203,15 @@
     <string name="cant_delete_cloud_album">A törlés nem sikerült: %s egy rendszeralbum vagy megosztásra került.</string>
     <string name="cannot_delete_sharer_photo">Nem törölhető %s elem(ek) mert másik személy töltötte fel.</string>
     <string name="share_album">Album megosztása</string>
-    <string name="share_album_qr_code">QR kód</string>
     <string name="share_album_owner">Megosztva</string>
     <string name="scan_qr_code_top_text">A tagok láthatják és fényképeket adhatnak hozzá.</string>
     <string name="scan_qr_code_buttom_text">QR kód keresés az album megtekintéséhez.</string>
-    <string name="request_qr_code">QR kód kérése, kérem várjon...</string>
     <string name="request_qr_code_failed">QR kérés sikertelen, próbálja újra</string>
     <string name="retry_to_request_qr_code">Újra</string>
     <string name="album_member">%s album megosztó</string>
     <string name="add_sharer">Megosztó hozzáadás</string>
     <string name="album_name">Album neve</string>
     <string name="already_apply_album">Megnyitja %1$s?</string>
-    <string name="can_modified">Frissítések engedélyezése</string>
     <string name="no_picture_or_video">Üres.</string>
     <string name="camera_view_none_message">A fényképek jelenjenek meg itt.</string>
     <string name="none_picture">Nincs kép a galériában</string>
@@ -248,11 +242,8 @@ Használja ki!"</string>
     <string name="contact_photo">Beállít kapcsolat képének</string>
     <string name="projection">Vetítés</string>
     <string name="cut">Körülvágás</string>
-    <string name="turn_left">Balra forgatás</string>
-    <string name="turn_right">Jobbra forgatás</string>
     <string name="more">Egyebek</string>
     <string name="deleting_files">Fájlok törlése...</string>
-    <string name="bigscrren_slide_exit">Kilépés a diavetítésből</string>
     <string name="defalt_local_mobile">mobil</string>
     <string name="cloudfolder_name_reserved">A mappanév foglalt.</string>
     <string name="cloudfolder_contain_invalidate_char">"A mappa neve nem tartalmazhat '%s' karaktert"</string>
@@ -287,7 +278,6 @@ Használja ki!"</string>
     <string name="set_screensaver_path_title">Képernyőkímélő</string>
     <string name="set_screensaver_path_message">Ennak az albumnak a fénykepei fognak megjelenni képernyőkímélőként.</string>
     <string name="set_screensaver_path_message_if_only_charging">Ennek az albumnak a fénykepei fognak megjelenni képernyőkímélőként töltéskor.</string>
-    <string name="screensaver_no_data">Nincs kép a mappában.</string>
     <string name="slideshow_time_select_title">Válassza ki a diavetítés idejét</string>
     <string name="slideshow_time_title">Diavetítés ideje</string>
     <string name="rename_failed">Az átnevezés nem sikerült</string>
@@ -349,10 +339,8 @@ Használja ki!"</string>
     <string name="cannot_send_message">Az üzenet nincs elküldve</string>
     <string name="has_invalid_recipient">Érvénytelen címzett(ek): &lt;%1$s></string>
     <string name="to_count">%d az összesből</string>
-    <string name="context_menu_view_contact">Névjegy megtekintése</string>
     <string name="context_menu_add_contact">Új névjegy hozzáadása</string>
     <string name="context_menu_copy_notice">Kimásolva a vágólapra</string>
-    <string name="context_menu_new_contact">Új névjegy</string>
     <string name="menu_view_contact">Névjegy megtekintése</string>
     <string name="invalid_recipient_message">Javítsa ki a címzett nevét,mert nem fogja megkapni az üzenetet.</string>
     <string name="cannot_send_message_reason">Az üzenetben nincs érvényers címzett.</string>
@@ -372,8 +360,6 @@ Használja ki!"</string>
     <string name="exit_share_failed">&lt;%1$s> albumból kilépés nem sikerült</string>
     <string name="cancel_hint">A művelet megszakítva</string>
     <string name="fail_hint">A művelet nem sikerült.</string>
-    <string name="modify_allow_hint">Új képek hozzáadása az albumhoz engedélyezve</string>
-    <string name="modify_disallow_hint">Új képek hozzáadása az albumhoz letiltva</string>
     <string name="kick_sharer">Megosztó eltávolítás</string>
     <string name="kick_sharer_successfully">Megosztó eltávolítva</string>
     <string name="kick_sharer_failed">Megosztó eltávolítása nem sikerült</string>
@@ -385,8 +371,6 @@ Használja ki!"</string>
     <string name="operation_in_process">Folyamatban…</string>
     <string name="operation_failed">Hiba lépett fel a művelet közben.</string>
     <string name="operation_successful">Befejeződött.</string>
-    <string name="apply_successfully">CSatlakozott az albumhoz.</string>
-    <string name="fail_to_apply">Az albumhoz való csatlakozás nem sikerült.</string>
     <string name="invalid_invition_url">Meghívás URL-je hibás.</string>
     <string name="user_alias_self">Self</string>
     <string name="kick_owner_user_title">Eltávolítja a felhasználót?</string>

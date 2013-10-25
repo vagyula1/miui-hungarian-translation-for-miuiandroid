@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="account_abnormal_state">A fiókazonosítás nem sikerült, lépjen be újra vagy próbálja később!</string>
     <string name="all_resources">Minden</string>
     <string name="all_ringtone_resource">Minden</string>
@@ -21,7 +20,6 @@
     <string name="component_category_finest_title">Kiemelt</string>
     <string name="component_category_more_title">Egyebek</string>
     <string name="component_include_title">%1$s modult tartalmaz</string>
-    <string name="component_lockstyle_personal_title">Beállítások</string>
     <string name="component_select_title">Kiválasztott %1$s modul</string>
     <string name="component_settings_title">Az aktuális téma szerkesztése</string>
     <string name="default_name">Alapértelmezett</string>
@@ -48,12 +46,9 @@
     <string name="long_ringtone_resource">Hosszú (>5mp)</string>
     <string name="maml_component_customization_title">Beállítások</string>
     <string name="menu_refresh">Frissítés</string>
-    <string name="mi_wallpaper_loading">Háttérkép betöltése...</string>
-    <string name="mi_wallpaper_title">Háttérkép</string>
     <string name="mi_wallpaper">Háttérkép</string>
     <string name="online_no_network">A csatlakozás nem sikerült</string>
     <string name="online_search_hint">Források online keresése</string>
-    <string name="processing">Folyamatban ...</string>
     <string name="resource_alarm_default">Riasztás</string>
     <string name="resource_app_name">Téma böngésző</string>
     <string name="resource_apply">Alkalmaz</string>
@@ -69,9 +64,7 @@
     <string name="resource_comment_all_comments">Összes hozzászólás</string>
     <string name="resource_comment_average_score">Átlag</string>
     <string name="resource_comment_bad_comments">Negatív</string>
-    <string name="resource_comment_count">%1$s pont %2$s hozzászólás az összesből(%3$s verzió)</string>
     <string name="resource_comment_current_version">Jelenlegi verzió</string>
-    <string name="resource_comment_description">%1$s comment on %2$s:%3$s:%4$s</string>
     <string name="resource_comment_edit_comment_waiting">Ellenőrizze,hogy válaszolt-e már rá</string>
     <string name="resource_comment_edit_comment">Megjegyzés hozzáfűzés</string>
     <string name="resource_comment_edit_text_default">Hozzászólás írása</string>
@@ -94,7 +87,6 @@
     <string name="resource_comment_upload_not_bought">Megjegyzés hozzáfűzéshez először alkalmaznia kell a témát.</string>
     <string name="resource_comment_upload_not_logined">Nincs bejelentkezve!</string>
     <string name="resource_comment_upload_success">Megjegyzés elküldve! Ellenőrzés után megjelenik</string>
-    <string name="resource_comment_version_name">(%1$s verzió)</string>
     <string name="resource_default_name">Téma</string>
     <string name="resource_default">Alapértelmezett csengőhang</string>
     <string name="resource_delete_all">Töröl %1$d kiválasztott témát?</string>
@@ -133,7 +125,7 @@
     <string name="resource_pack_warning">Figyelmeztetés! Ön már megvásárolt %1$d témát, az aktuálisi ár már nem érvényes, kérjük vásárolja meg őket külön-külön.</string>
     <string name="resource_preview">Előnézet</string>
     <string name="resource_price_free">Ingyenes</string>
-    <string name="resource_price_unit">MiCredit</string>
+    <string name="resource_price_unit">MI Kredit</string>
     <string name="resource_ranking_free">Ingyenes</string>
     <string name="resource_ranking_purchase">Fizetős</string>
     <string name="resource_ranking">Népszerű</string>
@@ -144,7 +136,7 @@
     <string name="resource_server_alert_dialog_title">A szolgáltatás jelenleg nem elérhető</string>
     <string name="resource_server_out_of_service">A szerver nem elérhető, próbálja később.</string>
     <string name="resource_share_subject">Megosztott téma: %1$s</string>
-    <string name="resource_share_text">Azt hiszem ez a téma tetszeni fog: %1$s! Link: %2$s</string>
+    <string name="resource_share_text">Azt hiszem ez a téma Neked is tetszeni fog: %1$s! Link: %2$s</string>
     <string name="resource_share_title">Megosztás</string>
     <string name="resource_switch_account">Fiókváltás</string>
     <string name="resource_system_title">Rendszer források</string>
@@ -157,8 +149,6 @@
     <string name="ringtone_volume_mute">Jelenleg néma üzemmódban van.</string>
     <string name="sdcard_not_mounted_dialog_message">"Az SD kártya nem elérhető lehet,hogy nincs felcsatolva."</string>
     <string name="sdcard_not_mounted_dialog_title">Nem található SD kártya</string>
-    <string name="sdcard_status_changed_dialog_message">Kilépés. Téma frissítéshez nyissa meg újra.</string>
-    <string name="sdcard_status_changed_dialog_title">SD kártya tartalma megváltozott</string>
     <string name="selected_resource_file_invalid">A kiválasztott fájl nem megfelelő formátumúSelected file is invalid.</string>
     <string name="short_ringtone_resource">Rövid (&lt;5mp)</string>
     <string name="theme_another_import_running">Másik importálás folyamatban, próbálja később.</string>
@@ -185,11 +175,12 @@
     <string name="theme_component_title_lockstyle">Zár stílusa</string>
     <string name="theme_component_title_lockwallpaper">Zár háttere</string>
     <string name="theme_component_title_miwallpaper">Háttérkép</string>
+	<string name="theme_component_title_mms">Üzenetek</string>
     <string name="theme_component_title_notification">Értesítés hang</string>
     <string name="theme_component_title_others">Egyéb</string>
     <string name="theme_component_title_photo_frame">Képkeret</string>
     <string name="theme_component_title_ringtone">Csengőhang</string>
-    <string name="theme_component_title_statusbar">Értesítések</string>
+    <string name="theme_component_title_statusbar">Állapotsor</string>
     <string name="theme_component_title_wallpaper">Háttérkép</string>
     <string name="theme_current_using_has_update">A téma frissítve, kattintson az alkalmazáshoz</string>
     <string name="theme_description_title_customized">Egyéni téma</string>

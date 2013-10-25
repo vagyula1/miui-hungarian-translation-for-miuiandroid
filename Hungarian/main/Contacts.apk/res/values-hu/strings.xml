@@ -9,7 +9,6 @@
     <string name="account_type_format">%1$s névjegy</string>
     <string name="action_menu_overflow_description">Még több beállítás</string>
     <string name="actionIncomingCall">Bejövő hívások</string>
-    <string name="activity_not_found_uri">Nincs elérhető alkalmazás!</string>
     <string name="activity_title_confirm_add_detail">Névjegyzékhez ad</string>
     <string name="activity_title_contacts_filter">Megjelenítendő névjegyek</string>
     <string name="activity_title_settings">Beállítások</string>
@@ -22,7 +21,6 @@
     <string name="add_new_account">Új fiók hozzáadása</string>
     <string name="add_new_entry_for_section">Új hozzáadása</string>
     <string name="add_organization">Szervezet hozzáadása</string>
-    <string name="add_slide_before">Dia hozzáadása (előtte)</string>
     <string name="add_to_my_contacts">Hozzáadás a Címtárhoz</string>
     <string name="add_wait">Várakozás hozzáadás</string>
     <string name="add_xiaomi_account_dialog_btn">Xiaomi fiók használata</string>
@@ -187,7 +185,6 @@
     <string name="contactsGroupsLabel">Csoportok</string>
     <string name="contactsJoinedMessage">A névjegyek összekapcsolása megtörtént</string>
     <string name="contactsList">Címtár</string>
-    <string name="context_menu_add_to_browser_favorite">Hozzáadás a kedvencekhez</string> 
     <string name="copy_text">Másolás a vágólapra</string>
     <string name="create_group_dialog_title">Új csoport létrehozása</string>
     <string name="create_group_item_label">[Új csoport létrehozása]</string>
@@ -370,7 +367,6 @@
     <string name="favorites_list_empty">Nincs kedvenc</string>
     <string name="favoritesFrequentCalled">Gyakran hívott</string>
     <string name="favoritesFrequentContacted">Gyakran keresett</string>
-    <string name="forward_from">Továbbítás:</string> 
     <string name="foundTooManyContacts">több mint %d találat</string>
     <string name="frequency_none">Nincs emlékeztető</string>
     <string name="frequency_three_days">Ellenőrizze és emlékeztessen 3 naponta</string>
@@ -435,7 +431,6 @@
     <string name="import_weibo_error_unknown">Ismeretlen hiba.</string>
     <string name="import_weibo_error_user_cancel">Felhasználó által megszakítva.</string>
     <string name="import_weibo_fetch_followers">Névjegyzék lekérése…</string>
-    <string name="import_weibo_notification_title_done">Importálás kész</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="importing_sim_contacts_miui">Importálás…</string>
@@ -640,7 +635,6 @@
     <string name="postal_region">Állapot</string>
     <string name="postal_street">Utca</string>
     <string name="postalLabelsGroup">Cím</string>
-    <string name="pref_forward_title">Továbbítás</string> 
     <string name="pref_key_photo_word_summary">Automatikus fénykép választás</string>
     <string name="pref_key_photo_word_title">Automatikus fénykép</string>
     <string name="pref_key_photo">Fénykép</string>
@@ -648,11 +642,7 @@
     <string name="pref_key_rebuild_t9_index_title">T9 index adatok újraépítése</string>
     <string name="pref_summary_import_from_account">A Google és Exchange fiókok névjegyeinek importálása a Xiaomi fiókjába</string>
     <string name="pref_title_account_import">Importálás fiókba</string>
-    <string name="pref_title_card_format">Kártya megosztási formátuma</string>
-    <string name="pref_title_fwd_sender_info">A továbbküldő adatai</string>
     <string name="pref_title_import_from_account">Importálás a Xiaomi fiókba</string>
-    <string name="pref_title_miui_card">MIUI kártya küldés</string>
-    <string name="pref_title_vcard">vCard küldés</string>
     <string name="preference_auto_ip_summary_disable">Nincs engedélyezve</string>
     <string name="preference_auto_ip_summary_on">"Carrier's IP prefix: %s"</string>
     <string name="preference_auto_ip_title">Automatikus IP</string>
@@ -694,11 +684,9 @@
     <string name="preview_contact_card_title">Névjegyek importja</string>
     <string name="previous">előző</string>
     <string name="private_num">Magántelefonszám</string>
-    <string name="processing">Folyamatban ...</string>
     <string name="profile_display_name">Saját profil beállítása</string>
     <string name="profile_name_photo">Én</string>
     <string name="profile_name">Profilom</string>
-    <string name="progress_notifier_message" formatted="false">Importálás %s/%s: %s</string>
     <string name="quickcontact_missing_app">Nincs megfelelő alkalmazás a művelet elvégzésére</string>
     <string name="quit_dialog_confirm_title">Kilépés a névjegy összefőzésből?</string>
     <string name="reading_vcard_canceled_title">névjegykártya olvasás megszakítva</string>
@@ -827,16 +815,11 @@
     <string name="resource_update">Frissítés</string>
     <string name="resource_waiting_download">Várakozás</string>
     <string name="restore_nickname">Visszaállít</string>
-    <string name="restore_to_phone_memory_failed">A visszaállítás nem sikerült!</string>
-    <string name="restored_to_phone_memory">"Visszaállítva"</string>
     <string name="ret_sign">" "</string>
     <string name="returnCall">Vissza a híváshoz</string>
     <string name="ringLabelsGroup">Csengőhang</string>
     <string name="ringtone_volume_mute">Jelenleg néma üzemmódban van.</string>
     <string name="save_photo_progress">Kép mentése...</string>
-    <string name="save_to_sim_failed">A mentés a SIM kártyára nem sikerült! Visszaállítva a telefon memóriájába</string>
-    <string name="save">Mentés</string>
-    <string name="saved_to_sim">Elmentve a SIM kártyára!</string>
     <string name="savingContact">Névjegy mentése…</string>
     <string name="savingDisplayGroups">Megjelenítési beállítások mentése...</string>
     <string name="scan_duplicate_message">Dupla névjegyek %1$d</string>
@@ -846,9 +829,7 @@
     <string name="scanning_sdcard_failed_title">Nem sikerült beolvasni a tárolót</string>
     <string name="scanning">Eszközök keresése…</string>
     <string name="sdcard_not_mounted_dialog_message">"Az SD kártya nem elérhető."</string>
-    <string name="sdcard_not_mounted_dialog_title">NEm található SD kártya</string>
-    <string name="sdcard_status_changed_dialog_message">"Going to exit.Please reopen this app to refresh resource."</string>
-    <string name="sdcard_status_changed_dialog_title">SD kártya állapota megváltozott</string>
+    <string name="sdcard_not_mounted_dialog_title">Nem található SD kártya</string>
     <string name="search_results_searching">Keresés...</string>
     <string name="search_settings_description">Ismerősök nevei</string>
     <string name="searchHint">Keresés a névjegyek között</string>
@@ -868,7 +849,6 @@
     <string name="service_provider">Szolgáltató</string>
     <string name="set_default">Beállítás alapértelmezettként</string>
     <string name="set_photo_failed_msg">Kép hozzárendelése nem sikerült.</string>
-    <string name="set_smsc_address_title_miui">SMS központ száma</string> 
     <string name="share_error">Ez a névjegy nem osztható meg.</string>
     <string name="share_via">Névjegy megosztása a következőn:</string>
     <string name="share_visible_contacts">Látható névjegyek megosztása</string>
@@ -878,11 +858,8 @@
     <string name="shortcutMessageContact">Közvetlen üzenet</string>
     <string name="showAllContactsJoinItem">Az összes névjegy megjelenítése</string>
     <string name="sim_capacity_content" formatted="false">Teljes kapacitás %d, felhasznált %d</string>
-    <string name="sim_card_cloud">%s (felhő üzenet)</string> 
     <string name="sim_card_no_free_space_message">A SIM kártya megtelt, új névjegy nem importálható.Kérem töröljön a kártyáról és próbálja újra</string>
     <string name="sim_card_no_free_space_title">SIM kártya megtelt</string>
-    <string name="sim_card1">1.SIM káryta</string>
-    <string name="sim_card2">2.SIM káryta</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Egyxikset sem</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Mindet kijelöl</string>
     <string name="sim_contact_search_error">Hiba a névjegyek SIM-en keresése közben</string>
@@ -970,7 +947,6 @@
     <string name="type_incoming">Bejövő hívás</string>
     <string name="type_missed">Nem fogadott hívás</string>
     <string name="type_outgoing">Kimenő hívás</string>
-    <string name="type_vcard">vCard</string> 
     <string name="type_voicemail">Hangposta</string>
     <string name="unknown_contact_name">Ismeretlen névjegy</string>
     <string name="unknown">Ismeretlen</string>
