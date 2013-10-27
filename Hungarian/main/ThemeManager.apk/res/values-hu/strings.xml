@@ -125,7 +125,7 @@
     <string name="resource_pack_warning">Figyelmeztetés! Ön már megvásárolt %1$d témát, az aktuálisi ár már nem érvényes, kérjük vásárolja meg őket külön-külön.</string>
     <string name="resource_preview">Előnézet</string>
     <string name="resource_price_free">Ingyenes</string>
-    <string name="resource_price_unit">MI Kredit</string>
+    <string name="resource_price_unit">MiCredit</string>
     <string name="resource_ranking_free">Ingyenes</string>
     <string name="resource_ranking_purchase">Fizetős</string>
     <string name="resource_ranking">Népszerű</string>
