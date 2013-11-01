@@ -55,14 +55,12 @@
     <string name="paused_unknown">Ismeretlen okból szünetel</string>
     <string name="paused_waiting_for_network">Várakozás hálózati kapcsolatra</string>
     <string name="paused_waiting_to_retry">Újrapróbálkozásig szünetel</string>
-    <string name="pref_dialog_title_max_bytes_limit">Fájl mérethatár</string>
     <string name="pref_download_settings_title">Letöltési korlát figyelmeztetés</string>
     <string name="pref_summary_any_bytes_popup">Mindig várjon Wi-Fi hálózatra</string>
     <string name="pref_summary_enable_max_bytes_popup">A szolgáltató hálózatán egy felugró ablak figyelmeztet, ha a file mérete meghaladja a határt</string>
     <string name="pref_summary_max_bytes_limit_format">Felugró ablak, ha a fájl meghaladja a %s méretet</string>
-    <string name="pref_title_enable_max_bytes_popup">Letöltést engedélyező ablak</string>
-    <string name="pref_title_max_bytes_limit">Fájl-méret határa</string>
-    <string name="prefDefault_max_bytes_limit">1048576</string>
+    <string name="pref_summary_no_limit_popup">Nincs letöltési mérethatár</string>
+    <string name="pref_title_enable_max_bytes_popup">Fájlméret beállítás</string>
     <string name="preferences_title">Beállítások</string>
     <string name="remove_download">Törlés</string>
     <string name="restart_download">Újraindítás</string>

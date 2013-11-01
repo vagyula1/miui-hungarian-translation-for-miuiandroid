@@ -83,10 +83,12 @@
   <string name="auto_record_scenario_enteries_always_miui">Összes szám</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Kiválasztott számok</string>
   <string name="auto_record_scenario_title_miui">Automata hangrögzítés</string>
+  <string name="auto_record_unknown_miui">Ismeretlen számok</string>
   <string name="auto_record_whitelist_miui">Telefonszám kiválasztás</string>
   <string name="auto_record_whitelist_no_item_miui">Telefonszámok hozzáadásához kattintson az alsó gombra</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d szám</string>
+  <string name="auto_record_yellowpage_miui">Aranyoldalak</string>
   <string name="auto_redial_pref_summary_miui">Ha hívás a sikertelen, 10 szer próbálja a rendszer újra</string>
   <string name="auto_redial_pref_title_miui">Automatikus újrahívás</string>
   <string name="auto_retry_mode_summary">Automatikus újrapróbálkozás mód bekapcsolása</string>

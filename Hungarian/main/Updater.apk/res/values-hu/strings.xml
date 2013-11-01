@@ -81,10 +81,10 @@
   <string name="my_update_feel">Érzéseim</string>
   <string name="my_worst_update">Az eddigi legrosszabb frissítés</string>
   <string name="network_error">Hiba a kapcsolatban, hálózati probléma vagy a szerver túlterhelt</string>
-  <string name="new_update_content_title">Új frissítést elérhető!</string>
+  <string name="new_update_content_title">Új frissítés elérhető! </string>
   <string name="new_update_download_complete_body">Új verzió: %s</string>
   <string name="new_update_downloading_body">Új verzió letöltése: %s</string>
-  <string name="new_updates_found_notification_title">Új frissítéssel, frissítve!</string>
+  <string name="new_updates_found_notification_title">Új frissítés elérhető!</string>
   <string name="new_updates_found_title">Új frissítés elérhető!</string>
   <string name="next">Következő</string>
   <string name="no_proper_updates">Nem találhatók frissítések</string>
