@@ -296,6 +296,11 @@
     <string name="navigation_button_newtab">Új</string>
     <string name="navigation_button_tab">Lapok</string>
     <string name="navigation_button_view">Nézet</string>
+	<string name="network_show_wifi_setting_tip_dialog_description">Elérhető Wi-Fi kapcsolat, szeretne csatlakozni?</string>
+    <string name="network_show_wifi_setting_tip_dialog_notshow">Mentés</string>
+    <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Elérhető Wi-Fi hálózat</string>
+    <string name="network_show_wifi_setting_tip_dialog_setting_title">"Értesítés mobil adatkapcsolat használatakor,elérhető Wi-Fi kapcsolat esetén."</string>
+    <string name="network_show_wifi_setting_tip_dialog_title">Elérhető Wi-Fi hálózat</string>
     <string name="new_folder">Új mappa</string>
     <string name="new_incognito_tab">Új inkognitólap</string>
     <string name="new_tab">Új lap</string>

@@ -201,4 +201,5 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
     <string name="volume_ring_description">Csengőhang és értesítések</string>
     <string name="login_website_in_case_forget_password">Elfelejtett jelszava visszaállításához látogassa meg az i.xiaomi.com honlapot</string>
+    <string name="toast_lockscreen_glogin_empty_password">Jelszó szükséges.</string>
 </resources>

@@ -1076,6 +1076,8 @@
     <string name="input_methods_settings_label_format">%1$s beállításai</string>
     <string name="input_methods_and_subtype_enabler_title">Válasszon aktív beviteli módokat</string>
     <string name="onscreen_keyboard_settings_summary">Képernyőbillentyűzet beállításai</string>
+    <string name="open_wifi_connect_summary">Kattintson a beállításhoz</string>
+    <string name="open_wifi_connect_title">Csatlakozás %1$s nyílt hálózathoz</string>
     <string name="builtin_keyboard_settings_title">Fizikai billentyűzet</string>
     <string name="builtin_keyboard_settings_summary">Fizikai billentyűzet beállításai</string>
     <string name="development_settings_title">Fejlesztői lehetőségek</string>
@@ -1673,7 +1675,7 @@
     <string name="perm_hips_allow_all">Minde engedélyezése</string>
     <string name="perm_hips_prompt_all">Mindent engedélyez</string>
     <string name="perm_hips_reject_all">Mindet letiltja</string>
-	<string name="perm_hips_root">ROOT</string>
+    <string name="perm_hips_root">ROOT</string>
     <string name="perm_hips_root_title">Rendszergazdai jogosultságok</string>
     <string name="perm_hips_listen_call_state">hívás állapot kezelés</string>
     <string name="perm_hips_get_call_state">Hívás állapota</string>

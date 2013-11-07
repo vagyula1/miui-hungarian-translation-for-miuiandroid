@@ -434,5 +434,6 @@ Használja ki!"</string>
     <string name="where_is_barcode">Hol található a QR kód?</string>
     <string name="scan_barcode_guide">A QR kódért érintse meg a jobb felső sarokban lévő megosztás ikon.</string>
     <string name="confirm">Elfogad</string>
-	<string name="there_is_no_image">Nincs kép.</string> 
+	<string name="there_is_no_image">Nincs kép.</string>
+	<string name="click_top_right">Érintse meg az ikont</string>
 </resources>

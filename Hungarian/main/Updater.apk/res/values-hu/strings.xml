@@ -19,7 +19,7 @@
   <string name="applying_rom_message">ROM frissítése</string>
   <string name="applying_update">Frissítés...</string>
   <string name="best_update">2.Az eddigi legjobb frissítés</string>
-  <string name="boot_recovery">Újraindítja Recovery módban?</string>
+  <string name="boot_recovery">Újraindítás Recovery módban</string>
   <string name="cancel_download_buton_text">Letöltés megszakítása</string>
   <string name="check_update">Frissítés ellenőrzése</string>
   <string name="check_update_policy">Ellenőrizze a frissítési beállításokat</string>

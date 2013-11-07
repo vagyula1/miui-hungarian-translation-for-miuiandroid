@@ -13,6 +13,7 @@
     <string name="install_failed_invalid_apk">A csomag hibás.</string>
     <string name="install_failed_inconsistent_certificates">Ütköző aláírású, azonos nevű csomag már telepítve.</string>
     <string name="install_failed_older_sdk">A csomag csak az Android új verzióinál működik.</string>
+    <string name="install_failed_system_incompatible">Ez az alkalmazás nem kompatibilis a MIUI ROM-mal!</string>
     <string name="install_failed_cpu_abi_incompatible">Az alkalmazás nem kompatibilis a telefon CPU-jával.</string>
     <string name="install_failed_file_not_found">A megadott csomag törlésre került, mielőtt a telepítés befejeződhetett volna.</string>
     <string name="install_failed_verify_failed">A csomag nem ment át az ellenőrzésen, így nem lehet telepíteni.</string>

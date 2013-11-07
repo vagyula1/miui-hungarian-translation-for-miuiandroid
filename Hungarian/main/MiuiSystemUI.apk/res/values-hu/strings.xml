@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Rendszer UI</string>
+    <string name="audio_effect_custom">Hangbeállítás</string>
+    <string name="audio_effect_info">Hang optimalizásás</string>
+    <string name="audio_effect_settings">Fülhallgató kiválasztása</string>
     <string name="status_bar_recent_remove_item_title">Eltávolítás a listából</string>
     <string name="status_bar_recent_inspect_item_title">Alkalmazásinformáció</string>
     <string name="status_bar_no_recent_apps">Nincs újabb alkalmazás</string>
