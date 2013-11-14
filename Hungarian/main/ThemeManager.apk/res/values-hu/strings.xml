@@ -5,7 +5,7 @@
     <string name="all_ringtone_resource">Minden</string>
     <string name="app_name">Témák</string>
     <string name="apply_font_btn_exclude">Betűtípus nélkül</string>
-    <string name="apply_font_btn_reboot">újraindítás</string>
+    <string name="apply_font_btn_reboot">Újraindítás</string>
     <string name="apply_font_tip">A téma betűtípusokat tartalmaz, ezért újraindítás szükséges.</string>
     <string name="apply_lockscreen_paper_tips">Képernyőzár téma jelenleg használatban, új képernyőzár előnézete nem látható!</string>
     <string name="apply_theme_no_select_message">Válassza ki a témát!</string>
@@ -61,7 +61,7 @@
     <string name="resource_comment_4_star">4 csillag</string>
     <string name="resource_comment_5_star">5 csillag</string>
     <string name="resource_comment_account_need_activitied">A fiókja nincs aktiválva, aktiválja most?</string>
-    <string name="resource_comment_all_comments">Összes hozzászólás</string>
+    <string name="resource_comment_all_comments">Összes</string>
     <string name="resource_comment_average_score">Átlag</string>
     <string name="resource_comment_bad_comments">Negatív</string>
     <string name="resource_comment_current_version">Jelenlegi verzió</string>
@@ -72,7 +72,7 @@
     <string name="resource_comment_entry_tips">>Hozzászólások megtekintése</string>
     <string name="resource_comment_expand_full_text">Bontsa ki a teljes szöveget ▼</string>
     <string name="resource_comment_footer">Üres megjegyzés nem jelenik meg.</string>
-    <string name="resource_comment_good_comments">Pozitív megjegyzés</string>
+    <string name="resource_comment_good_comments">Pozitív</string>
     <string name="resource_comment_invalid">Értékeléshez érintse meg a csillagot</string>
     <string name="resource_comment_name_default">%1$s felhasználó</string>
     <string name="resource_comment_no_average_score">Nincs értékelés</string>
@@ -92,8 +92,8 @@
     <string name="resource_delete_all">Töröl %1$d kiválasztott témát?</string>
     <string name="resource_delete_confirm">Biztos,hogy törli a témát?</string>
     <string name="resource_delta_update_failed">A frissítés nem sikerült! A teljes téma letöltése</string>
-    <string name="resource_delta_update_successful">A frissítés sikeres, %1$s letöltve.</string>
-    <string name="resource_delta_update_total">%1$d frissítve. %2$s elmentve</string>
+    <string name="resource_delta_update_successful">A frissítés sikeres.</string>
+    <string name="resource_delta_update_total">%1$d frissítve. Elmentve %2$s</string>
     <string name="resource_detail_comment_title">Hozzászólások</string>
     <string name="resource_detail_jump_to_same_author_title">A szerző további témái</string>
     <string name="resource_detail_recommend_desiner_other_themes">%1$s által készült egyéb témák</string>

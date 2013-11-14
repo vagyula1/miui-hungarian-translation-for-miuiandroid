@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_and_synchronization">Fiókok &amp; szinkronizálás</string>
+  <string name="account_setting">Fiók beállítások</string> 
   <string name="add">Hozzáadás</string>
   <string name="add_to">Add hozzá</string>
   <string name="add_to_favorite">Hozzáadás a kedvencekhez</string>
@@ -28,6 +30,8 @@
   <string name="auto_correct_id3_summary">Using Baidu audio fingerprint algorithm, correct ID3 when playing.</string>
   <string name="batch_correct_id3_completed">ID3 kerrokeció befejeződött.</string>
   <string name="billboard">Billboard</string>
+  <string name="bind_baidu_account_setting">Bind Baidu Account</string>
+  <string name="bind_baidu_account_summary">Add playlists and other services by binding Baidu music account</string>
   <string name="buffering">Pufferelés...</string>
   <string name="cancel">Mégsem</string>
   <string name="cancel_sleep_mode">Kilépés az alvó módból</string>
@@ -159,6 +163,7 @@
   <string name="new_playlist_name_template">Új lista %d</string>
   <string name="no_effect">Nincs</string>
   <string name="no_song_downloaded">Nincs letölthető dal.</string>
+  <string name="not_login">Bejelentkezés</string>
   <string name="not_selected">Válasszon zeneszámot</string>
   <string name="notification_artist_album">"%2$s%1$s"</string>
   <string name="online_title">Online Zene</string>
@@ -238,11 +243,12 @@
   <string name="start_to_download_album">Borító letöltése a dalok könyvtárába</string>
   <string name="start_to_download_avatar">Előadó képének letöltése az albumhoz</string>
   <string name="streamloadingtext">Csatlakozás %s</string>
+  <string name="synchronize_playlist_setting">Lejátszási lista szinkronizálása</string>
+  <string name="synchronize_playlist_summary">Lejátszási lista szinkronizálása a MiCloud-dal.</string>
   <string name="track_edit">Dal</string>
   <string name="tracks_title">Összes dal</string>
   <string name="unknown_album_name">Ismeretlen album</string>
   <string name="unknown_artist_name">Ismeretlen előadó</string>
   <string name="use_local_album">Letöltött borító használata</string>
   <string name="use_local_lyric">Letöltött dalszöveg használata</string> 
-
 </resources>

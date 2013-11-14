@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="lockpassword_password_requires_letters">
+	<plurals name="power_center_battery_day">
+		<item quantity="other">%d nap</item>
+        <item quantity="one">%d nap</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+       <item quantity="other">%d perc</item>
+       <item quantity="one">%d perc</item>
+	</plurals> 
+	<plurals name="lockpassword_password_requires_letters">
         <item quantity="other">A jelszónak tartalmaznia kell legalább %d betűt</item>
         <item quantity="one">A jelszónak tartalmaznia kell legalább 1 betűt</item>
     </plurals>

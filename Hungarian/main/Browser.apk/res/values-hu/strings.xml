@@ -296,11 +296,11 @@
     <string name="navigation_button_newtab">Új</string>
     <string name="navigation_button_tab">Lapok</string>
     <string name="navigation_button_view">Nézet</string>
-	<string name="network_show_wifi_setting_tip_dialog_description">Elérhető Wi-Fi kapcsolat, szeretne csatlakozni?</string>
-    <string name="network_show_wifi_setting_tip_dialog_notshow">Mentés</string>
-    <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Elérhető Wi-Fi hálózat</string>
+	<string name="network_show_wifi_setting_tip_dialog_description">Van elérhető Wi-Fi kapcsolat, szeretne csatlakozni?</string>
+    <string name="network_show_wifi_setting_tip_dialog_notshow">Választás megjegyzése</string>
+    <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Elérhető Wi-Fi hálózat értesítés</string>
     <string name="network_show_wifi_setting_tip_dialog_setting_title">"Értesítés mobil adatkapcsolat használatakor,elérhető Wi-Fi kapcsolat esetén."</string>
-    <string name="network_show_wifi_setting_tip_dialog_title">Elérhető Wi-Fi hálózat</string>
+    <string name="network_show_wifi_setting_tip_dialog_title">Elérhető Wi-Fi hálózat értesítés</string>
     <string name="new_folder">Új mappa</string>
     <string name="new_incognito_tab">Új inkognitólap</string>
     <string name="new_tab">Új lap</string>
@@ -356,7 +356,7 @@
     <string name="pref_content_search_engine_summary">Válasszon egy keresőmotort</string>
     <string name="pref_content_title">Oldaltartalom</string>
     <string name="pref_data_preload_dialogtitle">Keresési találatok betöltése</string>
-    <string name="pref_data_preload_summary"> töltse be a biztonságos keresési találatokat előre a böngésző a háttérben</string>
+    <string name="pref_data_preload_summary">töltse be a biztonságos keresési találatokat előre a böngésző a háttérben</string>
     <string name="pref_data_preload_title">Keresési találatok betöltése</string>
     <string name="pref_data_preload_value_never_summary">Soha ne töltse be a nagy keresési eredményeket a háttérben</string>
     <string name="pref_data_title">Sávszélesség kezelése</string>
@@ -422,7 +422,7 @@
     <string name="pref_lab_quick_controls_summary">Húzza a bal vagy jobb szélhez a gyorsbeállítások megnyitásához és a címsor eltüntetéséhez</string>
     <string name="pref_lab_title">Labs</string>
     <string name="pref_link_prefetch_dialogtitle">Honlap betöltés</string>
-    <string name="pref_link_prefetch_summary"> töltse be a weboldal hivatkozásokat a háttérben</string>
+    <string name="pref_link_prefetch_summary">töltse be a weboldal hivatkozásokat a háttérben</string>
     <string name="pref_link_prefetch_title">Honlap betöltés</string>
     <string name="pref_link_prefetch_value_never_summary">Soha ne töltse be a weboldal hivatkozásokat a háttérben</string>
     <string name="pref_min_font_size">Minimális betűméret</string>
@@ -473,7 +473,7 @@
     <string name="pref_use_instant_search">Google Instant</string>
     <string name="pref_use_instant_search_summary">A Google-keresésnél használja a Google Instantot, és a találatok gépelés közben megjelennek (az adatforgalom nőhet).</string>
     <string name="pref_video_preload_dialogtitle">Video betöltés</string>
-    <string name="pref_video_preload_summary"> töltse le a videófájlt</string>
+    <string name="pref_video_preload_summary">töltse le a videófájlt</string>
     <string name="pref_video_preload_title">Video betöltés</string>
     <string name="pref_video_preload_value_never_summary">Soha ne töltse le a videófájlt</string>
     <string name="pref_volume_key_enabled">Hangerő gombok</string>

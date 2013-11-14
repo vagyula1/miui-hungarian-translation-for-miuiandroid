@@ -110,7 +110,7 @@
     <string name="no_albums_alert">Nincs elérhető album.</string>
     <string name="local_albums">Helyi albumok</string>
     <string name="cloud_albums">MiCloud albumok</string>
-    <string name="home_my_captured_items">Fotóim</string>
+    <string name="home_my_captured_items">Fényképeim</string>
     <string name="done">Kész</string>
     <string name="title">Cím</string>
     <string name="description">Leírás</string>
@@ -182,6 +182,7 @@
     <string name="sync_album">Albumok szinkronizálása</string>
     <string name="sync_album_summary">Fényképek és képernyőmentések feltöltése a MiCloudba</string>
     <string name="open_sync_title">Szinkronizálás megnyitása</string>
+	<string name="operation_add_picture">Fényképek hozzáadása</string>
     <string name="alert_message_open_sync">Először engedélyeznie kell a szinkronizálást</string>
     <string name="open">Engedélyezés</string>
     <string name="cloud_gallery_no_pictures">Nincs kép a MiCloud-ban</string>
@@ -336,6 +337,11 @@ Használja ki!"</string>
     <string name="messagelist_sender_self">Én</string>
     <string name="adding_recipients">Címzettek hozzáadása…</string>
     <string name="pick_too_many_recipients">Túl sok címzett</string>
+    <string name="pick_too_much_tips">"Túl sok elem (maximum %d elem)."</string>
+    <string name="picker_no_album_selected">Nincs kiválasztott album</string>
+    <string name="picker_no_items_selected">Nincs kiválasztott elem</string>
+    <string name="picker_select_album_title_empty">Válasszon egy albumot</string>
+    <string name="picker_tab_camera">Kamera</string>
     <string name="cannot_send_message">Az üzenet nincs elküldve</string>
     <string name="has_invalid_recipient">Érvénytelen címzett(ek): &lt;%1$s></string>
     <string name="to_count">%d az összesből</string>
@@ -373,6 +379,9 @@ Használja ki!"</string>
     <string name="operation_successful">Befejeződött.</string>
     <string name="invalid_invition_url">Meghívás URL-je hibás.</string>
     <string name="user_alias_self">Self</string>
+	<string name="video_download_in_process">A videófájl letöltése folyamatban.</string>
+    <string name="video_download_start">Videófájl letöltése</string>
+	<string name="video_not_exist">Videfájl nem létezik!</string>
     <string name="kick_owner_user_title">Eltávolítja a felhasználót?</string>
     <string name="kick_owner_user_positive_button_text">Eltávolítás</string>
     <string name="initializing_cloud">Cloud Album inicializálása...</string>

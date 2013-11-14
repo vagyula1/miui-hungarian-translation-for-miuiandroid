@@ -84,6 +84,7 @@
     <string name="enable_sync">Szinkronizálás</string>
     <string name="login_sync">Belépés &amp; szink.</string>
     <string name="pref_title_note_style">Jegyzet stílus</string>
+	<string name="pref_title_font_size">Betűméret</string>
     <string name="pref_desc_mode_list">Lista</string>
     <string name="pref_desc_mode_grid">Rács</string>
     <string name="pref_title_common">Egyéb beállítás</string>

@@ -195,7 +195,7 @@
     <string name="operation_pause">Szüneteltetés</string>
     <string name="operation_refresh">Frissítés</string>
     <string name="operation_rename_message">Új név megadása</string>
-    <string name="operation_rename">Átnevezi a fájlt?</string>
+    <string name="operation_rename">Átnevezés</string>
     <string name="operation_resume_all">Összes folytatás</string>
     <string name="operation_resume">Folytatás</string>
     <string name="operation_send">Küldés</string>

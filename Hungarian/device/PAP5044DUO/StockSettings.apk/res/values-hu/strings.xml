@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Gyári beállítások</string>
+    <string name="engineermode_settings">Fejlesztői üzemmód</string>
+    <string name="schedulepoweronoff_settings">Ütemezett be/kikapcsolás</string>
+    <string name="eng_mode_summary">Információ / statisztikák gyűjtése, tesztelés, finomhangolás</string>
+    <string name="homescreen">Navigációs sáv</string>
+    <string name="homescreen_summary">Navigációs sáv be/kikapcsolása</string>
+    <string name="level">Szint</string>
+    <string name="level_summary">Szint beállítás</string>
+    <string name="factory_mode">Gyári üzemmód</string>
+    <string name="factory_mode_summary">Belépés a gyári üzemmódba</string>
+    <string name="flip_2_mute">További beállítások</string>
+    <string name="flip_2_mute_summary">További extra beállítások</string>
+    <string name="schedulepoweronoff_settings_summary">Ütemezett be és kikapcsolás</string>
+    <string name="adv_settings">További beállítások</string>
+    <string name="adv_settings_summary">Alapértelmezett SIM kártya és alkalmazások telepítés tárhelye, további GPS beállítások</string>
+</resources>

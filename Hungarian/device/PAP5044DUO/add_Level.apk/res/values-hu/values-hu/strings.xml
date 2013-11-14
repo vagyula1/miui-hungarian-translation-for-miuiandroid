@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Vízmérték</string>
+    <string name="reset">Alaphelyzetbe</string>
+    <string name="not_supported">Irány nem támogatott</string>
+    <string name="cancel">Mégsem</string>
+    <string name="save">Mentés!</string>
+    <string name="ok">Rendben</string>
+    <string name="calibrate">Kalibrál</string>
+    <string name="calibrate_info">Nyomja meg a menü kalibrálni ...</string>
+    <string name="calibrate_title">Kalibrálása a telefon</string>
+    <string name="calibrate_message">"Tegye bármelyik mellékhatás (beleértve a vissza) az Ön Android készülék vízszintes, sík felületen, majd nyomja meg a Kalibrálás gombot. 
+
+ Vagy vissza a kalibrálást az összes telefon oldalán."</string>
+    <string name="calibrate_again_title">Meg kell újra kalibrálni</string>
+    <string name="calibrate_again_message">Az érzékelő a változás azt újrakalibrálás a telefon.</string>
+    <string name="calibrate_saved">Egyedi kalibrációs mentve!</string>
+    <string name="calibrate_failed">Kalibráció sikertelen!</string>
+    <string name="calibrate_restored">Eredeti kalibrálás vissza!</string>
+    <string name="preferences">Beállítások</string>
+    <string name="preference_show_angle">Megjelenítés numerikus szög</string>
+    <string name="preference_show_angle_summary">Kijelző szög értékek a képernyőn</string>
+    <string name="preference_display_type">Kijelző típusa</string>
+    <string name="preference_sound">Hangeffektek</string>
+    <string name="preference_sound_summary">Hang lejátszása szint</string>
+    <string name="preference_lock">Záró</string>
+    <string name="preference_lock_summary">Hagyjuk szint orientáció zár</string>
+    <string name="preference_viscosity">Viszkozitás</string>
+    <string name="preference_economy">Gazdaságos üzemmód</string>
+    <string name="preference_economy_summary">"Kevésbé gördülékeny animációk 
+ de megőrzi az akkumulátor élettartamát"</string>
+    <string name="angle">Szög</string>
+    <string name="lock_info">Érintse meg a zárolni szintben</string>
+    <string name="inclination">Hajlandóság</string>
+    <string name="roof_pitch">Tetőhajlás</string>
+    <string name="roof_pitch_summary">Inch emelkedési per lábánál lévő</string>
+    <string name="angle_summary">Szög fokban</string>
+    <string name="inclination_summary">Hajlam százalékos</string>
+    <string name="preference_sensor">Érzékelő típusa</string>
+    <string name="orientation">Tájolás</string>
+    <string name="accelerometer">Gyorsulásmérő</string>
+    <string name="orientation_sensor">Tájolás érzékelő</string>
+    <string name="accelerometer_sensor">Gyorsulásmérő szenzor</string>
+    <string name="orientation_summary">"Tájolás érzékelő 
+ Érzékenységgel függ a telefon"</string>
+    <string name="accelerometer_summary">"Gyorsulásmérő szenzor 
+ Pontos, de érzékeny mozog"</string>
+    <string name="viscosity_low">Alacsony</string>
+    <string name="viscosity_medium">Közepes</string>
+    <string name="viscosity_high">Magas</string>
+    <string name="viscosity_low_summary">"Alacsony viszkozitású 
+ Vízmérték gyorsabban mozog"</string>
+    <string name="viscosity_medium_summary">"Közepes viszkozitás 
+ Vízmérték mozog rendesen"</string>
+    <string name="viscosity_high_summary">"Magas viszkozitású 
+ Vízmérték lassan mozog"</string>
+    <string name="config_switch_vertically">Fordítsa függőlegesen</string>
+    <string name="config_switch_horizontally">Fordítsa vízszintesen</string>
+    <string name="config_rotate_axis">Forgatás tengely</string>
+    <string name="low">Alacsony</string>
+    <string name="medium">Közepes</string>
+    <string name="high">Magas</string>
+</resources>

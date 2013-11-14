@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello Világ, MainkeysActivity!</string>
+    <string name="app_name">Nav.sáv</string>
+    <string name="open_navbar">Google virtuális gombok mutatása</string>
+    <string name="close_navbar">Google virtuális gombok elrejtése</string>
+    <string name="save_settings">Beállítások mentése</string>
+    <string name="button_savior">Gombok beállításai</string>
+    <string name="restart">Újraindítás</string>
+    <string name="exit">Kilépés</string>
+    <string name="effect">A változások újraindítás után lépnek érvénybe</string>
+</resources>

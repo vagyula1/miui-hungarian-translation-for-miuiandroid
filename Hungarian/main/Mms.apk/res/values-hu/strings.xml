@@ -111,6 +111,8 @@
     <string name="pref_title_mms_read_reports">Olvasási visszaigazolások</string>
     <string name="pref_title_sms_delete">Szöveges üzenetek korlátja</string>
     <string name="pref_title_mms_delete">Multimédiás üzenetek korlátja</string>
+	<string name="pref_collapse_sp_messages_summary">Szolgáltatótól érkezett üzenetek egy helyre rendezése</string>
+	<string name="title_collapse_sp_messages">Szolgáltatótól érkezett üzenetek rendezése</string>
     <string name="pref_messages_to_save">A menteni kívánt üzenetek számának beállítása</string>
     <string name="prefDefault_vibrateWhen">soha</string>
     <string name="prefDefault_vibrate_true">mindig</string>
@@ -197,6 +199,10 @@
     <string name="sms_full_body">A beérkező üzenetet a rendszer elutasította a megtelt memória miatt. Kérjük, töröljön régebbi üzeneteket.</string>
     <string name="sms_rejected_title">Szöveges üzenet elutasítva</string>
     <string name="sms_rejected_body">A beérkező üzenet ismeretlen ok miatt elutasításra került.</string>
+	<string name="sp_conversation_title">Értesítő üzenetek</string>
+    <string name="sp_mark_as_read">Megjelöli az összes üzenetet olvasottként?</string>
+    <string name="sp_mark_as_read_progress">Összes üzenet megjelölése olvasottként...</string>
+    <string name="sp_mark_as_read_title">Összes üzenetet megjelölése olvasottként</string>
     <string name="type_audio">hanganyag</string>
     <string name="type_picture">kép</string>
 	<string name="type_vcard">vCard</string> 

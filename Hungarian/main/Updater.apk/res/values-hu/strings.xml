@@ -42,7 +42,7 @@
   <string name="dialog_ok">Ok</string>
   <string name="dialog_yes">Igen</string>
   <string name="download_current_rom">A legfrissebb ROM teljes verziójú letöltése</string>
-  <string name="download_ota_rom">Töltse le az OTA ROM-ot (%s)</string>
+  <string name="download_ota_rom">OTA ROM letöltése (%s)</string>
   <string name="download_whole_rom">Töltse le a teljes ROM-ot (%s)</string>
   <string name="downloading_description">Letöltés folyamatban...</string>
   <string name="edit_comment">Hozzászólás hozzáadása</string>
@@ -93,6 +93,7 @@
   <string name="no_updates_warning">Nem található semmilyen frissítés</string>
   <string name="no_updates_warning2">Azt mondtam nem található! Üdvözlettel, XJ</string>
   <string name="not_recommend">"Ne ajánlja"</string>
+  <string name="now">Újraindítás</string>
   <string name="paused_queued_for_network">Várakozás hálózati kapcsolatra</string>
   <string name="paused_queued_for_wifi">Várakozás Wi-Fi csatlakozásra...</string>
   <string name="previous">Előző</string>

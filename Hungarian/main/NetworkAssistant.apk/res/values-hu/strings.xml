@@ -155,4 +155,12 @@
     <string name="custom_adjust_recevier_same_with_sender">Ugyanaz,mint a küldő száma</string>
     <string name="custom_adjust_is_empty">%s üres!</string>
     <string name="app_has_deleted">%s törölve.</string>
+	<string name="running_apps_activity_title">Futó alkalmazások</string>
+	<string name="pref_connect_settings_monitor_running_app">Futó letiltott alkalmazás kijelzés</string>
+    <string name="pref_connect_settings_monitor_running_app_summary">Értesítés kijelzése,ha fut letiltott alkalmazás</string>
+    <string name="network_control_service_notification_text">Adatforgalom megnyitása</string>
+    <string name="network_control_service_notification_title_mutiple">%2$s kapcsolódáskor %1$d alkalmazás letiltva</string>
+    <string name="network_control_service_notification_title_nettype_mobile">mobil</string>
+    <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+    <string name="network_control_service_notification_title_single">%2$s kapcsolódáskor %1$s alkalmazás letiltva</string>
 </resources>
