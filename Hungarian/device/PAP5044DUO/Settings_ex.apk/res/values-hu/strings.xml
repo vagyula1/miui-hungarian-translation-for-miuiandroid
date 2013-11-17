@@ -147,7 +147,6 @@
     <string name="android_beam_on_summary">Készen áll az alkalmazási tartalmak továbbítására kis hatósugarú vezeték nélküli kommunikáció segítségével</string>
     <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_witch_label">Android Beam engedélyezése</string>
-    <string name="apn_auth_type">Authentication type</string>
     <string name="apn_auth_type">Azonosítás típusa</string>
     <string name="apn_auth_type_none">Semelyik</string>
     <string name="apn_auth_type_pap_chap">PAP vagy CHAP</string>
@@ -284,7 +283,6 @@
     <string name="battery_info_status_charging">Töltés</string>
     <string name="battery_info_status_charging_ac">(Hálózat)</string>
     <string name="battery_info_status_discharging">Lemerülés</string>
-    <string name="battery_info_status_discharging">Not charging</string>
     <string name="battery_info_status_full">Feltöltve</string>
     <string name="battery_info_status_label">Akkumulátor állapota:</string>
     <string name="battery_info_status_not_charging">Nem töltődik</string>
@@ -707,7 +705,6 @@
     <string name="dlg_confirm_unmount_title">Leválasztja az USB-tárat?</string> 
     <string name="dlg_confirm_unmount_usb_text">If you unmount the USB storage, some apps you are using will stop and may be unavailable until you remount the USB storage.</string>
     <string name="dlg_confirm_unmount_usb_title">Unmount USB storage?</string>
-    <string name="dlg_error_unmount_text">"Couldn't unmount SD card. Try again later."</string>
     <string name="dlg_error_unmount_text">Nem lehet leválasztani az USB-tárat. Próbálkozzon újra később.</string>
     <string name="dlg_mount_external_sd_summary">If you mount the sd card, some apps you are using will stop.</string>
     <string name="dlg_mount_external_sd_title">Mount SD card?</string>
@@ -2091,7 +2088,6 @@
     <string name="wifi_tether_auto_channel_width_text">Auto 20/40 MHz</string>
     <string name="wifi_tether_auto_disable_title">Keep WLAN hotspot on</string>
     <string name="wifi_tether_checkbox_text">Hordozható Wi-Fi hotspot</string>
-    <string name="wifi_tether_configure_ap_text">Set up WLAN hotspot</string>
     <string name="wifi_tether_configure_ap_text">Wi-Fi hotspot konfigurálása</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s hordozható Wi-Fi hotspot</string>
     <string name="wifi_tether_enabled_subtext">A(z) %1$s hordozható hotspot aktív</string>

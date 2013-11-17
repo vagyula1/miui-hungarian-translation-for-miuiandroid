@@ -2184,5 +2184,4 @@
     <string name="zone_auto_summaryOn">Hálózat által megadott időzóna használata</string>
     <string name="zone_list_menu_sort_alphabetically">Rendezés név szerint</string>
     <string name="zone_list_menu_sort_by_timezone">Rendezés időzóna szerint</string>
- <string name="volume_media_description">Zene, videó, játékok és egyéb média</string>
 </resources>

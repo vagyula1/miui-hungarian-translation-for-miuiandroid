@@ -334,14 +334,11 @@ Használja ki!"</string>
     <string name="cloud_album_set_scan_qr_code">QR kód</string>
     <string name="scan_qr_code_failure">Hiba lépett fel a kereséskor</string>
     <string name="big_screen_alertdialog_title">Projektor</string>
-    <string name="bigscreen_slide_exit">Kilépés a diavetítésből</string>
-    <string name="bigscreen_slide_fail_cause_loading">A kép betöltése után töltse be a diavetítést.</string> 
     <string name="by_sms">Szöveges üzenet</string>
     <string name="enter_email_hint">"Írja be az email címet "</string>
     <string name="messagelist_sender_self">Én</string>
     <string name="adding_recipients">Címzettek hozzáadása…</string>
     <string name="pick_too_many_recipients">Túl sok címzett</string>
-    <string name="pick_too_much_tips">"Túl sok elem (maximum %d elem)."</string>
     <string name="picker_no_album_selected">Nincs kiválasztott album</string>
     <string name="picker_no_items_selected">Nincs kiválasztott elem</string>
     <string name="picker_select_album_title_empty">Válasszon egy albumot</string>
@@ -445,10 +442,6 @@ Használja ki!"</string>
     <string name="confirm">Elfogad</string>
     <string name="click_top_right">Érintse meg az ikont</string>
     <string name="there_is_no_image">Nincs kép.</string>
-    <string name="picker_tab_camera">Kamera</string>
-    <string name="picker_no_items_selected">Nincs kiválasztott elem</string>
-    <string name="picker_select_album_title_empty">Válasszon egy albumot</string>
-    <string name="picker_no_album_selected">Nincs kiválasztott album</string>
     <string name="video_download_start">Videófájl letöltése</string>
     <string name="video_download_in_process">A videófájl letöltése folyamatban.</string>
     <string name="video_not_exist">Videfájl nem létezik!</string>
