@@ -76,6 +76,7 @@
     <string name="confirm_delete_album" formatted="false">Törli a kijelölt %s albumot (amiben %s kép található)?</string>
     <string name="confirm_delete_system_album">%s album egy rendszer album, mégis törli?</string>
     <string name="operation_delete_confirm_message_folder">A fájlok és mappák törlése.</string>
+    <string name="delete_folder">Törli a %1$d mappát?</string>
     <string name="delete_file">Törli a %1$d kiválasztott fájlt?</string>
     <string name="delete_files_and_folders">Törli a %1$d kiválasztott fájlt és %2$d könyvtárat?</string>
     <string name="confirm_delete_pictures">%s</string>
@@ -182,7 +183,6 @@
     <string name="sync_album">Albumok szinkronizálása</string>
     <string name="sync_album_summary">Fényképek és képernyőmentések feltöltése a MiCloudba</string>
     <string name="open_sync_title">Szinkronizálás megnyitása</string>
-	<string name="operation_add_picture">Fényképek hozzáadása</string>
     <string name="alert_message_open_sync">Először engedélyeznie kell a szinkronizálást</string>
     <string name="open">Engedélyezés</string>
     <string name="cloud_gallery_no_pictures">Nincs kép a MiCloud-ban</string>
@@ -245,6 +245,8 @@ Használja ki!"</string>
     <string name="cut">Körülvágás</string>
     <string name="more">Egyebek</string>
     <string name="deleting_files">Fájlok törlése...</string>
+    <string name="bigscreen_slide_exit">Kilépés a diavetítésből</string>
+    <string name="bigscreen_slide_fail_cause_loading">A kép betöltése után töltse be a diavetítést.</string>
     <string name="defalt_local_mobile">mobil</string>
     <string name="cloudfolder_name_reserved">A mappanév foglalt.</string>
     <string name="cloudfolder_contain_invalidate_char">"A mappa neve nem tartalmazhat '%s' karaktert"</string>
@@ -287,6 +289,7 @@ Használja ki!"</string>
     <string name="send_multiple_files_hint_format">Több fájl küldése (%s)</string>
     <string name="send">Küldés</string>
     <string name="select_too_much_to_send_tips">Túl sok fénykép lett kiválasztva a küldéshez.</string>
+    <string name="pick_too_much_tips">Túl sok elem (maximum %d elem).</string>
     <string name="sd_not_available">SD kártya nincs csatolva</string>
     <string name="internal_sd_card">Belső SD kártya</string>
     <string name="external_sd_card">SD kártya</string>
@@ -305,6 +308,7 @@ Használja ki!"</string>
     <string name="operation_refresh">Frissítés</string>
     <string name="operation_set_as_screensaver">Beállít képernyőkímélőnek</string>
     <string name="operation_unset_as_screensaver">Képernyőkímélő kikapcsolása</string>
+    <string name="operation_add_picture">Fényképek hozzáadása</string>
     <string name="how_many_videos">%d videó</string>
     <string name="how_many_sub_folders">%d mappa</string>
     <string name="how_many_pics">%d kép</string>
@@ -330,7 +334,7 @@ Használja ki!"</string>
     <string name="cloud_album_set_scan_qr_code">QR kód</string>
     <string name="scan_qr_code_failure">Hiba lépett fel a kereséskor</string>
     <string name="big_screen_alertdialog_title">Projektor</string>
-	<string name="bigscreen_slide_exit">Kilépés a diavetítésből</string>
+    <string name="bigscreen_slide_exit">Kilépés a diavetítésből</string>
     <string name="bigscreen_slide_fail_cause_loading">A kép betöltése után töltse be a diavetítést.</string> 
     <string name="by_sms">Szöveges üzenet</string>
     <string name="enter_email_hint">"Írja be az email címet "</string>
@@ -369,7 +373,6 @@ Használja ki!"</string>
     <string name="kick_sharer">Megosztó eltávolítás</string>
     <string name="kick_sharer_successfully">Megosztó eltávolítva</string>
     <string name="kick_sharer_failed">Megosztó eltávolítása nem sikerült</string>
-    <string name="share_user_name">Név</string>
     <string name="accept_or_deny">%1$s megosztotta %2$s albumát Önnel.</string>
     <string name="accept">Elfogadom</string>
     <string name="deny">Elutasítom</string>
@@ -379,27 +382,24 @@ Használja ki!"</string>
     <string name="operation_successful">Befejeződött.</string>
     <string name="invalid_invition_url">Meghívás URL-je hibás.</string>
     <string name="user_alias_self">Self</string>
-	<string name="video_download_in_process">A videófájl letöltése folyamatban.</string>
-    <string name="video_download_start">Videófájl letöltése</string>
-	<string name="video_not_exist">Videfájl nem létezik!</string>
     <string name="kick_owner_user_title">Eltávolítja a felhasználót?</string>
     <string name="kick_owner_user_positive_button_text">Eltávolítás</string>
     <string name="initializing_cloud">Cloud Album inicializálása...</string>
     <string name="open_public_title">Share publicly</string>
-    <string name="open_public_message">Generate a url and send it to others</string>
-    <string name="publishing">Publishing…</string>
+    <string name="open_public_message">Url generálása és elküldés másoknak</string>
+    <string name="publishing">Közzététel…</string>
     <string name="publish_succeeded">Album közzétéve</string>
-    <string name="publish_failed">Failed to publish.</string>
-    <string name="unpublish_succeeded">Album unpublished.</string>
+    <string name="publish_failed">A közzététel nem sikerült.</string>
+    <string name="unpublish_succeeded">Album nincs közzétéve.</string>
     <string name="unpublish_failed">Failed to unpublish.</string>
-    <string name="send_public_url">Send Album URL-jének küldése</string>
+    <string name="send_public_url">Album URL-jének küldése</string>
     <string name="public_url_descript">Anyone can visit your album using this URL</string>
     <string name="share_public_url_text">I have shared album%1$s. Browse %2$s</string>
-    <string name="unpublishing">Cancelling publishing...</string>
+    <string name="unpublishing">Közzététel megszakítása...</string>
     <string name="operation_too_often">Your operation exceeds frequency limit, please try after 1 minute.</string>
-    <string name="cannot_remove_creator">Can not remove creator</string>
+    <string name="cannot_remove_creator">A készítő nem távolítható el</string>
     <string name="exit">Kilépés</string>
-    <string name="album_share_exit_confirm">Are you sure to exit the album?</string>
+    <string name="album_share_exit_confirm">Kilép az albumból?</string>
     <string name="get_album_info_in_process">"Requesting the shared album's details. Please wait…"</string>
     <string name="album_share_stat_content">Új album megosztása</string>
     <string name="album_share_kicked">Eltávolítva innen: %1$s</string>
@@ -443,6 +443,14 @@ Használja ki!"</string>
     <string name="where_is_barcode">Hol található a QR kód?</string>
     <string name="scan_barcode_guide">A QR kódért érintse meg a jobb felső sarokban lévő megosztás ikon.</string>
     <string name="confirm">Elfogad</string>
-	<string name="there_is_no_image">Nincs kép.</string>
-	<string name="click_top_right">Érintse meg az ikont</string>
+    <string name="click_top_right">Érintse meg az ikont</string>
+    <string name="there_is_no_image">Nincs kép.</string>
+    <string name="picker_tab_camera">Kamera</string>
+    <string name="picker_no_items_selected">Nincs kiválasztott elem</string>
+    <string name="picker_select_album_title_empty">Válasszon egy albumot</string>
+    <string name="picker_no_album_selected">Nincs kiválasztott album</string>
+    <string name="video_download_start">Videófájl letöltése</string>
+    <string name="video_download_in_process">A videófájl letöltése folyamatban.</string>
+    <string name="video_not_exist">Videfájl nem létezik!</string>
+    <string name="share_user_name">Név</string>
 </resources>

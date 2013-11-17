@@ -1,13 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="perm_hips_action">
+        <item>Engedélyez</item>
+        <item>Rékerdez</item>
+        <item>Megtagad</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Maximális</item>
+        <item>Normál</item>
+        <item>Energiatakarékos</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Egy perc múlva</item>
+        <item>Öt perc múlva</item>
+        <item>Tíz perc múlva</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 másodperc</item>
+        <item>30 másodperc</item>
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Maximális</item>
+        <item>Normál</item>
+        <item>Energiatakarékos</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Soha ne rezegjen</item>
+        <item>Rezgés néma üzemmódban</item>
+        <item>Mindig rezegjen</item>
+    </string-array>
+    <string-array name="score_descriptions">
+        <item>Blokkolási lista letiltva.</item>
+        <item>Engedélykezelő letiltva.</item>
+        <item>Túl nagy a felesleges fájlok mérete.</item>
+        <item>Vírusadatbázis időtúllépés.</item>
+        <item>Túl sok háttérfolyamat.</item>
+    </string-array>
+    <string-array name="score_suggests">
+        <item>Engedélyzze a blokkolási listát</item>
+        <item>Engedélyezze az alkalmazás engedély kezelését</item>
+        <item>Törölje a felesleges fájlokat</item>
+        <item>Frissítse a vírusadatbázist</item>
+        <item>Állítsa be a háttérben futó alkalmazások számát</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Európa</item>
         <item>Afrika</item>
         <item>Ázsia</item>
         <item>Ausztrália</item>
-	<item>Csendes-óceán</item>
-	<item>Összes</item>    
+        <item>Csendes-óceán</item>
+        <item>Összes</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 másodperc</item>
@@ -15,7 +64,7 @@
         <item>1 perc</item>
         <item>2 perc</item>
         <item>5 perc</item>
-	<item>10 perc</item>
+        <item>10 perc</item>
         <item>30 perc</item>
     </string-array>
     <string-array name="dream_timeout_entries">
@@ -34,7 +83,7 @@
         <item>15 másodperc</item>
         <item>30 másodperc</item>
         <item>1 perc</item>
-	<item>2 perc</item>
+        <item>2 perc</item>
         <item>5 perc</item>
         <item>10 perc</item>
         <item>30 perc</item>
@@ -75,15 +124,18 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Keresés...</item>
+       
+  	<item>Keresés...</item>
         <item>Kapcsolódás…</item>
         <item>Hitelesítés...</item>
         <item>IP-cím lekérése...</item>
         <item>Csatlakozva</item>
         <item>Felfüggesztve</item>
-        <item>Kapcsolat bontása...</item>
+        <item>Kapcsolat bontása...</item> 
         <item>Nincs kapcsolat</item>
         <item>Sikertelen</item>
+        <item>Blokkolva</item>
+        <item>Ideiglenesen elkerülve rossz kapcsolat miatt</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -164,12 +216,12 @@
     <string-array name="app_install_location_entries">
         <item>Belső tárhely</item>
         <item>Eltávolítható SD-kártya</item>
-	<item>Döntse el a rendszer</item>
+        <item>Döntse el a rendszer</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-	<item>Rövid</item>
-	<item>Közepes</item>
-	<item>Hosszú</item>
+        <item>Rövid</item>
+        <item>Közepes</item>
+        <item>Hosszú</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Ellenőrzés soha</item>
@@ -197,24 +249,24 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animáció ki</item>
-	<item>Animáció mérete: 0,5x</item>
+        <item>Animáció mérete: 0,5x</item>
         <item>Animáció mérete: 1x</item>
         <item>Animáció mérete: 1,5x</item>
-        <item>Animáció mérete: 2x</item>   
-        <item>Animáció mérete: 5x</item>     
-	<item>Animáció mérete: 10x</item>
+        <item>Animáció mérete: 2x</item>
+        <item>Animáció mérete: 5x</item>
+        <item>Animáció mérete: 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animáció ki</item>
-		<item>Animáció mérete: 0,5x</item>
+        <item>Animáció mérete: 0,5x</item>
         <item>Animáció mérete: 1x</item>
         <item>Animáció mérete: 1,5x</item>
-        <item>Animáció mérete: 2x</item>   
-        <item>Animáció mérete: 5x</item>     
-		<item>Animáció mérete: 10x</item>
+        <item>Animáció mérete: 2x</item>
+        <item>Animáció mérete: 5x</item>
+        <item>Animáció mérete: 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-		<item>Normál korlátozás</item>
+        <item>Normál korlátozás</item>
         <item>Nincsenek háttérfolyamatok</item>
         <item>Legfeljebb 1 folyamat</item>
         <item>Legfeljebb 2 folyamat</item>
@@ -241,8 +293,8 @@
         <item>Szétkapcsolva</item>
         <item>Inicializálás...</item>
         <item>Csatlakozás…</item>
-		<item>Csatlakoztatva</item>
-		<item>Időtúllépés</item>
+        <item>Csatlakoztatva</item>
+        <item>Időtúllépés</item>
         <item>Sikertelen</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
@@ -252,7 +304,7 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafikus</item>
-		<item>Százalék</item>
+        <item>Százalék</item>
         <item>Állapotsor</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
@@ -271,13 +323,13 @@
         <item>9 másodperc</item>
     </string-array>
     <string-array name="led_color_entries">
-		<item>Kék</item>
+        <item>Kék</item>
         <item>Piros</item>
         <item>Sárga</item>
         <item>Zöld</item>
         <item>Cián</item>
-		<item>Fehér</item>
-		<item>Lila</item>
+        <item>Fehér</item>
+        <item>Lila</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Nincs</item>
@@ -306,10 +358,13 @@
         <item>10 másodperc</item>
         <item>20 másodperc</item>
     </string-array>
-    <string-array name="power_mode_entries">
-        <item>Maximális</item>
-        <item>Normál</item>
-        <item>Energiatakarékos</item>
+    <string-array name="wfd_status">
+        <item>Device connected, creating session…</item>
+        <item>Session created.</item>
+        <item>Session tearing down…</item>
+        <item>Session failed.</item>
+        <item>Timed out, retrying…</item>
+        <item>Device connected</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Meleg</item>
@@ -317,13 +372,8 @@
         <item>Hideg</item>
     </string-array>
     <string-array name="screen_saturation_title">
-		<item>Kiváló</item>
-		<item>Alapértelmezett</item>
-    </string-array>     
-    <string-array name="perm_hips_action">
-        <item>Engedélyez</item>
-        <item>Rékerdez</item>
-        <item>Megtagad</item>
+        <item>Kiváló</item>
+        <item>Alapértelmezett</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>EngedélyezAllow</item>
@@ -335,7 +385,7 @@
         <item>PINkód</item>
         <item>Kevert jelszó</item>
     </string-array>
-     <string-array name="phone_call_noise_suppression_title">
+    <string-array name="phone_call_noise_suppression_title">
         <item>Egymikrofonos zajcsökkentés</item>
         <item>Kétmikrofonos zajcsökkentés</item>
     </string-array>

@@ -110,7 +110,6 @@
     <string name="pref_camera_coloreffect_entry_none">Nincs</string>
     <string name="pref_camera_coloreffect_entry_mono">Szürkeárnyalat</string>
     <string name="pref_camera_coloreffect_entry_sepia">Szépia</string>
-    <string name="pref_camera_coloreffect_entry_sepia">Szépia</string>  
     <string name="pref_camera_coloreffect_entry_negative">Negatív</string>
     <string name="pref_camera_coloreffect_entry_posterize">Poszterszerű</string>
     <string name="pref_camera_coloreffect_entry_aqua">Akvarell</string>
@@ -133,11 +132,7 @@
     <string name="pref_camera_sharpness_title">Élesség</string>
     <string name="pref_camera_saturation_entry_level6">6 szint</string>
     <string name="pref_camera_contrast_title">Kontraszt</string>
-
-
-
     <string name="pref_camera_saturation_title">Telítettség</string>
-
     <string name="pref_camera_scenemode_title">Kép jellege</string>
     <string name="pref_camera_scenemode_entry_off">Ki</string>
     <string name="pref_camera_scenemode_entry_portrait">Portré</string>
@@ -260,14 +255,12 @@ lépjen ki a nézetből</string>
     <string name="pref_grp_restore_settings">Beállítások visszaállítása</string>
     <string name="pref_camera_settings_title">Beállítások</string>
     <string name="pref_video_continuous_focus">Folyamatos fókusz</string>
-
     <string name="pref_camera_referenceline_entry_off">Ki</string>
     <string name="pref_camera_referenceline_entry_on">Be</string>
     <string name="pref_camera_volumekey_function_entry_volume">hangerő</string>
     <string name="pref_camera_volumekey_function_entry_shutter">zár</string>
     <string name="pref_camera_volumekey_function_entry_zooming">zoomolás</string>
     <string name="pref_camera_volumekey_function_title">Hangerőgombok művelete</string>
-    <string name="pref_camera_volumekey_function_title">Hangerő gombok művelete</string>
     <string name="pref_camera_long_pressing_burst_shooting_title">Sorozatfelvétel</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_off">Ki</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_on">Be</string>

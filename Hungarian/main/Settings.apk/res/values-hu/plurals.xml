@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="power_center_battery_day">
-		<item quantity="other">%d nap</item>
-        <item quantity="one">%d nap</item>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%dnap "</item>
+        <item quantity="one">"%dnap "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">%d óra</item>
-        <item quantity="one">%d óra</item>
+        <item quantity="other">"%dóra "</item>
+        <item quantity="one">"%dóra "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-       <item quantity="other">%d perc</item>
-       <item quantity="one">%d perc</item>
-	</plurals> 
-	<plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">"%dperc"</item>
+        <item quantity="one">"%dperc"</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">A jelszónak tartalmaznia kell legalább %d betűt</item>
         <item quantity="one">A jelszónak tartalmaznia kell legalább 1 betűt</item>
     </plurals>
@@ -35,5 +35,9 @@
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">A jelszónak tartalmaznia kell legalább %d nem betű karaktert</item>
         <item quantity="one">A jelszónak tartalmaznia kell legalább 1 nem betű karaktert</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">%1$d lépésre van a fejlesztői beállítások bekapcsolásához.</item>
+        <item quantity="one">Már csak %1$d lépésre van a fejlesztői beállítások bekapcsolásához.</item>
     </plurals>
 </resources>

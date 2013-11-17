@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="access_sd_fail">"SD kártya hozzáférés megtagadva."</string>
+    <string name="access_sd_fail">SD kártya hozzáférés megtagadva.</string>
     <string name="alert_dialog_cancel">Mégsem</string>
     <string name="alert_dialog_ok">OK</string>
     <string name="alert_invalid_frequency">Érvénytelen frekvencia.</string>
@@ -58,6 +58,7 @@
     <string name="menu_add_list">Csatorna hozzáadás</string>
     <string name="menu_delete">Törlés</string>
     <string name="menu_edit">Szerkesztés</string>
+    <string name="menu_exit">Kilépés</string>
     <string name="menu_new_station">Új állomás hozzáadás</string>
     <string name="menu_play">Lejátszás</string>
     <string name="menu_record_list">Rögzített fájlok</string>
@@ -65,6 +66,8 @@
     <string name="menu_record_stop">Rögzítés befejezése</string>
     <string name="menu_rename_list">Lista átnevezés</string>
     <string name="menu_reorder_list">Reorder List</string>
+    <string name="menu_save_station_list">Állomás mentése a listába</string>
+    <string name="menu_save_station_presets">Hozzáadás a mentett állomáskoz</string>
     <string name="menu_scan_for_preset">Csatornakeresés</string>
     <string name="menu_scan_start">Állomás-keresés</string>
     <string name="menu_scan_stop">Keresés megállítása</string>
@@ -113,6 +116,7 @@
     <string name="spaceIsLow_content">Kevés a lemezterület. Csökkentsen a minőség beállításán vagy töröljön adatokat.</string>
     <string name="stat_notif_frequency">: %1$s MHz</string>
     <string name="stat_notif_tx_frequency">Rádójel továbbítás: %1$s</string>
+    <string name="station_check_favorite">Hozzáadás a kedvencekhez</string>
     <string name="station_edit">Szerkesztés</string>
     <string name="station_freq_format">%sMHz</string>
     <string name="station_move">Áthelyezés</string>
@@ -125,6 +129,7 @@
     <string name="test_prompt">Válasszon egy tesztet</string>
     <string name="test_run">Teszt futtatás</string>
     <string name="title_select_station">Kiválasztott állomás - %s</string>
+    <string name="toast_added_to_list">Hozzáadva a listához</string>
     <string name="toast_added_to_presets">Hozzáadva a mentett állomásokhoz</string>
     <string name="toast_channel_searched">%1$d csatorna találat.</string>
     <string name="toast_delete_station">%sMHz frekvencia törölve.</string>
@@ -146,8 +151,5 @@
     <string name="turn_on_speaker_phone">Hangszóró bekapcsolása</string>
     <string name="type_rd" />
     <string name="view_stations_list">Mentett állomások</string>
-	<string name="menu_exit">Kilépés</string>
-	<string name="menu_save_station_list">Állomás mentése a listába</string>
-    <string name="menu_save_station_presets">Hozzáadás a mentett állomáskoz</string>
-	<string name="station_check_favorite">Hozzáadás a kedvencekhez</string> 
+
 </resources>

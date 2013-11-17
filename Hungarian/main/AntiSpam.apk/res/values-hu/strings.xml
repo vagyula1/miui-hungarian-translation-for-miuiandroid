@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources> 
   <string name="app_name">Felügyelet</string>
-  <string name="bl_block_info" formatted="false">Blokkolva: %d szám, %d részlet</string>
+  <string name="bl_block_info" formatted="false">Elutasítva: %d szám, %d részlet</string>
   <string name="bl_no_blacklist">Tiltólista üres</string>
   <string name="bl_no_block_call">A blokkolt hívásaok itt lesznek naplózva</string>
   <string name="bl_no_block_sms">A blokkolt üzenetek itt lesznek naplózva</string>
@@ -30,7 +30,7 @@
   <string name="dlg_retore">Visszaállítja az üzeneteket?</string>
   <string name="dlg_retore_ok">Visszaállítás</string>
   <string name="fw_blocked">Tiltólista statisztika</string>
-  <string name="fw_blocked_count" formatted="false">Blokkolva: %d hívás és %d üzenet</string>
+  <string name="fw_blocked_count" formatted="false">Elutasítva: %d hívás és %d üzenet</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">%d személy kijelölve</string>
   <string name="marked_by_user">kijelölve</string>
