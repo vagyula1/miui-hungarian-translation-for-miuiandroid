@@ -20,7 +20,6 @@
     <string name="save">Mentés</string>
     <string name="no_save">Ne mentse</string>
     <string name="review_cancel">MÉGSEM</string>
-    <string name="pref_camera_id_title">Kamera választás</string>
     <string name="pref_camera_recordlocation_title">Helyszín mentése</string>
     <string name="pref_camera_recordlocation_default">hibás</string>
     <string name="pref_camera_recordlocation_entry_off">Ki</string>
@@ -81,8 +80,6 @@
     <string name="pref_camera_jpegquality_default">finom</string>
     <string name="pref_camera_picture_format_title">Képformátum választás</string> 
     <string name="pref_camera_jpegquality_title">Képminőség</string>
-    <string name="pref_camera_jpegquality_entry_superfine">Kiváló</string>
-    <string name="pref_camera_jpegquality_entry_fine">Jó</string>
     <string name="pref_camera_jpegquality_entry_normal">Normál</string>
     <string name="pref_camera_histogram_default">letiltás</string>
     <string name="pref_camera_histogram_title">Histogram</string>
@@ -97,7 +94,6 @@
     <string name="pref_camera_focusmode_entry_manual">Kézi</string>
     <string name="pref_camera_focusmode_entry_lock">Zárt</string>
     <string name="pref_video_focusmode_title">Fókuszmód</string>
-    <string name="pref_camera_flashmode_title">Vaku</string>
     <string name="pref_camera_flashmode_title">Vaku</string>
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
     <string name="pref_camera_flashmode_entry_on">Be</string>
@@ -128,7 +124,6 @@
     <string name="pref_camera_contrast_title">Kontraszt</string>
     <string name="pref_camera_saturation_title">Telítettség</string>
     <string name="pref_camera_sharpness_title">Élesség</string>
-
     <string name="pref_camera_scenemode_title">Kép jellege</string>
     <string name="pref_camera_scenemode_entry_off">Ki</string>
     <string name="pref_camera_scenemode_entry_auto">Auto</string>
@@ -146,16 +141,11 @@
     <string name="pref_camera_scenedetect_default">ki</string>
     <string name="pref_camera_scenedetect_title">Auto jelenet felismerés</string>
     <string name="not_selectable_in_scene_mode">Nem választható jelenetmódban.</string>
-    <string name="pref_exposure_title">Exponálás kompenzáció</string>
     <string name="pref_exposure_title">Megvilágítás</string>
     <string name="pref_camera_denoise_title">Zajszűrő</string>
     <string name="pref_camera_denoise_default">denoise-on</string>
     <string name="pref_camera_iso_default">auto</string>
     <string name="pref_camera_iso_title">ISO választás</string>
-    <string name="pref_camera_preview_entry_off">ki</string>
-    <string name="pref_camera_preview_entry_1000">1 mp</string>
-    <string name="pref_camera_preview_entry_2000">2 mp</string>
-    <string name="pref_camera_preview_entry_5000">5 mp</string>
     <string name="pref_camera_antibanding_title">Csíkozódás csökkentés</string>
     <string name="pref_camera_antibanding_entry_0">Ki</string>
     <string name="spaceIsLow_content">A belső tárolón kevés a hely. Válasszon kisebb felbontást,vagy töröljön néhány fájlt.</string>
@@ -177,7 +167,6 @@
     <string name="pref_camera_panoramamode_title">Panoráma</string>
     <string name="pano_review_saving_indication_str">Mentés…</string>
     <string name="tap_to_focus">Érintse meg a fókuszáláshoz.</string>
-    <string name="tap_to_exposure">Érintse meg a kézi expozícióhoz.</string>
     <string name="effect_none">Nincs</string>
     <string name="effect_goofy_face_squeeze">Összenyomott</string>
     <string name="effect_goofy_face_big_eyes">Nagy szemek</string>
@@ -212,7 +201,6 @@
     <string name="pref_camera_video_duration_entry_10">10 perc</string>
     <string name="pref_camera_video_duration_entry_30">30 perc</string>
     <string name="pref_camera_video_duration_entry_120">2 óra</string>
-    <string name="pref_camera_skinToneEnhancement_title">Bőrszín kiemelés</string>
     <string name="pref_camera_skinToneEnhancement_title">Bőrszín kiemelés</string>
     <string name="pref_camera_skinToneEnhancement_entry_auto">Auto kiemelés</string>
     <string name="pref_camera_skinToneEnhancement_entry_enable">Engedélyez</string>
@@ -250,7 +238,6 @@
     <string name="pref_camera_referenceline_entry_on">Be</string>
     <string name="pref_camera_volumekey_function_entry_volume">hangerő</string>
     <string name="pref_camera_volumekey_function_entry_shutter">zár</string>
-    <string name="pref_camera_volumekey_function_entry_zooming">zoomolás</string>
     <string name="pref_camera_volumekey_function_entry_exposure">Exponálás</string>
     <string name="pref_camera_volumekey_function_title">Hangerő gombok művelete</string>
     <string name="pref_camera_long_pressing_burst_shooting_title">Sorozatfelvétel</string>

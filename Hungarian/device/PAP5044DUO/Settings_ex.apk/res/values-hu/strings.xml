@@ -1794,11 +1794,8 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="accessibility_service_default_description">Nincs leírás.</string>
     <string name="settings_button">Beállítások</string>
     <string name="accessibility_script_injection_security_warning_summary">Do you want apps to install scripts from Google that make their web content more accessible?</string>
-    <string name="accessibility_service_default_description">No description provided.</string>
-    <string name="settings_button">Settings</string>
-    <string name="power_usage_summary_title">Battery</string>
+    <string name="power_usage_summary_title">Akkumulátor</string>
     <string name="power_usage_summary">What has been using the battery</string>
-
     <string name="power_usage_not_available">Nincs akkuhasználati adat</string>
     <string name="power_usage_level_and_status">%1$s -- %2$s</string>
     <string name="battery_since_unplugged">Akkumulátorhasználat a legutolsó töltés óta</string>
@@ -2291,10 +2288,6 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="user_adding_new_user">Új felhasználó hozzáadása...</string>
     <string name="user_delete_user_description">Felhasználó törlése</string>
     <string name="user_delete_button">Törlés</string>
-    <string name="global_change_warning">This setting affects all users on this phone.</string>
-    <string name="global_locale_change_title">Change language</string>
-    <string name="global_font_change_title">Change font size</string>
-    <string name="app_notifications_switch_label">Show notifications</string>
     <string name="home_app_uninstall_button">Alkalmazás eltávolítása</string>
     <string name="only_one_home_message">A kezdőlap beállításai rejtve maradnak addig, amíg nem telepít egy másik kezdőlap-alkalmazást.</string>
     <string name="global_change_warning">Ez a beállítás minden felhasználót érint ezen a telefonon.</string>

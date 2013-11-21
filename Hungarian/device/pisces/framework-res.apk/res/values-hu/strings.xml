@@ -606,7 +606,6 @@ hátra van :"</string>
     <string name="permlab_wakeLock">telefon alvó üzemmódjának megakadályozása</string>
     <string name="permdesc_wakeLock">Lehetővé teszi az alkalmazás számára, hogy megakadályozza, hogy a telefon alvó üzemmódra váltson.</string>
     <string name="permlab_devicePower">a telefon be- és kikapcsolása</string>
-    <string name="permdesc_devicePower">Allows the app to turn the phone on or off.</string>
     <string name="permlab_nvidiaCPUPower">adjust Nvidia Tegra CPU</string>
     <string name="permdesc_devicePower">Lehetővé teszi az alkalmazás számára, hogy be- vagy kikapcsolja a telefont.</string>
     <string name="permlab_factoryTest">futtatás gyári tesztüzemmódban</string>
@@ -1059,7 +1058,6 @@ Szeretné bezárni?"</string>
     <string name="ringtone_silent">Néma</string>
     <string name="ringtone_picker_title">Csengőhangok</string>
     <string name="ringtone_unknown">Ismeretlen csengőhang</string>
-    <string name="wifi_available_sign_in">Sign into WLAN network</string>
     <string name="network_available_sign_in">Sign into network</string>
     <string name="wifi_available_sign_in">Bejelentkezés Wi-Fi hálózatba</string>
     <string name="wifi_watchdog_network_disabled">Nem sikerült csatlakozni a Wi-Fi hálózathoz</string>
@@ -1380,7 +1378,7 @@ Próbálja újra %d másodperc múlva."</string>
 
 Próbálja újra %d másodperc múlva."</string>
     <string name="kg_text_message_separator">" — "</string>
-    <string name="kg_reordering_delete_drop_target_text"Eltávolítás</string>
+    <string name="kg_reordering_delete_drop_target_text">Eltávolítás</string>
     <string name="safe_media_volume_warning">"Raise volume above safe level?
 Listening at high volume for long periods may damage your hearing."</string>
     <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>

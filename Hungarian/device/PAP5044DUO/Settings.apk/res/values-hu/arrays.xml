@@ -285,6 +285,7 @@
         <item>Erős</item>
         <item>Közepes</item>
         <item>Gyenge</item>
+	</string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafikus</item>
         <item>Százalék</item>

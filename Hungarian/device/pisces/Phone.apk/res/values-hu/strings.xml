@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="absent_num">HIÁNYZÓ SZÁM</string>
   <string name="accessibility_call_muted">Hívás némítva.</string>
   <string name="accessibility_speakerphone_enabled">Kihangosítás engedélyezve.</string>
   <string name="add_button_miui">Hozzáadás</string>
@@ -38,7 +37,6 @@
   <string name="answer_widget_title_miui">Válasz gesztus</string>
   <string name="antispam_marked_count">%1$d MIUI felhasználó beszámolója alapján</string>
   <string name="antispam_notification_title">Ismeretlen számok azonosítása</string>
-  <string name="apn_settings">Hozzáférési pontok nevei</string>
   <string name="apn_settings">Hozzáférési pont neve</string>
   <string name="areacode_required_for_emergency_number_miui">Segélyhívó szám</string>
   <string name="areacode_required_miui">Inteligens IP engedélyezve, kérem írja be a körzet számot</string>
@@ -242,7 +240,6 @@
   <string name="crystaltalk_summary_miui">Hívás hangminőségének optimalizálásan</string>
   <string name="crystaltalk_title_miui">NICAM beállítások</string>
   <string name="current_areacode_miui">Jelenlegi körzetszám</string>
-  <string name="current_areacode_sum_miui">Jelenlegi hely körzetszáma</string>
   <string name="current_areacode_sum_miui">A jelenlegi hely körzetszáma, vagy a barangoló kód. Például: 010.</string>
   <string name="custom_location_location_hint_miui">Név</string>
   <string name="custom_location_number_hint_miui">Régió kód. pl.: 010, csoport pl.: 68#####</string>
@@ -461,7 +458,6 @@
   <string name="ip_prefix_sum_miui">"A szolgáltató IP előtagja: %s"</string>
   <string name="jituan_number_format_error_message_miui">%s csak a támogatott számok és karakterek</string>
   <string name="label_available">Elérhető hálózatok</string>
-  <string name="label_nsdp">SIM network subset unlock PIN</string>
   <string name="label_puk_code_miui">Írja be a PUK-kódot</string>
   <string name="label_puk2_code">Írja be a PUK2-kódot</string>
   <string name="label_puk2_code_miui">Írja be a PUK2-kódot</string>
@@ -520,7 +516,6 @@
   <string name="mhh_disable">Orvosi, egészségügyi és kórházi letiltva</string>
   <string name="mhh_enable">Orvosi, egészségügyi és kórházi engedélyezve</string>
   <string name="mismatch_pin_miui">A megadott PIN-kódok nem egyeznek. Kérjük, próbálja újra.</string>
-  <string name="mismatch_pin_miui">"PIN kódok nem egyeznek."</string>
   <string name="mismatch_pin2_miui">A beírt PIN2-kódok nem egyeznek. Kérjük, próbálja újra.</string>
   <string name="mismatchPin">A megadott PIN-kódok nem egyeznek. Kérjük, próbálja újra.</string>
   <string name="mismatchPin2">A beírt PIN2-kódok nem egyeznek. Kérjük, próbálja újra.</string>
@@ -534,14 +529,12 @@
   <string name="missed_call_notify_twice_miui">2 alkalommal</string>
   <string name="mmiCancelled">MMI-kód megszakítva</string>
   <string name="mmiStarted">MMI-kód elindítva</string>
-  <string name="mobile_network_setting">Mobilhálózati beállítások</string>
   <string name="mobile_networks_miui">Mobilhálózati beállítások</string>
   <string name="multi_category_disable">Több kategória letiltva</string>
   <string name="multi_category_enable">Több kategória engedélyezve</string>
   <string name="name">Név</string>
   <string name="national_disable">Belföldi hírek letiltva</string>
   <string name="national_enable">Belföldi hírek engedélyezve</string>
-  <string name="network_manage_settings">Hálózati beállítások</string>
   <string name="network_message">Hálózati üzenet</string>
   <string name="network_query_error">Hiba történt a hálózatok keresése közben.</string>
   <string name="network_work_query_failed_message_miui">"Hálózathoz csatlakozás sikertelen, nyomja meg a 'mégsem' gombot az automatikus választáshoz, vagy 'ok' gombot az újra próbálkozáshoz"</string>
@@ -568,7 +561,6 @@
   <string name="not_connected_miui">Nincs csatlakoztatva</string>
   <string name="not_voice_capable">A hanghívás nem támogatott</string>
   <string name="notification_action_end_call">Hívás befejezése</string>
-  <string name="notification_incoming_call">Bejövő hívás</string>
   <string name="notification_incoming_call">Bejövő hívás</string>
   <string name="notification_missedCall_call_back">Visszahívás</string>
   <string name="notification_missedCall_message">Üzenet</string>
@@ -948,10 +940,5 @@
   <string name="voicemail_settings_number_title_miui">Hangposta száma</string>
   <string name="wait_prompt_str">"Elküldi a következő hangjelzéseket?"</string>
   <string name="wild_prompt_str">Helyettesítő karakter lecserélése a következővel:</string>
-  <string name="wild_prompt_str">Replace wild character with</string>
   <string name="wrong_password">Hibás jelszó</string>
-"</string>
-    <string name=pause_prompt_str"">""Hang küldése"
-"</string>
-    <string name=send_button"">Küldés</string>"
 </resources>
