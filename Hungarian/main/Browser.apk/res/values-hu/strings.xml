@@ -254,10 +254,10 @@
     <string name="location">Cím</string>
     <string name="max_tabs_warning">Nem nyitható meg több lap</string>
     <string name="menu_addtodesk">Asztalra</string>
-    <string name="menu_disable_night_mode">Éjszakai mód letiltása</string>
+    <string name="menu_disable_night_mode">Éjszakai mód kikapcsolása</string>
     <string name="menu_disable_save_bandwidth_mode">Adatforgalmi korlát tiltása</string>
     <string name="menu_download_video">Letöltött vidófájlok</string>
-    <string name="menu_enable_night_mode">Éjszakai mód engedélyezése</string>
+    <string name="menu_enable_night_mode">Éjszakai mód bekapcsolása</string>
     <string name="menu_enable_save_bandwidth_mode">Adatforgalmi korlát használata</string>
     <string name="menu_exit">Kilépés</string>
     <string name="menu_hv_swap">Váltás fekvő képernyőre</string>

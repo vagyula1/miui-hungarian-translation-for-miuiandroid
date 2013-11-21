@@ -49,12 +49,13 @@
     <string name="resend">Újraküldés</string>
     <string name="continue_to_send">Küldés folytatása</string>
     <string name="no_selected">Nincs fájl kiválasztva</string>
-    <string name="receive_files">Fogadott fájlok</string>
+    <string name="receive_files">Fájlok fogadása</string>
     <string name="waiting_receive">Küldő</string>
     <string name="receive_from">Fogadás:</string>
     <string name="receive_store">Mentve:</string>
     <string name="receive_finish_tip">Fogadva $1%d fájl:</string>
-    <string name="about_to_send">Fájl(ok) küldése</string>
+    <string name="about_to_send">Küldés</string>
+    <string name="wanna_receive">Fogadás</string>
     <string name="receive_cancel_tip">A fájl még nem érkezett meg. Leállítja és kilép?</string>
     <string name="receive_cancel_tip2">A fájl fogadása megszakítva. Fogadva %1$d / %2$d fájl</string>
     <string name="cancel_send">Mégsem</string>

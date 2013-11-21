@@ -114,8 +114,8 @@
   <string name="share_qq">Post it via Tencent weibo</string>
   <string name="share_sina">Post it via Sina weibo</string>
   <string name="share_update">Frissítési info.megosztása</string>
-  <string name="share_update_content_sign">I’ve updated MIUI to %1$s! My update user rank is %2$s. For detailed changelog, please visit %3$s</string>
-  <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! Részletes változásokért látogassa meg %2$s</string>
+  <string name="share_update_content_sign">I’ve updated MIUI to %1$s! My update user rank is %2$s. Részletekért látogassa meg %3$s</string>
+  <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! Részletekért látogassa meg %2$s</string>
   <string name="sign_in_add_account">Aktiválja Xiaomi fiókját</string>
   <string name="sign_in_add_account_helper">A telefon nem rendelkezik MIUI fiók beállítással, hozzon létre egyet</string>
   <string name="sign_in_info">"Ez a frissítés a %1$s felhasználó által aláírva, a MIUI részére %3$s"</string>
@@ -165,4 +165,5 @@
   <string name="wifi_not_available_body">A ROM fájl túl nagy, ajánlatos Wi-Fi-n letöltenie. Nem található nyílt Wi-Fi hálózat, biztos folytatja a letöltést?</string>
   <string name="wifi_not_available_title">Wi-Fi nem elérhető</string>
   <string name="worst_update">3. Legrosszabb frissítés</string>
+  <string name="updater_finish_download">A ROM letöltése befejeződött</string>
 </resources>

@@ -2,8 +2,8 @@
 <resources>
     <string name="hello">Hello Világ, MainkeysActivity!</string>
     <string name="app_name">Nav.sáv</string>
-    <string name="open_navbar">Google virtuális gombok mutatása</string>
-    <string name="close_navbar">Google virtuális gombok elrejtése</string>
+    <string name="open_navbar">Virtuális gombok mutatása</string>
+    <string name="close_navbar">Virtuális gombok elrejtése</string>
     <string name="save_settings">Beállítások mentése</string>
     <string name="button_savior">Gombok beállításai</string>
     <string name="restart">Újraindítás</string>

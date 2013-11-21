@@ -305,6 +305,38 @@ hátra van :"</string>
     <string name="permgroupdesc_location">Tartózkodási hely figyelése.</string>
     <string name="permgrouplab_network">Hálózati kommunikáció</string>
     <string name="permgroupdesc_network">Hozzáférés különböző hálózati funkciókhoz.</string>
+    <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
+    <string name="permgroupdesc_bluetoothNetwork">Access devices and networks through Bluetooth.</string>
+    <string name="permgrouplab_audioSettings">Hangbeállítások</string>
+    <string name="permgroupdesc_audioSettings">Hangbeállítások megváltoztatása.</string>
+    <string name="permgrouplab_affectsBattery">Affects Battery</string>
+    <string name="permgroupdesc_affectsBattery">Use features that can quickly drain battery.</string>
+    <string name="permgrouplab_calendar">Naptár</string>
+    <string name="permgroupdesc_calendar">Direct access to calendar and events.</string>
+    <string name="permgrouplab_dictionary">Read User Dictionary</string>
+    <string name="permgroupdesc_dictionary">Read words in user dictionary.</string>
+    <string name="permgrouplab_writeDictionary">Write User Dictionary</string>
+    <string name="permgroupdesc_writeDictionary">Add words to the user dictionary.</string>
+    <string name="permgrouplab_bookmarks">Könyvjelzők és előzmények</string>
+    <string name="permgroupdesc_bookmarks">Direct access to bookmarks and browser history.</string>
+    <string name="permgrouplab_deviceAlarms">Riasztás</string>
+    <string name="permgroupdesc_deviceAlarms">Ébresztőóra beállítása.</string>
+    <string name="permgrouplab_voicemail">Hangposta</string>
+    <string name="permgroupdesc_voicemail">Közvetlen hozzáférés a hangpostához.</string>
+    <string name="permgrouplab_microphone">Microfon</string>
+    <string name="permgroupdesc_microphone">Direct access to the microphone to record audio.</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgroupdesc_camera">Direct access to camera for image or video capture.</string>
+    <string name="permgrouplab_appInfo">Your applications information</string>
+    <string name="permgroupdesc_appInfo">Ability to affect behavior of other applications on your device.</string>
+    <string name="permgrouplab_wallpaper">Háttérkép</string>
+    <string name="permgroupdesc_wallpaper">Change the device wallpaper settings.</string>
+    <string name="permgrouplab_systemClock">Óra</string>
+    <string name="permgroupdesc_systemClock">Change the device time or timezone.</string>
+    <string name="permgrouplab_statusBar">Állapotsor</string>
+    <string name="permgroupdesc_statusBar">Change the device status bar settings.</string>
+    <string name="permgrouplab_syncSettings">Szink. beállításoks</string>
+    <string name="permgroupdesc_syncSettings">Access to the sync settings.</string>
     <string name="permgrouplab_accounts">Az Ön fiókjai</string>
     <string name="permgroupdesc_accounts">Hozzáférés az elérhető fiókokhoz.</string>
     <string name="permgrouplab_hardwareControls">Hardver vezérlése</string>
@@ -345,10 +377,16 @@ hátra van :"</string>
     <string name="permdesc_receiveWapPush">Lehetővé teszi az alkalmazás számára, hogy WAP-üzeneteket fogadjon és dolgozzon fel. Ez azt is jelenti, hogy az alkalmazás megfigyelheti vagy törölheti a beérkező üzeneteket anélkül, hogy Ön látná azokat.</string>
     <string name="permlab_getTasks">futó alkalmazások lekérése</string>
     <string name="permdesc_getTasks">Lehetővé teszi az alkalmazás számára a jelenleg futó és nemrég befejezett feladatokkal kapcsolatos információk lekérését. Ezáltal az alkalmazás engedélyt kap az eszközön használt alkalmazásokkal kapcsolatos információk felderítésére.</string>
+    <string name="permlab_interactAcrossUsers">interact across users</string>
+    <string name="permdesc_interactAcrossUsers">Allows the app to perform actions across different users on the device. Malicious apps may use this to violate the protection between users.</string>
+    <string name="permlab_interactAcrossUsersFull">full license to interact across users</string>
+    <string name="permdesc_interactAcrossUsersFull">Allows all possible interactions across users.</string>
+    <string name="permlab_manageUsers">manage users</string>
+    <string name="permdesc_manageUsers">Allows apps to manage users on the device, including query, creation and deletion.</string>
     <string name="permlab_getDetailedTasks">futó alkalmazások részleteinek lekérése</string>
-    <string name="permdesc_getDetailedTasks">Lehetővé teszi az alkalmazás számára a jelenleg és a nemrég futó feladatok részletes adatainak lekérését. A rosszindulatú alkalmazások más alkalmazásokkal kapcsolatos privát adatokhoz férhetnek hozzá.</string>
+    <string name="permdesc_getDetailedTasks">Lehetővé teszi az alkalmazás számára a jelenleg és a nemrég futó feladatok részletes adatainak lekérését. A rosszindulatú alkalmazások más alkalmazásokkal kapcsolatos privát adatokhoz férhetnek hozzá.</string> 
     <string name="permlab_reorderTasks">futó alkalmazások átrendezése</string>
-    <string name="permdesc_reorderTasks">Lehetővé teszi az alkalmazás számára, hogy feladatokat helyezzen át az előtérből a háttérbe és fordítva. Az alkalmazás ezt az Ön jóváhagyása nélkül is megteheti.</string>
+    <string name="permdesc_reorderTasks">Lehetővé teszi az alkalmazás számára, hogy feladatokat helyezzen át az előtérből a háttérbe és fordítva. Az alkalmazás ezt az Ön jóváhagyása nélkül is megteheti.</string> 
     <string name="permlab_removeTasks">futó alkalmazások leállítása</string>
     <string name="permdesc_removeTasks">Lehetővé teszi, hogy az alkalmazás feladatokat távolítson el és leállítsa azok alkalmazásait. Rosszindulatú alkalmazások megzavarhatják más alkalmazások viselkedését.</string>
     <string name="permlab_startAnyActivity">bármely tevékenység elindítása</string>
@@ -371,6 +409,14 @@ hátra van :"</string>
     <string name="permdesc_dump">Lehetővé teszi az alkalmazás számára, hogy lekérje a rendszer belső állapotát. A rosszindulatú programok lekérhetnek számos olyan privát és biztonságos adatot, amelyekre normál esetben soha nincs szükségük.</string>
     <string name="permlab_retrieve_window_content">a képernyő tartalmának lekérése</string>
     <string name="permdesc_retrieve_window_content">Lehetővé teszi az alkalmazás számára az aktív ablak tartalmának letöltését. A rosszindulatú alkalmazások letölthetik az ablak teljes tartalmát, és a jelszavak kivételével az összes szöveget megvizsgálhatják.</string>
+    <string name="permlab_temporary_enable_accessibility">temporary enable accessibility</string>
+    <string name="permdesc_temporary_enable_accessibility">Allows an application to temporarily enable accessibility on the device. Malicious apps may enable accessibility without user consent.</string>
+    <string name="permlab_retrieve_window_info">retrieve window info</string>
+    <string name="permdesc_retrieve_window_info">Allows an application to retrieve information about the the windows from the window manager. Malicious apps may retrieve information that is intended for internal system usage.</string>
+    <string name="permlab_filter_events">filter events</string>
+    <string name="permdesc_filter_events">Allows an application to register an input filter which filters the stream of all user events before they are dispatched. Malicious app may control the system UI whtout user intervention.</string>
+    <string name="permlab_magnify_display">magnify display</string>
+    <string name="permdesc_magnify_display">Allows an application to magnify the content of a display. Malicious apps may transform the display content in a way that renders the device unusable.</string>
     <string name="permlab_shutdown">részleges rendszerleállítás</string>
     <string name="permdesc_shutdown">Leállítás állapotba helyezi a tevékenységkezelőt. Nem hajtja végre a teljes leállítást.</string>
     <string name="permlab_stopAppSwitches">alkalmazásváltás megakadályozása</string>
@@ -389,6 +435,8 @@ hátra van :"</string>
     <string name="permdesc_setAlwaysFinish">Lehetővé teszi az alkalmazás számára annak vezérlését, hogy a tevékenységek mindig befejeződjenek-e, amint a háttérbe kerülnek. A normál alkalmazások soha nem használják ezt.</string>
     <string name="permlab_batteryStats">akkumulátorstatisztikák módosítása</string>
     <string name="permdesc_batteryStats">Lehetővé teszi az alkalmazás számára az összegyűjtött akkumulátorhasználati statisztikák módosítását. Normál alkalmazások nem használhatják.</string>
+    <string name="permlab_updateBatteryStats">modify battery statistics</string>
+    <string name="permdesc_updateBatteryStats">Allows the app to modify collected battery statistics. Not for use by normal apps.</string>
     <string name="permlab_backup">rendszer biztonsági mentésének és helyreállításának vezérlése</string>
     <string name="permdesc_backup">Lehetővé teszi az alkalmazás számára a rendszer biztonsági mentési és visszaállítási mechanizmusának vezérlését. Normál alkalmazások nem használhatják.</string>
     <string name="permlab_confirm_full_backup">teljes biztonsági mentés vagy helyreállítási művelet megerősítése</string>
@@ -401,6 +449,8 @@ hátra van :"</string>
     <string name="permdesc_setAnimationScale">Lehetővé teszi az alkalmazás számára, hogy bármikor globálisan módosítsa az animációk sebességét (gyorsabb vagy lassabb animációk).</string>
     <string name="permlab_manageAppTokens">alkalmazástokenek kezelése</string>
     <string name="permdesc_manageAppTokens">Lehetővé teszi az alkalmazás számára saját tokenek létrehozását és kezelését, kihagyva a szokásos Z-sorrendet. A normál alkalmazásoknak erre soha nincs szüksége.</string>
+    <string name="permlab_freezeScreen">freeze screen</string>
+    <string name="permdesc_freezeScreen">Allows the application to temporarily freeze the screen for a full-screen transition.</string>
     <string name="permlab_injectEvents">billentyűk és gombok megnyomása</string>
     <string name="permdesc_injectEvents">Lehetővé teszi az alkalmazás számára saját beviteli eseményeinek (billentyűlenyomások stb.) elküldését más alkalmazásoknak. A rosszindulatú alkalmazások ennek segítségével átvehetik a telefon irányítását.</string>
     <string name="permlab_readInputState">a lenyomott billentyűk és a végrehajtott műveletek figyelése</string>
@@ -499,6 +549,10 @@ hátra van :"</string>
     <string name="permdesc_accessSurfaceFlinger">Lehetővé teszi az alkalmazás számára a SurfaceFlinger alacsony szintű funkciók használatát.</string>
     <string name="permlab_readFrameBuffer">keretpuffer olvasása</string>
     <string name="permdesc_readFrameBuffer">Lehetővé teszi az alkalmazás számára a keretpuffer tartalmának olvasását.</string>
+    <string name="permlab_configureWifiDisplay">configure Wifi displays</string>
+    <string name="permdesc_configureWifiDisplay">Allows the app to configure and connect to Wifi displays.</string>
+    <string name="permlab_controlWifiDisplay">control Wifi displays</string>
+    <string name="permdesc_controlWifiDisplay">Allows the app to control low-level features of Wifi displays.</string>
     <string name="permlab_modifyAudioSettings">hangbeállítások módosítása</string>
     <string name="permdesc_modifyAudioSettings">Lehetővé teszi az alkalmazás számára az általános hangbeállítások, például a hangerő és a használni kívánt kimeneti hangszóró módosítását.</string>
     <string name="permlab_recordAudio">hanganyag rögzítése</string>
@@ -552,6 +606,8 @@ hátra van :"</string>
     <string name="permlab_wakeLock">telefon alvó üzemmódjának megakadályozása</string>
     <string name="permdesc_wakeLock">Lehetővé teszi az alkalmazás számára, hogy megakadályozza, hogy a telefon alvó üzemmódra váltson.</string>
     <string name="permlab_devicePower">a telefon be- és kikapcsolása</string>
+    <string name="permdesc_devicePower">Allows the app to turn the phone on or off.</string>
+    <string name="permlab_nvidiaCPUPower">adjust Nvidia Tegra CPU</string>
     <string name="permdesc_devicePower">Lehetővé teszi az alkalmazás számára, hogy be- vagy kikapcsolja a telefont.</string>
     <string name="permlab_factoryTest">futtatás gyári tesztüzemmódban</string>
     <string name="permdesc_factoryTest">Futtatás alacsony szintű gyártói tesztként, lehetővé téve a telefon hardverének teljes körű elérését. Csak akkor érhető el, ha a telefon gyártói tesztüzemmódban van.</string>
@@ -625,6 +681,8 @@ hátra van :"</string>
     <string name="permdesc_sdcardWrite">Az alkalmazás USB-tárra írhat.</string>
     <string name="permlab_mediaStorageWrite">belső tár tartalmának módosítása/törlése</string>
     <string name="permdesc_mediaStorageWrite">Lehetővé teszi az alkalmazás számára, hogy módosítsa a belső háttértár tartalmát.</string>
+    <string name="permlab_sdcardAccessAll">access external storage of all users</string>
+    <string name="permdesc_sdcardAccessAll">Allows the app to access external storage for all users.</string>
     <string name="permlab_cache_filesystem">hozzáférés a gyorsítótár fájlrendszeréhez</string>
     <string name="permdesc_cache_filesystem">Lehetővé teszi az alkalmazás számára a gyorsítótár-fájlrendszer olvasását és írását.</string>
     <string name="permlab_use_sip">internetes hívások kezdeményezése és fogadása</string>
@@ -653,6 +711,8 @@ hátra van :"</string>
     <string name="policydesc_encryptedStorage">Megköveteli a tárolt alkalmazásadatok titkosítását.</string>
     <string name="policylab_disableCamera">Kamerák letiltása</string>
     <string name="policydesc_disableCamera">Az összes eszközkamera használatának megakadályozása.</string>
+    <string name="policylab_disableKeyguardFeatures">Disable features in keyguard</string>
+    <string name="policydesc_disableKeyguardFeatures">Prevent use of some features in keyguard.</string>
     <string name="phoneTypeCustom">Egyéni</string>
     <string name="phoneTypeHome">Otthoni</string>
     <string name="phoneTypeMobile">Mobil</string>
@@ -724,19 +784,13 @@ hátra van :"</string>
     <string name="sipAddressTypeWork">Munkahely</string>
     <string name="sipAddressTypeOther">Egyéb</string>
     <string name="keyguard_password_enter_pin_code">Írja be a PIN kódot</string>
-    <string name="keyguard_password_enter_puk_code">Írja be a PUK kódot, majd az új PIN kódot</string>
     <string name="keyguard_password_enter_pin_code_for_subscription">Írja be a PIN kódot</string>
-    <string name="keyguard_password_enter_puk_code_for_subscription">Írja be a PUK kódot és az új PIN kódot</string>
     <string name="keyguard_password_enter_puk_prompt">PUK kód</string>
     <string name="keyguard_password_enter_pin_prompt">Új PIN kód</string>
-    <string name="keyguard_password_entry_touch_hint" />
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Touch to type password</font></string>
     <string name="keyguard_password_enter_password_code">A feloldáshoz írja be a jelszót</string>
     <string name="keyguard_password_enter_pin_password_code">Feloldáshoz írja be a PIN kódot</string>
     <string name="keyguard_password_wrong_pin_code">Helytelen PIN kód.</string>
-    <string name="keyguard_password_wrong_puk_code">Helytelen PUK kód!</string>
-    <string name="keyguard_password_pin_failed">PIN művelet sikertelen!</string>
-    <string name="keyguard_password_puk_failed">PUK művelet sikertelen!</string>
-    <string name="keyguard_pin_accepted">A kód elfogadva!</string>
     <string name="keyguard_label_text">A feloldáshoz nyomja meg a Menü, majd a 0 gombot.</string>
     <string name="emergency_call_dialog_number_for_display">Segélyhívó szám</string>
     <string name="lockscreen_carrier_default">Nincs szolgáltatás.</string>
@@ -752,7 +806,6 @@ hátra van :"</string>
     <string name="faceunlock_multiple_failures">Elérte az arcalapú feloldási kísérletek maximális számát</string>
     <string name="lockscreen_plugged_in">Töltés (%d%%)</string>
     <string name="lockscreen_charged">Feltöltve.</string>
-    <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Csatlakoztassa a töltőt.</string>
     <string name="lockscreen_missing_sim_message_short">Nincs SIM-kártya.</string>
     <string name="lockscreen_missing_sim_message">Nincs SIM-kártya a telefonban.</string>
@@ -807,6 +860,26 @@ Keresse fel a "</string>
     <string name="lockscreen_access_pattern_cleared">Minta törölve</string>
     <string name="lockscreen_access_pattern_cell_added">Cella hozzáadva</string>
     <string name="lockscreen_access_pattern_detected">Minta befejezve</string>
+    <string name="keyguard_accessibility_add_widget">Add widget.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Empty</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
+    <string name="keyguard_accessibility_widget">%1$s widget.</string>
+    <string name="keyguard_accessibility_user_selector">User selector</string>
+    <string name="keyguard_accessibility_status">Status</string>
+    <string name="keyguard_accessibility_camera">Camera</string>
+    <string name="keygaurd_accessibility_media_controls">Media controls</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
+    <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Expand unlock area.</string>
+    <string name="keyguard_accessibility_slide_unlock">Slide unlock.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Pattern unlock.</string>
+    <string name="keyguard_accessibility_face_unlock">Face unlock.</string>
+    <string name="keyguard_accessibility_pin_unlock">Pin unlock.</string>
+    <string name="keyguard_accessibility_password_unlock">Password unlock.</string>
+    <string name="keyguard_accessibility_pattern_area">Pattern area.</string>
+    <string name="keyguard_accessibility_slide_area">Slide area.</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
@@ -820,6 +893,8 @@ Keresse fel a "</string>
     <string name="factorytest_not_system">A FACTORY_TEST művelet csak a /system/app könyvtárba telepített csomagok esetében használható.</string>
     <string name="factorytest_no_action">Nem található olyan csomag, amely tartalmazná a FACTORY_TEST műveletet.</string>
     <string name="factorytest_reboot">Újraindítás</string>
+    <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
+    <string name="web_user_agent_target_content">"Mobile "</string>
     <string name="js_dialog_title">A \"%s\" címen található oldal szerint:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">"Elhagyja ezt az oldalt?
@@ -904,13 +979,10 @@ A folytatáshoz érintse meg az OK, a jelenlegi oldalon maradáshoz a Mégse leh
     <string name="weeks">hét</string>
     <string name="year">év</string>
     <string name="years">év</string>
-    <string name="relative_time">%1$s, %2$s</string>
     <string name="noon">dél</string>
     <string name="Noon">Dél</string>
     <string name="midnight">éjfél</string>
     <string name="Midnight">Éjfél</string>
-    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="replace">Csere...</string>
     <string name="delete">Törlés</string>
     <string name="textSelectionCABTitle">Szöveg kijelölése</string>
@@ -929,10 +1001,8 @@ A folytatáshoz érintse meg az OK, a jelenlegi oldalon maradáshoz a Mégse leh
     <string name="chooseActivity">Válasszon egy műveletet</string>
     <string name="chooseUsbActivity">Válasszon egy alkalmazást az USB-eszközhöz</string>
     <string name="noApplications">Egy alkalmazás sem tudja végrehajtani ezt a műveletet.</string>
-    <string name="aerr_title" />
     <string name="aerr_application">A(z) %1$s alkalmazás sajnos leállt.</string>
     <string name="aerr_process">Sajnos a(z) %1$s folyamat leállt.</string>
-    <string name="anr_title" />
     <string name="anr_activity_application">"A(z) %2$s nem válaszol.
 
 Szeretné bezárni?"</string>
@@ -989,6 +1059,8 @@ Szeretné bezárni?"</string>
     <string name="ringtone_silent">Néma</string>
     <string name="ringtone_picker_title">Csengőhangok</string>
     <string name="ringtone_unknown">Ismeretlen csengőhang</string>
+    <string name="wifi_available_sign_in">Sign into WLAN network</string>
+    <string name="network_available_sign_in">Sign into network</string>
     <string name="wifi_available_sign_in">Bejelentkezés Wi-Fi hálózatba</string>
     <string name="wifi_watchdog_network_disabled">Nem sikerült csatlakozni a Wi-Fi hálózathoz</string>
     <string name="wifi_watchdog_network_disabled_detailed">" rossz internetkapcsolattal rendelkezik."</string>
@@ -1005,11 +1077,22 @@ Szeretné bezárni?"</string>
     <string name="wifi_p2p_to_message">Címzett:</string>
     <string name="wifi_p2p_enter_pin_message">Adja meg a szükséges PIN kódot:</string>
     <string name="wifi_p2p_show_pin_message">PIN kód:</string>
+    <string name="wifi_p2p_frequency_conflict_message">"The phone will temporarily disconnect from WLAN while it's connected to %1$s"</string>
+    <string name="p2p_wifi_frequency_conflict_message">WLAN Direct connection will disconnect. Do you wish to continue?</string>
     <string name="select_character">Karakter beszúrása</string>
     <string name="sms_control_title">SMS-ek küldése</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/ b> nagyszámú SMS üzenetet küld. Engedélyezi, hogy ez az alkalmazás továbbra is üzeneteket küldjön?</string>
     <string name="sms_control_yes">Engedélyezés</string>
     <string name="sms_control_no">Elutasítás</string>
+    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> would like to send a message to &lt;b>%2$s&lt;/b>.</string>
+    <string name="sms_short_code_details">This <font fgcolor="#ffffb060">may cause charges</font> on your mobile account.</string>
+    <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">This will cause charges on your mobile account.</font></string>
+    <string name="sms_short_code_confirm_allow">Send</string>
+    <string name="sms_short_code_confirm_deny">Cancel</string>
+    <string name="sms_short_code_remember_choice">Remember my choice</string>
+    <string name="sms_short_code_remember_undo_instruction">You can change this later in Settings > Apps</string>
+    <string name="sms_short_code_confirm_always_allow">Always Allow</string>
+    <string name="sms_short_code_confirm_never_allow">Never Allow</string>
     <string name="sim_removed_title">SIM-kártya eltávolítva</string>
     <string name="sim_removed_message">A mobilhálózat nem lesz elérhető, amíg újra nem indítja egy érvényes SIM kártya behelyezése után.</string>
     <string name="sim_done_button">Kész</string>
@@ -1020,12 +1103,9 @@ Szeretné bezárni?"</string>
     <string name="date_picker_dialog_title">Dátum beállítása</string>
     <string name="date_time_set">Beállítás</string>
     <string name="date_time_done">Kész</string>
-    <string name="default_permission_group">Alapértelmezett</string>
-    <string name="no_permissions">Nincs szükség engedélyre</string>
-    <string name="perms_hide" />
-    <string name="perms_show_all" />
-    <string name="perms_new_perm_prefix" />
-    <string name="perms_description_app">Szolgáltató: %1$s.</string>
+    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">ÚJ: </font></string>
+    <string name="no_permissions">No permissions required</string>
+    <string name="perm_costs_money">this may cost you money</string>
     <string name="usb_storage_activity_title">USB-háttértár</string>
     <string name="usb_storage_title">USB-eszköz csatlakoztatva</string>
     <string name="usb_storage_message">USB-kapcsolaton keresztül csatlakozott a számítógéphez. Érintse meg a lenti gombot, ha fájlokat szeretne másolni a számítógép és az Android USB-tára között.</string>
@@ -1042,7 +1122,6 @@ Szeretné bezárni?"</string>
     <string name="dlg_confirm_kill_storage_users_title">USB-tár bekapcsolása</string>
     <string name="dlg_confirm_kill_storage_users_text">Ha bekapcsolja az USB-háttértárat, egyes jelenleg használt alkalmazások leállnak, és lehet, hogy nem lesznek elérhetők az USB-háttértár újbóli kikapcsolásáig.</string>
     <string name="dlg_error_title">Az USB-művelet sikertelen</string>
-    <string name="dlg_ok">OK</string>
     <string name="usb_mtp_notification_title">Csatlakoztatva médiaeszközként</string>
     <string name="usb_ptp_notification_title">Csatlakoztatva kameraként</string>
     <string name="usb_cd_installer_notification_title">Csatlakoztatva telepítőként</string>
@@ -1059,8 +1138,6 @@ Szeretné bezárni?"</string>
     <string name="hardware">Hardver</string>
     <string name="select_keyboard_layout_notification_title">Válasszon billentyűzetkiosztást</string>
     <string name="select_keyboard_layout_notification_message">Érintse meg az egyik billentyűzetkiosztás kiválasztásához.</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="candidates_style" />
     <string name="ext_media_checking_notification_title">Az USB-tár előkészítése</string>
     <string name="ext_media_checking_notification_message">Hibakeresés.</string>
@@ -1090,10 +1167,6 @@ Szeretné bezárni?"</string>
     <string name="ime_action_done">Kész</string>
     <string name="ime_action_previous">Előző</string>
     <string name="ime_action_default">Végrehajtás</string>
-    <string name="managed_roaming_title">Roaming kezelés</string>
-    <string name="managed_roaming_dialog_content">Korlátozott szolgáltatású hálózatot találtam. Elindítja a hálózatkeresést?</string>
-    <string name="managed_roaming_dialog_ok_button">Igen</string>
-    <string name="managed_roaming_dialog_cancel_button">Nem</string>
     <string name="dial_number_using">"Szám hívása
 ezzel: %s"</string>
     <string name="create_contact_using">"Névjegy létrehozása 
@@ -1115,6 +1188,10 @@ a(z) %s fiók számára."</string>
     <string name="vpn_title_long">A(z) %s aktiválta a VPN-t</string>
     <string name="vpn_text">Érintse meg a hálózat kezeléséhez.</string>
     <string name="vpn_text_long">Csatlakozva ide: %s. Érintse meg a hálózat kezeléséhez.</string>
+    <string name="vpn_lockdown_connecting">Always-on VPN connecting…</string>
+    <string name="vpn_lockdown_connected">Always-on VPN connected</string>
+    <string name="vpn_lockdown_error">Always-on VPN error</string>
+    <string name="vpn_lockdown_reset">Touch to reset connection</string>
     <string name="upload_file">Fájl kiválasztása</string>
     <string name="no_file_chosen">Nincs fájl kiválasztva</string>
     <string name="reset">Alaphelyzet</string>
@@ -1146,6 +1223,8 @@ a(z) %s fiók számára."</string>
     <string name="share">Megosztás</string>
     <string name="find">Keresés</string>
     <string name="websearch">Webes keresés</string>
+    <string name="find_next">Következő találat</string>
+    <string name="find_previous">Előző találat</string>
     <string name="gpsNotifTicker">Helykérelem a következőtől: %s</string>
     <string name="gpsNotifTitle">Helykérelem</string>
     <string name="gpsNotifMessage">Igénylő %1$s (%2$s)</string>
@@ -1175,13 +1254,10 @@ a(z) %s fiók számára."</string>
     <string name="date_picker_decrement_day_button">Dátum értékének csökkentése</string>
     <string name="date_picker_increment_year_button">Év értékének növelése</string>
     <string name="date_picker_decrement_year_button">Év értékének csökkentése</string>
-    <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Mégse</string>
     <string name="keyboardview_keycode_delete">Delete</string>
     <string name="keyboardview_keycode_done">Kész</string>
     <string name="keyboardview_keycode_mode_change">Mód váltása</string>
-    <string name="keyboardview_keycode_shift">Shift</string>
-    <string name="keyboardview_keycode_enter">Enter</string>
     <string name="activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
     <string name="shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="shareactionprovider_share_with_application">Ossza meg a következő alkalmazással: %s</string>
@@ -1237,7 +1313,6 @@ a(z) %s fiók számára."</string>
     <string name="activity_chooser_view_dialog_title_default">Tevékenység kiválasztása</string>
     <string name="share_action_provider_share_with">Megosztás</string>
     <string name="status_bar_device_locked">Az eszköz le van zárva.</string>
-    <string name="list_delimeter">", "</string>
     <string name="sending">Küldés…</string>
     <string name="launchBrowserDefault">Böngésző indítása?</string>
     <string name="SetupCallDefault">Fogadja a hívást?</string>
@@ -1250,4 +1325,67 @@ a(z) %s fiók számára."</string>
     <string name="default_audio_route_category_name">Rendszer</string>
     <string name="bluetooth_a2dp_audio_route_name">Bluetooth hang</string>
     <string name="media_route_chooser_grouping_done">Kész</string>
+    <string name="media_route_button_content_description">Media kimenet</string>
+    <string name="media_route_status_scanning">Keresés...</string>
+    <string name="media_route_status_connecting">Csatlakozás...</string>
+    <string name="media_route_status_available">Elérhető</string>
+    <string name="media_route_status_not_available">Nem elérhető</string>
+    <string name="display_manager_built_in_display_name">Beépített képernyő</string>
+    <string name="display_manager_hdmi_display_name">HDMI képernyő</string>
+    <string name="display_manager_overlay_display_name">Overlay #%1$d</string>
+    <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
+    <string name="wifi_display_notification_title">Wireless kijelző csatlakozva</string>
+    <string name="wifi_display_notification_message">A kép másik eszközön jelenik meg</string>
+    <string name="wifi_display_notification_disconnect">Leválasztás</string>
+    <string name="kg_emergency_call_label">Segélyhívás</string>
+    <string name="kg_forgot_pattern_button_text">Elfelejtett feloldóminta</string>
+    <string name="kg_wrong_pattern">Hibás feloldóminta</string>
+    <string name="kg_wrong_password">Hibás jelszó</string>
+    <string name="kg_wrong_pin">Hibás PIN kód</string>
+    <string name="kg_too_many_failed_attempts_countdown">Próbálja újra %d mp múlva.</string>
+    <string name="kg_pattern_instructions">Rajzolja le a mintát</string>
+    <string name="kg_sim_pin_instructions">Írja be a SIM kártya PIN-kódját</string>
+    <string name="kg_pin_instructions">Írja be a PIN kódot</string>
+    <string name="kg_password_instructions">Írja be a jelszót</string>
+    <string name="kg_puk_enter_puk_hint">SIM kártya letiltva. Adja meg a PUK kódot a folytatáshoz. Részletekért vegye föl a kapcsolatot a szolgáltatójával.</string>
+    <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
+    <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
+    <string name="kg_sim_unlock_progress_dialog_message">SIM kártya feloldása…</string>
+    <string name="kg_password_wrong_pin_code">Hibás PIN kód.</string>
+    <string name="kg_invalid_sim_pin_hint">Írja be a PIN  kódot,amely 4-8 számjegyű lehet.</string>
+    <string name="kg_invalid_sim_puk_hint">A PUK kódnak 8 vagy annál több számjegyből kell állnia.</string>
+    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
+    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
+    <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
+    <string name="kg_login_username_hint">Felhasználónév (email)</string>
+    <string name="kg_login_password_hint">Jelszó</string>
+    <string name="kg_login_submit_button">Bejelentkezés</string>
+    <string name="kg_login_invalid_input">Hibás helhasználónév vagy jelszó.</string>
+    <string name="kg_login_account_recovery_hint">"Elfelejtette felhasználónevét vagy jelszavát?
+Látogassa meg a "<b>google.com/accounts/recovery</b> weboldalt.</string>
+    <string name="kg_login_checking_password">Fiók ellenőrzése…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+
+Próbálja újra %d másodperc múlva."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+
+Próbálja újra %d másodperc múlva."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+
+Próbálja újra %d másodperc múlva."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
+
+Próbálja újra %d másodperc múlva."</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="kg_reordering_delete_drop_target_text"Eltávolítás</string>
+    <string name="safe_media_volume_warning">"Raise volume above safe level?
+Listening at high volume for long periods may damage your hearing."</string>
+    <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
+    <string name="accessibility_enabled">Kisegítő lehetőségek engedélyezve.</string>
+    <string name="enable_accessibility_canceled">Kisegítő lehetőségek letiltva.</string>
+    <string name="user_switched">Jelenlegi felhasználó %1$s.</string>
+    <string name="owner_name">Tulajdonos</string>
 </resources>

@@ -2,7 +2,6 @@
 <resources>
     <string name="access_sd_fail">"SD kártya hozzáférés megtagadva."</string>
     <string name="alert_dialog_cancel">Mégsem</string>
-    <string name="alert_dialog_ok">OK</string>
     <string name="alert_invalid_frequency">Érvénytelen frekvencia.</string>
     <string name="alert_message_delete_station">Törli a kiválasztott állomást?</string>
     <string name="alert_title_delete">Törlés</string>
@@ -12,8 +11,6 @@
     <string name="audio_db_album_name">FM Rádió felvételek</string>
     <string name="audio_db_artist_name">Felvételeim</string>
     <string name="audio_db_playlist_name">FM Rádió felvételek</string>
-    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
-    <string name="audio_type_mono">Mono</string>
     <string name="audio_type_stereo">Sztereo</string>
     <string name="auto_select_af">Alternatív frekvencia</string>
     <string name="auto_select_af_summary">Alternatív/ sávkövető frekvenciaváltás ha túl gyenge a jel</string>
@@ -113,8 +110,8 @@
     <string name="spaceIsLow_content">Kevés a lemezterület. Csökkentsen a minőség beállításán vagy töröljön adatokat.</string>
     <string name="stat_notif_frequency">: %1$s MHz</string>
     <string name="stat_notif_tx_frequency">Rádójel továbbítás: %1$s</string>
+    <string name="station_check_favorite">Hozzáadás a listához</string>
     <string name="station_edit">Szerkesztés</string>
-    <string name="station_freq_format">%sMHz</string>
     <string name="station_move">Áthelyezés</string>
     <string name="station_name_already_used">Az állomás neve már létezik. Válasszon másik nevet</string>
     <string name="stations_list">Elmentett állomások</string>
@@ -146,8 +143,5 @@
     <string name="turn_on_speaker_phone">Hangszóró bekapcsolása</string>
     <string name="type_rd" />
     <string name="view_stations_list">Mentett állomások</string>
-    <string name="menu_exit">Kilépés</string>
-    <string name="menu_save_station_list">Állomás mentése a listába</string>
-    <string name="menu_save_station_presets">Hozzáadás a mentett állomáskoz</string>
-    <string name="station_check_favorite">Hozzáadás a kedvencekhez</string> 
+
 </resources>

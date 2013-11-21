@@ -458,4 +458,6 @@
     <string name="sp_mark_as_read_title">Összes üzenetet megjelölése olvasottként</string>
     <string name="sp_mark_as_read">Megjelöli az összes üzenetet olvasottként?</string>
     <string name="sp_mark_as_read_progress">Összes üzenet megjelölése olvasottként...</string>
+	<string name="mx_btn_enable_now">Engedélyezés</string>
+	<string name="mx_activate_int_popup_msg">Ennek engedélyezése lehetővé teszi a MIUI felhasználók egymás közötti üzenetküldését mobil adatforgalom használata nélkül.</string>
 </resources>

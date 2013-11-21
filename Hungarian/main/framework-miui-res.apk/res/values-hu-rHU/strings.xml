@@ -204,4 +204,9 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="toast_lockscreen_glogin_empty_password">Jelszó szükséges.</string>
     <string name="grant_permissions_apps">Alkalmazás hozzáférés engedélyezés</string>
     <string name="grant_permissions_account">Fiók hozzáférés engedélyezés</string>
+	<string name="hksar_establishment_day"/>
+    <string name="the_first_weekday_after_christmas"/>
+    <string name="good_friday"/>
+    <string name="day_following_good_friday"/>
+    <string name="easter"/>
 </resources>
