@@ -103,7 +103,7 @@
     <string name="msg_picker_hint_2_1">2.</string>
     <string name="msg_picker_hint_2_2">Carriers charge a ￥0.1 service fee per top-up</string>
     <string name="msg_picker_hint_3_1">3.</string>
-    <string name="msg_picker_hint_3_2">Havi maximum feltöltés: ￥300</string>
+    <string name="msg_picker_hint_3_2">Havi maximum feltöltés: ￥%1$s</string>
     <string name="msg_denomination_type">MiCredit</string>
     <string name="msg_error">Feltöltés nem sikerült</string>
     <string name="progress_msg_creating">Feltöltési bizonylat generálása…</string>
@@ -127,7 +127,7 @@
     <string name="giftcard_denom_frozen">MiCredit felfüggesztve</string>
     <string name="giftcard_hint">MiCredits added via gift card will be spent first automatically.</string>
     <string name="giftcard_acitivity_and_denomination">%1$s ajándékkártya %2$s-MiCredit</string>
-    <string name="giftcard_expire">%1$s-%2$s-%3$s lejárt</string>
+    <string name="giftcard_expire">%1$s lejárt</string>
     <string name="giftcard_empty">Nincs ajándékkártya.</string>
     <string name="bankcall_merchant">fogadó:</string>
     <string name="bankcall_denom">Fizetés:</string>
