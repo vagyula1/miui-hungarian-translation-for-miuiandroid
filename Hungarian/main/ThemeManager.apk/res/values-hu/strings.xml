@@ -101,7 +101,7 @@
     <string name="resource_detail_recommend_desiner_themes">%1$s témái</string>
     <string name="resource_detail_recommend_other_themes">Akiknek még tetszett</string>
     <string name="resource_detail_update_log_title">Frissítések</string>
-    <string name="resource_detail_window_title">%1$s részletei</string>
+    <string name="resource_detail_window_title">%1$s részletek</string>
     <string name="resource_download">Letöltés</string>
     <string name="resource_downloaded_title">Letöltött témák</string>
     <string name="resource_downloading">Letöltés</string>
@@ -258,7 +258,7 @@
     <string name="resource_exchange_window_title">Kód vásárlása</string>
     <string name="resource_exchange_wrong_format_by_local">A megadott kód érvénytelen</string>
     <string name="resource_exchange_wrong_format_by_server">A kód érvényesítése nem sikerült. Ellenőrizze a kódot és próbálja újra.</string>
-    <string name="resource_hint">Riasztás</string>
+    <string name="resource_hint">Figyelem</string>
     <string name="resource_menu_refresh">Frissítés</string>
     <string name="resource_present">Ajándék</string>
     <string name="resource_purchase_getting_order">Megrendelés elküldése…</string>

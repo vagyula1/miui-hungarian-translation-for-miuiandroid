@@ -209,7 +209,7 @@
     <string name="power_save_on_time_end_time_summary">Befejezés</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_option_title">A beállított időszak profilja</string>
-    <string name="power_save_on_time_option_summary">A beállított időszak végeztével készülék visszatér a legutóbb használt profilhoz</string>
+    <string name="power_save_on_time_option_summary">A beállított időszak végeztével a készülék visszatér a legutóbb használt profilhoz</string>
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_consume_rank_title">Akkumulátor használat</string>
     <string name="power_consume_rank_software">Alkalmazások</string>
