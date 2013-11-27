@@ -274,4 +274,6 @@
     <string name="screen_rotation_freeze_message">Képernyőzár fekvő módban</string>
     <string name="screen_button_disabled_message">A funkció gombok tiltva. Ha engedélyezni szeretné öket akkor a \"Home\" és \"Power\" hosszan nyomásával megteheti.</string>
     <string name="screen_button_enabled_message">A funkció gombok engedélyezve</string>
+    <string name="torch_closed">Lámpa kikapcsolva</string>
+    <string name="torch_opened">Lámpa bekapcsolva</string>
 </resources>

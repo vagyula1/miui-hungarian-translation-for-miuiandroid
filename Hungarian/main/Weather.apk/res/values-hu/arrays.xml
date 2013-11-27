@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_item">
+        <item>SMS</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_json_key">
+        <item>wind1</item>
+        <item>紫外线指数</item>
+        <item>穿衣指数</item>
+        <item>舒适度指数</item>
+        <item>洗车指数</item>
+        <item>晾晒指数</item>
+        <item>晨练指数</item>
+        <item>旅游指数</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Szélsebesség:</item>
+        <item>UV index:　</item>
+        <item>Öltözködés:</item>
+        <item>Kényelem:</item>
+        <item>Autómosás:</item>
+        <item>Esély az esőre:</item>
+        <item>Reggeli torna:</item>
+        <item>Szabadidős tevékenység:</item>
+    </string-array>
+    <string-array name="weather_image">
+        <item>Tiszta</item>
+        <item>Felhős</item>
+        <item>Hazy</item>
+        <item>Ködös</item>
+        <item>Felhőszakadás</item>
+        <item>Viharos</item>
+        <item>Heves esőzés</item>
+        <item>Zivatar</item>
+        <item>Zivatar</item>
+        <item>Heves esőzés</item>
+        <item>Eső</item>
+        <item>Szitálás</item>
+        <item>Ónos eső</item>
+        <item>Hóvihar</item>
+        <item>Helyenként havazás</item>
+        <item>Havazás</item>
+        <item>Havazás</item>
+        <item>Hószállingózás</item>
+        <item>Erős homokvihar</item>
+        <item>Homokvihar</item>
+        <item>Kisebb homokvihar</item>
+        <item>Homokvihar</item>
+        <item>Jégeső</item>
+        <item>Szeles</item>
+        <item>Ködös</item>
+    </string-array>
+    <string-array name="weather_details_key">
+        <item>Nem elérhető</item>
+        <item>Alkalmas</item>
+        <item>Jó</item>
+        <item>Ha lehet, kerülje</item>
+        <item>Nem ajánlott</item>
+        <item>Ideális</item>
+        <item>Közepes</item>
+        <item>Gyenge</item>
+        <item>Közepes</item>
+        <item>Erős</item>
+        <item>Nagyon erős</item>
+        <item>Hűvös</item>
+        <item>Komfortos</item>
+        <item>Forróság</item>
+        <item>Meleg</item>
+        <item>Meleg</item>
+        <item>Hővös</item>
+        <item>Hűsítő</item>
+        <item>Hideg</item>
+        <item>Fagyos</item>
+        <item>Magas</item>
+        <item>Közepes</item>
+        <item>Alacsony</item>
+        <item>Tiszta égbolt</item>
+        <item>Felhős</item>
+        <item>Eső</item>
+        <item>Homokvihar</item>
+        <item>Hó</item>
+        <item>Viszonylag megfelelő</item>
+        <item>Megfelelő</item>
+        <item>Felhős</item>
+        <item>Nem túl ideális</item>
+        <item>Ideálisk</item>
+        <item>Nem megfelelő</item>
+        <item>Átlagos</item>
+    </string-array>
+    <string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>"Esik az eső, vigyen magával esernyőt."</item>
+        <item>"Esik az eső, vigyen magával esernyőt."</item>
+        <item>"Esik az eső, vigyen magával esernyőt."</item>
+        <item>"Ha elmegy otthonról,vigyen magával esernyőt!"</item>
+        <item>"Ha elmegy otthonról,vigyen magával esernyőt!"</item>
+        <item>"Ha elmegy otthonról,vigyen magával esernyőt!"</item>
+        <item>"Esni fog ma,vigyen magával esernyőt!"</item>
+        <item>"Szemerkél az eső,vigyen magával esernyőt!"</item>
+        <item>"Havaseső esik,vigyen magával esernyőt!"</item>
+        <item>"Hóvihar van, öltözzön föl melegen."</item>
+        <item>"Havazni fog ma, vegyen föl sapkát és sálat,ha elmegy otthonról."</item>
+        <item>"Erősen havazik, vegyen föl sapkát és sálat."</item>
+        <item>"Havazik egy kicsit, vegyen föl sapkát és sálat."</item>
+        <item>"Egy kis hóesés van,vegyen föl sapkát és sálat."</item>
+        <item>"Nagyon erős homokvihar van, viseljen pormaszkot."</item>
+        <item>"Kicsit esik az eső,vigyen magával esernyőt!"</item>
+        <item>"Nagyon erős homokvihar van, viseljen pormaszkot"</item>
+        <item>"Nagyon erős homokvihar van, viseljen pormaszkot."</item>
+        <item>"Nem mindennapi jégeső esik! Sétáljon óvatosan!"</item>
+    </string-array>
+    <string-array name="weather_sms_content">
+        <item>Fényvédő használata ajánlott.</item>
+        <item>Felhős nap lesz a mai.</item>
+        <item>Az időjárás egyre rosszabb lesz, ajánlott, hogy maradjon bent egy ideig.</item>
+        <item>Ha elmegy, vegye figyelembe a forgalmat. Vezessen óvatosan :)</item>
+        <item>"Esik az eső, vigyen magával esernyőt."</item>
+        <item>"Esik az eső, vigyen magával esernyőt."</item>
+        <item>"Esik az eső, vigyen magával esernyőt."</item>
+        <item>Vigyen magával esernyőt!</item>
+        <item>Vigyen magával esernyőt!</item>
+        <item>Vigyen magával esernyőt! :)</item>
+        <item>Vigyen magával esernyőt!</item>
+        <item>"Szemerkél az eső,vigyen magával esernyőt!"</item>
+        <item>"Jégeső esik, vigyen magával esernyőt!"</item>
+        <item>"Erősen havazik!"</item>
+        <item>Havazni fog ma, vegyen föl sapkát és sálat.</item>
+        <item>"Erősen havazik, vegyen föl sapkát és sálat."</item>
+        <item>"Egy kis hóesés van,vegyen föl sapkát és sálat."</item>
+        <item>"Havazik, vegyen föl sapkát és sálat"</item>
+        <item>Nagyon erős homokvihar van, viseljen pormaszkot.</item>
+        <item>Nagyon erős homokvihar van, viseljen pormaszkot.</item>
+        <item>Nagyon erős homokvihar van, viseljen pormaszkot.</item>
+        <item>Nagyon erős homokvihar van, viseljen pormaszkot.</item>
+        <item>"Nem mindennapi jégeső esik! Sétáljon óvatosan!"</item>
+        <item>Nagyon szennyezett a levegő, viseljen pormaszkot.</item>
+        <item>Nagyon szennyezett a levegő, maradjon odabent.</item>
+    </string-array>
+    <string-array name="weather_sms_addons">
+        <item>Ma @ időjárása $ </item>
+        <item>A hőmérséklet % </item>
+        <item>Ne felejts el esernyőt vinni! </item>
+        <item></item>
+        <item>"Ha kint száradnak a ruhák, ne felejtsd el majd berakni! :)" </item>
+        <item>"Ha lehet, ne vezess. Első a biztonság." </item>
+        <item>Vezess óvatosan! </item>
+        <item>"Légy óvatos,csúszik." </item>
+        <item></item>
+        <item>Légy óvatos odakint. </item>
+        <item>"Ne menj ki,csak ha nagyon szükséges." </item>
+        <item>Használj napszemüveget és fényvédőt. </item>
+        <item>Használj napszemüveget és fényvédőt. </item>
+        <item>"Szeles idő van, vigyél egy kabátot magaddal." </item>
+        <item>Nagyon szennyezett a levegő, vigyél pormaszkot. </item>
+        <item>Vigyél magaddal kabátot. </item>
+        <item>Vigyél maszkot. :) </item>
+        <item>Vigyél magaddal sapkát és kesztyűt. </item>
+        <item>"Meleg van kint!" </item>
+        <item>"Meleg van kint!" </item>
+        <item>Öltözz melegen! </item>
+        <item>Jön a hideg… </item>
+        <item>Öltözz melegen! </item>
+        <item>Vegyél föl fülvédőt,hűvös van! :) </item>
+        <item>Indulhat a futás! </item>
+        <item>Jó kis nap a futásra! :) </item>
+        <item>"Jó kis nap szárítani a ruhákat!" </item>
+        <item>"Kezd hűvösödni,vigyél magaddal kabátot!" </item>
+    </string-array>
+    <string-array name="weather_info_uv">
+        <item>0</item>
+        <item>Nem elérhető</item>
+        <item>6</item>
+        <item>Használjon napszemüveget és fényvédőt.</item>
+        <item>7</item>
+        <item>Használjon napszemüveget és fényvédőt.</item>
+        <item>8</item>
+        <item>Használjon napszemüveget és fényvédőt.</item>
+        <item>9</item>
+        <item>Kerülje a közvetlen napfényt, illetve használjon fényvédőt!</item>
+        <item>10</item>
+        <item>Kerülje a közvetlen napfényt, illetve használjon fényvédőt!</item>
+    </string-array>
+    <string-array name="weather_info_dress">
+        <item>0</item>
+        <item>Nem elérhető</item>
+        <item>11</item>
+        <item>Könnyű kabát</item>
+        <item>12</item>
+        <item>Könnyű kabát</item>
+        <item>13</item>
+        <item>Nyári viselet</item>
+        <item>14</item>
+        <item>Nyári viselet</item>
+        <item>15</item>
+        <item>Könnyű kabát</item>
+        <item>16</item>
+        <item>Rétegesen öltözzön!</item>
+        <item>17</item>
+        <item>Vigyen magával kabátot!</item>
+        <item>18</item>
+        <item>Jól öltözzön fel!</item>
+        <item>19</item>
+        <item>Jól öltözzön fel!</item>
+    </string-array>
+    <string-array name="weather_info_msport">
+        <item>0</item>
+        <item>Nem elérhető</item>
+        <item>1</item>
+        <item>"Kiváló az idő a testmozgáshoz!"</item>
+        <item>2</item>
+        <item>Rétegesen öltözzön!</item>
+        <item>3</item>
+        <item>Az időjárás nem ideális; rétegesen öltözzön!</item>
+        <item>4</item>
+        <item>Beltéri edzés!</item>
+    </string-array>
+    <string-array name="weather_info_comfort">
+        <item>0</item>
+        <item>Nem elérhető</item>
+        <item>20</item>
+        <item>A hőmérséklet állandó</item>
+        <item>21</item>
+        <item>Hűvös és megfelelő</item>
+        <item>22</item>
+        <item>A hőmérséklet változékony lesz</item>
+        <item>23</item>
+        <item>Tiszta az égbolt, nem megfelelőek a körülmények</item>
+        <item>24</item>
+        <item>Dögmeleg és párás! :(</item>
+    </string-array>
+    <string-array name="weather_info_wcar">
+        <item>0</item>
+        <item>Nem elérhető</item>
+        <item>1</item>
+        <item>"Kiváló az idő!"</item>
+        <item>2</item>
+        <item>"Itt az idő!"</item>
+        <item>3</item>
+        <item>"Esni fog,halassza el az autómosást."</item>
+        <item>25</item>
+        <item>"Esni fog,halassza el az autómosást."</item>
+        <item>26</item>
+        <item>Homokvihar közeleg,halassza el az autómosást.</item>
+        <item>27</item>
+        <item>"Havazni,fog,halassza el az autómosást."</item>
+        <item>4</item>
+        <item>Halassza el az autómosást.</item>
+    </string-array>
+    <string-array name="weather_info_hung">
+        <item>0</item>
+        <item>Nem elérhető</item>
+        <item>28</item>
+        <item>A ruhák délután megszáradnak.</item>
+        <item>29</item>
+        <item>A ruhák bármikor megszáradnak.</item>
+        <item>30</item>
+        <item>Felhős az idő, de a magas a hőmérséklet, a ruhák még megszáradnak.</item>
+        <item>1</item>
+        <item>Az időjárás alkalmas ruhák szabadban történő szárítására.</item>
+        <item>3</item>
+        <item>Eshet az eső a mai nap folyamán.</item>
+        <item>5</item>
+        <item>Megfelelő az idő a szabadban történő ruhák szárítására.</item>
+        <item>4</item>
+        <item>Ne szárítsa a szabadban a ruháit.</item>
+        <item>31</item>
+        <item>Ne szárítsa a szabadban a ruháit.</item>
+    </string-array>
+    <string-array name="weather_info_travel">
+        <item>0</item>
+        <item>Nem elérhető</item>
+        <item>32</item>
+        <item>Tiszta, napos szép idő.</item>
+        <item>2</item>
+        <item>Állandó hőmérséklet.</item>
+        <item>1</item>
+        <item>Állandó hőmérséklet.</item>
+        <item>3</item>
+        <item>"A mai időjárás változékony lesz."</item>
+        <item>33</item>
+        <item>"A mai időjárás változékony lesz."</item>
+        <item>34</item>
+        <item>Tiszta égbolt, gyenge szél.</item>
+    </string-array>
+    <string-array name="weather_info_fl">
+        <item></item>
+        <item>Réteges öltözködés javasot!</item>
+        <item>Szellősen öltözzön</item>
+        <item>Lazán öltözzön</item>
+        <item>暂缺</item>
+        <item>Nem elérhető</item>
+    </string-array>
+</resources>

@@ -2764,4 +2764,15 @@
     <string name="wifi_wapi_as_certificate">AS tanúsítvány</string>
     <string name="wifi_wapi_user_certificate">Felhasználói tanúsítvány</string>
     <string name="dialog_title_entryvalues_dolby_control">Dolby vezérlő</string>
+    <string name="activate_miui_screensaver">Képernyőkímélő engedélyezése</string>
+    <string name="alert_show_screensaver_when_not_charging_msg">A képernyőkímélő használata esetén növekszik a fogyasztás. Kikapcsolja ezt az opciót?</string>
+    <string name="alert_show_screensaver_when_not_charging_title">Képernyőkímélő bekapcsolása,ha nem tölt</string>
+    <string name="miui_screensaver_show_time">Időtartam</string>
+    <string name="miui_screensaver_show_time_select_title">Időtartam beállítása</string>
+    <string name="miui_screensaver_state_off">Ki</string>
+    <string name="miui_screensaver_state_on">Be</string>
+    <string name="miui_screensaver_title">Képernyőkímélő</string>
+    <string name="miui_screensaver_usage">Aktiválás után a képernyő kikapcsolása után 5 másodperccel képernyőkímélőként megjelennek az album képei.</string>
+    <string name="only_when_charging">Csak töltéskor</string>
+    <string name="picture_source">Képek forrása</string>
 </resources>
