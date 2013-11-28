@@ -582,4 +582,5 @@
     <string name="add_quicklink_to_popular">Hozzáadás a kezdőlaphoz</string>
     <string name="quicklink_saved_before">Az oldal hozzáadva a kezdőlaphoz</string>
     <string name="send_to_popular">népszerű</string>
+    <string name="quicklinks_most_visited_title">Kezdőlaphoz adás</string>
 </resources>

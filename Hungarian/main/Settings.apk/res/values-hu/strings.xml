@@ -475,6 +475,7 @@
     <string name="anti_spam">Felügyelet</string>
     <string name="permission_mgr">Engedélyek</string>
     <string name="cleaner">Tisztítás</string>
+    <string name="cleaner_support_hints">Powered by Clean Master</string>
     <string name="power_mgr">Teljesítmény</string>
     <string name="protection_adb">USB hibakeresés</string>
     <string name="protection_perm">Engedélyek beállítása</string>
