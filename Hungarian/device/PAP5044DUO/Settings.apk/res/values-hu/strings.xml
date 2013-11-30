@@ -2432,7 +2432,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
 	<string name="scan_qrcode">QR kód keresése</string>
     <string name="pref_scan_qrcode_entry_off">Ki</string>
     <string name="pref_scan_qrcode_entry_on">Be</string>
-	<string name="gemini_sim_management_title">SIM kezelés</string>
 	<string name="overlay_display_devices_title">Másodlagos kijelzők szimulálása</string>
     <string name="schedule_power_on_off_settings_title">Be-/kikapcsolás ütemezése</string>
     <string name="cpu_dtm_title">CPU energiatakarékos mód</string>
