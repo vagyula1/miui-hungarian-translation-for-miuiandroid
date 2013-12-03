@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Európa</item>
@@ -291,6 +291,11 @@
         <item>Százalék</item>
         <item>Felső sáv</item>
     </string-array>
+    <string-array name="power_mode_entries">
+        <item>Maximális</item>
+        <item>Normál</item>
+        <item>Energiatakarékos</item>
+    </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Kérdezzen rá csatlakozáskor</item>
         <item>Csak töltés</item>
@@ -345,22 +350,22 @@
         <item>Mindig</item>
     </string-array>
     <string-array name="screen_color_title">
-        <item>Warm</item>
-        <item>Standard</item>
-        <item>Cool</item>
+        <item>Meleg</item>
+        <item>Alapértelmezett</item>
+        <item>Hideg</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>Brilliant</item>
-        <item>Standard</item>
+        <item>Kiváló</item>
+        <item>Alapértelmezett</item>
     </string-array>
     <string-array name="perm_hips_action">
-        <item>Allow</item>
-        <item>Ask</item>
-        <item>Deny</item>
+        <item>Engedélyez</item>
+        <item>Kérdezzen rá</item>
+        <item>Megtagad</item>
     </string-array>
     <string-array name="startup_hips_action">
-        <item>Allow</item>
-        <item>Deny</item>
+        <item>Engedélyez</item>
+        <item>Megtagad</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Egymikrofonos zajcsökkentés</item>

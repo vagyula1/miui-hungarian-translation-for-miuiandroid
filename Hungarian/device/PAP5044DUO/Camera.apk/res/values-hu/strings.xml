@@ -60,6 +60,8 @@
     <string name="pref_camcorder_settings_category">Videókamera beállításai</string>
     <string name="pref_camera_picturesize_title">Fénykép méret</string>
     <string name="pref_camera_picturesize_title_simple_mode">Fénykép méret</string>
+    <string name="pref_camera_picturesize_entry_standard">Alap 4:3</string>
+    <string name="pref_camera_picturesize_entry_full_screen">Teljesképernyős 16:9</string>
     <string name="pref_camera_picturesize_entry_4208x3120">13Mp</string>
     <string name="pref_camera_picturesize_entry_4208x2368">Teljesképernyős 16:9</string>
     <string name="pref_camera_picturesize_entry_3200x2400">8Mp 4:3</string>
@@ -425,7 +427,8 @@ lépjen ki a nézetből</string>
     <string name="pref_camera_watermark_title">Dátum feliratozás</string>
     <string name="pref_camera_watermark_entry_off">Ki</string>
     <string name="pref_camera_watermark_entry_on">Be</string>
-	<string name="scan_qrcode">QR kód keresés</string>
-	<string name="pref_scan_qrcode_entry_off">Ki</string>
+    <string name="scan_qrcode">QR kód keresés</string>
+    <string name="pref_scan_qrcode_title">QR kód keresés</string>
+    <string name="pref_scan_qrcode_entry_off">Ki</string>
     <string name="pref_scan_qrcode_entry_on">Be</string>
 </resources>

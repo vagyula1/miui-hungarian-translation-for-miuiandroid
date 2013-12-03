@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="powermanage_entries">
+        <item>Csak telefonfunkciók</item>
+        <item>Energiatakarékos</item>
+        <item>Normál</item>
+        <item>Maximális</item>
+    </string-array>
+    <string-array name="powermanage_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="lowmem_entries">
+        <item>Alapértelmezett</item>
+        <item>Agresszív</item>
+        <item>Kiegyensúlyozott</item>
+        <item>Többfeladatos</item>
+        <item>Játék</item>
+    </string-array>
+    <string-array name="lowmem_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
