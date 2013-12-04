@@ -2372,7 +2372,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="wifi_tether_enabled_subtext">A(z) %1$s hordozható hotspot aktív</string>
     <string name="wifi_tether_failed_subtext">Hordozható Wi-Fi hotspot hibája</string>
     <string name="audio_profile_settings_title">Audió profilok</string>
-    <string name="audio_profile_category_predefine_title">Előredefiniált profilok</string>
     <string name="audio_profile_reset">Alaphelyzet</string>
     <string name="audio_profile_add">Hozzáadás</string>
     <string name="audio_profile_enable">Engedélyezés</string>
