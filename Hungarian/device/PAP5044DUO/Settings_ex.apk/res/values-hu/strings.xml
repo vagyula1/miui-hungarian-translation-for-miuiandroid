@@ -69,7 +69,7 @@
     <string name="audio_profile_rename">Átnevezés</string>
     <string name="audio_profile_reset">Alaphelyzet</string>
     <string name="audio_profile_settings_title">Audió profilok</string>
-	<string name="general_settings_title">Általános</string>
+    <string name="general_settings_title">Általános</string>
     <string name="silent_settings_title">Néma</string>
     <string name="meeting_settings_title">Találkozó</string>
     <string name="outdoor_settings_title">Kültéri</string>
@@ -114,7 +114,7 @@
     <string name="data_enabler_title">Data enabled</string>
     <string name="data_enabler_waiting_message">Please wait…</string>
     <string name="default_name">Alapértelmezett</string>
-     <string name="dialog_apn_disabled_msg">APN beállítások engedélyezéséhez kapcsolja ki a Repülőgép üzemmódot</string>
+    <string name="dialog_apn_disabled_msg">APN beállítások engedélyezéséhez kapcsolja ki a Repülőgép üzemmódot</string>
     <string name="dialog_apn_disabled">APN letiltva!</string>
     <string name="display_default">Megjelenítés</string>
     <string name="display_personalize">Személyre szabás</string>
@@ -452,7 +452,6 @@
     <string name="wifi_wps_fail_error">A Wi-Fi Protected Setup sikertelen. Próbálja újra.</string>
     <string name="WiFiNetwork_on_title">A Wi-Fi aktív</string>
     <string name="yes">Igen</string>
-
     <string name="device_info_default">Ismeretlen</string>
     <string name="show_dev_countdown">You are now %1$d steps away from being a developer.</string>
     <string name="show_dev_on">Ön mostantól már fejlesztő!</string>
@@ -1348,11 +1347,11 @@ A zenék, képek és más felhasználói adatok törléséhez az "<b>USB-tárat<
     <string name="tethering_help_button_text">Súgó</string>
     <string name="network_settings_title">Mobilhálózatok</string>
     <string name="location_title">My Location</string>
-    <string name="location_network_based">WLAN &amp; mobile network location</string>
-    <string name="location_neighborhood_level">"Let apps use Google's location service to estimate your location faster. Anonymous location data will be collected and sent to Google."</string>
-    <string name="location_neighborhood_level_wifi">Location determined by WLAN</string>
-    <string name="location_gps">GPS satellites</string>
-    <string name="location_street_level">Let apps use GPS on your phone to pinpoint your location</string>
+    <string name="location_network_based">A Google helyszolgáltatása</string>
+    <string name="location_neighborhood_level">Engedélyezze az alkalmazásoknak a Wi-Fi és mobilhálózatok használatát a hozzávetőleges tartózkodási hely meghatározásához</string>
+    <string name="location_neighborhood_level_wifi">Wi-Fi által meghatározott hely</string>
+    <string name="location_gps">GPS-műholdak</string>
+    <string name="location_street_level">Engedélyezze a GPS használatát az alkalmazások számára tartózkodási helyének meghatározása érdekében</string>
     <string name="assisted_gps">Támogatott GPS használata</string>
     <string name="assisted_gps_enabled">Szerver használata a GPS mellett (a hálózati forgalom csökkentéséhez ne jelölje be)</string>
     <string name="assisted_gps_disabled">Szerver használata a GPS mellett (a GPS teljesítményének növeléséhez ne jelölje be)</string>

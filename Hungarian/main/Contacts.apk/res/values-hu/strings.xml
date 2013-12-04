@@ -411,6 +411,7 @@
     <string name="import_from_other_phone">Importálás másik telefonból</string>
     <string name="import_from_sdcard">Importálás a tárhelyről</string>
     <string name="import_from_sim">Importálás a SIM-kártyáról</string>
+    <string name="import_from_sim2">Importálás a 2.SIM-kártyáról</string>
     <string name="import_multiple_vcard_string">Több vCard fájl importálása</string>
     <string name="import_name">név</string>
     <string name="import_one_vcard_string">Egyetlen vCard fájl importálása</string>
@@ -857,6 +858,7 @@
     <string name="shortcutDialContact">Közvetlen tárcsázás</string>
     <string name="shortcutMessageContact">Közvetlen üzenet</string>
     <string name="showAllContactsJoinItem">Az összes névjegy megjelenítése</string>
+    <string name="sim_capacity">SIM kártya kapacitása</string>
     <string name="sim_capacity_content" formatted="false">Teljes kapacitás %d, felhasznált %d</string>
     <string name="sim_card_no_free_space_message">A SIM kártya megtelt, új névjegy nem importálható.Kérem töröljön a kártyáról és próbálja újra</string>
     <string name="sim_card_no_free_space_title">SIM kártya megtelt</string>
@@ -928,6 +930,8 @@
     <string name="success_message_import_from_account">Sikeres import</string>
     <string name="summary_kind_title">Összefoglaló</string>
     <string name="t9_search_guide">Felhasználó száma vagy keresés T9 használatával</string>
+    <string name="t9_search_guide_pinyin">Írja be a 7-es és 5-ös számot Steve Jobs kereséséhez</string>
+    <string name="t9_search_guide_zhuyin">Írja be a 7-es és 5-ös számot Steve Jobs kereséséhez</string>
     <string name="take_new_photo">Új fénykép készítése</string>
     <string name="take_photo">Fotó készítése</string>
     <string name="title_other_devices">Más elérhető eszközök</string>
@@ -988,8 +992,8 @@
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Adatok törlése</string>
     <string name="zero_items_selected">Nincs névjegy kiválasztva</string>
-	<string name="account_unactivated">A fiók nincs aktiválva.</string>
-	<string name="resource_account_abnormal_state">Fiókhiba, próbálja később.</string>
+    <string name="account_unactivated">A fiók nincs aktiválva.</string>
+    <string name="resource_account_abnormal_state">Fiókhiba, próbálja később.</string>
     <string name="resource_account_current">Fiók: %1$s</string>
     <string name="resource_account_fail_to_add">A fiók hozzáadása nem sikerült!</string>
     <string name="resource_account_login_before_action">Lépjen be a Xiaomi fiókjába.</string>

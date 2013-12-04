@@ -1712,6 +1712,9 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="sim_enter_old">SIM-kártya régi PIN-kódja</string>
     <string name="sim_enter_pin">SIM-kártya PIN-kódja</string>
     <string name="sim_lock_change_not_supported">"Unable to Change SIM/RUIM Lock. SIM doesn't support it."</string>
+    <string name="enable_sim">Engedélyezés</string>
+    <string name="sim_lock">Lezárva</string>
+    <string name="enable_gps">GPS engedélyezés</string>
     <string name="sim_lock_failed">Nem lehet megváltoztatni a SIM-kártya zárolási állapotát. Lehet, hogy hibás a PIN kód.</string>
     <string name="sim_lock_off">PIN-kód kérése a telefon használatához</string>
     <string name="sim_lock_on">PIN-kód kérése a telefon használatához</string>
@@ -2369,6 +2372,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="wifi_tether_enabled_subtext">A(z) %1$s hordozható hotspot aktív</string>
     <string name="wifi_tether_failed_subtext">Hordozható Wi-Fi hotspot hibája</string>
     <string name="audio_profile_settings_title">Audió profilok</string>
+    <string name="audio_profile_category_predefine_title">Előredefiniált profilok</string>
     <string name="audio_profile_reset">Alaphelyzet</string>
     <string name="audio_profile_add">Hozzáadás</string>
     <string name="audio_profile_enable">Engedélyezés</string>
