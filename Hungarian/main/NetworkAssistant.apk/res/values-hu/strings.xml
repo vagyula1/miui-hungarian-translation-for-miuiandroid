@@ -146,6 +146,7 @@
     <string name="fire_wall_is_closed">A tűzfal nem aktív</string>
     <string name="text_done">Kész</string>
     <string name="text_save">Mentés</string>
+    <string name="adjust_module_miss">Adatforgalom modul hiányzik</string>
     <string name="adjust_no_network_update_data_fail">Adatfrissítés sikertelen.A hálózatbeállítások ellenőrzése után próbálja újra.</string>
     <string name="custom_adjust_title">Egyéni beállítások módosítása</string>
     <string name="custom_adjust_sender">Feladó száma</string>

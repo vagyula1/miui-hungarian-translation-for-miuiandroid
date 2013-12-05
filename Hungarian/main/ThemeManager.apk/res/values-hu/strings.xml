@@ -228,7 +228,7 @@
     <string name="wallpaper_settings">Háttérkép beállítások</string>
     <string name="account_info">Fiókom</string>
     <string name="account_unactivated">A fiók nincs aktiválva.</string>
-    <string name="apply_theme_with_ringtones">Téma alkalmazása a csengőhangokkal</string>
+    <string name="apply_theme_with_ringtones">Csengőhagok alkalmazása</string>
     <string name="basic_info">Információ</string>
     <string name="payment_info">MiCreditek</string>
     <string name="resource_account_abnormal_state">Fiókhiba, próbálja később.</string>

@@ -79,7 +79,7 @@
     <string name="msg_callactive">Hívás közben nem szól a rádió</string>
     <string name="msg_do_not_support_fm">Ez az eszköz nem támogatja az FM rádiót.</string>
     <string name="msg_headsetpluggedin">Távolítsa el a füllhallgatót mielőtt használna az FM Tx-et</string> 
-    <string name="msg_noantenna_message">Csatlakoztasson fülhallgatót.</string>
+    <string name="msg_noantenna_message">A jobb hangminőség eléréséhez csatlakoztasson fülhallgatót.</string>
     <string name="msg_scanning">Összes Rádióállomás keresés</string>
     <string name="msg_scanning_pty">Keresés %s</string>
     <string name="msg_search_title">Rádió - %1$s</string>
