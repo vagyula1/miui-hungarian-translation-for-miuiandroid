@@ -12,7 +12,7 @@
     <string name="app_floating_window_dlg_enable">"Enabling of %1$s's floating window settings requires the app to restart. You can also manually stop running the application yourself. Are you sure you want to enable?"</string>
     <string name="app_floating_window_dlg_disable">"Disabling of %1$s's floating window settings will stop the app forcibly. You can also manually open app.Are you sure you want to disable?"</string>
     <string name="dlg_cancel">Mégsem</string>
-    <string name="cache_manage_title">%1$d gyórsítótárban tárolt fájl törlése, %2$s felszabadítható</string>
+    <string name="cache_manage_title">%1$d gyorsítótárban tárolt fájl törlése, %2$s felszabadítható</string>
     <string name="cache_list_empty_hints">Nincs gyorsítótárazott fájl.</string>
     <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
     <string name="optimize_title_cache">Gyorsítótár</string>
@@ -44,7 +44,7 @@
     <string name="optimize_tips_ad">iconReklámfájlok, képek, és egyéb hirdetéssel kapcsolatos adatok,melyeket egy harmadik fél szolgáltatója helyezett az eszközre.</string>
     <string name="optimize_tips_apk">"iconTelepítőfájlok,melyekre az alkalmazás telepítése után a futtatáshoz már nincs szükség és további szabad terület szabadítható fel."</string>
     <string name="optimize_tips_cache">iconGyorsítótár fájlok,melyeket a folyamatok generálnak és csak ideiglenesen szükségesek (pl. indexképek).</string>
-    <string name="optimize_tips_residual">"iconMaradvány fájlok (pl. videófájlok, háttérképek, zenék, stb.) melyek az alkalmazás eltávolítása után az eszközön maradnak. Néhány fájlra még szükség lehet, ezért ajánlott a Speciális beállítások használata a maradványfájlok tisztításakor."</string>
+    <string name="optimize_tips_residual">"iconMaradványfájlok (pl. videófájlok, háttérképek, zenék, stb.) melyek az alkalmazás eltávolítása után az eszközön maradnak. Néhány fájlra még szükség lehet, ezért ajánlott a Speciális beállítások használata a maradványfájlok tisztításakor."</string>
     <string name="quick_scan_apk_list_item_version_hit">Verzió：%s</string>
     <string name="apk_status_uninstalled">Nincs telepítve</string>
     <string name="apk_status_installed_old">Korábbi verzió</string>
@@ -103,7 +103,7 @@
     <string name="power_center_low_battery_summary_dynamic">%2$s módra váltás ha az akkumulátorszint kevesebb,mint %1$d%%</string>
     <string name="power_center_on_time_title">Ütemezett</string>
     <string name="power_center_on_time_summary_default">Profilváltás előre beállított időben</string>
-    <string name="power_center_on_time_summary_dynamic">%1$s és %2$s között átkapcsolás %3$s módra</string>
+    <string name="power_center_on_time_summary_dynamic">%1$s és %2$s között átváltás %3$s módra</string>
     <string name="power_center_state_on">Engedélyezve</string>
     <string name="power_center_state_off">Letiltva</string>
     <string name="power_center_consume_time">%1$s van hátra</string>
@@ -248,7 +248,7 @@
     <string name="perm_enable">ROOT jogosultságok</string>
     <string name="perm_disable">Letiltás</string>
     <string name="perm_optimize">Optimalizálás</string>
-    <string name="perm_check">Ellenőrzés</string>
+    <string name="perm_check">Ellenőrzés </string>
     <string name="perm_clean">Törlés</string>
     <string name="perm_good">Jó</string>
     <string name="perm_update">Szoftver frissítés</string>
