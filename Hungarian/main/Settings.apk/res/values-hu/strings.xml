@@ -2135,6 +2135,15 @@
     <string name="header_application_sync_settings">Alkalmazás-szinkronizálási beállítások</string>
     <string name="header_data_and_synchronization">Adatok és szinkronizálás</string>
     <string name="preference_change_password_title">Jelszó módosítása</string>
+    <string name="preferred_app_settings">Alkalmazás beállítások</string>
+    <string name="preferred_app_settings_default">Alapértelmezett</string>
+    <string name="preferred_app_settings_reset">Alapértelmezett visszaállítása</string>
+    <string name="preferred_app_settings_reset_message">Visszaállítja az alapértelmezett beállításokat?</string>
+    <string name="preferred_application_title">Kiválasztott %s</string>
+    <string name="preferred_application_warning_message">Az alapértelmezett %1$s lecserélése növelheti a teljesítményfelvételt, sebességcsökkenést okozhat, valamint az eszköz adatait veszélyeztetheti. Javasolt %2$s használata alapértelmezettként.</string>
+    <string name="preferred_application_warning_replace">Lecserél</string>
+    <string name="preferred_application_warning_title">%s lecserése</string>
+    <string name="preferred_application_warning_use_system">%s használata alapértelmezettként</string>
     <string name="header_account_settings">Fiókbeállítások</string>
     <string name="remove_account_label">Fiók törlése</string>
     <string name="header_add_an_account">Fiók hozzáadása</string>

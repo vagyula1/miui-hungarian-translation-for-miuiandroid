@@ -446,5 +446,12 @@ Használja ki!"</string>
     <string name="video_download_in_process">A videófájl letöltése folyamatban.</string>
     <string name="video_not_exist">Videfájl nem létezik!</string>
     <string name="share_user_name">Név</string>
-	<string name="add_to_cloud_image_limit_exceeded_message">A képek száma elérte a maximális értéket.</string>
+    <string name="add_to_cloud_image_limit_exceeded_message">A képek száma elérte a maximális értéket.</string>
+    <string name="delete_smb_file_fail">Az smb fájl törlése nem sikerült</string>
+    <string name="download">Letöltés</string>
+    <string name="download_fail">A letöltés nem sikerült!</string>
+    <string name="download_fail_confirm_continue">%s letöltése sikertelen. Folytatja?</string>
+    <string name="file_not_exist_message">A fájl nem található.</string>
+    <string name="make_download_dir_fail">A mappa létrehozása nem sikerült!</string>
+    <string name="new_device_tips">Új eszköz található. Kattintson a megtekintéshez</string>
 </resources>
