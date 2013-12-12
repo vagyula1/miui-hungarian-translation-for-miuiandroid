@@ -41,6 +41,7 @@
     <string name="button_abandon">Megszakítás</string>
     <string name="button_backup">Mentés</string>
     <string name="button_cancel">Nem</string>
+    <string name="button_continue">Folytatás</string>
     <string name="button_delete">Törlés</string>
     <string name="button_finish">Kész</string>
     <string name="button_next">Következő</string>
@@ -56,6 +57,9 @@
     <string name="cloud_app_backup_progress">Mentés...</string>
     <string name="cloud_app_backup_summary">Automatikus mentés készítése az alkalmazásokról és a felhasználói adatokról töltéskor és Wi-Fi kapcsolat esetén</string>
     <string name="cloud_app_backup_title">Mentés a MiCloud-ba</string>
+    <string name="cloud_app_check_data">Adatok lekérése a MiCloudból...</string>
+    <string name="cloud_app_check_data_fail">Nem sikerült az adatok lekérése a MiCloudból</string>
+    <string name="cloud_app_check_data_timeout">Időtúllépés a MiCloudból történő adatok lekérése közben</string>
     <string name="cloud_app_current_device">Aktuális eszköz</string>
     <string name="cloud_app_data_in_other_devices">Nincs elérhető MiCloud mentés az eszközről.</string>
     <string name="cloud_app_delete_data">Mentés törlése</string>
@@ -65,11 +69,22 @@
     <string name="cloud_app_find_backup_prompt_2">Ha elindítja az adatok felülíródnak.</string>
     <string name="cloud_app_function_summary">A MiCloudba tárolt biztonsági mentése visszaállítható bármilyen eszközére.</string>
     <string name="cloud_app_invalid_op">"A mentés és visszaállítás a háttérben futhat."</string>
+    <string name="cloud_app_invalid_op_when_removing">"Az eltávoítás befejezéséig a MiCloud adatai nem elérhetőek!"</string>
     <string name="cloud_app_just_show_in_current_device">Csak az alkalmazásokat mutassa ezen az eszközön</string>
+    <string name="cloud_app_load_data">A visszaállítás adatainak lekérdezése...</string>
+    <string name="cloud_app_load_data_timeout">Időtúllépés a lekérdezés során</string>
+    <string name="cloud_app_loading_with_mobile_network_prompt">"Mobil adatforgalom szükséges a folyatatáshoz. Szeretné folytatni?"</string>
     <string name="cloud_app_mine">Letöltött alkalmazások</string>
     <string name="cloud_app_name">Online mentés</string>
     <string name="cloud_app_no_data">Nincsenek adatok.</string>
+    <string name="cloud_app_no_network">A hálózat nem elérhető</string>
+    <string name="cloud_app_no_wifi">A Wi-Fi nem elérhető</string>
+    <string name="cloud_app_no_wifi_connect">Nincs elérhető Wi-Fi kapcsolat</string>
     <string name="cloud_app_other_devices">Egyéb eszközök</string>
+    <string name="cloud_app_remove_cancel">Törlés megszakítása</string>
+    <string name="cloud_app_remove_cancel_prompt_message">"A törlés még nem fejeződött be, kattintson az OK gombra
+ a megszakításhoz"</string>
+    <string name="cloud_app_remove_cancel_prompt_title">A törlés leállítása</string>
     <string name="cloud_app_remove_error">A törlés nem sikerült!</string>
     <string name="cloud_app_remove_pending">Törlés előkészítése...</string>
     <string name="cloud_app_remove_progress">Törlés...</string>
@@ -81,13 +96,17 @@
     <string name="cloud_app_restore_error">A visszaállítás nem sikerült!</string>
     <string name="cloud_app_restore_pending">Visszaállítás előkészítése...</string>
     <string name="cloud_app_restore_progress">Visszaállítás...</string>
+    <string name="cloud_app_restore_cancel">Megszakítás</string>
+    <string name="cloud_app_restore_cancel_prompt_message">"A visszaállítás még nem fejeződött be, kattintson az OK gombra
+ a megszakításhoz"</string>
     <string name="cloud_app_restore_prompt">A visszaállítás a helyi adatokat felülírja a MiCloudban mentett adataival.</string>
-    <string name="cloud_app_restore_query_error_prompt">"A MiCloud adatok elérése nem sikerült. Apps and user data will be restored automatically when your device is able to connect."</string>
+    <string name="cloud_app_restore_query_error_prompt">"A MiCloud adatok elérése nem sikerült. Az alkalmazások és felhasználói adatok automatikusan visszaállításra kerülnek kapcsolódáskor."</string>
     <string name="cloud_app_restore_success">Az alkalmazások visszaállítása sikerült!</string>
     <string name="cloud_app_restore_summary">Előzőleg telepített alkalmazások és felhasználói adatok visszaállítása</string>
     <string name="cloud_app_restore_wifi_prompt">Csatlakozzon Wi-Fi-hez az alkalmazások és adatok visszaállításához.</string>
     <string name="cloud_app_total_size">Teljes MiCloud mentés mérete: %1$s</string>
     <string name="cloud_app_version_size">Verzió: %1$s, Méret: %2$s</string>
+    <string name="cloud_app_wait_wifi">Várakozás Wi-Fi kapcsolatra</string>
     <string name="cloud_backup_hint">Bejelentkezés, hogy adatai biztonságban legyenek</string>
     <string name="cloud_backup_login">Bejelentkezés</string>
     <string name="cloud_backup_window_title">Online adatmentés</string>
@@ -202,7 +221,7 @@
     <string name="task_failed_all_local">Feladat végrehajtási hiba</string>
     <string name="task_failed_local">%1$s feladatot nem sikerült befejezni</string>
     <string name="task_failed">Sikertelen feladat</string>
-    <string name="task_finished">Befejezett művelet</string>
+    <string name="task_finished">A feladat befejeződött</string>
     <string name="task_local_backup_cancel_dialog">Mentés folyamatban...OK megnyomása a megszakításhoz</string>
     <string name="task_pending">Várakozás</string>
     <string name="task_post_running">Utómunkálatok</string>

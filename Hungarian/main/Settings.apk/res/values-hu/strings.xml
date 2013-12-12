@@ -2142,7 +2142,7 @@
     <string name="preferred_application_title">Kiválasztott %s</string>
     <string name="preferred_application_warning_message">Az alapértelmezett %1$s lecserélése növelheti a teljesítményfelvételt, sebességcsökkenést okozhat, valamint az eszköz adatait veszélyeztetheti. Javasolt %2$s használata alapértelmezettként.</string>
     <string name="preferred_application_warning_replace">Lecserél</string>
-    <string name="preferred_application_warning_title">%s lecserése</string>
+    <string name="preferred_application_warning_title">%s lecserélése</string>
     <string name="preferred_application_warning_use_system">%s használata alapértelmezettként</string>
     <string name="header_account_settings">Fiókbeállítások</string>
     <string name="remove_account_label">Fiók törlése</string>

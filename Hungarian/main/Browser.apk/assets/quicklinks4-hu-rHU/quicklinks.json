@@ -73,6 +73,18 @@
 	    "position": 5
         },
         {
+            "title":"MiuiHungary",
+            "url":"http://miuiandroid.hu/",
+            "thumbnail":"thumb_miuihu.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "MiuiHungary",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 6
+        }, 
+        {
             "title":"EN MIUI Forum",
             "url":"http://en.miui.com/forum.php",
             "thumbnail":"thumb_miui.png",
@@ -82,21 +94,8 @@
 	    "displayName": "EN MIUI Forum",
 	    "isDelete": true,
 	    "movable": true,
-	    "position": 6
-        },
-        {
-            "title":"Miuiandroid",
-            "url":"http://miuiandroid.com/",
-            "thumbnail":"thumb_miuiandroid.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "Miuiandroid",
-	    "isDelete": true,
-	    "movable": true,
 	    "position": 7
         },
-
         {
             "title":"Xiaomi",
             "url":"http://xiaomi.eu/",
@@ -203,6 +202,15 @@
 	    "displayName": "Ibuygou"
         },
         {
+            "title":"MiuiHungary",
+            "url":"http://miuiandroid.hu/",
+            "thumbnail":"thumb_miuihu.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "MiuiHungary"
+        },
+		{
             "title":"EN MIUI Forum",
             "url":"http://en.miui.com/forum.php",
             "thumbnail":"thumb_miui.png",
@@ -211,16 +219,6 @@
             "favicon":"",
 	    "displayName": "EN MIUI Forum"
         },
-        {
-            "title":"Miuiandroid",
-            "url":"http://miuiandroid.com/",
-            "thumbnail":"thumb_miuiandroid.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "Miuiandroid"
-        },
-
         {
             "title":"Xiaomi",
             "url":"http://xiaomi.eu/",
