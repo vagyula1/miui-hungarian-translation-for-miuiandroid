@@ -1031,4 +1031,16 @@
     <string name="resource_unable_to_access">"Sajnáljuk, 
 ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="to_activate_the_account">Aktiválja a Xiaomi fiókját</string>
+    <string name="login_before_recharging">A feltöltéshez bejelentkezés szükséges.</string>
+    <string name="login_ok">Bejelentkezés</string>
+    <string name="refresh">Frissítés</string>
+    <string name="t9_search_guide_pinyin">Írja be a 7-es és 5-ös számot pl. Steve Jobs kereséséhez</string>
+    <string name="t9_search_guide_zhuyin">Írja be a 7-es és 5-ös számot pl. Steve Jobs kereséséhez</string>
+    <string name="yellowPageNavigationIconLabel">Mappa</string>
+    <string name="yellowPageNavigationLabel">Mappa</string>
+    <string name="yellowpage_navigation_no_content">Nincs eredmény</string>
+    <string name="yellowpage_navigation_search_city_name_hint">Keresés város alapján</string>
+    <string name="yellowpage_navigation_search_hint">Keresés</string>
+    <string name="yellowpage_navigation_search_offline_hint">A hálózat nem elérhető</string>
+    <string name="yellowpage_navigation_search_select_city">Válasszon várost</string>
 </resources>

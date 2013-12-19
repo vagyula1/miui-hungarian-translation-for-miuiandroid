@@ -454,4 +454,7 @@ Használja ki!"</string>
     <string name="file_not_exist_message">A fájl nem található.</string>
     <string name="make_download_dir_fail">A mappa létrehozása nem sikerült!</string>
     <string name="new_device_tips">Új eszköz található. Kattintson a megtekintéshez</string>
+    <string name="confirm_delete_this_picture">Törölni szeretné a kiválasztott képet?</string>
+    <string name="confirm_delete_this_video">Törölni szeretné a kiválasztott videót?</string>
+    <string name="loading_members">Tagok betöltése...</string>
 </resources>

@@ -458,6 +458,15 @@
     <string name="sp_mark_as_read_title">Összes üzenetet megjelölése olvasottként</string>
     <string name="sp_mark_as_read">Megjelöli az összes üzenetet olvasottként?</string>
     <string name="sp_mark_as_read_progress">Összes üzenet megjelölése olvasottként...</string>
-	<string name="mx_btn_enable_now">Engedélyezés</string>
-	<string name="mx_activate_int_popup_msg">Ennek engedélyezése lehetővé teszi a MIUI felhasználók egymás közötti üzenetküldését mobil adatforgalom használata nélkül.</string>
+    <string name="mx_btn_enable_now">Engedélyezés</string>
+    <string name="mx_activate_int_popup_msg">Ennek engedélyezése lehetővé teszi a MIUI felhasználók egymás közötti üzenetküldését mobil adatforgalom használata nélkül.</string>
+    <string name="feedback_description_hint">Ide írja be visszajelzését</string>
+    <string name="feedback_submit">Elküld</string>
+    <string name="pref_key_mx_feedback">Visszajelzés elküldése</string>
+    <string name="pref_summary_mx_feedback">"Segíteheti a MIUI-t!
+Küldje el a hibanaplót és visszajelzését közvetlenül a Xiaomi-nak.”</string>
+    <string name="toast_description_required">Elküldéshez visszajelzés szükséges</string>
+    <string name="toast_feedback_finish">A jelentés automatikusan el lesz küldve Wi-Fi kapcsolat esetén</string>
+    <string name="toast_feedback_max">Csak 3 jelentés küldhető naponta</string>
+    <string name="toast_feedback_start">Visszejelzés küldése…</string>
 </resources>
