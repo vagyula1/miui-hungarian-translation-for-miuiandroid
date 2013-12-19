@@ -613,10 +613,10 @@
     <string name="clear_all_mslog">Üzenetnapló törlése</string>
     <string name="calllog">Híválista</string>
     <string name="firewall_log">Tiltólista</string>
-    <string name="fw_on">Ne zavarjanak engedélyezve</string>
+    <string name="fw_on">Csendes üzemmód engedélyezve</string>
     <string name="fw_blocked">Elutasított napló</string>
     <string name="fw_blocked_count" formatted="false">Intercepted:%d hívás és %d üzenet</string>
-    <string name="firewall_settings">Ne zavarjanak beállításai</string>
+    <string name="firewall_settings">Csendes üzemmód beállításai</string>
     <string name="remove">Törlés</string>
     <string name="emptylist_fwlog_call">Az elutasított hívások itt lesznek naplózva.</string>
     <string name="emptylist_fwlog_ms">Az elutasított üzenetek itt lesznek naplózva.</string>
@@ -2349,10 +2349,10 @@
     <string name="help_label">Súgó</string>
     <string name="cell_broadcast_settings">Cellán belüli adások</string>
     <string name="cell_broadcast_settings_summary">Válassza ki a megjelenítendő vészriasztások típusait.</string>
-    <string name="do_not_disturb_mode">Ne zavarjanak</string>
-    <string name="dndm_notification">Ne zavarjanak engedélyezve</string>
-    <string name="dndm_open">Ne zavarjanak</string>
-    <string name="dndm_summary">Ha a Ne zavarjanak engedélyezve van,a bejövő hívások és üzenetek némítva lesznek (egy holdikon jelenik meg az állapotsoron).</string>
+    <string name="do_not_disturb_mode">Csendes üzemmód</string>
+    <string name="dndm_notification">Csendes üzemmód engedélyezve</string>
+    <string name="dndm_open">Csendes üzemmód</string>
+    <string name="dndm_summary">Ha a Csendes üzemmód engedélyezve van,a bejövő hívások és üzenetek némítva lesznek (egy holdikon jelenik meg az állapotsoron).</string>
     <string name="dndm_auto_setting_group">Idő</string>
     <string name="dndm_auto_button_title">Ütemezett</string>
     <string name="dndm_auto_time_setting">Ütemezés beállítása</string>
@@ -2785,4 +2785,20 @@
     <string name="miui_screensaver_usage">Aktiválás után a képernyő kikapcsolása után 5 másodperccel képernyőkímélőként megjelennek az album képei.</string>
     <string name="only_when_charging">Csak töltéskor</string>
     <string name="picture_source">Képek forrása</string>
+    <string name="button_text_quick_scan">Keresés indítása</string>
+    <string name="deep_clean_tips_cache_content">"Néhány alkalmazás gyorsítótárazott fájlokat használ a kiegészítő fájlok letöltéséhez.Legyen óvatos ezeknek a fájloknak a tisztításakor."</string>
+    <string name="deep_clean_tips_cache_title">Gyorsítótárazott fájlok</string>
+    <string name="deep_clean_tips_large_file_content">Nagyméretű fájlok (több,mint 10MB), melyek sok helyet foglalnak az eszközön.</string>
+    <string name="deep_clean_tips_large_file_title">Nagy fájlok</string>
+    <string name="deep_clean_tips_residual_content">"Maradványfájlok,melyek az alkalmazás eltávolítása után az eszközön maradtak"</string>
+    <string name="deep_clean_tips_residual_title">Maradványfájlok</string>
+    <string name="optimize_tips_ad_content">Képek, és egyéb hirdetéssel kapcsolatos adatok,melyeket egy harmadik fél szolgáltatója helyezett az eszközre.</string>
+    <string name="optimize_tips_ad_title">Reklámok</string>
+    <string name="optimize_tips_cache_content">Ideiglenes fájlok,melyeket az alklmazások és folyamatok generálnak (pl. indexképek).</string>
+    <string name="optimize_tips_cache_title">Gyorsítótár</string>
+    <string name="optimize_tips_residual_content">Maradványfájlok az alkalmazások eltávolítása után keletkeznek. Néhány fájlra még szükség lehet, ezért ajánlott a Speciális beállítások használata a maradványfájlok tisztításakor.</string>
+    <string name="optimize_tips_residual_title">Maradványok</string>
+    <string name="perm_app_manage_empty">Nincs megfigyelt alkalmazás</string>
+    <string name="perm_root_manage_empty">Nincs rendszergazdai jogosultságot szerzett alkalmazás</string>
+    <string name="quick_scan_done_title">A keresés befejeződött!</string> 
 </resources>
