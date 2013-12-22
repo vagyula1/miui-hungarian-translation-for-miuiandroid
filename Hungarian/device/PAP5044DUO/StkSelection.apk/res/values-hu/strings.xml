@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_name">SIM eszköztár</string>
-    <string name="activity_not_found">Az alkalmazás már nincs telepítve a telefonján.</string>
+    <string name="activity_not_found">Az alkalmazás nincs telepítve a készülékre.</string>
     <string name="simlock_toolkit">SIM eszköztár</string>
+    <string name="no_sim_card_inserted">Kérem helyezzen be SIM-et a SIM eszköztár elindításához.</string>
+    <string name="airplane_mode_on">SIM eszköztár nem elérhető, ameddig a repülőgép mód be van kapcsolva.</string>
 </resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Eltávolítja az alkalmazást és %2$d egyéb alkalmazást?</item>
+        <item quantity="one">Eltávolítja az alkalmazást?</item>
+        <item quantity="two">Eltávolítja az alkalmazásokat?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%1$ alkalmazás eltávolítva</item>
+        <item quantity="one">Az alkalmazás eltávolítva</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"Az eltávolítás nem sikerült"</item>
+        <item quantity="one">"Az eltávolítás nem sikerült"</item>
+        <item quantity="two">"Az eltávolítás nem sikerült"</item>
+    </plurals>
+</resources>

@@ -26,7 +26,7 @@
         <item>1 hét</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-    	<item>Semelyik</item>
+    	<item>Nincs</item>
 	<item>0 perc</item>
         <item>1 perc</item>
         <item>5 perc</item>

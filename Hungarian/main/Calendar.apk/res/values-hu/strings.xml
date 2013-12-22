@@ -129,8 +129,8 @@
     <string name="preferences_alerts_vibrateWhen_title">Rezgés</string>
     <string name="preferences_alerts_ringtone_title">Csengőhang kiválasztása</string>
     <string name="preferences_alerts_popup_title">Előugró értesítés</string>
-    <string name="preferences_default_reminder_title">Emlékeztető alapértelmezett ideje</string>
-    <string name="preferences_default_reminder_dialog">Emlékeztető alapértelmezett ideje</string>
+    <string name="preferences_default_reminder_title">Emlékeztető ideje</string>
+    <string name="preferences_default_reminder_dialog">Emlékeztető ideje</string>
     <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Hazai időzóna</string>
     <string name="preferences_use_home_tz_descrip">Naptárak és események megjelenítése utazás közben az otthoni idő szerint</string>
@@ -195,11 +195,11 @@
     <string name="copy_number">Telefonszám másolás</string>
     <string name="done">Visszatérés</string>
     <string name="account_and_calendar">Fiókok és naptárak</string>
-    <string name="account_and_calendar_to_display">Fiókok és naptárak megejelenítése</string>
+    <string name="account_and_calendar_to_display">Fiókok és naptárak megjelenítése</string>
     <string name="button_day">N</string>
     <string name="button_month">H</string>
     <string name="chongsha"/>
-    <string name="default_reminder_mode">Alapértelmezett emlékeztető mód</string>
+    <string name="default_reminder_mode">Emlékeztető módja</string>
     <string name="event_account">Naptár</string>
     <string name="event_all_day_label">Összes nap</string>
     <string name="event_hide_more">Elrejt</string>
@@ -223,4 +223,5 @@
     <string name="zhushen"/>
     <string name="activity_summary">10 yuan lottó</string>
     <string name="activity_title">MIUI Újévi ajándékok</string>
+    <string name="show_almanac">Évkönyv mutatása</string>
 </resources>

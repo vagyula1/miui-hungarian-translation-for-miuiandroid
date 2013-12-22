@@ -3,7 +3,7 @@
     <string name="stock_settings">Gyári beállítások</string>
     <string name="engineermode_settings">Fejlesztői üzemmód</string>
     <string name="schedulepoweronoff_settings">Ütemezett be/kikapcsolás</string>
-    <string name="eng_mode_summary">Információ / statisztikák gyűjtése, tesztelés, finomhangolás</string>
+    <string name="eng_mode_summary">Információ/statisztikák gyűjtése, tesztelés, finomhangolás</string>
     <string name="homescreen">Navigációs sáv</string>
     <string name="homescreen_summary">Navigációs sáv be/kikapcsolása</string>
     <string name="level">Szint</string>

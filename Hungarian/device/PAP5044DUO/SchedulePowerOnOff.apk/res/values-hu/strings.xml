@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="schedule_power_on_off_settings_title">Be-/kikapcsolás ütemezése</string>
     <string name="schedule_power_on_off_time">Idő</string>
     <string name="schedule_power_on_off_repeat">Ismétlés</string>
@@ -16,6 +16,7 @@
     <string name="minutes">" %s perc"</string>
     <string name="every_day">mindennap</string>
     <string name="never">Soha</string>
+    <string name="day_concat">", "</string>
     <string name="done">Kész</string>
     <string name="revert">Visszavonás</string>
     <string name="schpwr_shutdown_message">A telefon %s másodperc múlva kikapcsolódik</string>

@@ -2,5 +2,5 @@
 <resources>
     <string name="title_activity_main">További beállítások</string>
     <string name="menu_settings">Beállítások</string>
-    <string name="hello_world">Hello világ!</string>
+    <string name="hello_world">Hello Világ!</string>
 </resources>

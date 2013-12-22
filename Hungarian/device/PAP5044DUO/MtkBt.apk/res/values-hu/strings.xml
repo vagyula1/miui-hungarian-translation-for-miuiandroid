@@ -3,13 +3,13 @@
     <string name="bluetooth_hid_lable">Vezetéknélküli beviteli eszközök</string>
     <string name="bluetooth_hid_connect">Csatlakozás</string>
     <string name="bluetooth_hid_disconnect">Kapcsolat bontása</string>
-    <string name="bluetooth_hid_unplug">Kihúzás</string>
+    <string name="bluetooth_hid_unplug">Lecsatolás</string>
     <string name="bluetooth_hid_addnewdevice">Új eszköz hozzáadása</string>
     <string name="bluetooth_hid_paireddevices">Párosított vezeték nélküli beviteli eszköz</string>
-    <string name="bluetooth_hid_bt_ok">Bluetooth sikeres engedélyezése!</string>
-    <string name="bluetooth_hid_bt_fail">Bluetooth sikertelen engedélyezése!</string>
+    <string name="bluetooth_hid_bt_ok">Bluetooth sikeresen engedélyezve!</string>
+    <string name="bluetooth_hid_bt_fail">Bluetooth engedélyezése sikertelen!</string>
     <string name="bluetooth_hid_disconnect_confirm_title">Vezeték nélküli beviteli eszköz leválasztása</string>
-    <string name="bluetooth_hid_unplug_confirm_title">Vezeték nélküli beviteli eszköz kihúzása</string>
+    <string name="bluetooth_hid_unplug_confirm_title">Vezeték nélküli beviteli eszköz lecsatolása</string>
     <string name="bluetooth_hid_auth_confirm_title">Vezeték nélküli beviteli eszköz kérésének elfogadása</string>
     <string name="bluetooth_hid_summary_connected">Csatlakoztatva</string>
     <string name="bluetooth_hid_summary_connecting">Csatlakozás...</string>
@@ -26,8 +26,8 @@
     <string name="bluetooth_hid_connect_fail">A(z) %1$s vezeték nélküli beviteli eszköz csatlakoztatása sikertelen.</string>
     <string name="bluetooth_hid_disconnect_ok">A(z) %1$s vezeték nélküli beviteli eszköz leválasztása sikerült.</string>
     <string name="bluetooth_hid_disconnect_fail">A(z) %1$s vezeték nélküli beviteli eszköz leválasztása sikertelen.</string>
-    <string name="bluetooth_hid_unplug_ok">A(z) %1$s vezeték nélküli beviteli eszköz kihúzása sikerült.</string>
-    <string name="bluetooth_hid_unplug_fail">A(z) %1$s vezeték nélküli beviteli eszköz kihúzása sikertelen.</string>
+    <string name="bluetooth_hid_unplug_ok">A(z) %1$s vezeték nélküli beviteli eszköz lecsatolása sikerült.</string>
+    <string name="bluetooth_hid_unplug_fail">A(z) %1$s vezeték nélküli beviteli eszköz lecsatolása sikertelen.</string>
     <string name="bluetooth_hid_disconnect_confirm">Le akarja választani a(z) %1$s vezeték nélküli billentyűzetet?</string>
     <string name="bluetooth_hid_unplug_confirm">Ki akarja húzni a(z) %1$s vezeték nélküli billentyűzetet?</string>
     <string name="bluetooth_hid_auth_confirm">Elfogadja a(z) %1$s vezeték nélküli billentyűzet csatlakozási kérését?</string>
@@ -102,6 +102,7 @@
     <string name="bluetooth_pbap_server_authorize_notify_message">Jelölje ki a PBAP-kapcsolat engedélyezéséhez</string>
     <string name="bluetooth_pbap_server_authorize_title">Bluetooth PBAP-jóváhagyás</string>
     <string name="bluetooth_pbap_server_auth_passcode">Jelszó</string>
+    <string name="bluetooth_pbap_server_auth_ok">OK</string>
     <string name="bluetooth_pbap_server_auth_cancel">Mégse”</string>
     <string name="bluetooth_pbap_server_authorize_allow">Engedélyez</string>
     <string name="bluetooth_pbap_server_authorize_notify_title">Bluetooth PBAP-jóváhagyás kérése</string>
@@ -110,6 +111,7 @@
     <string name="bluetooth_pbap_server_auth_chall_message">%1$s PBAP-hitelesítési kérése</string>
     <string name="bluetooth_pbap_server_authorize_decline">Elutasít</string>
     <string name="bluetooth_pbap_server_authorize_alwaysallowed">Mindig engedélyezi?</string>
+    <string name="app_label">Bluetooth</string>
     <string name="app_description">Bluetooth profilcsomag</string>
     <string name="bt_base_activity_busy_message">Betöltés. Kérjük, várjon...</string>
     <string name="bt_base_activity_service_disconnected">Szolgáltatás leválasztva!</string>
@@ -130,4 +132,5 @@
     <string name="bt_share_openfile_message_invalid_param">Érvénytelen fájl: %1$s (%2$s)</string>
     <string name="bt_share_openfile_message_unsupported_type">Nem támogatott fájltípus: %1$s</string>
     <string name="bt_share_openfile_message_resource_not_found">A fájl nem található: %1$s</string>
+    <string name="bt_share_openfile_confirm">OK</string>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_name">YGPS</string>
     <string name="copyrightinfo_fulltext">Copyright (C) 2009 Ludwig M Brinckmann ludwigbrinckmann@gmail.com The source code for this application is available from http://www.yunnanexplorer.com/ This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/. This program incorporates code by J Latimer released under the following license: Copyright (C) 2008 Jon Larimer jlarimer@gmail.com Licensed under the Apache License, Version 2.0 (the License); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</string>
     <string name="menu_copyright">Védjegyek</string>
@@ -74,4 +74,49 @@
     <string name="HOT_STILL">Android</string>
     <string name="GPS_HW_TEST">Android</string>
     <string name="GPS_JAMMING_SCAN">JAM keresés</string>
+    <string name="jamming_scan_times">20</string>
+    <string name="ygps_copyright_infor">YGPS Copyright Information</string>
+    <string name="toast_input_times">Kérem adja meg a teszt időtartamát</string>
+    <string name="toast_input_range">Kérem adjom meg egy számot 0 és 999 között</string>
+    <string name="toast_input_interval">Kérem adja meg az intervallumot</string>
+    <string name="btn_name_dbg2socket_enable">dbg2socket engedélyezése [Újraindítás szükséges]</string>
+    <string name="btn_name_dbg2socket_disable">dbg2socket tiltása [Újraindítás szükséges]</string>
+    <string name="btn_name_nmea2socket_enable">nmea2socket engedélyezése [Újraindítás szükséges]</string>
+    <string name="btn_name_nmea2socket_disable">nmea2socket tiltása [Újraindítás szükséges]</string>
+    <string name="btn_name_dbg2file_enable">dbg2file engedélyezése [Újraindítás szükséges]</string>
+    <string name="btn_name_dbg2file_disable">dbg2file tiltása [Újraindítás szükséges]</string>
+    <string name="btn_name_dbg2ddms_disable">dbg2ddms tiltása [Újraindítás szükséges]</string>
+    <string name="btn_name_dbg2ddms_enable">dbg2ddms engedélyezése [Újraindítás szükséges]</string>
+    <string name="btn_name_hotstill_disable">Hotstill titlása [Újraindítás szükséges]</string>
+    <string name="btn_name_hotstill_enable">Hotstill engedélyezése [Újraindítás szükséges]</string>
+    <string name="btn_name_dbg2gpsdoctor_enable">dbg2GPSDoctor engedélyezése [Újraindítás szükséges]</string>
+    <string name="btn_name_dbg2gpsdoctor_disable">dbg2GPSDoctor tiltása [Újraindítás szükséges]</string>
+    <string name="toast_save_log_succeed_to">NmeaLog mentése a %1$s sikeres!</string>
+    <string name="toast_save_log_succeed">NmeaLog mentése sikertelen</string>
+    <string name="toast_save_log_failed">NmeaLog mentése sikertelen</string>
+    <string name="toast_create_file_failed">Új fájl létrehozása sikertelen</string>
+    <string name="toast_nmealog_save_at">NMEA napló a %1$s-be mentve</string>
+    <string name="toast_no_log">Nincs menthető napló!</string>
+    <string name="toast_exceed_time">%1$s másodperc túllépve</string>
+    <string name="toast_test_interrupted">GPS auto. teszt megszakítva</string>
+    <string name="toast_jamming_succeed">Jamm keresés beállítása sikeres</string>
+    <string name="toast_jamming_failed">Jamm keresés beállítása sikertelen</string>
+    <string name="toast_first_fix">GPSjavítása %1$d %2$s után</string>
+    <string name="menu_run_bg_disable">Háttérben futás tiltása [Újraindítás szükséges]</string>
+    <string name="menu_run_bg_enable">Háttérben futás engedélyezése [Újraindítás szükséges]</string>
+    <string name="provider_status_enabled">%1$s engedélyezve</string>
+    <string name="provider_status_disabled">%1$s tiltva</string>
+    <string name="gps_status_started">ELINDÍTVA</string>
+    <string name="gps_status_stopped">MEGÁLLÍTVA</string>
+    <string name="gps_status_first_fix">ELSŐ JAVÍTÁS</string>
+    <string name="gps_status_unavailable">NEM ELÉRHETŐ</string>
+    <string name="gps_status_available">ELÉRHETŐ</string>
+    <string name="gps_status_unknown">ISMERETLEN</string>
+    <string name="time_unit_ms"> ms</string>
+    <string name="dialog_title_stop">Leállítás</string>
+    <string name="dialog_message_stop">Kérjük várjon…</string>
+    <string name="dialog_title_error">Hiba</string>
+    <string name="dialog_message_error">Hiba azonosítója</string>
+    <string name="command_error">Parancshiba</string>
+    <string name="gps_test_running_warn">Kérjük állítsa le a GPS tesztet.</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="app_name">SIM-kártya eszközkészlet</string>
+<resources>
+    <string name="app_name">SIM Eszköztár</string>
     <string name="appI_name">SIMI Eszköztár</string>
     <string name="appII_name">SIMII Eszköztár</string>
     <string name="lable_not_available">"Az alkalmazás nincs telepítve"</string>
@@ -29,8 +29,8 @@
     <string name="lable_send_ss">SS küldése</string>
     <string name="lable_send_ussd">USSD küldése</string>
     <string name="lable_send_sms">SMS küldése</string>
-    <string name="lable_send_dtmf">DTMF küldés</string>
-    <string name="lable_setup_event_list">Eseménylista beállítása.</string>
+    <string name="lable_send_dtmf">DTMF küldése</string>
+    <string name="lable_setup_event_list">Eseménylista beállítása</string>
     <string name="lable_setup_idle_modetext">Üresjárati szöveg beállítása</string>
     <string name="lable_setup_menu">Beállítások menü</string>
     <string name="lable_setup_call">Hívás beállítása</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="keyguard_pinword_enter_pinword_code">PIN megadása a kioldáshoz</string>
     <string name="badPin2">A megadott régi PIN2 hibás.</string>
     <string name="badPuk2">A megadott PUK2 hibás.</string>
@@ -190,15 +190,14 @@ Próbálja meg újra %d másodpercen belül."</string>
     <string name="voiceunlock_multiple_failures">A hangfeloldásra tett kísérletek maximális száma túl lett lépve</string>
 	<string name="zzzz_agold_global_action_restart">Újraindítás</string>
     <string name="zzzz_agold_global_action_restart_summary">Minden program bezárása és a telefon újraindítása</string>
-    <string name="zzzz_agold_global_title_restart">Készülék újraindítása？</string>
+    <string name="zzzz_agold_global_title_restart">Készülék újraindítása?</string>
     <string name="zzzz_agold_global_restart_confirm">Az újraindításkor az ideiglenes, mentetlen fájlok törlődni fognak a memóriából. Biztosan folytatni akarja?</string>
 	<string name="agold_global_action_restart">Újraindítás</string>
     <string name="agold_global_action_restart_summary">Minden program bezárása és a telefon újraindítása</string>
-    <string name="agold_global_title_restart">Készülék újraindítása？</string>
+    <string name="agold_global_title_restart">Készülék újraindítása?</string>
     <string name="agold_global_restart_confirm">Az újraindításkor az ideiglenes, mentetlen fájlok törlődni fognak a memóriából. Biztosan folytatni akarja?</string>	
 	<string name="global_action_restart">Újraindítás</string>
     <string name="global_action_restart_summary">Minden program bezárása és a telefon újraindítása</string>
-    <string name="global_title_restart">Készülék újraindítása？</string>
+    <string name="global_title_restart">Készülék újraindítása?</string>
     <string name="global_restart_confirm">Az újraindításkor az ideiglenes, mentetlen fájlok törlődni fognak a memóriából. Biztosan folytatni akarja?</string>		
-
 </resources>
