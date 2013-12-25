@@ -11,7 +11,6 @@
     <string name="floating_window_switch_label_disable">Felugró ablak</string>
     <string name="app_floating_window_dlg_disable">"A %1$s felugró ablak beállításával az alkalmazás kényszerített leállítása megtörténik. Manuálisan még el tudja indítani az alkalmazást.Valóban le kívánja tiltani?"</string>
     <string name="app_floating_window_dlg_enable">"A %1$s felugró ablak beállítása az alékalmazás újraindítását igényli. Az alkalmazás futását Önnek kell leállítania. Valóban engedélyezni kívánja?"</string>
-
     <string name="dlg_cancel">Mégsem</string>
     <string name="cache_manage_title">%1$d gyorsítótárban tárolt fájl törlése, %2$s felszabadítható</string>
     <string name="cache_list_empty_hints">Nincs gyorsítótárazott fájl.</string>
@@ -280,14 +279,12 @@
     <string name="perm_hips_root_desc">ROOT jogosultságok kérése</string>
     <string name="perm_hips_root_desc_stable">A MIUI Stabil verziójában nem érhető el</string>
     <string name="perm_hips_root_hint">%1$s alkalmazás ROOT jogosultságokat kapott</string>
-    <string name="perm_hips_send_sms_recipient">Recipient:</string>
     <string name="perm_hips_send_sms_content">Tartalom:</string>
     <string name="perm_hips_send_sms_smsc">SMS központ:</string>
     <string name="perm_hips_send_sms_smsc_default">Alapértelmezett SMS központ</string>
     <string name="perm_hips_send_sms_data">SMS küldése a %1$s:%2$d</string>
     <string name="perm_hips_send_sms_port">Cél Port:</string>
     <string name="perm_hips_send_sms_recipient">Fogadó:</string>
-
     <string name="perm_hips_call_number">hívás %1$s</string>
     <string name="perm_hips_contact_access">kapcsolat beolvasás</string>
     <string name="perm_hips_sms_access">Bbeérkezett üzenetek olvasása</string>
@@ -1378,7 +1375,7 @@
     <string name="volume_notification_description">Értesítések</string>
     <string name="volume_alarm_description">Ébresztés</string>
     <string name="volume_ring_mute">Némítás &amp; értesítések</string>
-    <string name="volume_media_mute">Zene&amp; más média némítása</string>
+    <string name="volume_media_mute">Zene &amp; más média némítása</string>
     <string name="volume_notification_mute">Értesítések némítása</string>
     <string name="volume_alarm_mute">Riasztások némítása</string>
     <string name="vibrate_when_ringing_title">Rezgés csengetéskor</string>
@@ -2664,7 +2661,6 @@
     <string name="msd_install_retry_mac">Ha a számítógép nem érzékeli az eszközt, akkor próbálja ki a következőt:</string>
     <string name="msd_install_retry_windows_vista">Ha a számítógép nem érzékeli az eszközt, akkor próbálja ki a következőt:</string>
     <string name="msd_install_retry_windows_xp">Ha a számítógép nem érzékeli az eszközt, akkor próbálja ki a következőt:</string>
-
     <string name="msd_install_retry_linux">Ha a számítőgép nem érzékelte az eszközt,Próbálja a következőt:1) Use installation tools ,sudo aptitude install mtpfs libfuse-dev libmad0-dev2) Create directory: mkdir /media/mtp3) Confirm user group permissions in the current user group4) Re-login5) Access mounted device mtpfs /media/mtp via File Explorer; same as local directory6) Uninstall device fusermount -u /media/mtpMegjegyzés: For ubuntu 8.04 environment</string>
     <string name="msd_install_status_undo">Meghajtó telepítése</string>
     <string name="msd_install_status_done">A meghajtó már telepítve van</string>
