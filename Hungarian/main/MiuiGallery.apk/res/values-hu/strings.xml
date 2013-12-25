@@ -457,4 +457,6 @@ Használja ki!"</string>
     <string name="confirm_delete_this_picture">Törölni szeretné a kiválasztott képet?</string>
     <string name="confirm_delete_this_video">Törölni szeretné a kiválasztott videót?</string>
     <string name="loading_members">Tagok betöltése...</string>
+    <string name="folder_holder_file">Fájl tárolóhelye</string>
+    <string name="time_line_view">Idővonal nézet</string>
 </resources>

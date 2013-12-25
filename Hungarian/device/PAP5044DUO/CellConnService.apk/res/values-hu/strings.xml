@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_name">CellConnectionService</string>
     <string name="button_ok">OK</string>
     <string name="button_cancel">Mégse</string>
@@ -8,11 +8,11 @@
     <string name="confirm_radio_flight_mode_on_and_msg">A repülőgép mód be van kapcsolva, és</string>
     <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s kikapcsolva. Szeretné most kikapcsolni a repülőgép módot, és bekapcsolni ezt a SIM-kártyát?</string>
     <string name="confirm_radio_flight_mode_on_sim_on_msg">A repülőgép mód be van kapcsolva. Szeretné most kikapcsolni?</string>
-	<string name="confirm_radio_msg_single">A repülőgép mód be van kapcsolva. Szeretné most kikapcsolni?</string>
+    <string name="confirm_radio_msg_single">A repülőgép mód be van kapcsolva. Szeretné most kikapcsolni?</string>
     <string name="confirm_pin_title">SIM lezárva</string>
-    <string name="confirm_pin_msg">A kijelölt SIM-kártya most már zárolt. Előbb oldja ki.</string>
+    <string name="confirm_pin_msg">A kijelölt SIM-kártya zárolva van. Előbb oldja ki.</string>
     <string name="confirm_simmelock_title">SIM ME lezárva</string>
-    <string name="confirm_simmelock_msg">A kijelölt SIM-nyílás most már zárolt. Előbb oldja ki.</string>
+    <string name="confirm_simmelock_msg">A kijelölt SIM-nyílás zárolva van. Előbb oldja ki.</string>
     <string name="confirm_fdn_title">FDN engedélyezve</string>
     <string name="confirm_fdn_msg">A fix hívószámok engedélyezve.</string>
     <string name="confirm_roaming_title">Barangolási figyelmeztetés</string>

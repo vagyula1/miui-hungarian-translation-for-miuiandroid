@@ -1041,4 +1041,9 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="yellowpage_navigation_search_hint">Keresés</string>
     <string name="yellowpage_navigation_search_offline_hint">A hálózat nem elérhető</string>
     <string name="yellowpage_navigation_search_select_city">Válasszon várost</string>
+    <string name="type_mx_msg">Felhő üzenetkezelés</string>
+    <string name="yellowpage_navigation_search_result_network_error">"Nem sikerült csatlakozni a hálózathoz"</string>
+    <string name="yellowpage_navigation_search_result_no_more">Nincs több eredmény</string>
+    <string name="yellowpage_navigation_search_result_service_error">A szolgáltatás jelenleg nem elérhető</string>
+    <string name="yellowpage_navigation_search_result_unknown_error">Ismeretlen hiba!</string>
 </resources>

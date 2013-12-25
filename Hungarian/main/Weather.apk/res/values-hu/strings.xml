@@ -119,4 +119,7 @@
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
   <string name="widget_loading">Nincsenek időjárás adatok</string>
+  <string name="act_weather_cycle_link_china">Kínai időjárás hálózat</string>
+  <string name="menu_add">Új város</string>
+  <string name="menu_more">Részletek</string>
 </resources>

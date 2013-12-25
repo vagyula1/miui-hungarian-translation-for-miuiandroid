@@ -6,8 +6,8 @@
     <string name="application_version">Huawei Ascend Tools 3.1</string>
     <string name="application_copyright">"Copyright © genokolar@gmail.com 2012 
 http://weibo.com/geno"</string>
-    <string name="zuozhe">Made by genokolar@gmail.com</string>
-    <string name="power_title">power</string>
+    <string name="zuozhe">Készítette: genokolar@gmail.com</string>
+    <string name="power_title">erő</string>
     <string name="reboot">Újraindítás</string>
     <string name="recovery">Recovery</string>
     <string name="shutdown">Kikapcsolás</string>
@@ -17,68 +17,68 @@ http://weibo.com/geno"</string>
     <string name="shutdown_summary">Gyors kikapcsolás</string>
     <string name="fastboot_summary">Belépés Fastboot módba</string>
     <string name="toast_error">Nem futtatható</string>
-    <string name="do_message">Doing</string>
-    <string name="ota_notfound_message">Not found update.zip</string>
-    <string name="recovery_notfound_message">Not found recovery.img</string>
-    <string name="boot_notfound_message">Not found boot.img</string>
-    <string name="ota_message">Wait a moment, running...</string>
+    <string name="do_message">Cselekedet</string>
+    <string name="ota_notfound_message">Nem található update.zip</string>
+    <string name="recovery_notfound_message">Nem található recovery.img</string>
+    <string name="boot_notfound_message">Nem található boot.img</string>
+    <string name="ota_message">Kérlek várj, fut...</string>
     <string name="recovery_message">"Flash recovery
-But you need verify it youself"</string>
+De magadnak kell ellenőrizni"</string>
     <string name="boot_message">"Flash boot
-But you need verify it youself"</string>
-    <string name="rommanage_title">Rom Manage</string>
-    <string name="rommanage_summary">Flash/Update your phone rOM</string>
+De magadnak kell ellenőrizni"</string>
+    <string name="rommanage_title">Rom Kezelő</string>
+    <string name="rommanage_summary">Telefon  ROM Flash/Frissítése</string>
     <string name="flashboot">Flash boot</string>
     <string name="flashrecovery">Flash recovery</string>
-    <string name="ota">Flash zip Package</string>
-    <string name="ota_title">Flash ROM Package</string>
-    <string name="ota2_title">Flash OTA Package</string>
-    <string name="flashboot_summary">Flash the SD card boot.img</string>
-    <string name="flashrecovery_summary">Flash the SD card recovery.img</string>
-    <string name="ota_summary">Flash the SD card update.zip package</string>
-    <string name="shutdown_dialog_message">Turn off your phone?</string>
-    <string name="reboot_dialog_message">Reboot your phone?</string>
-    <string name="recovery_dialog_message">Into recovery mode?</string>
-    <string name="fastboot_dialog_message">Into fastboot mode?</string>
+    <string name="ota">Flash zip csomag</string>
+    <string name="ota_title">Flash ROM csomag</string>
+    <string name="ota2_title">Flash OTA csomag</string>
+    <string name="flashboot_summary">Flash az SD kártyán lévő boot.img</string>
+    <string name="flashrecovery_summary">Flash SD kártyán lévő recovery.img</string>
+    <string name="ota_summary">Flash SD kártyán lévőupdate.zip package</string>
+    <string name="shutdown_dialog_message">Készülék kikapcsolása?</string>
+    <string name="reboot_dialog_message">Készülék ujraindítása?</string>
+    <string name="recovery_dialog_message">recovery módban?</string>
+    <string name="fastboot_dialog_message">fastboot módban?</string>
     <string name="flashboot_dialog_message">Flash boot.img?</string>
     <string name="flashrecovery_dialog_message">Flash recovery.img?</string>
-    <string name="ota_dialog_message">"warning!!
+    <string name="ota_dialog_message">"Figyelmeztetés!
 Flash Rom package will miss all data,Flash?"</string>
-    <string name="ota2_dialog_message">"warning!!
+    <string name="ota2_dialog_message">"Figyelmeztetés!
 Flash OTA package will not miss all data,Flash?"</string>
     <string name="misc_title">Egyéb beállítások</string>
     <string name="usb_mass_storage">USB Link</string>
-    <string name="usb_mass_storage_summary">Usb mass storage funkciók engedélyezése</string>
-    <string name="uprom">wipe all data</string>
+    <string name="usb_mass_storage_summary">Usb háttértér funkciók engedélyezése</string>
+    <string name="uprom">összes adat törlése</string>
     <string name="uprom_summary">"Flash zip package while wipe all data[flash ota package don't select]"</string>
-    <string name="br_title">Backup</string>
-    <string name="br_summary">Backup/Restore app and all data</string>
-    <string name="backup">Backup</string>
-    <string name="backup_summary">one key backup your app and data</string>
-    <string name="backup_message">"all running in the backgroud 
-backup files in /sdcard/Geno_backup"</string>
-    <string name="backup_dialog_message">"warning！
-Backup will automatically overwrite the last backup data
-backup？"</string>
-    <string name="restore">Restorey</string>
-    <string name="restore_summary">one key restore your app and data</string>
-    <string name="restore_message">"all running in the backgroud
-when all done the phone will auto reboot"</string>
-    <string name="restore_dialog_message">"warning！！
-Restore operation will miss current data
-after restore the phone will auto reboot
-restore？"</string>
-    <string name="restore_notfound_message">Not found Backup files</string>
-    <string name="amss">AMSS manage</string>
-    <string name="amss_title">Mount AMSS</string>
-    <string name="amss_summary">Mount AMSS Partition</string>
-    <string name="amss_message">"AMSS mounted 
-Please careful operation"</string>
-    <string name="amss_dialog_message">"warning！！
+    <string name="br_title">Mentés</string>
+    <string name="br_summary">Mentés/Visszaállítás alk. és az összes adat</string>
+    <string name="backup">Mentés</string>
+    <string name="backup_summary">alkalmazások és adatok visszaállítása</string>
+    <string name="backup_message">"A háttérben futó mentés befejezve.
+mentett fájl helye: /sdcard/Geno_backup"</string>
+    <string name="backup_dialog_message">"Figyelmeztetés!
+A mentés automatikusan felülírja a korábban mentett adatokat
+mentés?"</string>
+    <string name="restore">Visszaállítás</string>
+    <string name="restore_summary">alkalmazások és adatok visszaállítása</string>
+    <string name="restore_message">"minden futtatása a háttérben
+amikor minden befejeződött, a telefon újraindul"</string>
+    <string name="restore_dialog_message">"Figyelmeztetés!
+Visszaállítás során a jelenlegi adat elveszhet
+visszaállítás után a telefon újraindul
+visszaállítja?"</string>
+    <string name="restore_notfound_message">Mentési fájlok nem találhatók</string>
+    <string name="amss">AMSS kezelése</string>
+    <string name="amss_title">AMSS felcsatolása</string>
+    <string name="amss_summary">AMSS Partíció felcsatolása</string>
+    <string name="amss_message">"AMSS felcsatolva 
+Kérjük kezelje óvatosan"</string>
+    <string name="amss_dialog_message">"Figyelmeztetés!
 
-The AMSS partition will be mounted on / amss directory
-Change AMSS files may cause the phone to a brick, most care!！
-mount AMSS？"</string>
+Az AMSS partíció felcsatolásra kerül a / amss könyvtárba
+AMSS fájlok módosítása tönkre teheti a telefont,legyél elővigyázatos!
+AMSS felcsatolása?"</string>
     <string name="extra_title">Extra beállítások</string>
     <string name="extra_summary">Néhány extra beállítás</string>
     <string name="boot_sound">Indítás</string>
@@ -91,51 +91,51 @@ mount AMSS？"</string>
     <string name="key_light_summary">Gombok hangjának engedélyezése/tiltása</string>
     <string name="dts_mode">DTS Mód</string>
     <string name="dts_mode_summary">DTS hang módok engedélyezése/tiltása</string>
-    <string name="emmc">Use ext_sdcard</string>
-    <string name="emmc_summary">Use Internal card flash boot/recovery</string>
-    <string name="ota_notsupport_message">Not support Internal card flash Rom</string>
+    <string name="emmc">ext_sdcard használata</string>
+    <string name="emmc_summary">Belső tárhely használata flash boot/recovery</string>
+    <string name="ota_notsupport_message">Nem támogatott belső kártya flash Rom</string>
     <string name="oem_title">OEMINFO</string>
     <string name="oem_backup">OEMINFO mentése</string>
     <string name="oem_backup_summary">OEMINFO[IMEI etc..] mentése</string>
-    <string name="oem_backup_message">"running in the backgroud ackup complete 
-backup files in /sdcard/Geno_backup"</string>
-    <string name="oem_backup_dialog_message">"warning！
-Backup will automatically overwrite the last backup data
-backup？"</string>
+    <string name="oem_backup_message">"A háttérben futó mentés befejezve.
+mentett fájl helye: /sdcard/Geno_backup"</string>
+    <string name="oem_backup_dialog_message">"Figyelmeztetés!
+A mentés automatikusan felülírja a korábban mentett adatokat
+mentés?"</string>
     <string name="oem_restore">OEMINFO visszaállítása</string>
     <string name="oem_restore_summary">OEMINFO[IMEI etc..] visszaállítása</string>
-    <string name="oem_restore_message">"fut a háttérben,
+    <string name="oem_restore_message">"A háttérben fut,
 ne zárja be az alkalmazást"</string>
-    <string name="oem_restore_dialog_message">"Figyelmeztetés！！
-Restore operation will miss current data
-after restore the phone will auto reboot
-restore？"</string>
+    <string name="oem_restore_dialog_message">"Figyelmeztetés!!
+Visszaállítás során a jelenlegi adat elveszhet
+visszaállítás után a telefon újraindul
+visszaállítja?"</string>
     <string name="oem_restore_notfound_message">Nem található visszaállítható fájl</string>
     <string name="performance_title">Teljesítmény</string>
-    <string name="performance_summary">"Adjust the phone's performance"</string>
-    <string name="vsync">UI accelerate</string>
-    <string name="vsync_summary">UI acceleration, experience better</string>
+    <string name="performance_summary">"Állítsa be a telefon teljesítményét"</string>
+    <string name="vsync">UI gyorsítás</string>
+    <string name="vsync_summary">UI gyorsítás, jobb tapasztalat</string>
     <string name="swap">SWAP</string>
-    <string name="swap_summary">Using the swap to improve memory</string>
+    <string name="swap_summary">Hasznélja a swap-ot a memória javításához</string>
     <string name="zram">ZRAM</string>
-    <string name="zram_summary">Using the zram to improve memory</string>
-    <string name="powermanage">Power Manage</string>
-    <string name="powermanage_summary">Select power manage mode</string>
+    <string name="zram_summary">Hasznélja a zram-ot a memória javításához</string>
+    <string name="powermanage">Energiagazdálkodás</string>
+    <string name="powermanage_summary">Energiagazdálkodási mód kiválasztása</string>
     <string name="lowmem">Memóriakezelés</string>
     <string name="lowmem_summary">Memóriakezelés módjának kiválasztása</string>
-    <string name="lite_summary">Lite system services</string>
-    <string name="huawei">MIUI services</string>
-    <string name="huawei_summary">Lite MIUI system services</string>
-    <string name="google">Goolge services</string>
-    <string name="google_summary">Lite Google system services</string>
+    <string name="lite_summary">Csökkentett rendszer szolgáltatások</string>
+    <string name="huawei">MIUI szolgáltatások</string>
+    <string name="huawei_summary">Csökkentett MIUI szolgáltatások</string>
+    <string name="google">Goolge szolgáltatások</string>
+    <string name="google_summary">Csökkentett Google szolgáltatások</string>
     <string name="other">Egyéb</string>
-    <string name="other_summary">Lite Other services</string>
+    <string name="other_summary">Csökkentett egyéb services</string>
     <string name="miui">MIUI Szolgáltatások</string>
-    <string name="miui_summary">Lite MIUI system services</string>
-    <string name="network">Network/Safe</string>
-    <string name="network_summary">Lite Network/Safe services</string>
+    <string name="miui_summary">Csökkentett MIUI szolgáltatások</string>
+    <string name="network">Hálózat/Biztonság</string>
+    <string name="network_summary">Csökkentett Hálózat/Biztonság szolgáltatások</string>
     <string name="gf_title">Google Framework</string>
-    <string name="googlefw_summary">Lite Google framework</string>
+    <string name="googlefw_summary">Csökkentett Google framework</string>
     <string name="camera_focus_sound">Kamera Fókuszálás</string>
     <string name="camera_focus_sound_summary">Kamera fókuszálás hangjának engedélyezése/tiltása</string>
 </resources>

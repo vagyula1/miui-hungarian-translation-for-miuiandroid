@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ringdroid_app_name">Ringdroid</string>
+    <string name="main_activity_label">Ringdroid</string>
+    <string name="search_edit_box">Keresés</string>
+    <string name="button_start_record_activity">Új Rögzítése</string>
+    <string name="sdcard_readonly">Sajnáljuk, az SD kártya csak olvasható módban van csatolva, a Ringdroid használatához írható mód szükséges.</string>
+    <string name="no_sdcard">"Sajnáljuk, a Ringdroid nem futtatható, amig az SD kártya be van helyezve."</string>
+    <string name="sdcard_shared">"Sajnáljuk, a Ringdroid nem futtatható, amig a telefon USB eszközként van felcsatolva."</string>
+    <string name="button_options">Beállítások</string>
+    <string name="start_label">Kezdés:</string>
+    <string name="end_label">Vége:</string>
+    <string name="edit_intent">Szerkesztés</string>
+    <string name="time_seconds">másodpercek</string>
+    <string name="what_to_do_with_ringtone">Mentve! Beállítja alapértelmezett csengőhangnak, vagy hozzárendeli névjegyhez?</string>
+    <string name="set_default_notification">Mentve! Beállítja alapértelmezett értesítési hangnak?</string>
+    <string name="set_default_alarm">Mentve! Beállítja alapértelmezett riasztási hangnak?</string>
+    <string name="make_default_ringtone_button">Legyen alapértelmezett</string>
+    <string name="choose_contact_ringtone_button">Hozzárendelés névjegyhez</string>
+    <string name="do_nothing_with_ringtone_button">Bezárás</string>
+    <string name="progress_dialog_loading">Betöltés...</string>
+    <string name="progress_dialog_saving">Mentés...</string>
+    <string name="start_marker">Kezdő jelölő</string>
+    <string name="end_marker">Vég jelölő</string>
+    <string name="rewind">Hátra</string>
+    <string name="play">Lejátszás</string>
+    <string name="stop">Leállítás</string>
+    <string name="ffwd">Gyors előre</string>
+    <string name="zoom_in">Nagyítás</string>
+    <string name="zoom_out">Kicsinyítés</string>
+    <string name="save_button">Mentés</string>
+    <string name="menu_save">Mentés</string>
+    <string name="menu_reset">Újraindítás</string>
+    <string name="menu_about">Róla</string>
+    <string name="menu_privacy">Titoktartás</string>
+    <string name="menu_show_all_audio">Összes Audió mutatása</string>
+    <string name="context_menu_edit">Szerkesztés</string>
+    <string name="context_menu_delete">Törlés</string>
+    <string name="context_menu_default_ringtone">Beállítás alapértelmezett csengőhangnak</string>
+    <string name="context_menu_contact">Társítás névjegyhez</string>
+    <string name="context_menu_default_notification">Beállítás alapértelmezett értesítés hangnak</string>
+    <string name="context_menu_default_alarm">Beállítás alapértelmezett riasztás hangnak</string>
+    <string name="file_save_title">Mentés másként:</string>
+    <string name="file_save_button_save">Mentés</string>
+    <string name="file_save_button_cancel">Mégse</string>
+    <string name="ringtone_type_label">Típus:</string>
+    <string name="type_music">Zene</string>
+    <string name="type_alarm">Riasztás</string>
+    <string name="type_notification">Értesítés</string>
+    <string name="type_ringtone">Csengőhang</string>
+    <string name="ringtone_name_label">Néve:</string>
+    <string name="artist_name">Ringdroid</string>
+    <string name="delete_ringtone">Csengőhang törlése</string>
+    <string name="delete_alarm">Riasztási hang törlése</string>
+    <string name="delete_notification">Értesítési hang törlése</string>
+    <string name="delete_music">Zene törlése</string>
+    <string name="delete_audio">Audió törlése</string>
+    <string name="confirm_delete_ringdroid">Valóban törli?</string>
+    <string name="confirm_delete_non_ringdroid">Valóban törli? Ez a fájl nem a Ringdroiddal készült!</string>
+    <string name="delete_ok_button">Törlés</string>
+    <string name="delete_cancel_button">Mégse</string>
+    <string name="delete_failed">Nem lehet törölni a fájlt</string>
+    <string name="file_exists">Fájl nem létezik, vagy már törölték</string>
+    <string name="alert_title_success">Sikeres</string>
+    <string name="alert_title_failure">Hiba</string>
+    <string name="alert_ok_button">OK</string>
+    <string name="alert_yes_button">Igen, kérlek!</string>
+    <string name="alert_no_button">Nem, köszönöm.</string>
+    <string name="save_success_message">Mentve!</string>
+    <string name="default_ringtone_success_message">Alapértelmezett csengőhang megváltoztatva</string>
+    <string name="default_notification_success_message">Alapértelmezett értesítési hang megváltoztatva</string>
+    <string name="default_alarm_success_message">Alapértelmezett riasztási hang megváltoztatva</string>
+    <string name="play_error">Nem lehet lejátszani ezt a média fájlt</string>
+    <string name="no_unique_filename">Nem található az egyedi fájlnév</string>
+    <string name="delete_tmp_error">Hiba az ideiglenes fájl törlése során</string>
+    <string name="record_error">Hiba a hangrögzítő megnyitása során</string>
+    <string name="too_small_error">"Nem menthető a fájl, mert túl rövid. Kérjük próbáljon meg egy hoszabbat."</string>
+    <string name="write_error">Fájl írási hiba</string>
+    <string name="read_error">Fájl olvasási hiba</string>
+    <string name="no_space_error">Az SD kártya megtelt, nincs elegendő hely a fájl mentéséhez..</string>
+    <string name="bad_extension_error">Sajnáljuk, a Ringdroid még nem tudja szerkeszteni ezt a fájltípust.</string>
+    <string name="no_extension_error">"Sajnáljuk, a Rindroid nem tudja szerkeszteni a fájlt, ha az nem .mp3 vagy .wav kiterjesztésű."</string>
+    <string name="choose_contact_title">Csengőhang hozzárendelése mely névjegyhez történjen?</string>
+    <string name="success_contact_ringtone">Csengőhang sikeresen hozzárendelve:</string>
+    <string name="server_title">Adat megosztása!</string>
+    <string name="server_prompt">Hozzájárul névtelen adatok küldéséhez a Ringdroiddal készített csengőhangok és egyéb hangokkal kapcsolatban? Az adatvédelmi politika elérhető a google.com/mobile/privacy.html oldalon.</string>
+    <string name="server_yes">OK a küldéshez</string>
+    <string name="server_later">Kérdezze később</string>
+    <string name="server_never">Soha</string>
+    <string name="error_server_prompt">Hozzájárul a Ringdroiddal készített hang során felmerült hibával kapcsolatos névtelen adatok küldéséhez, hogy a hibát javítani tudjuk a jövőben? Az adatvédelmi politika elérhető a google.com/mobile/privacy.html oldalon.</string>
+    <string name="about_title">A Ringdroidról</string>
+    <string name="about_text">"Használja a Ringdroidot MP3, WAV, AAC, és AMRfájlokból történő csengőhang, riasztás, és értesítési hangok létrehozásához.
+i
+Tip: Másolja az mp3 fájlt az SD kártyára USB kábel segítségével, vagy használja az Amazon mp3 alkalmazást
+
+Tip: A főképernyőn hosszan nyomva tartva az mp3 fájl törölhető. Még több...
+
+Tip: Érintse meg bárhol a hanghullámot a lejátszás elindításához
+
+Tip: Lejátszás alatt nyomja meg a Kezdő vagy Vég gombokat, hogy beállítsa a jelenlegi pozíciót a gombnak megfelelő állásba.
+
+
+Verzió 2.3
+
+Fejlesztő: Dominic Mazzoni
+Grafika: Joseph Wain
+Támogatás és térítés: Eugene Koh
+Fejlesztések: Dan Klufas
+
+Ringdroid egy ingyenes szoftver, Apache 2.0 licensz alatt terjesztve. A forráskód megtalálható a  code.google.com oldalon.
+"</string>
+    <string name="menu_manager_list">Szerkesztési lista</string>
+    <string name="set_as_start">Beállítás kezdésként</string>
+    <string name="set_as_end">Beállítás végként</string>
+    <string name="set_as">Beállítás</string>
+    <string name="start_time">Kezdés</string>
+    <string name="end_time">Vég</string>
+    <string name="init_time">00:00</string>
+    <string name="noContactsHelpText">"Önnek nincs egyedi csengőhangja.
+
+To trim ring, go to the"<li><font fgcolor="#ff000000"><b> music , the music files you want to clip， click the <font fgcolor="#ff000000"><b>menu</b></font>"，then touch:
+ 
+"<li><font fgcolor="#ff000000"><b>"Use as ringtoneSelect the Cut ringtone，clip ring into the interface
+"</b></font></li>" 
+"<li><font fgcolor="#ff000000"><b>"savedsaved by the production of tone
+"</b></font></li>" 
+"<li><font fgcolor="#ff000000"><b>"menu－list managementmanage your self custom ring tones
+"</b></font></li></b></font></li></string>
+</resources>

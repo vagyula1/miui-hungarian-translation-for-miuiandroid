@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="import_to">Importálás ide:</string>
     <string name="import_button">Importálás</string>
-    <string name="cancel">Mégse”</string>
-    <string name="no_access_toast">A fiók nem található. Adjon hozzá előbb egy fiókot</string>
-    <string name="null_name">Nincs”</string>
+    <string name="cancel">Mégse</string>
+    <string name="no_access_toast">A fiók nem található. Adjon hozzá előbb egy fiókot.</string>
+    <string name="null_name">Nincs</string>
     <string name="import_message">Szeretné a számot importálni a Naptárba?</string>
     <string name="calendar_lable">"Naptár: "</string>
     <string name="date_lable">"Dátum: "</string>

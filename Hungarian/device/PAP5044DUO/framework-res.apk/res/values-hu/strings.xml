@@ -202,7 +202,7 @@ hátra van :"</string>
     <string name="CnirMmi">Hívószám korlátozva</string>
     <string name="ThreeWCMmi">Háromutas hívás</string>
     <string name="RuacMmi">A nem kívánt bosszantó hívások elutasítása</string>
-    <string name="CndMmi">Hívószám-kézbesítés</string>
+    <string name="CndMmi">Hívószám-küldés</string>
     <string name="DndMmi">Ne zavarjanak</string>
     <string name="CLIRDefaultOnNextCallOn">A hívóazonosító alapértelmezett értéke korlátozott. Következő hívás: korlátozott</string>
     <string name="CLIRDefaultOnNextCallOff">A hívóazonosító alapértelmezett értéke korlátozott. Következő hívás: nem korlátozott</string>
@@ -293,7 +293,7 @@ hátra van :"</string>
     <string name="global_action_toggle_silent_mode">Néma üzemmód</string>
     <string name="global_action_silent_mode_on_status">Hang kikapcsolva</string>
     <string name="global_action_silent_mode_off_status">Hang bekapcsolva</string>
-    <string name="global_actions_toggle_airplane_mode">Repülőgép üzemmód</string>
+    <string name="global_actions_toggle_airplane_mode">Repülőgép mód</string>
     <string name="global_action_reboot">Újraindítás</string>
     <string name="reboot_confirm">A készülék újraindítását választotta.</string>
     <string name="reboot_confirm_question">Folytatni akarja?</string>
@@ -301,8 +301,8 @@ hátra van :"</string>
     <string name="global_action_power_restart">Újraindítás</string>
     <string name="restart_phone">Készülék újraindítása</string>
     <string name="restart_confirm">Az újraindítás hatására az alkalmazásokban ideiglenesen létrehozott, még mentetlen fájlok elvesznek. Folytatni akarja?</string>	
-    <string name="global_actions_airplane_mode_on_status">Repülőgép üzemmód bekapcsolva</string>
-    <string name="global_actions_airplane_mode_off_status">Repülőgép üzemmód kikapcsolva</string>
+    <string name="global_actions_airplane_mode_on_status">Repülőgép mód bekapcsolva</string>
+    <string name="global_actions_airplane_mode_off_status">Repülőgép mód kikapcsolva</string>
     <string name="safeMode">Biztonsági üzemmód</string>
     <string name="android_system_label">Android rendszer</string>
     <string name="permgrouplab_costMoney">Fizetős szolgáltatások</string>
@@ -362,7 +362,7 @@ hátra van :"</string>
     <string name="permgrouplab_display">Egyéb alkalmazások kezelőfelülete</string>
     <string name="permgroupdesc_display">Hozzáférés más alkalmazások kezelőfelületéhez</string>
     <string name="permgrouplab_storage">Tárhely</string>
-    <string name="permgroupdesc_storage">Az SD-kártya elérése.</string>
+    <string name="permgroupdesc_storage">Az SD kártya elérése.</string>
     <string name="permlab_statusBar">állapotsor kikapcsolása vagy módosítása</string>
     <string name="permdesc_statusBar">Lehetővé teszi az alkalmazás számára az állapotsor kikapcsolását, illetve rendszerikonok hozzáadását és eltávolítását.</string>
     <string name="permlab_statusBarService">állapotsor</string>
@@ -577,9 +577,9 @@ hátra van :"</string>
     <string name="permdesc_brick">Lehetővé teszi az alkalmazás számára a teljes telefon végleges letiltását. Ez nagyon veszélyes.</string>
     <string name="permlab_reboot">telefon újraindításának kikényszerítése</string>
     <string name="permdesc_reboot">Lehetővé teszi az alkalmazás számára a telefon kényszerített újraindítását.</string>
-    <string name="permlab_mount_unmount_filesystems">hozzáférés az SD-kártyához</string>
+    <string name="permlab_mount_unmount_filesystems">hozzáférés az SD kártyához</string>
     <string name="permdesc_mount_unmount_filesystems">Lehetővé teszi az alkalmazás számára a külső adathordozók fájlrendszereinek csatlakoztatását és leválasztását.</string>
-    <string name="permlab_mount_format_filesystems">SD-kártya törlése</string>
+    <string name="permlab_mount_format_filesystems">SD kártya törlése</string>
     <string name="permdesc_mount_format_filesystems">Lehetővé teszi az alkalmazás számára a cserélhető tárhely megformázását.</string>
     <string name="permlab_asec_access">információkérés a belső tárhelyről</string>
     <string name="permdesc_asec_access">Lehetővé teszi az alkalmazás számára, hogy információkat kérjen a belső tárhelyről.</string>
@@ -689,8 +689,8 @@ hátra van :"</string>
     <string name="permdesc_writeDictionary">Lehetővé teszi az alkalmazás számára, hogy új szavakat írjon a felhasználói szótárba.</string>
     <string name="permlab_sdcardRead">védett tárhelyhez való hozzáférés tesztelése</string>
     <string name="permdesc_sdcardRead">Lehetővé teszi az alkalmazás számára egy olyan USB-háttértár engedélyének tesztelését, amely későbbi eszközökön lesz elérhető.</string>
-    <string name="permlab_sdcardWrite">SD-kártya tartalmának módosítása vagy törlése</string>
-    <string name="permdesc_sdcardWrite">Lehetővé teszi az alkalmazás számára, hogy írjon az SD-kártyára.</string>
+    <string name="permlab_sdcardWrite">SD kártya tartalmának módosítása vagy törlése</string>
+    <string name="permdesc_sdcardWrite">Lehetővé teszi az alkalmazás számára, hogy írjon az SD kártyára.</string>
     <string name="permlab_mediaStorageWrite">belső tár tartalmának módosítása/törlése</string>
     <string name="permdesc_mediaStorageWrite">Lehetővé teszi az alkalmazás számára, hogy módosítsa a belső háttértár tartalmát.</string>
     <string name="permlab_sdcardAccessAll">hozzáf. minden felh. külső tár</string>
@@ -1149,7 +1149,7 @@ Szeretné bezárni?"</string>
     <string name="usb_cd_installer_notification_title">Csatlakoztatva telepítőként</string>
     <string name="usb_accessory_notification_title">Csatlakoztatva egy USB-kiegészítőhöz</string>
     <string name="usb_notification_message">Érintse meg a további USB-opciókért.</string>
-    <string name="extmedia_format_title">SD-kártya formázása?</string>
+    <string name="extmedia_format_title">SD kártya formázása?</string>
     <string name="extmedia_format_message">A kártyán lévő összes adat elvész.</string>
     <string name="extmedia_format_button_format">Formázás</string>
     <string name="adb_active_notification_title">USB hibakereső csatlakoztatva</string>
@@ -1239,14 +1239,14 @@ a(z) %s fiók számára."</string>
     <string name="find_on_page">Keresés az oldalon</string>
     <string name="action_mode_done">Kész</string>
     <string name="progress_unmounting_internal">Belső tárhely leválasztása…</string>
-    <string name="progress_unmounting">SD-kártya leválasztása...</string>
+    <string name="progress_unmounting">SD kártya leválasztása...</string>
     <string name="progress_erasing_internal">Belső tárhely törlése…</string>
-    <string name="progress_erasing">Az SD-kártya törlése...</string>
-    <string name="format_error">Nem lehet törölni az SD-kártyát.</string>
-    <string name="media_bad_removal">Az SD-kártya nem lett lecsatolva, mielőtt eltávolították.</string>
-    <string name="media_checking">Az SD-kártya ellenőrzése folyamatban van.</string>
-    <string name="media_removed">Az SD-kártya eltávolításra került.</string>
-    <string name="media_shared">Az SD-kártyát jelenleg a számítógép használja.</string>
+    <string name="progress_erasing">Az SD kártya törlése...</string>
+    <string name="format_error">Nem lehet törölni az SD kártyát.</string>
+    <string name="media_bad_removal">Az SD kártya nem lett lecsatolva, mielőtt eltávolították.</string>
+    <string name="media_checking">Az SD kártya ellenőrzése folyamatban van.</string>
+    <string name="media_removed">Az SD kártya eltávolításra került.</string>
+    <string name="media_shared">Az SD ártyát jelenleg a számítógép használja.</string>
     <string name="media_unknown_state">A külső meghajtó állapota ismeretlen.</string>
     <string name="share">Megosztás</string>
     <string name="find">Keresés</string>
@@ -1309,7 +1309,7 @@ a(z) %s fiók számára."</string>
     <string name="action_bar_up_description">Felfele mozgás</string>
     <string name="action_menu_overflow_description">További lehetőségek</string>
     <string name="storage_internal">Belső tárhely</string>
-    <string name="storage_sd_card">SD-kártya</string>
+    <string name="storage_sd_card">SD kártya</string>
     <string name="storage_usb">USB-tár</string>
     <string name="extract_edit_menu_button">Szerkesztés</string>
     <string name="data_usage_warning_title">Adathasználati figyelmeztetés</string>
@@ -1343,7 +1343,7 @@ a(z) %s fiók számára."</string>
     <string name="activity_chooser_view_see_all">Összes megtekintése</string>
     <string name="activity_chooser_view_dialog_title_default">Tevékenység kiválasztása</string>
     <string name="share_action_provider_share_with">Megosztás</string>
-    <string name="status_bar_device_locked">Az eszköz le van zárva.</string>
+    <string name="status_bar_device_locked">Az eszköz zárolva van.</string>
     <string name="list_delimeter">", "</string>
     <string name="sending">Küldés…</string>
     <string name="launchBrowserDefault">Böngésző indítása?</string>
@@ -1363,7 +1363,7 @@ a(z) %s fiók számára."</string>
     <string name="media_route_status_available">Elérhető</string>
     <string name="media_route_status_not_available">Nem érhető el</string>
     <string name="display_manager_built_in_display_name">Beépített képernyő</string>
-    <string name="display_manager_hdmi_display_name">HDMI-képernyő</string>
+    <string name="display_manager_hdmi_display_name">HDMI képernyő</string>
     <string name="display_manager_overlay_display_name">%1$d. fedvény</string>
     <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d képpont</string>
     <string name="wifi_display_notification_title">Vezeték nélküli kijelző csatlakoztatva</string>
@@ -1420,13 +1420,13 @@ Ha hosszú ideig hangosan hallgatja a zenét, az károsíthatja a hallását."</
     <string name="enable_accessibility_canceled">Hozzáférés megszakítva.</string>
     <string name="user_switched">%1$s az aktuális felhasználó.</string>
     <string name="owner_name">Tulajdonos</string>
-    <string name="storage_phone">Telefon-memória</string>
-    <string name="storage_external_usb">Külső USB-tároló</string>
+    <string name="storage_phone">Telefon memória</string>
+    <string name="storage_external_usb">Külső USB tároló</string>
     <string name="zz_keyguard_accessibility_voice_unlock">Hangkioldás.</string>
     <string name="usb_ums_notification_title">Csatlakoztatva USB tárolóként</string> 
     <string name="usb_charging_notification_title">Csak töltés USB-ről</string>
     <string name="zzzz_agold_global_action_restart">Újraindítás</string>
     <string name="zzzz_agold_global_action_restart_summary">Minden program bezárása és a telefon újraindítása</string>
-    <string name="zzzz_agold_global_title_restart">Készülék újraindítása？</string>
+    <string name="zzzz_agold_global_title_restart">Készülék újraindítása?</string>
     <string name="zzzz_agold_global_restart_confirm">Az újraindításkor az ideiglenes, mentetlen fájlok törlődni fognak a memóriából. Biztosan folytatni akarja?</string>	
 </resources>

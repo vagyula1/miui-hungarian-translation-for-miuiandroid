@@ -6,7 +6,7 @@
     <string name="camera_label">Kamera</string>
     <string name="video_camera_label">Videókamera</string>
     <string name="wait">Kérem várjon…</string>
-    <string name="no_storage">Helyezzen egy SD kártyát.</string>
+    <string name="no_storage">Helyezzen be egy SD kártyát.</string>
     <string name="not_enough_space">Kevés a memória</string>
     <string name="preparing_sd">Belső tárhely előkészítése…</string>
     <string name="access_sd_fail">Nem elérhető a belső tárhely.</string>
@@ -27,7 +27,7 @@
     <string name="pref_camera_recordlocation_entry_off">Ki</string>
     <string name="pref_camera_recordlocation_entry_on">Be</string>
     <string name="pref_camera_sound_title">Zárhang</string>
-    <string name="pref_camera_sound_title_entry_off">ki</string>
+    <string name="pref_camera_sound_title_entry_off">Ki</string>
     <string name="pref_camera_sound_title_entry_on">Be</string>
     <string name="pref_camera_auto_focus_title_entry_off">Ki</string>
     <string name="pref_camera_auto_focus_title_entry_on">Be</string>
@@ -79,7 +79,7 @@
     <string name="pref_camera_picturesize_professional_entry_1600x1200">2Mp(1600x1200)</string>
     <string name="pref_camera_picturesize_professional_entry_1280x720">0.9Mp(1280x720)</string>
     <string name="pref_camera_picturesize_professional_entry_1024x768">0.8Mp(1024x768)</string>
-    <string name="pref_camera_jpegquality_default">finom</string>
+    <string name="pref_camera_jpegquality_default">Finom</string>
     <string name="pref_camera_picture_format_title">Képformátum választás</string>
     <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
     <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -118,7 +118,7 @@
     <string name="pref_camera_coloreffect_entry_blackboard">Iskolai tábla</string>
     <string name="pref_camera_coloreffect_entry_whiteboard">Tábla</string>
     <string name="pref_camera_coloreffect_entry_sepia_blue">Kék szépia</string>
-    <string name="pref_camera_touchafaec_title">Touch AF/AEC</string>
+    <string name="pref_camera_touchafaec_title">AF/AEC hozzáadása</string>
     <string name="pref_camera_touchafaec_entry_off">Ki</string>
     <string name="pref_camera_touchafaec_entry_on">Be</string>
     <string name="pref_camera_sharpness_entry_low">Alacsony</string>
@@ -148,12 +148,12 @@
     <string name="pref_camera_scenemode_entry_sports">Sportesemény</string>
     <string name="pref_camera_scenemode_entry_backlight">Háttérvilágítás</string>
     <string name="pref_camera_scenemode_entry_flowers">Virágok</string>
-    <string name="pref_camera_scenedetect_default">ki</string>
+    <string name="pref_camera_scenedetect_default">KI</string>
     <string name="pref_camera_scenedetect_title">Auto jelenet felismerés</string>
     <string name="not_selectable_in_scene_mode">Nem választható jelenetmódban.</string>
     <string name="pref_exposure_title">Megvilágítás</string>
     <string name="pref_camera_denoise_title">Zajszűrő</string>
-    <string name="pref_camera_denoise_default">denoise-on</string>
+    <string name="pref_camera_denoise_default">Zajszűrés be</string>
     <string name="pref_camera_iso_default">auto</string>
     <string name="pref_camera_iso_title">ISO választás</string>
     <string name="pref_camera_preview_entry_off">ki</string>
@@ -192,7 +192,7 @@
     <string name="effect_goofy_face_small_mouth">Kis száj</string>
     <string name="effect_goofy_face_big_nose">Nagy orr</string>
     <string name="effect_goofy_face_small_eyes">Kis szemek</string>
-    <string name="effect_backdropper_space">In space</string>
+    <string name="effect_backdropper_space">Űrben</string>
     <string name="effect_backdropper_sunset">Naplemente</string>
     <string name="effect_backdropper_disco">Diszkó</string>
     <string name="effect_backdropper_gallery">Válasszon sajátot</string>
@@ -200,7 +200,7 @@
 lépjen ki a nézetből</string>
     <string name="video_snapshot_hint">Videófelvétel rögzítése alatt fénykép a jobb felső sarokban lévő zárikon megérintésével készíthető.</string>
     <string name="disable_video_snapshot_hint">Video képernyőkép készítés nem elérhető,ha a különleges effektek be vannak kapcsolva.</string>
-    <string name="snapshot_lower_than_video">Videó képernyőkép kisebb,mint a videó méret. válasszon ugyanolyan vagy nagyobb felbontást,mint a videó mérete.</string>
+    <string name="snapshot_lower_than_video">Videó képernyőkép kisebb,mint a videó méret. Válasszon ugyanolyan vagy nagyobb felbontást,mint a videó mérete.</string>
     <string name="snapshotsize_low_powermode">Fénykép felbontás választás nem támogatott energiatakarékos üzemmódban.</string>
     <string name="snapshot_qcif_and_d1">Csak QCIF méret elérhető.</string>
     <string name="clear_effects">Effektek törlése</string>
@@ -211,7 +211,7 @@ lépjen ki a nézetből</string>
     <string name="accessibility_camera_picker">Váltás előlapi és hátalpi kamera között</string>
     <string name="accessibility_zoom_control">Zoomolás</string>
     <string name="empty">" "</string>
-    <string name="pref_camera_autoexposure_default">frame-average</string>
+    <string name="pref_camera_autoexposure_default">Képkocka-átlag</string>
     <string name="pref_camera_autoexposure_title">Automata fénymérés</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Keret-átlag</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Középsúlyos fénymérés</string>
@@ -232,7 +232,7 @@ lépjen ki a nézetből</string>
     <string name="pref_camera_facedetection_title">Arcfelismerés</string>
     <string name="pref_camera_facedetection_entry_off">Ki</string>
     <string name="pref_camera_facedetection_entry_on">Be</string>
-    <string name="error_app_unsupported_raw_wavelet">wavelet denoise will not take effect when taking raw pictures</string>
+    <string name="error_app_unsupported_raw_wavelet">A hullámos zajszűrés nem használható effekt, ha Raw képeket készít</string>
     <string name="pref_camera_redeyereduction_title">Vörösszem csökkentés</string>
     <string name="pref_camera_redeyereduction_entry_auto">Auto</string>
     <string name="pref_camera_redeyereduction_entry_enable">Engedélyez</string>
@@ -259,23 +259,23 @@ lépjen ki a nézetből</string>
     <string name="pref_video_continuous_focus">Folyamatos fókusz</string>
     <string name="pref_camera_referenceline_entry_off">Ki</string>
     <string name="pref_camera_referenceline_entry_on">Be</string>
-    <string name="pref_camera_volumekey_function_entry_volume">hangerő</string>
-    <string name="pref_camera_volumekey_function_entry_shutter">zár</string>
-    <string name="pref_camera_volumekey_function_entry_zooming">zoomolás</string>
+    <string name="pref_camera_volumekey_function_entry_volume">Hangerő</string>
+    <string name="pref_camera_volumekey_function_entry_shutter">Zár</string>
+    <string name="pref_camera_volumekey_function_entry_zooming">Zoomolás</string>
     <string name="pref_camera_volumekey_function_title">Hangerőgombok művelete</string>
     <string name="pref_camera_long_pressing_burst_shooting_title">Sorozatfelvétel</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_off">Ki</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_on">Be</string>
-    <string name="pref_camera_long_pressing_burst_shooting_default">be</string>
+    <string name="pref_camera_long_pressing_burst_shooting_default">Be</string>
     <string name="pref_camera_current_k_value">Jelenlegi érték</string>
     <string name="error_fail_to_start_audio_capture">Hangrögzítés sikertelen: A mikrofon egy másik alkalmazás használja.</string>
     <string name="toast_start_audio_capture">Hangvezérlés bekapcsolva (cheese,capture,shoot parancsokkal vezérelheti)</string>
     <string name="record_back_pressed_hint">Nyomja meg újra a felvétel megállításához</string>
     <string name="can_not_play_video">A videó lejátszásához fel kell oldania a képernyőzárat</string>
     <string name="toast_burst_snap_finished_start">A Sorozatfelvétel befejeződött.</string>
-    <string name="toast_burst_snap_finished_end">Sorozatfelvétel.</string>
+    <string name="toast_burst_snap_finished_end">Sorozatfelvétel</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">Sorozatfelvétel nem készíthető, ha a HDR mód be van kapcsolba.</string>
-    <string name="toast_burst_snap_forbidden_when_audio_capture_open">sorozatfelvétel nem készíthető, ha a hangrögzítés be van kapcsolva.</string>
+    <string name="toast_burst_snap_forbidden_when_audio_capture_open">Sorozatfelvétel nem készíthető, ha a hangrögzítés be van kapcsolva.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Sorozatfelvétel nem készíthető, ha az ISO nem 'auto'-ra van állítva."</string>
     <string name="time_lapse_error">Hibás felbontás a gyorsított felvételhez.</string>
     <string name="pref_camera_movie_solid_default">be</string>
@@ -327,8 +327,8 @@ lépjen ki a nézetből</string>
     <string name="iso">ISO</string>
     <string name="exposure_time">Expozíciós idő</string>
     <string name="white_balance">Fehéregyensúly</string>
-    <string name="focal_length">Focal Length</string>
-    <string name="aperture">Aperture</string>
+    <string name="focal_length">Fókusztávolság</string>
+    <string name="aperture">Rekesz</string>
     <string name="flash">Vakumód</string>
     <string name="description">Leírás</string>
     <string name="duration">Időtartam</string>
@@ -347,7 +347,7 @@ lépjen ki a nézetből</string>
     <string name="group_by_album">Album szerint</string>
     <string name="group_by_faces">Emberek szerint</string>
     <string name="group_by_location">Helység szerint</string>
-    <string name="group_by_tags">By tags</string>
+    <string name="group_by_tags">Cimkék szerint</string>
     <string name="group_by_time">Készítés dátuma szerint</string>
     <string name="locations">Helyszínek</string>
     <string name="people">Emberek</string>
@@ -396,7 +396,7 @@ lépjen ki a nézetből</string>
     <string name="launch_wechat">WeChat futtatása</string>
     <string name="download_wechat">WeChat letöltése</string>
     <string name="see_app_details">Alkalmazás részletek</string>
-    <string name="copy_text">Szöveg másolás</string>
+    <string name="copy_text">Szöveg másolása</string>
     <string name="copy_text_success">Másolás sikeres</string>
     <string name="contact_name">Név</string>
     <string name="contact_nickname">Becenév</string>

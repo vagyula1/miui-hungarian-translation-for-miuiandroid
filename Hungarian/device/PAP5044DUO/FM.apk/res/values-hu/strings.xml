@@ -11,7 +11,7 @@
     <string name="contmenu_item_delete">Eltávolítás a kedvencek közül</string>
     <string name="contmenu_item_delete1">Törlés a beállított csatornák közül</string>
     <string name="dlg_noantenna_text">Fülhallgató szükséges, ami antennaként működik. Csatlakoztassa a fülhallgatót.</string>
-    <string name="dlg_noantenna_title">Csatlakoztassa a fülhallgatót</string>
+    <string name="dlg_noantenna_title">Csatlakoztatta a fülhallgatót?</string>
     <string name="btn_yes">Igen</string>
     <string name="btn_no">Nem</string>
     <string name="btn_ok">OK</string>
@@ -49,8 +49,8 @@
     <string name="fm_recorder_name">FM-rögzítő</string>
     <string name="toast_recording_lost_warning">A felvétel el fog veszni az SD-kártya eltávolítása miatt!</string>
     <string name="toast_start_recording">Rögzítés indítása…</string>
-    <string name="toast_sdcard_missing">Az SD-kártya hiányzik!</string>
-    <string name="toast_sdcard_insufficient_space">Nincs elegendő hely az SD-kártyán!</string>
+    <string name="toast_sdcard_missing">Az SD kártya hiányzik!</string>
+    <string name="toast_sdcard_insufficient_space">Nincs elegendő hely az SD kártyán!</string>
     <string name="toast_recorder_internal_error">Belső hiba történt a rögzítőn!</string>
     <string name="toast_player_internal_error">Belső hiba történt a lejátszón!</string>
     <string name="toast_powerup_before_record_warning">Előbb kapcsolja be az FM-rádiót!</string>
