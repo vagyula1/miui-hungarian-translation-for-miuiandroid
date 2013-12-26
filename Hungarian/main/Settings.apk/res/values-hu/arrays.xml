@@ -2,7 +2,7 @@
 <resources>
     <string-array name="perm_hips_action">
         <item>Engedélyez</item>
-        <item>Rékerdez</item>
+        <item>Rákerdez</item>
         <item>Megtagad</item>
     </string-array>
     <string-array name="power_mode_entries">

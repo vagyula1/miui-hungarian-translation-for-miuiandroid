@@ -63,7 +63,7 @@
     <string name="autologin_bar_text">Bejelentkezés mint</string>
     <string name="back">Előző</string>
     <string name="block">Letiltás</string>
-    <string name="bookmark_add_to">Elmenti a fájlt?</string>
+    <string name="bookmark_add_to">Mentés helye</string>
     <string name="bookmark_cannot_save_url">Ezt az URL-t nem lehet a könyvjelzők közé tenni.</string>
     <string name="bookmark_folder_needs_title">A mappanév nem lehet üres.</string>
     <string name="bookmark_list_view">Lista</string>
@@ -135,7 +135,7 @@
     <string name="defaultBookmarksUpButton">Könyvjelzők</string>  
     <string name="delete">Törlés</string>
     <string name="delete_bookmark">Könyjelző törlése</string>
-    <string name="delete_bookmark_warning">Könyvjelző törlése: \"%s\"?</string>
+    <string name="delete_bookmark_warning">Törli \"%s\" könyvjelzőt?</string>
     <string name="delete_folder">Mappa törlése</string>
     <string name="delete_multi_bookmarks_alert_title">Törli a kiválasztott %1$s elemet?</string>
     <string name="dialog_geolocation_reject">Hely megosztás elrejtése</string>
