@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">Eltávolítja az alkalmazást és %2$d egyéb alkalmazást?</item>
+        <item quantity="other">Eltávolítja az alkalmazást?</item>
         <item quantity="one">Eltávolítja az alkalmazást?</item>
         <item quantity="two">Eltávolítja az alkalmazásokat?</item>
     </plurals>
