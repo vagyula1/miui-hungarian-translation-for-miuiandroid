@@ -102,7 +102,6 @@
     <string name="record_fail">A rögzítés nem sikerült</string>
     <string name="record_file_format">%1$s_%2$s</string>
     <string name="record_file_location_format">Kattintson a %s fájl meghallgatásához</string>
-    <string name="record_sucess">Rögzítve</string>
     <string name="reduce_af">Frekvencia csökkentés</string>
     <string name="regional_band">Régió (Törli a mentett állomásokat)</string> 
     <string name="search_dialog_title">Állomások keresése</string>

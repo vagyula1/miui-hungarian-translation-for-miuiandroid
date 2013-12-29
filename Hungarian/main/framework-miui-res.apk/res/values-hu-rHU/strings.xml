@@ -189,7 +189,6 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Állapotsor, értesítőpanel</string>
     <string name="app_no_notification">nincs</string>
     <string name="app_notificaiton_on_notificationBar">Értesítőpanel</string>
-    <string name="deprecated_49" />
     <string name="device_hongmi">Hongmi telefon</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d alkalommal hibásan adta meg a jelszavát. %d sikertelen próbálkozás után a fiókbejelentkezés szükséges a feloldáshoz.
 

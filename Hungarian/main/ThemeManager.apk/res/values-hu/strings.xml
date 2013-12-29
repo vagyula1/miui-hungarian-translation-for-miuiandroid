@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_abnormal_state">A fiókazonosítás nem sikerült, lépjen be újra vagy próbálja később!</string>
     <string name="all_resources">Minden</string>
     <string name="all_ringtone_resource">Minden</string>
     <string name="app_name">Témák</string>
@@ -45,7 +44,6 @@
     <string name="lockstyle_personal_settings">Testreszabás</string>
     <string name="long_ringtone_resource">Hosszú (>5mp)</string>
     <string name="maml_component_customization_title">Beállítások</string>
-    <string name="menu_refresh">Frissítés</string>
     <string name="mi_wallpaper">Háttérkép</string>
     <string name="online_no_network">A csatlakozás nem sikerült</string>
     <string name="online_search_hint">Források online keresése</string>
@@ -60,7 +58,6 @@
     <string name="resource_comment_3_star">3 csillag</string>
     <string name="resource_comment_4_star">4 csillag</string>
     <string name="resource_comment_5_star">5 csillag</string>
-    <string name="resource_comment_account_need_activitied">A fiókja nincs aktiválva, aktiválja most?</string>
     <string name="resource_comment_all_comments">Összes</string>
     <string name="resource_comment_average_score">Átlag</string>
     <string name="resource_comment_bad_comments">Negatív</string>
@@ -138,7 +135,6 @@
     <string name="resource_share_subject">Megosztott téma: %1$s</string>
     <string name="resource_share_text">Azt hiszem ez a téma Neked is tetszeni fog: %1$s! Link: %2$s</string>
     <string name="resource_share_title">Megosztás</string>
-    <string name="resource_switch_account">Fiókváltás</string>
     <string name="resource_system_title">Rendszer források</string>
     <string name="resource_tip_select_ringtone">Csengőhang nem lett kiválasztva</string>
     <string name="resource_title">Téma részlet</string>
@@ -146,12 +142,10 @@
     <string name="resource_update">Frissítés</string>
     <string name="resource_waiting_download">Várakozás</string>
     <string name="restore_default_theme_alert">Lehet,hogy a téma hamis,kérjük töltse le újra vagy vásárolja meg.</string>
-    <string name="ringtone_volume_mute">Jelenleg néma üzemmódban van.</string>
     <string name="sdcard_not_mounted_dialog_message">Az SD kártya nem elérhető lehet,hogy nincs felcsatolva.</string>
     <string name="sdcard_not_mounted_dialog_title">Nem található SD kártya</string>
     <string name="selected_resource_file_invalid">A kiválasztott fájl nem megfelelő formátumúSelected file is invalid.</string>
     <string name="short_ringtone_resource">Rövid (&lt;5mp)</string>
-    <string name="theme_another_import_running">Másik importálás folyamatban, próbálja később.</string>
     <string name="theme_batch_has_update_text">%1$d téma frissíthető újabb verzióra</string>
     <string name="theme_batch_update_all">Mind frissítése</string>
     <string name="theme_batch_update_dlg_content">Szeretné most frissíteni?</string>
@@ -188,33 +182,8 @@
     <string name="theme_description_title_default">Alapértelmezett téma</string>
     <string name="theme_immediately_apply_tip">A téma frissítve, alkalmazza most?</string>
     <string name="theme_import_activity_label">Téma frissítés</string>
-    <string name="theme_import_data">Téma adatok importálása...</string>
-    <string name="theme_import_fail">%1$s téma importálása nem sikerült</string>
     <string name="theme_import_from_sdcard">Importálás az SD kártyáról</string>
-    <string name="theme_import_importing">Frissítés.. %1$d</string>
-    <string name="theme_import_item_delete_request_button">Törlés megerősítése</string>
-    <string name="theme_import_item_delete_request_content">Téma nincs frissítve, frissítés után alkalmazza,vagy törölje.</string>
-    <string name="theme_import_item_delete_request_title">Téma nem lett frissítve</string>
-    <string name="theme_import_item_importing">Frissítés…</string>
-    <string name="theme_import_item_not_exist">Nem létezik</string>
-    <string name="theme_import_item_not_upgraded">Nincs frissítve</string>
-    <string name="theme_import_item_reject_use">Téma frissítés folyamatban,kérem várjon.</string>
-    <string name="theme_import_item_waiting">Várakozás...</string>
-    <string name="theme_import_new_download">Importálás...</string>
-    <string name="theme_import_normal">Téma frissítés</string>
-    <string name="theme_import_oper_complete">Befejezve</string>
-    <string name="theme_import_oper_start">Mind frissítése</string>
-    <string name="theme_import_oper_stop">Mégsem</string>
-    <string name="theme_import_oper_stop_request_content">Ahhoz hogy a téma minden funkciója elérhető legyen,frissítenie kell.Megszakítja a frissítést?</string>
-    <string name="theme_import_preparing">Helyi témák keresése..</string>
-    <string name="theme_import_stoping">Megszakítás...</string>
-    <string name="theme_importing">Témák importálása...</string>
-    <string name="theme_is_imported">A téma importálva!</string>
-    <string name="theme_sdcard_importing">Importálás...</string>
     <string name="theme_select_others">Egyéb</string>
-    <string name="theme_upgrade_request_cancel">Mégsem</string>
-    <string name="theme_upgrade_request_content">A téma formátuma nem megfelelő, konvertálás szükséges.Átkonvertálja?</string>
-    <string name="theme_upgrade_request_title">Téma átkonvertálás szükséges</string>
     <string name="third_party_pickers_activity_title">%1$s beállítása</string>
     <string name="title_component">Kevert</string>
     <string name="title_local">Helyi</string>
@@ -228,7 +197,7 @@
     <string name="wallpaper_settings">Háttérkép beállítások</string>
     <string name="account_info">Fiókom</string>
     <string name="account_unactivated">A fiók nincs aktiválva.</string>
-    <string name="apply_theme_with_ringtones">Csengőhagok alkalmazása</string>
+    <string name="apply_theme_with_ringtones">Csengőhangok alkalmazása</string>
     <string name="basic_info">Információ</string>
     <string name="payment_info">MiCreditek</string>
     <string name="resource_account_abnormal_state">Fiókhiba, próbálja később.</string>

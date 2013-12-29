@@ -248,7 +248,6 @@ We will check again within two working days."</string>
     <string name="title_nopassword">"Nem szükséges a kisértékű fizetésekhez"</string> 
     <string name="title_password_threshold">Napi értékhatár = %1$s yuan</string>
     <string name="title_nopassword_dialog">Napi értékhatár</string>
-    <string name="onemore_click_exit">Kattintos mégegyszer a kilépéshez</string>
     <string name="hfb_app_name">UMPay</string>
     <string name="hfb_sms_pay">Note: Click Confirm payment to complete purchase and send SMS to 10658008 to complete the purchase. Payments charged at local call rates.</string>
     <string name="hfb_sms1_progress_label">SMS küldése, kérem várjon...</string> 
@@ -428,13 +427,6 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
     <string name="linkpay_copyright">Copyright, China Unicom</string>
     <string name="linkpay_szf_getresult_error">A fizetési információ lekérése nem sikerült, vegye fel a kapcsolatot a szolgáltatóval.</string>
     <string name="linkpay_shenzhoufu_alert">Please select a valid card and validation code or you will not be able to complete purchase.</string>
-    <string name="btn_pay_large">Fizetés</string>
-    <string name="prepaid_china_mobile">China Mobile</string>
-    <string name="prepaid_china_telcom">China Telecom</string>
-    <string name="prepaid_china_unicom">China Unicom</string>
-    <string name="progress_submit_pay_summary">Paying %1$s MiCredits.</string>
-    <string name="title_pay">Fizetés MiCredit-tel</string>
-    <string name="voucher_error_password_empty">A kód üres.</string>
     <string name="button_confirm">Elfogad</string>
     <string name="button_next">Következő</string>
     <string name="colon">": "</string>

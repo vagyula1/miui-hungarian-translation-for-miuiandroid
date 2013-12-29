@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_calllog_detail">Híváslista részletek</string> 
-    <string name="account_abnormal_state">Érvénytelen fiókinformáció,lépjen be újra vagy próbálja később!</string>
     <string name="account_container_title">A következő fiókból</string>
     <string name="account_default">Telefon</string>
     <string name="account_phone">Csak a telefonon, nem szinkronizált</string>
@@ -515,7 +514,6 @@
     <string name="menu_newContact">Új névjegy</string>
     <string name="menu_not_redirect_calls_to_vm">Hangposta nincs használatban</string>
     <string name="menu_redirect_calls_to_vm">Minden hívás a hangpostára</string>
-    <string name="menu_refresh">Frissítés</string>
     <string name="menu_removeStar">Eltávolít</string>
     <string name="menu_search">Keresés</string>
     <string name="menu_select_all">Mindet kijelöl</string>
@@ -729,7 +727,6 @@
     <string name="resource_comment_3_star">3 csillag</string>
     <string name="resource_comment_4_star">4 csillag</string>
     <string name="resource_comment_5_star">5 csillag</string>
-    <string name="resource_comment_account_need_activitied">A fiókja nincs aktiválva, aktiválja most?</string>
     <string name="resource_comment_all_comments">Összes hozzászólás</string>
     <string name="resource_comment_average_score">Átlag</string>
     <string name="resource_comment_bad_comments">Negatív</string>
@@ -808,7 +805,6 @@
     <string name="resource_share_subject">Megosztott téma: %1$s</string>
     <string name="resource_share_text">Azt hiszem ez a téma Neked is tetszeni fog: %1$s! Link: %2$s</string>
     <string name="resource_share_title">Megosztás</string>
-    <string name="resource_switch_account">Átvált</string>
     <string name="resource_system_title">Rendszer témák</string>
     <string name="resource_tip_select_ringtone">Nincs csngőhang kiválasztva</string>
     <string name="resource_title_select_ringtone">Csengőhang választás</string>
@@ -819,7 +815,6 @@
     <string name="ret_sign">" "</string>
     <string name="returnCall">Vissza a híváshoz</string>
     <string name="ringLabelsGroup">Csengőhang</string>
-    <string name="ringtone_volume_mute">Jelenleg néma üzemmódban van.</string>
     <string name="save_photo_progress">Kép mentése...</string>
     <string name="savingContact">Névjegy mentése…</string>
     <string name="savingDisplayGroups">Megjelenítési beállítások mentése...</string>
@@ -929,7 +924,6 @@
     <string name="strequentList">Kedvencek</string>
     <string name="success_message_import_from_account">Sikeres import</string>
     <string name="summary_kind_title">Összefoglaló</string>
-    <string name="t9_search_guide">Felhasználó száma vagy keresés T9 használatával</string>
     <string name="t9_search_guide_pinyin">Írja be a 7-es és 5-ös számot Steve Jobs kereséséhez</string>
     <string name="t9_search_guide_zhuyin">Írja be a 7-es és 5-ös számot Steve Jobs kereséséhez</string>
     <string name="take_new_photo">Új fénykép készítése</string>
@@ -993,7 +987,6 @@
     <string name="wipe_data">Adatok törlése</string>
     <string name="zero_items_selected">Nincs névjegy kiválasztva</string>
     <string name="account_unactivated">A fiók nincs aktiválva.</string>
-    <string name="resource_account_abnormal_state">Fiókhiba, próbálja később.</string>
     <string name="resource_account_current">Fiók: %1$s</string>
     <string name="resource_account_fail_to_add">A fiók hozzáadása nem sikerült!</string>
     <string name="resource_account_login_before_action">Lépjen be a Xiaomi fiókjába.</string>
@@ -1020,12 +1013,10 @@
     <string name="resource_exchange_wrong_format_by_local">A megadott kód érvénytelen</string>
     <string name="resource_exchange_wrong_format_by_server">A kód érvényesítése nem sikerült. Ellenőrizze a kódot és próbálja újra.</string>
     <string name="resource_hint">Riasztás</string>
-    <string name="resource_menu_refresh">Frissítés</string>
     <string name="resource_present">Ajándék</string>
     <string name="resource_purchase_getting_order">Megrendelés elküldése…</string>
     <string name="resource_purchase_verifying_payment">Megrendelés ellenőrzése…</string>
     <string name="resource_purchase_waiting_payment">Várakozás a fizetési információra…</string>
-    <string name="resource_ringtone_volume_mute">Csengőhang lenémítva</string>
     <string name="resource_save_to_note">Mentés a jegyzetekhez</string>
     <string name="resource_send">Küldés</string>
     <string name="resource_unable_to_access">"Sajnáljuk, 
