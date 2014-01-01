@@ -1037,4 +1037,5 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="yellowpage_navigation_search_result_no_more">Nincs több eredmény</string>
     <string name="yellowpage_navigation_search_result_service_error">A szolgáltatás jelenleg nem elérhető</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Ismeretlen hiba!</string>
+    <string name="yellowpage_navigation_menu_order">Rendeléseim</string>
 </resources>

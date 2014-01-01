@@ -84,4 +84,11 @@
         <item quantity="other">most játszott dalok</item>
         <item quantity="one">most játszott dal</item>
     </plurals>
+    <plurals name="Nexpiration_reminder">
+       <item quantity="other">%d nap van hátra a lejáratig</item>
+       <item quantity="one">%d nap van hátra a lejáratig</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+       <item quantity="other">A jobb minőségű zenehozzáféré hamarosan lejár (%d nap van hátra)</item>
+    </plurals>
 </resources>

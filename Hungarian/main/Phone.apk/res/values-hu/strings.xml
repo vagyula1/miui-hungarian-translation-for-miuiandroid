@@ -35,10 +35,10 @@
   <string name="answer_state_setting_summary">Szenzorok és egyéb beállítások</string>
   <string name="answer_state_setting_title">Bejövő hívás állapotának beállításai</string>
   <string name="answer_state_setting_title_miui">Bejövő hívás állapotának beállításai</string>
-  <string name="answer_widget_dialog_title_miui">Gesztusok kiválasztása</string>
+  <string name="answer_widget_dialog_title_miui">Hívásfogadás módja</string>
   <string name="answer_widget_sliding_horizontal_miui">Vízszintes csúsztatás</string>
   <string name="answer_widget_sliding_vertical_miui">Függőleges csúsztatás</string>
-  <string name="answer_widget_title_miui">Válasz gesztus</string>
+  <string name="answer_widget_title_miui">Hívásfogadás módja</string>
   <string name="antispam_notification_title">Ismeretlen számok azonosítása</string>
   <string name="apn_settings">Hozzáférési pontok nevei</string>
   <string name="areacode_required_for_emergency_number_miui">Segélyhívó szám</string>

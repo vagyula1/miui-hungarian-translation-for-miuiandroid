@@ -455,4 +455,8 @@ Használja ki!"</string>
     <string name="loading_members">Tagok betöltése...</string>
     <string name="folder_holder_file">Fájl tárolóhelye</string>
     <string name="time_line_view">Idővonal nézet</string>
+    <string name="external_usb_device_hm">Külső USB tároló</string>
+    <string name="internal_sd_card_hm">Telefon belső memóriája</string>
+    <string name="item_not_sync">Ez az elem nincs szinkronizálva a clouddal és nem tölthető le</string>
+    <string name="move">Áthelyezés</string>
 </resources>

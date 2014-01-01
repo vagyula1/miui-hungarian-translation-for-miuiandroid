@@ -290,7 +290,20 @@
     <string name="vip_recommend_main_title">Korlátlan CD minőség (320 kbps)</string>
     <string name="vip_recommend_sub_title">Csak 5 RMB havonta</string>
     <string name="vip_recommend_summary">Streamelje vagy töltse le kedvenc előadóinak zenéjét a Baidu Zenéboltból 320 kb/s sebességgel.</string>
-    <string name="vip_recommend_title">Magasabb minőségű zene</string>
+    <string name="vip_recommend_title">Jobb minőségű zene</string>
     <string name="where_is_barcode">"Hol van a QR kód?"</string>
     <string name="pay_service_guide_new">Jobb minőségű zene elérhető</string>
+    <string name="data_usage_warning">Adathasználati figyelmeztetés!</string>
+    <string name="data_usage_warning_summary">A jobb minőségű zene streamelése mobil adatkapcsolat használatával növelheti a költségeket.</string>
+    <string name="enabled">Engedélyezve</string>
+    <string name="expired">Lejárt</string>
+    <string name="higher_quality_music">Magas minőségű zene</string>
+    <string name="higher_quality_music_summary">Magas minőségű zene hallgatása és letöltése</string>
+    <string name="menu_higher_quality_music">Jobb minőségű zene (havi hozzáférés)</string>
+    <string name="music_quality">Zene minősége</string>
+    <string name="valid_period">"Érvényesség: "</string>
+    <string name="vip_bought">"Már megvásárolta a jobb minőségű zenehozzáférést"</string>
+    <string name="vip_expired">A jobb minőségű zene hozzáférése lejárt</string>
+    <string name="vip_rebuy">Megújítás</string>
+    <string name="vip_recommend_rebuy">VIP hozzáférés megújítása 5 MiCredittel 30napra</string>
 </resources>

@@ -140,10 +140,10 @@
     <string name="filter_item_description">A \"Beállítások-Állapotsor-Egyéni értesítés\" menüpontban állítható be az alkalmazás értesítés típusa</string>
     <string name="settings_notification_bar">Legördülő értesítési panel</string>
     <string name="settings_toggle_position">Kapcsolók testreszabása</string>
-    <string name="settings_toggle_collapse_after_clicked">Kattintás után összezár</string>
+    <string name="settings_toggle_collapse_after_clicked">Kattintás utáni összezárás</string>
     <string name="settings_expanded_view">Legördülő értesítés működése</string> 
     <string name="settings_status_bar">Állapotsor</string>
-    <string name="settings_show_network_speed">Hálózat sebesség kijelzés</string>   
+    <string name="settings_show_network_speed">Hálózati sebesség kijelzése</string>   
     <string name="settings_expandable_under_fullscreen">Teljesképernyős mód</string>
     <string name="settings_expandable_under_fullscreen_summary">A legördülő értesítés engedélyezése teljes képernyős módban</string>
     <string name="settings_expandable_under_keyguard">Képernyőzár</string>
@@ -274,5 +274,5 @@
     <string name="screen_button_enabled_message">A funkció gombok engedélyezve</string>
     <string name="torch_closed">Lámpa kikapcsolva</string>
     <string name="torch_opened">Lámpa bekapcsolva</string>
-    <string name="settings_screenshot_notification_disabled">Nincs képernyőkép értesítés</string>
+    <string name="settings_screenshot_notification_disabled">Képernyőkép értesítés letiltása</string>
 </resources>

@@ -112,7 +112,7 @@
     <string name="pref_icon_shadow_summary">Az ikonok mögötti árnyékok be/ki kapcsolása.</string>
     <string name="pref_icon_shadow_title">Ikonok árnyéka</string>
     <string name="pref_keep_in_memory_summary">Az alkalmazás mindig a memóriában marad.</string>
-    <string name="pref_keep_in_memory_title">Memóriában marad</string>
+    <string name="pref_keep_in_memory_title">Memóriában tartás</string>
     <string name="pref_keep_layout_summary">Az ikon elrendezés módosítása megváltoztathatja az asztal elrendezését.</string>
     <string name="pref_keep_layout_title">Jelenlegi elrendezés megtartása</string>
     <string name="pref_render_in_truecolor_summary">Kapcsolja be a grafikus elemek minőségének javításához.</string>
