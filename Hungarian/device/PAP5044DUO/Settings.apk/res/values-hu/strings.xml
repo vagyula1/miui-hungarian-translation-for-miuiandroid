@@ -70,7 +70,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Képernyőnagyítás automatikus frissítése</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Képernyőnagyítás</string>
     <string name="accessibility_toggle_speak_password_preference_title">Jelszavak kimondása</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">A bekapcsoló gomb megszakítja a hívást</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Hívás megszakítása bekapcsoló gombbal</string>
     <string name="accessibility_toggle_script_injection_preference_title">Internetes szkriptek telepítése</string>
     <string name="accessibility_long_press_timeout_preference_title">Érintés és tartási késleltetés</string>
     <string name="account_settings">Fiókok</string>
@@ -145,7 +145,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="app_ops_never_used">(nem használt)</string>
     <string name="app_ops_running">Fut</string>
     <string name="app_ops_settings">Alkalmazásműveletek</string>
-    <string name="app_process_limit_title">Háttérfolyamat-korlátozás</string>
+    <string name="app_process_limit_title">Háttérfolyamat-korlátozása</string>
     <string name="application_forbid_auto_startup">Letiltva %s indítása a háttérben</string>
     <string name="application_info_label">Alkalmazásinformáció</string>
     <string name="application_item_already_permission">Engedélyezve</string>
@@ -344,7 +344,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="bluetooth_dun_remember_choice">Ne kérdezze újra</string>
     <string name="bluetooth_dun_request">DUN kérés</string>
     <string name="bluetooth_empty_list_bluetooth_off">Kapcsolja be a Bluetooth-t az eszközök listájához</string>
-    <string name="bluetooth_enable">Bluetooth engedélyezés</string>
+    <string name="bluetooth_enable">Bluetooth engedélyezése</string>
     <string name="bluetooth_enable_alphanumeric_pin">A PIN-kód betűket vagy szimbólumokat tartalmaz</string>
     <string name="bluetooth_enter_passkey_msg">A(z) &lt;br>&lt;b> %1$s &lt;/b>&lt;br>&lt;br> készülékkel való párosításhoz írja be a készülék szükséges jelszavát:</string>
     <string name="bluetooth_enter_passkey_other_device">Előfordulhat, hogy az azonosító kulcsot a másik készüléken is meg kell adnia.</string>
@@ -377,7 +377,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="bluetooth_notif_ticker">Bluetooth párosítási kérelem</string>
     <string name="bluetooth_notif_title">Párosítási kérelem</string>
     <string name="bluetooth_on_time">Bekapcsolt Wi-Fi</string>
-    <string name="bluetooth_only_visible_to_paired_devices">Csak párosított eszközök számára látható</string>
+    <string name="bluetooth_only_visible_to_paired_devices">Csak a párosított eszközök számára látható</string>
     <string name="bluetooth_opp_profile_summary_connected">Csatlakozva a fájlküldő szerverhez</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Nincs csatlakozva a fájlküldő szerverhez</string>
     <string name="bluetooth_opp_profile_summary_use_for">Felhasználás fájlátvitelre</string>
@@ -702,7 +702,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="dlg_confirm_unmount_text">Ha leválasztja az USB-tárat, akkor néhány használt alkalmazás leáll, és lehet, hogy addig nem lesz elérhető, amíg újra nem csatlakoztatja az USB-tárat.</string>
     <string name="dlg_confirm_unmount_title">Leválasztja az USB-tárat?</string>
     <string name="dlg_error_unmount_text">Nem lehet leválasztani az USB-tárat. Próbálkozzon újra később.</string>
-    <string name="dndm_auto_button_title">Ütemezett</string>
+    <string name="dndm_auto_button_title">Ütemezés</string>
     <string name="dndm_auto_setting_group">Idő</string>
     <string name="dndm_auto_time_setting">Ütemezés beállítása</string>
     <string name="dndm_auto_time_setting_summary">Kezdés %1$s, Befejezés %2$s</string>
@@ -772,7 +772,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="drive_mode_sms_report">Üzenetek</string>
     <string name="drive_mode_title">Autó üzemód beállításai</string>
     <string name="drive_mode_voice_report">Hang jelentés</string>
-    <string name="dtmf_tone_enable_title">Tárcsázó érintési hangjai</string>
+    <string name="dtmf_tone_enable_title">Tárcsázó érintési hangja</string>
     <string name="emergency_tone_summary">Viselkedés beállítása segélyhívás kezdeményezésekor</string>
     <string name="emergency_tone_title">Segélyhívás hangja</string>
     <string name="empty_list_msg">Nincsenek telepítve harmadik fél által készített alkalmazások.</string>
@@ -904,7 +904,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="home_app_uninstall_button">Alkalmazás eltávolítása</string>
     <string name="home_key">Home gomb</string>
     <string name="ime_security_warning">%1$s elment minden begépelt szöveget,melyek személyes adatokat is tartlamazhatnak (pl. jelszavak hitelkártyaszámok). Használja ezt a beviteli formát?</string>
-    <string name="immediately_destroy_activities">Törölje a tevékenységeket</string>
+    <string name="immediately_destroy_activities">Tevékenységek törlése</string>
     <string name="immediately_destroy_activities_summary">Tevékenységek törlése, amint elhagyják azokat</string>
     <string name="ims_reg_required_off">Ehhez ki kell kapcsolni a csevegés regisztrációját</string>
     <string name="ims_reg_required_on">Ehhez be kell kapcsolni a csevegés regisztrációját</string>
@@ -945,7 +945,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="ipaddr_label">IP cím:</string>
     <string name="join_many_items_last">%1$s és %2$s</string>
     <string name="join_two_items">%1$s és %2$s</string>
-    <string name="keep_screen_on">Nem kapcsolódik ki</string>
+    <string name="keep_screen_on">Képernyő ébren tartása</string>
     <string name="keep_screen_on_summary">A képernyő soha nem kapcsol ki töltés során</string>
     <string name="kernel_version">Kernel verzió</string>
     <string name="key_settings">Gombok</string>
@@ -1198,7 +1198,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="notification_listener_security_warning_title">Engedélyezi a(z) %1$s szolgáltatást?</string>
     <string name="notification_pulse_title">Villogó értesítő fény</string>
     <string name="notification_sound_dialog_title">Válasszon értesítési csengőhangot</string>
-    <string name="notification_sound_title">Alapértelmezett értesítés</string>
+    <string name="notification_sound_title">Értesítés hangja</string>
     <string name="notification_vibrate_abbreviation">Értesítések</string>
     <string name="notification_volume_title">Értesítés</string>
     <string name="nsd_quick_toggle_summary">Más eszközökön lévő alkalmazások láthatják az ezen a készüléken lévő alkalmazásokat.</string>
@@ -1395,10 +1395,10 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="power_usage_summary_title">Akkumulátor</string>
     <string name="power_wifi">WIFI</string>
     <string name="pref_button_light">Fény visszajelzés</string>
-    <string name="pref_button_light_summary">Menu,Home és Vissza gombok visszajelzése</string>
+    <string name="pref_button_light_summary">Menü,Home és Vissza gombok visszajelzése</string>
     <string name="pref_operational_key">Funkció gombok</string>
     <string name="pref_volume_wake_summary">Nyomja meg a hangerő fel/le gombot a készülék felébresztéséhez.</string>
-    <string name="pref_volume_wake_title">Hangerőgombok felébresztéshez</string>
+    <string name="pref_volume_wake_title">Felébresztés hangerő gombokkal</string>
     <string name="preference_change_password_title">Jelszó módosítása</string>
     <string name="preferred_launcher_title">Kiválasztott Launcher</string>
     <string name="preferred_launcher_warning_message">Az alapértelmezett launcher lecserélése több erőforrást igényelhet. Biztos,hogy lecseréli?</string>
@@ -1564,7 +1564,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="screen_compatibility_text">Nem biztos, hogy ezt az alkalmazást az Ön képernyőjére tervezték. Itt szabályozhatja az alkalmazás megjelenítését.</string>
     <string name="screen_key_long_press">Gombok viselkedése (hosszan nyomva)</string>
     <string name="screen_key_long_press_action">Megnyomás művelete</string>
-    <string name="screen_key_long_press_timeout">Tartás késleltetés</string>
+    <string name="screen_key_long_press_timeout">Tartás késleltetése</string>
     <string name="screen_never_timeout_title">Soha nem kapcsol ki</string>
     <string name="screen_on_proximity_sensor_summary">Automatikusan lezárja a telefont, így elkerülhető pl.a véletlen tárcsázás a zsebben.</string>
     <string name="screen_on_proximity_sensor_title">Véletlen használat megelőzése</string>
@@ -1736,11 +1736,11 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="slot_status_title">IMEI információ</string>
     <string name="small_font">Kicsi</string>
     <string name="sms_delivered_sound_dialog_title">Válassza ki a kézbesített SMS hangját</string>
-    <string name="sms_delivered_sound_title">SMS kézbesítve</string>
+    <string name="sms_delivered_sound_title">Kézbesített SMS hangja</string>
     <string name="sms_over_ims_off">Kapcsolja ki az SMS-t az IMS-en keresztül</string>
     <string name="sms_over_ims_on">Kapcsolja be az SMS-t az IMS-en keresztül</string>
     <string name="sms_received_sound_dialog_title">Válassza ki a fogadott SMS hangját</string>
-    <string name="sms_received_sound_title">Fogadott SMS hang</string>
+    <string name="sms_received_sound_title">Kézbesített SMS hangja</string>
     <string name="sms_summary">Emelt díjas SMS küldése</string>
     <string name="sort_order_alpha">Rendezés név szerint</string>
     <string name="sort_order_size">Rendezés méret szerint</string>
@@ -1787,7 +1787,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="storage_title_usb">Számítógépes USB-kapcsolat</string>
     <string name="storageuse_settings_summary">Alkalmazások által használt tárhely megtekintése</string>
     <string name="storageuse_settings_title">Tárhely-használat</string>
-    <string name="strict_mode">Szigorú mód engedélyezve</string>
+    <string name="strict_mode">Szigorú mód engedélyezése</string>
     <string name="strict_mode_summary">Képernyővillogás a fő szál hosszú műveleteinél</string>
     <string name="subscription_01_summary">SUB1 hálózat beálítások</string>
     <string name="subscription_02_summary">SUB2 hálózat beállítások</string>
@@ -2203,7 +2203,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="wifi_eap_user_cert">Felhasználói tanúsítvány</string>
     <string name="wifi_empty_list_wifi_off">Az elérhető hálózatokhoz kapcsolja be a Wi-Fi-t.</string>
     <string name="wifi_empty_list_wifi_on">Wi-Fi hálózat keresése...</string>
-    <string name="wifi_enable">Wi-Fi engedélyezés</string>
+    <string name="wifi_enable">Wi-Fi engedélyezése</string>
     <string name="wifi_enable_watchdog_service">Kerülje a gyenge kapcsolatokat</string>
     <string name="wifi_error">Hiba</string>
     <string name="wifi_fail_to_scan">Nem lehet beolvasni a hálózatokat</string>

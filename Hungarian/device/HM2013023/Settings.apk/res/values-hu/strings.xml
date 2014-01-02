@@ -5,7 +5,7 @@
     <string name="dndm_open">Ne zavarjanak</string>
     <string name="dndm_summary">Ha a Ne zavarjanak engedélyezve van,a bejövő hívások és üzenetek némítva lesznek (egy holdikon jelenik meg az állapotsoron).</string>
     <string name="dndm_auto_setting_group">Idő</string>
-    <string name="dndm_auto_button_title">Ütemezett</string>
+    <string name="dndm_auto_button_title">Ütemezés</string>
     <string name="dndm_auto_time_setting">Ütemezés beállítása</string>
     <string name="dndm_auto_time_setting_summary">Kezdés %1$s, Befejezés %2$s</string>
     <string name="dndm_auto_time_turn_on">Kezdés</string>
@@ -220,7 +220,7 @@
     <string name="memory_title">Összes %2$s\u0009\u0009Elérhető %1$s</string>
     <string name="xiaomi_account">Xiaomi fiók</string>
     <string name="sync_settings">Fiókok és szinkronizálás</string>
-    <string name="sms_received_sound_title">Fogadott SMS hang</string>
+    <string name="sms_received_sound_title">Kézbesített SMS hangja</string>
     <string name="sms_delivered_sound_title">SMS kézbesítve</string>
     <string name="sms_received_sound_dialog_title">Válassza ki a fogadott SMS hangját</string>
     <string name="sms_delivered_sound_dialog_title">Válassza ki a kézbesített SMS hangját</string>
@@ -264,12 +264,12 @@
     <string name="menu_key">Menü gomb</string>
     <string name="home_key">Home gomb</string>
     <string name="back_key">Vissza gomb</string>
-    <string name="screen_key_long_press_timeout">Tartás késleltetés</string>
+    <string name="screen_key_long_press_timeout">Tartás késleltetése</string>
     <string name="under_keyguard">Záróképernyőn (hosszan nyomva)</string>
     <string name="enable_snapshot_screenlock">Vissza gombbal fényképezés</string>
-    <string name="disable_power_key_long_press_under_keyguard">Bekapcsológomb tiltás</string>
+    <string name="disable_power_key_long_press_under_keyguard">Bekapcsológomb tiltása</string>
     <string name="trackball_wake_title">Trackball wake</string>
-    <string name="pref_volume_wake_title">Hangerőgombok felébresztéshez</string>
+    <string name="pref_volume_wake_title">Felébresztés hangerő gombokkal</string>
     <string name="pref_volume_wake_summary">Nyomja meg a hangerő fel/le gombot a készülék felébresztéséhez.</string>
     <string name="media_button">Hangerő gomb</string>
     <string name="preferred_media_app_summary">Válasszon Zenelejátszót</string>
@@ -328,7 +328,7 @@
     <string name="show_rounded_corners">Sarkok kerekítése</string>
     <string name="pref_operational_key">Funkció gombok</string>
     <string name="pref_button_light">Fény visszajelzés</string>
-    <string name="pref_button_light_summary">Menu,Home és Vissza gombok visszajelzése</string>
+    <string name="pref_button_light_summary">Menü,Home és Vissza gombok visszajelzése</string>
     <string name="button_light_timeout">Fény visszajelzés beállításai</string>
     <string name="screen_button_key">Képernyőgombok</string>
     <string name="screen_button_custom">Képernyőgombok helyzete</string>
@@ -538,8 +538,8 @@ and run the software."</li>"
     <string name="vpn_configure">VPN beállítás</string>
     <string name="vpn_routes_hint">10.0.0.0/8</string>
     <string name="sync_wifi_label">Wi-Fi beállítások</string>
-    <string name="wifi_enable">Wi-Fi engedélyezés</string>
-    <string name="bluetooth_enable">Bluetooth engedélyezés</string>
+    <string name="wifi_enable">Wi-Fi engedélyezése</string>
+    <string name="bluetooth_enable">Bluetooth engedélyezése</string>
     <string name="sync_enable">Szinkronizálás engedélyezése</string>
     <string name="accessibility_enable">Kisegítő lehetőségek</string>
     <string name="development_enable">Fejlesztői beállítások</string>
@@ -1249,7 +1249,7 @@ and run the software."</li>"
     <string name="bluetooth_is_discoverable">%1$s másodpercig felderíthető...</string>
     <string name="bluetooth_is_discoverable_always">Felderíthető</string>
     <string name="bluetooth_not_visible_to_other_devices">Nem látható a többi Bluetooth eszköz számára</string>
-    <string name="bluetooth_only_visible_to_paired_devices">Csak párosított eszközök számára látható</string>
+    <string name="bluetooth_only_visible_to_paired_devices">Csak a párosított eszközök számára látható</string>
     <string name="bluetooth_visibility_timeout">Láthatóság időkerete</string>
     <string name="bluetooth_lock_voice_dialing">Hanghívás zárolása</string>
     <string name="bluetooth_lock_voice_dialing_summary">A bluetooth tárcsázó használatának megakadályozása, ha a képernyő le van zárva</string>
@@ -1757,7 +1757,7 @@ A telefon beállításához jelentős hálózati tevékenységre lehet szükség
     <string name="musicfx_title">Zenei hatások</string>
     <string name="ring_volume_title">Csengetés hangereje</string>
     <string name="vibrate_in_silent_title">Rezgés néma üzemmódban</string>
-    <string name="notification_sound_title">Alapértelmezett értesítés</string>
+    <string name="notification_sound_title">Értesítés hangja</string>
     <string name="notification_pulse_title">Villogó értesítő fény</string>
     <string name="incoming_call_volume_title">Csengőhang</string>
     <string name="notification_volume_title">Értesítés</string>
@@ -2277,7 +2277,7 @@ A zenék, képek és más felhasználói adatok törléséhez az "<b>SD-kártyá
     <string name="enable_adb_summary">Hibakeresés mód USB csatlakoztatásakor</string>
     <string name="bugreport_in_power">Hibajelentések az energiaellátási menüben</string>
     <string name="bugreport_in_power_summary">Lehetőség az energiaellátási menüben a hibajelentésekre</string>
-    <string name="keep_screen_on">Nem kapcsolódik ki</string>
+    <string name="keep_screen_on">Képernyő ébren tartása</string>
     <string name="keep_screen_on_summary">A képernyő soha nem kapcsol ki töltés során</string>
     <string name="allow_mock_location">Helyutánzatok engedélyezése</string>
     <string name="allow_mock_location_summary">Helyutánzatok engedélyezése</string>
@@ -2336,7 +2336,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="accessibility_toggle_screen_magnification_preference_title">Képernyőnagyítás</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Képernyőnagyítás automatikus frissítése</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Nagyítás frissítése az alkalmazások közti átmeneteknél</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">A bekapcsoló gomb megszakítja a hívást</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Hívás megszakítása bekapcsoló gombbal</string>
     <string name="accessibility_toggle_speak_password_preference_title">Jelszavak kimondása</string>
     <string name="accessibility_long_press_timeout_preference_title">Érintés és tartási késleltetés</string>
     <string name="accessibility_toggle_script_injection_preference_title">Webelérhetőség fokozása</string>
@@ -2632,7 +2632,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="debug_input_category">Bevitel</string>
     <string name="debug_drawing_category">Rajz</string>
     <string name="debug_monitoring_category">Figyelés</string>
-    <string name="strict_mode">Szigorú mód engedélyezve</string>
+    <string name="strict_mode">Szigorú mód engedélyezése</string>
     <string name="strict_mode_summary">Képernyővillogás a fő szál hosszú műveleteinél</string>
     <string name="pointer_location">Mutató helye</string>
     <string name="pointer_location_summary">A fedvény mutatja az aktuális érintési adatokat</string>
@@ -2669,9 +2669,9 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="animator_duration_scale_title">Animáció léptéke</string>
     <string name="overlay_display_devices_title">Másodlagos kijelzők szim.</string>
     <string name="debug_applications_category">Alkalmazások</string>
-    <string name="immediately_destroy_activities">Törölje a tevékenységeket</string>
+    <string name="immediately_destroy_activities">Tevékenységek törlése</string>
     <string name="immediately_destroy_activities_summary">Tevékenységek törlése, amint elhagyják azokat</string>
-    <string name="app_process_limit_title">Háttérfolyamat-korlátozás</string>
+    <string name="app_process_limit_title">Háttérfolyamat-korlátozása</string>
     <string name="show_all_anrs">Összes ANR mutatása</string>
     <string name="show_all_anrs_summary">Az Alkalmazás nem válaszol ablak megjelenítése</string>
     <string name="data_usage_summary_title">Adathasználat</string>
