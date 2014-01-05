@@ -107,11 +107,11 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="adb_warning_message">Az USB hibakeresés fejlesztési célokat szolgál. Használhatja adatok másolására a számítógép és a készülék között, alkalmazások a készülékre való értesítés nélküli telepítésére és naplózási adatok olvasására.</string>
     <string name="adb_warning_title">Engedélyezi az USB hibakeresést?</string>
     <string name="add_account_label">Fiók hozzáadása</string>
-    <string name="add_blacklist">Tiltólistához</string>
+    <string name="add_blacklist">Tiltólistához ad</string>
     <string name="add_button">Hozzáadás</string>
     <string name="add_device_admin">Aktiválás</string>
     <string name="add_device_admin_msg">Aktiválja az eszközkezelőt?</string>
-    <string name="add_whitelist">Kivételekhez</string>
+    <string name="add_whitelist">Kivételekhez ad</string>
     <string name="additional_system_update_settings_list_item_title">További rendszerfrissítések</string>
     <string name="advanced_settings">Speciális beállítások</string>
     <string name="advanced_settings_summary">További beállítási lehetőségek engedélyezése</string>
@@ -499,7 +499,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="bt_hci_snoop_log_summary">Az összes Bluetooth HCI-csomag rögzítése egy fájlban</string>
     <string name="bugreport_in_power">Hibajelentések az energiaellátási menüben</string>
     <string name="bugreport_in_power_summary">Lehetőség az energiaellátási menüben a hibajelentésekre</string>
-    <string name="build_number">Build-szám</string>
+    <string name="build_number">Verzió szám</string>
     <string name="builtin_keyboard_settings_summary">Fizikai billentyűzet beállításai</string>
     <string name="builtin_keyboard_settings_title">Fizikai billentyűzet</string>
     <string name="button_light_timeout">Fény visszajelzés beállításai</string>
@@ -557,19 +557,19 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="choose_timezone">Válasszon időzónát</string>
     <string name="clean_confirm_title">Törli a fájlokat?</string>
     <string name="cleaner">Tisztítás</string>
-    <string name="cleaner_support_hints">Powered by Clean Master</string>
+    <string name="cleaner_support_hints">Clean Master támogatásával</string>
     <string name="clear_activities">Alapértelmezések törlése</string>
     <string name="clear_activities_summary">Használja az alkalmazások alapértelmett beállításainak visszaállításához</string>
     <string name="clear_all_calllog">Híváslista törlése</string>
     <string name="clear_all_mslog">Üzenetnapló törlése</string>
     <string name="clear_cache_btn_text">A gyorsítótár törlése</string>
     <string name="clear_data_dlg_text">Az alkalmazás minden adata véglegesen törlésre kerül. Ez magában foglalja az összes fájlt, beállítást, fiókot, adatbázist stb.</string>
-    <string name="clear_data_dlg_title">Törli az Alkalmazás adatait?</string>
+    <string name="clear_data_dlg_title">Törli az alkalmazás adatait?</string>
     <string name="clear_data_failed">Az alkalmazás adatainak törlése sikertelen.</string>
     <string name="clear_failed_dlg_text">Az alkalmazás adatainak törlése sikertelen.</string>
     <string name="clear_failed_dlg_title">Adatok törlése</string>
     <string name="clear_user_data_text">Adatok törlése</string>
-    <string name="close_rule">Disable firewall rules</string>
+    <string name="close_rule">Tűzfal szabályok tiltása</string>
     <string name="comfirm">Megerősítés</string>
     <string name="comfirm_exit">Kilép?</string>
     <string name="common_settings">Gyakran használt</string>
@@ -679,7 +679,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="data_usage_menu_show_ethernet">Ethernet-használat megjelenítése</string>
     <string name="data_usage_menu_show_wifi">Wi-Fi használat megjelenítése</string>
     <string name="data_usage_menu_split_4g">Külön 4G-használat</string>
-    <string name="data_usage_metered_body">Select the Wi-Fi networks which are mobile hotspots. Apps can be restricted from using these networks when in the background. Apps may also warn before using these networks for large downloads.</string>
+    <string name="data_usage_metered_body">Válassza ki a mobil hotszpotként használni kívánt Wi-Fi hálózatot. Az alkalmazások korlátozottan használják a hálózatot, amikor a háttérben futnak. Az alkalmazások figyelmeztetnek a hálózaton történő nagyméretű letöltések esetén.</string>
     <string name="data_usage_metered_mobile">Mobil hálózatok</string>
     <string name="data_usage_metered_title">Mobil hotszpotok</string>
     <string name="data_usage_metered_wifi">Wi-Fi hálózatok</string>
@@ -782,7 +782,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="disable_app_permission_summary">Engedélyek megfigyelésének kikapcsolása</string>
     <string name="disable_overlays">HW fedvények letiltása</string>
     <string name="disable_overlays_summary">Mindig a GPU használata képernyő-feldolgozáshoz</string>
-    <string name="disable_power_key_long_press_under_keyguard">Bekapcsológomb tiltás</string>
+    <string name="disable_power_key_long_press_under_keyguard">Bekapcsológomb tiltása</string>
     <string name="disable_service_title">Leállítja a következőt: %1$s?</string>
     <string name="disable_text">Letiltás</string>
     <string name="disabled">Letiltva</string>
@@ -864,7 +864,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="drive_mode_only_contact_reply">Csak a névjegyzékben szereplő</string>
     <string name="drive_mode_phone_report">Hívások</string>
     <string name="drive_mode_settings">Engedélyezés</string>
-    <string name="drive_mode_sms_auto_sms_reply">SMS automatikus válasz</string>
+    <string name="drive_mode_sms_auto_sms_reply">Automatikus SMS válasz</string>
     <string name="drive_mode_sms_report">Üzenetek</string>
     <string name="drive_mode_title">Autó üzemód beállításai</string>
     <string name="drive_mode_voice_report">Hang jelentés</string>
@@ -889,7 +889,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="enable_service_title">Használja a következő szolgáltatást: %1$s?</string>
     <string name="enable_drive_mode">Vezetés üzemmód engedélyezés</string>
     <string name="enable_firewall">Kéretlen hívások elutasítása</string>
-    <string name="enable_snapshot_screenlock">Vissza gombbal fényképezés</string>
+    <string name="enable_snapshot_screenlock">Fényképezés a Vissza gombbal</string>
     <string name="enable_text">Engedélyezés</string>
     <string name="enable_traces_dialog_title">Eng.nyomköv.kiválasztása</string>
     <string name="enable_traces_summary_all">Minden nyomkövetés engedélyezett</string>
@@ -981,13 +981,13 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="fw_advanced_settings">Blokkolás további beállításai</string>
     <string name="fw_all_day">Naponta</string>
     <string name="fw_blacklist">Blokkolt</string>
-    <string name="fw_blacklist_hint">Calls and messages will be blocked by default</string>
+    <string name="fw_blacklist_hint">A Hívások és az Üzenetek blokkolva lesznek alapértelmezetten</string>
     <string name="fw_blocked">Elutasított napló</string>
-    <string name="fw_blocked_count" formatted="false">Intercepted:%d hívás és %d üzenet</string>
+    <string name="fw_blocked_count" formatted="false">Blokkolt:%d hívás és %d üzenet</string>
     <string name="fw_call" formatted="false">Hívás ideje: %s (%d)</string>
-    <string name="fw_call_imported">Import Call log</string>
-    <string name="fw_call_muted">Call muted.</string>
-    <string name="fw_call_rejected">Call diverted.</string>
+    <string name="fw_call_imported">Híváslista importálása</string>
+    <string name="fw_call_muted">Hívás némítva.</string>
+    <string name="fw_call_rejected">Hívás átirányítva.</string>
     <string name="fw_clear_all_keyword">Kulcsszavak törlése</string>
     <string name="gadget_brightness_state_half">fél</string>
     <string name="gadget_brightness_state_off">ki</string>
@@ -1030,7 +1030,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="headset_calibrate_success">Beállítás alkalmazva</string>
     <string name="headset_calibrate_volume_down">Hangerő le</string>
     <string name="headset_calibrate_volume_up">Hangerő fel</string>
-    <string name="headset_calibrate_wrong_key">Nem megfelelő gomb.Próbálja ismét.</string>
+    <string name="headset_calibrate_wrong_key">Nem megfelelő gomb. Próbálja ismét.</string>
     <string name="headset_function">Gombok beállítása</string>
     <string name="headset_mode_music">Zenelejátszás - előző/következő</string>
     <string name="headset_mode_volume">Hangerő beállítás- fel/le</string>
@@ -1069,8 +1069,8 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="intent_sender_action_label">Művelet:</string>
     <string name="intent_sender_data_label">Adatok:</string>
     <string name="intent_sender_resource_label">Forrás:</string>
-    <string name="intent_sender_sendbroadcast_text">broadcast küldés</string>
-    <string name="intent_sender_startactivity_text">activity indítása</string>
+    <string name="intent_sender_sendbroadcast_text">adás küldése</string>
+    <string name="intent_sender_startactivity_text">tevékenység indítása</string>
     <string name="internal_format">Belső tároló törlése</string>
     <string name="internal_format_summary">Minden adat törlése a belső tárolóról,beleértve a zenéket és a fényképeket is</string>
     <string name="internal_media_format_button_text">Belső tároló formázása</string>
@@ -1317,8 +1317,8 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="move_app_to_sdcard">Áthelyezés USB-tárra</string>
     <string name="moving">Áthelyezés</string>
     <string name="msd_driver_download">Driver letöltés</string>
-    <string name="msd_driver_mac_download">For Mac-hez töltse le a AndroidFileTransfer.dmg meghajtóprogramot a http://miui.com/mac weboldalról,majd telepítse azt.</string>
-    <string name="msd_driver_windows_xp_download">PCs-hez töltse le a Setup.exe meghajtóprogramot a http://miui.com/win weboldalról,majd telepítse azt.</string>
+    <string name="msd_driver_mac_download">Mac-hez töltse le a AndroidFileTransfer.dmg meghajtóprogramot a http://miui.com/mac weboldalról,majd telepítse azt.</string>
+    <string name="msd_driver_windows_xp_download">PC-hez töltse le a Setup.exe meghajtóprogramot a http://miui.com/win weboldalról,majd telepítse azt.</string>
     <string name="msd_help_summary">Probléma adódott a Telefon tárhely elérésével a számítógépen? Kérem válassza ki az Ön által használt operációs rendszert:</string>
     <string name="msd_help_title">Segítség</string>
     <string name="msd_install">Driver telepítés</string>
@@ -1330,7 +1330,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="msd_install_status_done">A meghajtó már telepítve van</string>
     <string name="msd_install_status_undo">Meghajtó telepítése</string>
     <string name="msd_install_succeed">Driver telepítve</string>
-    <string name="msd_install_windows_xp_step_2_1">1.If the Setup Wizard pops up, please follow the steps to complete the driver installation</string>
+    <string name="msd_install_windows_xp_step_2_1">1.Ha a Telepítés varászló ablaka megjelenik, akkor kövesse a lépéseket az Driver telepítésének befejezéséhez.</string>
     <string name="multi_sim_settings_summary">Multi SIM beállítások híváshoz, adatkapcsolathoz és SMS-hez</string>
     <string name="multi_sim_settings_title">Multi SIM beállítások</string>
     <string name="multi_touch_points_category_title">Multi-touch pontok</string>
@@ -1453,7 +1453,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="perm_hips_action_reject_count">Megtagadva: %1$d</string>
     <string name="perm_hips_adjust_ringer_volume">Csengetés hangerejének beállítása</string>
     <string name="perm_hips_adjust_volume_incall">Beszéd hangerejének beállítása</string>
-    <string name="perm_hips_allow_all">Minde engedélyezése</string>
+    <string name="perm_hips_allow_all">Mind engedélyezése</string>
     <string name="perm_hips_answer_call">válasz a jelenlegi hívásra</string>
     <string name="perm_hips_call_number">hívás %1$s</string>
     <string name="perm_hips_calllog_access">hívásnapló olvasás</string>
@@ -1531,7 +1531,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="perm_hips_switch">Engedélykezelő</string>
     <string name="perm_hips_wifi_network">Wi-Fi hálózat</string>
     <string name="perm_hips_wifi_network_desc">Wi-Fi hálózat</string>
-    <string name="perm_hips_wifi_network_hint">%1$s apps are allowed to access Internet through WIFI network</string>
+    <string name="perm_hips_wifi_network_hint">%1$s alkalmazás érheti el az internetet Wi-Fi hálózaton keresztül</string>
     <string name="perm_invalid_input">Érvénytelen bevitel</string>
     <string name="perm_loading">Betötlés...</string>
     <string name="perm_log">Naplók</string>
@@ -1571,7 +1571,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="perm_su_disabled_in_stable_desc">Ennek engedélyezése lehetővé teszi a rendszergazdai jogosultságok kérvényezését. A jogosultságokkal rendelkező alkalmazások instabilitást, adatvesztést, szoftver illetve hardverkárosodást okozhatnak. A Rendszergazdai jogosultság engedélyezéséhez váltson át a MIUI fejlesztői változatára.</string>
     <string name="perm_su_disabled_in_stable_download">MIUI letöltése</string>
     <string name="perm_su_enable_content">Ennek engedélyezése lehetővé teszi a rendszergazdai jogosultságok kérvényezését. A jogosultságokkal rendelkező alkalmazások instabilitást, adatvesztést, szoftver illetve hardverkárosodást okozhatnak. Legyen óvatos.</string>
-    <string name="perm_su_enable_dialog">%1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission Manager.</string>
+    <string name="perm_su_enable_dialog">%1$s megkísérelte a ROOT jogusultság használatát, mely alapértelmezetten tíltva van a rendszer védelmében. Ha szükséges az bekapcsolása,akkor kérem látogasson el az Engedélyekhez.</string>
     <string name="perm_su_enable_summary">Rendszergazdai jogosultságok engedélyezése</string>
     <string name="perm_su_enable_title">ROOT jogosultságok</string>
     <string name="perm_su_switch">ROOT jogosultság</string>
@@ -1596,7 +1596,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="permission_mgr">Engedélyek</string>
     <string name="permissions_label">Engedélyek</string>
     <string name="personal_data_section_title">Személyes adatok</string>
-    <string name="phone_call_noise_suppression">Telefonhívás zajcsökkentés</string>
+    <string name="phone_call_noise_suppression">Telefonhívás zajcsökkentése</string>
     <string name="phone_info_label">Telefon adatai</string>
     <string name="phone_language">Nyelv</string>
     <string name="pico_installed">Telepítve</string>
@@ -1961,7 +1961,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="scanning_virus">Víruskeresés...</string>
     <string name="score">pont</string>
     <string name="score_good_state">A készülék optimalizálva</string>
-    <string name="score_need_optimize">Sweep recommended</string>
+    <string name="score_need_optimize">Tisztítás ajánlott</string>
     <string name="screen">Képernyő</string>
     <string name="screen_button_custom">Képernyőgombok helyzete</string>
     <string name="screen_button_key">Képernyőgombok</string>
@@ -2149,7 +2149,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="sms_over_ims_off">Kapcsolja ki az SMS-t az IMS-en keresztül</string>
     <string name="sms_over_ims_on">Kapcsolja be az SMS-t az IMS-en keresztül</string>
     <string name="sms_received_sound_dialog_title">Válassza ki a fogadott SMS hangját</string>
-    <string name="sms_received_sound_title">Kézbesített SMS hangja</string>
+    <string name="sms_received_sound_title">Fogadott SMS hangja</string>
     <string name="sms_summary">Emelt díjas SMS küldése</string>
     <string name="sort_order_alpha">Rendezés név szerint</string>
     <string name="sort_order_size">Rendezés méret szerint</string>
@@ -2338,7 +2338,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="turn_on_radio">Rádió bekapcsolása</string>
     <string name="turn_on_smart_antispam_hint">Kéretlen telefonszámok azonosítása</string>
     <string name="turn_on_smart_antispam_summary_off">Szűrés a helyi telefonszám adatbázis használatával</string>
-    <string name="turn_on_smart_antispam_summary_on">Only available when connected to WLAN or 3G network</string>
+    <string name="turn_on_smart_antispam_summary_on">Csak Wi-Fi vagy 3G hálózatok használata esetén érhető el</string>
     <string name="turn_on_smart_antispam_title">Ismeretlen telefonszámok azonosítása</string>
     <string name="under_keyguard">Záróképernyőn (hosszan nyomva)</string>
     <string name="uninstall_text">Eltávolítás</string>
@@ -2515,13 +2515,13 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="virus_scan_clear">Törlés</string>
     <string name="virus_scan_dangerous">Gyanús</string>
     <string name="virus_scan_description">"Ez az alkalmazás veszélyezteti a készülék biztonságát."</string>
-    <string name="virus_scan_file_type_risk_apk">Gyanús alkalmazá (telepítő csomag)</string>
+    <string name="virus_scan_file_type_risk_apk">Gyanús alkalmazás (telepítő csomag)</string>
     <string name="virus_scan_file_type_risk_installed">Gyanús alkalmazás (telepített)</string>
     <string name="virus_scan_file_type_virus_apk">Vírus (telepítő csomag)</string>
-    <string name="virus_scan_file_type_virus_installed">Vírus (telepített alk)</string>
+    <string name="virus_scan_file_type_virus_installed">Vírus (telepített alk.)</string>
     <string name="virus_scan_find">%d gyanús fájl található</string>
     <string name="virus_scan_finish">Kész</string>
-	<string name="work_done">Kész</string>
+    <string name="work_done">Kész</string>
     <string name="virus_scan_finish_text">OK, most már minden rendben van!</string>
     <string name="virus_scan_guard_provider_missed">Az AntiVírus veszélybe került. A Gyári beállítások visszaállítása szükséges a készüléken.</string>
     <string name="virus_scan_installed_package">%s (telepített alk)</string>
@@ -2556,7 +2556,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="virus_scan_settings_title">Vírus adatbázis beállítása</string>
     <string name="virus_scan_start">Víruskeresés</string>
     <string name="virus_scan_stop">Szüneteltetés</string>
-    <string name="virus_scan_support">Powered by Tencent</string>
+    <string name="virus_scan_support">Tencent támogatásával</string>
     <string name="virus_scan_uninstalled_package">%s (telepítő csomag)</string>
     <string name="virus_scan_update_lib">A vírus adatbázisának frissítése automatikusan</string>
     <string name="virus_scan_update_now">Frissítés</string>
@@ -2583,7 +2583,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="virus_scanner_select_trust_lib">Megbízható vírusdefiníció választás</string>
     <string name="virus_scanner_title">AntiVírus</string>
     <string name="virus_scanner_update_lib">Adatbázis frissítés</string>
-    <string name="virus_single_app_file_date">Date created:</string>
+    <string name="virus_single_app_file_date">Létrehozás dátuma:</string>
     <string name="virus_single_app_install_date">Telepítés dátuma:</string>
     <string name="virus_single_riskapk_title">Gyanús alkalmazás részletei</string>
     <string name="virus_single_virus_description">Leírás:</string>
@@ -2648,7 +2648,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="vpn_type">Típus</string>
     <string name="vpn_username">Felhasználónév</string>
     <string name="wait_for_debugger">Várakozás a hibakeresőre</string>
-    <string name="wait_for_debugger_summary">Az Alk.szolgáltató alkalmazás keresése alkalmazás hibakeresése</string>
+    <string name="wait_for_debugger_summary">Az alk.szolgáltató alkalmazás keresése alkalmazás hibakeresése</string>
     <string name="wallpaper_settings_fragment_title">Válasszon tapétát innen:</string>
     <string name="wallpaper_settings_title">Háttérkép</string>
     <string name="wfd_available_devices">Elérhető eszközök</string>

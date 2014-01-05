@@ -6,8 +6,8 @@
     <string name="eng_mode_summary">Információ/statisztikák gyűjtése, tesztelés, finomhangolás</string>
     <string name="homescreen">Navigációs sáv</string>
     <string name="homescreen_summary">Navigációs sáv be/kikapcsolása</string>
-    <string name="level">Szint</string>
-    <string name="level_summary">Szint beállítás</string>
+    <string name="level">Szintezés</string>
+    <string name="level_summary">Szintezési beállítások</string>
     <string name="factory_mode">Gyári üzemmód</string>
     <string name="factory_mode_summary">Belépés a gyári üzemmódba</string>
     <string name="flip_2_mute">További beállítások</string>

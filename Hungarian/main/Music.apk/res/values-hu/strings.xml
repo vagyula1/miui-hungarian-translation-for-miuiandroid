@@ -26,11 +26,11 @@
     <string name="artist_hot_audios">Legfrissebb dalok</string>
     <string name="artists_title">Előadók</string>
     <string name="auto_correct_id3_settings">ID3 automatikus korriekciója</string>
-    <string name="auto_correct_id3_summary">Using Baidu audio fingerprint algorithm, correct ID3 when playing.</string>
+    <string name="auto_correct_id3_summary">Baidu audió újlenyomat algoritmus használata a lejátszás közbeni ID3 korrekcióhoz.</string>
     <string name="batch_correct_id3_completed">ID3 kerrokeció befejeződött.</string>
     <string name="billboard">Billboard</string>
     <string name="bind_baidu_account_setting">Bind Baidu fiók</string>
-    <string name="bind_baidu_account_summary">Add playlists and other services by binding Baidu music account</string>
+    <string name="bind_baidu_account_summary">Lejátszási lista és egyéb szolgáltatások hozzáadása a Baidi fiókhoz</string>
     <string name="buffering">Pufferelés...</string>
     <string name="cancel">Mégsem</string>
     <string name="cancel_sleep_mode">Kilépés az alvó módból</string>
@@ -44,10 +44,10 @@
     <string name="correct_id3_in_processing">Dalcímke (ID3) javítása.</string>
     <string name="correct_id3_not_support">Nem támogatja az ID3 javítást ebben a fájltípusban.</string>
     <string name="correct_id3_open_other_connect">Engedélyezze az adatkapcsolatot a dalcímke(ID3) javításához.</string>
-    <string name="correct_id3_settings">Correct ID3</string>
+    <string name="correct_id3_settings">ID3 javítása</string>
     <string name="correct_id3_start">Dalcímke(ID3) javítása.</string>
     <string name="correct_id3_success">Dalcímke(ID3) javítása sikerült.</string>
-    <string name="correct_id3_summary">May increase your data charges. Recommend to turn it off.</string>
+    <string name="correct_id3_summary">Növelheti az adatforgalmat. Javasoljuk, hogy kapcsolja ki.</string>
     <string name="create_confirm">Megerősítés</string>
     <string name="create_equalzier_create_text_prompt">Adja meg az új profil nevét</string>
     <string name="create_playlist_create_text_prompt">Lejátszási lista neve</string>
@@ -65,7 +65,7 @@
     <string name="download_album_settings">Lemezborító letöltése</string>
     <string name="download_album_summary">Mobil adathálózaton sokáig tarthat, javasoljuk a Wi-Fi kapcsolat használatát.</string>
     <string name="download_all_album">Borító letöltése</string>
-    <string name="download_all_avatar">Atist Avatar(ok) letöltése</string>
+    <string name="download_all_avatar">Összes Avatar(ok) letöltése</string>
     <string name="download_all_track">Összes zeneszám letöltése</string>
     <string name="download_batch_start">Letöltés kezdése</string>
     <string name="download_lyric_settings">Dalszöveg letöltése</string>
@@ -122,7 +122,7 @@
     <string name="load_album_in_process">Album lista betöltés</string>
     <string name="load_artist_failed">Előadók listájának betöltése sikertelen, próbálja újra</string>
     <string name="load_artist_in_process">Előadók betöltés</string>
-    <string name="load_audio_failed">Failed to load audio list, please try again</string>
+    <string name="load_audio_failed">Zene lista betöltése sikertelen, próbálja újra</string>
     <string name="load_audio_in_process">Zene lista betöltés</string>
     <string name="load_bill_failed">Billboard lista betöltése sikertelen, próbála újra</string>
     <string name="load_bill_in_process">Billboard lista betöltés</string>
@@ -172,7 +172,7 @@
     <string name="overwrite_confirm">Felülírás</string>
     <string name="play_all">Mind lejátszása</string>
     <string name="play_and_download">Zenehallgatás és letöltés</string>
-    <string name="play_and_download_summary">Stream music whilst downloading</string>
+    <string name="play_and_download_summary">Zene streamelése letöltés alatt</string>
     <string name="play_selection">Lejátszás</string>
     <string name="playback_failed">Sajnálom, a lejátszó nem támogatja ezt a file típust.</string>
     <string name="playback_failed_by_bad_file">%s nem játszható le, mert a lejátszó nem támogatja ezt az fájltípust..</string>
@@ -187,7 +187,7 @@
     <string name="playlist_recently_played">Most játszott</string>
     <string name="playlist_renamed_message">Lejátszási lista átnevezve.</string>
     <string name="playlists_title">Lejátszó lista</string>
-    <string name="powered_by">Powered by</string>
+    <string name="powered_by">Támogatásával</string>
     <string name="project_device_mobile">Mobiltelefon</string>
     <string name="queue">Aktuális lista</string>
     <string name="quit_player">Kilépés</string>
@@ -209,7 +209,7 @@
     <string name="ringtone_not_support">Ez a formátum nem támogatott.</string>
     <string name="ringtone_set">\"%s\" beállítása csengőhangként.</string>
     <string name="save">Mentés</string>
-    <string name="scanning">SD-kártya ellenőrzése…</string>
+    <string name="scanning">SD kártya ellenőrzése…</string>
     <string name="scanning_nosdcard">USB háttértár ellenőrzése…</string>
     <string name="screen_bright_wake">Képernyő maradjon ébren</string>
     <string name="screen_bright_wake_summary">Háttérvilágítás újra aktív,amennyiben ez engedélyezve van</string>
@@ -258,7 +258,7 @@
     <string name="download_completed">Letöltve</string>
     <string name="find_ktv">KTV keresés</string>
     <string name="high_quality">Magas minőség</string>
-    <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
+    <string name="ktv_alert_message">"Érintse meg a telefont a dalok hozzáadásához a KTV lejátszási lista főoldalához, a megfelelő QR kód megjelenítéséhez"</string>
     <string name="ktv_alert_title">Csak a támogatott eszközökhöz adhatóak dalok</string>
     <string name="ktv_and_room">%1$s %2$s</string>
     <string name="ktv_connected_alert_message">A kiválasztott dalok hozzá lesznek adva a saját KTV-m lejátszási listájához</string>
@@ -277,7 +277,7 @@
     <string name="playlist_my_ktv">Saját KTV-m</string>
     <string name="request_fail">A kérés nem sikerült!</string>
     <string name="requesting">Kérés folyamatban…</string>
-    <string name="scan_barcode_to_connect">"Align the KTV console's QR code in the frame to scan"</string>
+    <string name="scan_barcode_to_connect">"Állítsa be a KTV-m lista keretén belüli QR kód beolvasást"</string>
     <string name="server_error">Szerverhiba!</string>
     <string name="synchronize_guide_toast">A szinkronizálás engedélyezéséhez lépjen be a Beállítások &gt; Lejátszási lista szinkronizálása menüpontba</string>
     <string name="synchronize_to_baidu_cloud">A lejátszási lista dalait mentse el online a Baidu Cloud használatával</string>

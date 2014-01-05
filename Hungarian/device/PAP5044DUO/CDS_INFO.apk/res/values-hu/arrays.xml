@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Keresés...</item>
+        <item>Kapcsolódás...</item>
+        <item>Azonosítás...</item>
+        <item>IP cím lekérése</item>
+        <item>Kapcsolódva</item>
+        <item>Felfüggesztve</item>
+        <item>Kapcsolat bontása</item>
+        <item>Lekapcsolódva</item>
+        <item>Sikertelen</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Keresés...</item>
+        <item>Kapcsolódás a %1$s…</item>
+        <item>Azonosítás %1$s…</item>
+        <item>IP cím lekérése a %1$s…</item>
+        <item>Kapcsolódva a %1$s</item>
+        <item>Felfüggesztve</item>
+        <item>Kapcsolat bontása a %1$s…</item>
+        <item>Lekapcsolódva</item>
+        <item>Sikertelen</item>
+    </string-array>
+</resources>

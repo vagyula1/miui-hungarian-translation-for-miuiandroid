@@ -10,7 +10,7 @@
     <string name="httpErrorBadUrl">Nem sikerült megnyitni az oldalt, mert az URL érvénytelen.</string>
     <string name="httpErrorUnsupportedScheme">Nem támogatott protokoll.</string>
     <string name="no">Nem</string>
-    <string name="ok">Igen</string>
+    <string name="ok">Ok</string>
     <string name="paste">Beillesztés</string>
     <string name="search_go">Keresés</string>
     <string name="selectAll">Összes kijelölése</string>
