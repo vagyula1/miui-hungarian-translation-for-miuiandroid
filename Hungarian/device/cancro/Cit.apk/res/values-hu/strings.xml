@@ -273,7 +273,6 @@
     <string name="cit_tool_wifi_rx_ap_name">Hozzáférési pont neve</string>
     <string name="cit_tool_wifi_rx_ap_type">Hozzáférési pont típusa</string>
     <string name="cit_tool_wifi_rx_ap_type_error">Hozzáférési pont hiba, kérem írja be a bss / adhoc részleteket</string>
-    <string name="cit_tool_wifi_rx_ap_type_error">AP类型错误，请重新输入（bss/adhoc)</string>
     <string name="cit_tool_wifi_rx_ap_not_null">A hozzáférési pont nem lehet üres</string>
     <string name="cit_tool_wifi_exit">Kilépés</string>
     <string name="cit_tool_modem">MODEM测试工具</string>
