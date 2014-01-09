@@ -152,10 +152,10 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_Perm_WIFINetwork_Desc">Access Internet through WIFI</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s alkalmazás Internet hozzáférési jogokat kapott.</string>
   <string name="HIPS_SecurityPrompt_Accept">Engedélyezve (%d)</string>
-  <string name="HIPS_SecurityPrompt_AcceptRoot">Engedély</string>
+  <string name="HIPS_SecurityPrompt_AcceptRoot">Engedélyez</string>
   <string name="HIPS_SecurityPrompt_Caption">Biztonsági figyelmeztetés</string>
   <string name="HIPS_SecurityPrompt_Next">Következő</string>
-  <string name="HIPS_SecurityPrompt_Reject">Megtagadva (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject">Megtagad (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Választás megjegyzése</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Fontos figyelmeztetés</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Biztos benne, hogy %1$s alkalmazás rendszergazdai jogosultságokat kapjon?</string>
