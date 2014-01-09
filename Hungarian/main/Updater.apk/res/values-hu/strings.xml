@@ -139,7 +139,7 @@
   <string name="system_backup_download_helper">A frssítés letöltése és alkalmazása után az eszköz automatikusan újraindul.</string>
   <string name="system_backup_error_message">Hiba a rendszer biztonsági mentésekor</string>
   <string name="system_backup_helper">A rendszerfrissítés nem törli a felhasználói adatokat. Mentés ajánlott</string> 
-  <string name="system_backup_ok_text">Ok</string>
+  <string name="system_backup_ok_text">Mentés</string>
   <string name="top_secret_build">Titkos kiadás</string>
   <string name="unstable_build">Fejlesztői kiadás</string>
   <string name="update_comment_hint">(opcionális)</string>

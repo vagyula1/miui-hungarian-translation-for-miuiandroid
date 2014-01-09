@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="absent_num">HIÁNYZÓ SZÁM</string>
-  <string name="accessibility_call_muted">Hívás némítva.</string>
+  <string name="accessibility_call_muted">A hívás lenémítva.</string>
   <string name="accessibility_speakerphone_enabled">Kihangosítás engedélyezve.</string>
   <string name="add_button_miui">Hozzáadás</string>
   <string name="add_fdn_contact">Fix hívószám hozzáadása</string>
