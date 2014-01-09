@@ -208,7 +208,7 @@
     <string name="event_info_when">"Mikor: "</string>
     <string name="event_info_where">"Hol: "</string>
     <string name="event_lunar_month"/>
-    <string name="event_show_more">Mutat</string>
+    <string name="event_show_more">További beállítások</string>
     <string name="huangli_bad_type"/>
     <string name="huangli_good_type"/>
     <string name="lunar_date">Hold Dátum</string>

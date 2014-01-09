@@ -3078,4 +3078,27 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="preferred_application_warning_replace">Lecserél</string>
     <string name="preferred_application_warning_title">%s lecserése</string>
     <string name="preferred_application_warning_use_system">%s használata alapértelmezettként</string>
+    <string name="empty_folder_title">Üres mappa (%d)</string>
+    <string name="list_sub_view_item_view">Részletek</string>
+    <string name="list_sub_view_item_clean">Törlés</string>
+    <string name="list_sub_view_item_install">Telepítés</string>
+    <string name="list_sub_view_item_lock">Lezárás</string>
+    <string name="list_sub_view_item_unlock">Feloldás</string>
+    <string name="power_save_on_time_goout_title">Visszaállítás</string>
+    <string name="power_save_choose_recovery_mode">Válassza ki a visszaállítás módját</string>
+    <string name="power_new_choose_mode">Profil kiválasztása</string>
+    <string name="power_save_low_battery_option_recovery_title">Ha az akkumulátorszint helyreáll, profilváltás</string>
+    <string name="power_save_on_time_option_recovery_title">Ütemezés befejeztével profilváltás</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">A törlés nem sikerült, a készülék úgy van beállítva,hogy az akkumulátorszint helyreállásával erre a profilra vált. Az akkumulátor beállítás módosítása szükséges, mielőtt törölné ezt a profilt.</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">A törlés nem sikerült, a készülék úgy van beállítva,hogy az ütemezés végeztével erre a profilra vált. Az akkumulátor beállítás módosítása szükséges, mielőtt törölné ezt a profilt</string>
+    <string name="power_mode_chooser_button_text">Alkalmaz</string>
+    <string name="menu_item_about_summary">%s verzió</string>
+    <string name="menu_item_shortcut">Parancsikon létrehozása</string>
+    <string name="menu_item_shortcut_uninstall">Parancsikon eltávolítása</string>
+    <string name="menu_item_shortcut_title">Parancsikon létrehozása</string>
+    <string name="menu_item_shortcut_summary">Gyakran használt alkalmazások az asztalon</string>
+    <string name="menu_item_settings_title">Beállítások</string>
+    <string name="activity_title_create_shortcut">Asztali parancsikonok</string>
+    <string name="activity_title_settings">Beállítások</string>
+    <string name="toast_shortcut_install">Parancsikon létrehozva</string>
 </resources>
