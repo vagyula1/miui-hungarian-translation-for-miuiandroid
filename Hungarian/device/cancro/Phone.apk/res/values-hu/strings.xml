@@ -42,7 +42,6 @@
   <string name="answer_widget_title_miui">Hívásfogadás módja</string>
     <string name="antispam_marked_count">Reported by %1$d MIUI users</string>
   <string name="antispam_notification_title">Ismeretlen számok azonosítása</string>
-  <string name="apn_settings">Hozzáférési pontok nevei</string>
     <string name="apn_settings">Access Point Names</string>
     <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Segélyhívó szám</string>
