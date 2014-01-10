@@ -201,7 +201,6 @@
   <string name="card_title_in_call">Vonalban</string>
   <string name="card_title_incoming_call">Bejövő hívás</string>
     <string name="card_title_incoming_barred">Incoming Calls Barred</string>
-    <string name="card_title_incoming_call">Incoming call</string>
   <string name="card_title_MOcall_forwarding">Outgoing Forwarded Call</string>
   <string name="card_title_MTcall_forwarding">Incoming Call is Forwarded</string>
     <string name="card_title_multipartycall">MultiParty Call</string>
@@ -295,8 +294,7 @@
   <string name="crystaltalk_title_miui">NICAM beállítások</string>
   <string name="current_areacode_miui">Jelenlegi körzetszám</string>
     <string name="current_areacode_sum_miui">Area code of your current location</string>
-  <string name="current_areacode_sum_miui">A jelenlegi hely körzetszáma, vagy a barangoló kód. Például: 010.</string>
-    <string name="cursorError">Cursor error.</string>
+   <string name="cursorError">Cursor error.</string>
   <string name="custom_location_location_hint_miui">Név</string>
     <string name="custom_location_location_no_item_miui">Add a number by touching the add + button.</string>
   <string name="custom_location_number_hint_miui">Régió kód. pl.: 010, csoport pl.: 68#####</string>
@@ -656,7 +654,6 @@
   <string name="no_vm_number_msg">Nincs hangpostaszám a SIM-kártyán.</string>
   <string name="no_voip">Az internetes hívás nem támogatott</string>
   <string name="no_wifi_available">Internetes hívások kezdeményezéséhez Wi-Fi hálózathoz kell csatlakoznia (használja a Vezeték nélküli és hálózati beállításokat)</string>
-    <string name="no_wifi_available">You need to be connected to a WLAN network for Internet calls (use the Wireless &amp; Network settings).</string>
   <string name="no_wifi_available_title">Nincs Wi-Fi kapcsolat</string>
   <string name="not_a_valid_port">A port számának 1000 és 65534 között kell lennie</string>
   <string name="not_allowed">SIM-kártyája nem teszi lehetővé a kapcsolódást ehhez a hálózathoz.</string>
@@ -664,7 +661,6 @@
   <string name="not_voice_capable">A hanghívás nem támogatott</string>
   <string name="notification_action_end_call">Hívás befejezése</string>
   <string name="notification_incoming_call">Bejövő hívás</string>
-    <string name="notification_incoming_call">Incoming call</string>
   <string name="notification_missedCall_call_back">Visszahívás</string>
   <string name="notification_missedCall_message">Üzenet</string>
   <string name="notification_missedCallsMsg">%s nem fogadott hívás</string>
@@ -843,7 +839,6 @@
   <string name="puk_requested">Hibás jelszó, SIM zárolva! PUK2 szükséges.</string>
     <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
     <string name="puk_unlock_success">PUK unlock successful.</string>
-    <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking…</string>
   <string name="puk_unlocked">SIM-kártyája letiltása megszűnt. Feloldás folyamatban...</string>
   <string name="puk2_requested">Vérem vegye figyelembe, ha mégegyszer elrontja, a telefon lezár!</string>
   <string name="radio_off_error">Kapcsolja be a rádiót a beállítások megtekintése előtt.</string>
@@ -944,15 +939,10 @@
   <string name="set_primary_title">Beállítás elsődleges fiókként</string>
   <string name="set_smsc_address_error_miui">Hiba az SMS központ számának lekérésekor.</string>
   <string name="set_smsc_address_timeout_miui">Connection timed out.</string>
-
-
-
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Kijelölés törlése</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Összes kijelölése</string>
     <string name="set_uicc_subscription_progress">Set subscription in progress...</string>
   <string name="settings_label">Hálózati beállítások</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
-    <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
   <string name="sim_contact_name_miui">Név</string>
   <string name="sim_contact_number_miui">Szám</string>
   <string name="sim_contacts_title_miui">Névjegyek a SIM kártyán</string>
