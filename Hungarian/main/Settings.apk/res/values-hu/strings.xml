@@ -1515,7 +1515,7 @@
     <string name="error_mcc_not3">Az MCC mezőnek három számjegyet kell tartalmaznia.</string>
     <string name="error_mnc_not23">Az MNC mezőbe 2 vagy 3 számjegyet kell írni.</string>
     <string name="restore_default_apn">Alapértelmezett APN-beállítások visszaállítása.</string>
-    <string name="menu_restore">Visszaállítás alaphelyzetbe</string>
+    <string name="menu_restore">Visszaállítás</string>
     <string name="restore_default_apn_completed">Az alapértelmezett APN-beállítások visszaállítása befejeződött.</string>
     <string name="master_clear_title">Gyári adatok visszaállítása</string>
     <string name="master_clear_summary">Minden adat törlése a telefonról</string>
@@ -2747,7 +2747,7 @@
     <string name="miui_screensaver_state_off">Ki</string>
     <string name="miui_screensaver_state_on">Be</string>
     <string name="miui_screensaver_title">Képernyőkímélő</string>
-    <string name="miui_screensaver_usage">Aktiválás után a képernyő kikapcsolása után 5 másodperccel képernyőkímélőként megjelennek az album képei.</string>
+    <string name="miui_screensaver_usage">A képernyő kikapcsolása után 5 másodperccel képernyőkímélőként jelennek meg az album képei.</string>
     <string name="only_when_charging">Csak töltéskor</string>
     <string name="picture_source">Képek forrása</string>
     <string name="button_text_quick_scan">Keresés indítása</string>

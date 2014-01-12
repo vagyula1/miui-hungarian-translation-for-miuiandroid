@@ -40,16 +40,4 @@
         <item quantity="other">A jelszónak tartalmaznia kell legalább %d nem betű karaktert</item>
         <item quantity="one">A jelszónak tartalmaznia kell legalább 1 nem betű karaktert</item>
     </plurals>
-    <plurals name="power_center_battery_day">
-        <item quantity="other">"%dnap "</item>
-        <item quantity="one">"%dnap "</item>
-    </plurals>
-    <plurals name="power_center_battery_hour">
-        <item quantity="other">"%dóra "</item>
-        <item quantity="one">"%dóra "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">%dperc</item>
-        <item quantity="one">%dperc</item>
-    </plurals>
 </resources>
