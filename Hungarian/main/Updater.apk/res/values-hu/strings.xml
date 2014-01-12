@@ -89,9 +89,9 @@
   <string name="next">Következő</string>
   <string name="no_proper_updates">Nem találhatók frissítések</string>
   <string name="no_updatecheck_executed">A frissítések ellenőrzése nem sikerült</string>
-  <string name="no_updates_found">Frissítések nem találhatók</string>
-  <string name="no_updates_warning">Nem található semmilyen frissítés</string>
-  <string name="no_updates_warning2">Azt mondtam nem található! Üdvözlettel, XJ</string>
+  <string name="no_updates_found">A legfrissebb MIUI fut az eszközön</string>
+  <string name="no_updates_warning">Nincs elérhető frissítés.</string>
+  <string name="no_updates_warning2">Nyugalom! Értesítést kap elérhető frissítés esetén</string>
   <string name="not_recommend">"Ne ajánlja"</string>
   <string name="now">Újraindítás</string>
   <string name="paused_queued_for_network">Várakozás hálózati kapcsolatra</string>
@@ -116,8 +116,8 @@
   <string name="share_update">Frissítési info.megosztása</string>
   <string name="share_update_content_sign">I’ve updated MIUI to %1$s! My update user rank is %2$s. Részletekért látogassa meg %3$s</string>
   <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! Részletekért látogassa meg %2$s</string>
-  <string name="sign_in_add_account">Aktiválja Xiaomi fiókját</string>
-  <string name="sign_in_add_account_helper">A telefon nem rendelkezik MIUI fiók beállítással, hozzon létre egyet</string>
+  <string name="sign_in_add_account">Xiaomi fiók aktiválása</string>
+  <string name="sign_in_add_account_helper">Xiaomi fiók létrehozása,beállítása</string>
   <string name="sign_in_info">"Ez a frissítés a %1$s felhasználó által aláírva, a MIUI részére %3$s"</string>
   <string name="sign_in_info_rank_more">"A MIUI %3$s verzióját több,mint %2$s felhasználó ellenőrizte."</string>
   <string name="sign_in_info_total_more">"A MIUI %3$s verzióját több,mint %2$s felhasználó ellenőrizte."</string>

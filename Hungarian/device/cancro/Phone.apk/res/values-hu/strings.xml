@@ -42,7 +42,7 @@
   <string name="answer_widget_title_miui">Hívásfogadás módja</string>
     <string name="antispam_marked_count">Reported by %1$d MIUI users</string>
   <string name="antispam_notification_title">Ismeretlen számok azonosítása</string>
-    <string name="apn_settings">Access Point Names</string>
+  <string name="apn_settings">Hozzáférési pontok nevei</string>
     <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Segélyhívó szám</string>
   <string name="areacode_required_miui">Inteligens IP engedélyezve, kérem írja be a körzet számot</string>
@@ -292,7 +292,7 @@
   <string name="crystaltalk_summary_miui">Hívás hangminőségének optimalizálásan</string>
   <string name="crystaltalk_title_miui">NICAM beállítások</string>
   <string name="current_areacode_miui">Jelenlegi körzetszám</string>
-    <string name="current_areacode_sum_miui">Area code of your current location</string>
+    <string name="current_areacode_sum_miui">A jelenlegi hely körzetszáma.</string>
    <string name="cursorError">Cursor error.</string>
   <string name="custom_location_location_hint_miui">Név</string>
     <string name="custom_location_location_no_item_miui">Add a number by touching the add + button.</string>

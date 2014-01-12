@@ -689,7 +689,7 @@
     <string name="optimizing_virus">Vírusok eltávolítása...</string>
     <string name="finish_optimizing_virus">Befejezés...</string>
     <string name="menu_item_about_title">Névjegy</string>
-    <string name="menu_item_about_content">Biztonságos: %s</string>
+    <string name="menu_item_about_content">Biztonság: %s</string>
     <string name="virus_scan_virus_title">%d vírus találat!</string>
     <string name="virus_scan_risk_title">%d gyanús alkalmazás</string>
     <string name="virus_button_clear">Törlés</string>
