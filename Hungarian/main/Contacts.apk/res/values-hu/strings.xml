@@ -1038,7 +1038,7 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="yellowpage_navigation_search_result_service_error">A szolgáltatás jelenleg nem elérhető</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Ismeretlen hiba!</string>
     <string name="yellowpage_navigation_menu_order">Rendeléseim</string>
-    <string name="callrecordview_menu_batch_delete">Hívások törlése</string>
+    <string name="callrecordview_menu_batch_delete">Kiválasztott hívások törlése</string>
     <string name="delete_call_log_selected_title">Törli a kiválasztott hívásokat?</string>
     <string name="toast_finish_delete_selected_call_log">A kiválasztott hívások törölve</string>
 </resources>
