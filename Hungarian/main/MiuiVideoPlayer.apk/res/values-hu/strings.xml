@@ -58,5 +58,7 @@
   <string name="menu_item_disable_audio_enhance">Hangkiemelés letiltása</string>
   <string name="menu_item_enable_audio_enhance">Hangkiemelés engedélyezése</string>
   <string name="toast_message_set_misound">MiAudio beállítása</string>
+  <string name="menu_item_disable_3d_mode">3D letiltása</string>
+  <string name="menu_item_enable_3d_mode">3D engedélyezése</string>
 </resources>
 

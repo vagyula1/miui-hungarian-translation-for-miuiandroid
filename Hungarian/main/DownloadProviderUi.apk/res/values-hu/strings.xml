@@ -72,4 +72,7 @@
     <string name="selected_count">%2$d/%1$d kiválasztva</string>
     <string name="xunlei_brand">Xunlei által fejlesztve</string>
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+    <string name="turn_off_xunlei_message">Előfordulhat lassabb letöltési sebesség</string>
+    <string name="turn_off_xunlei_title">Xunlei letöltőmotor letiltása</string>
+    <string name="xunlei_switch">Xunlei letöltőmotor</string>
 </resources>
