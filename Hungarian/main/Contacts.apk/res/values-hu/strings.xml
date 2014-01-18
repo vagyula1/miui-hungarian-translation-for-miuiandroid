@@ -857,7 +857,7 @@
     <string name="sim_capacity_content" formatted="false">Teljes kapacitás %d, felhasznált %d</string>
     <string name="sim_card_no_free_space_message">A SIM kártya megtelt, új névjegy nem importálható.Kérem töröljön a kártyáról és próbálja újra</string>
     <string name="sim_card_no_free_space_title">SIM kártya megtelt</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">Egyxikset sem</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">Egyiket sem</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Mindet kijelöl</string>
     <string name="sim_contact_search_error">Hiba a névjegyek SIM-en keresése közben</string>
     <string name="sim_contacts">SIM névjegyek</string>
