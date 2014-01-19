@@ -170,7 +170,7 @@
     <string name="theme_component_title_lockstyle">Zár stílusa</string>
     <string name="theme_component_title_lockwallpaper">Zár háttere</string>
     <string name="theme_component_title_miwallpaper">Háttérkép</string>
-	<string name="theme_component_title_mms">Üzenetek</string>
+    <string name="theme_component_title_mms">Üzenetek</string>
     <string name="theme_component_title_notification">Értesítés hang</string>
     <string name="theme_component_title_others">Egyéb</string>
     <string name="theme_component_title_photo_frame">Képkeret</string>
@@ -236,10 +236,19 @@
     <string name="resource_ringtone_volume_mute">Csengőhang lenémítva</string>
     <string name="resource_save_to_note">Mentés a jegyzetekhez</string>
     <string name="resource_send">Küldés</string>
-    <string name="resource_unable_to_access">"Sajnáljuk, 
+    <string name="resource_unable_to_access">"Sajnáljuk,
 ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="resource_unknow_error">Ismeretlen hiba lépett fel.</string>
     <string name="resource_user_know">OK</string>
     <string name="settings">Beállítások</string>
     <string name="to_activate_the_account">Aktiválja a Xiaomi fiókját</string>
+    <string name="resource_trial_end_message">Trial of %1$s próbaidőszaka lejárt. Ha elnyerte tetszését, kérem vásárolja meg.</string>
+    <string name="resource_trial_end_purchase">Megvásárlás</string>
+    <string name="resource_trial_end_restore">Próbaidőszak befejezése</string>
+    <string name="resource_trial_end_title">A próbaidőszak lejárt</string>
+    <string name="resource_trial_time">（%1$d perces próba）</string>
+    <string name="resource_on_trial">Próba: %1$s</string>
+    <string name="resource_download_trial">Ingyenesen kipróbálható</string>
+    <string name="resource_apply_trial">Kipróbálás</string>
+    <string name="purchased_list">Vásárlásaim</string>
 </resources>

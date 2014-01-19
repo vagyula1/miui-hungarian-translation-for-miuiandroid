@@ -186,7 +186,6 @@
   <string name="attachment_not_found">Nem sikerült letölteni a mellékletet.</string>
   <string name="bcc">Titkos másolat</string>
   <string name="body_hint">Levélírás</string>
-  <string name="cancel">Mégsem</string>
   <string name="cancel_action">Mégse</string>
   <string name="cannot_move_multiple_accounts_toast">Nem lehet áthelyezni, mert a kijelölés több fiókot tartalmaz.</string>
   <string name="cannot_move_protocol_not_supported_toast">Az áthelyezés nem támogatott POP3-fiókokban.</string>

@@ -43,7 +43,6 @@
     <string name="silent_alarm_summary">Néma</string>
     <string name="alarm_notify_text">A szundihoz vagy az ébresztés elvetéséhez ezt válassza.</string>
     <string name="alarm_notify_snooze_label">%s (szundiban)</string>
-    <string name="alarm_notify_snooze_text">Ébresztés ismétlése %s múlva. Válassza ezt, ha mégse.</string>
     <string name="snooze_confirm_cancel">Szundi kikapcsolása</string>
     <string name="volume_button_setting_title">Hangerőgombok</string>
     <string name="volume_button_setting_summary">Itt állítható be, mi történjen a gombok ébresztés közben való megnyomására</string>

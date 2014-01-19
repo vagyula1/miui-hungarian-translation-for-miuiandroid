@@ -98,6 +98,7 @@
   <string name="paused_queued_for_wifi">Várakozás Wi-Fi csatlakozásra...</string>
   <string name="previous">Előző</string>
   <string name="reboot_later">Újraindítás később</string>
+  <string name="later">Később</string>
   <string name="reboot_now">Újraindítás</string> 
   <string name="reboot_to_new_system">Rendszer újraindítása</string>
   <string name="recommend">Ajánlott</string>
