@@ -123,8 +123,8 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="v5_edit_mode_title_empty">Kijelöl</string>
     <string name="v5_icon_menu_bar_more_item_label">Egyebek</string>
     <string name="v5_select_all">Mindet</string>
-    <string name="v5_time_picker_label_hour" />
-    <string name="v5_time_picker_label_minute" />
+    <string name="v5_time_picker_label_hour">Ó</string>
+    <string name="v5_time_picker_label_minute">P</string>
     <string name="valentines_day" />
     <string name="vernal_equinox" />
     <string name="volume_alarm">Riasztás</string>

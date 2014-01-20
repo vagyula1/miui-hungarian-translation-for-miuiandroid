@@ -33,7 +33,7 @@
     <string name="all_resources">Összes</string>
     <string name="antispam_mark_my_contribution">Egyéb felhasználók mutatása,akik szintén megjelölték ezt a számot.</string>
     <string name="antispam_provider_format">%s megjelölte spamként</string>
-    <string name="attach_photo_dialog_title">Ismerős fotója</string>
+    <string name="attach_photo_dialog_title">Ismerős fényképe</string>
     <string name="audio_chat">Audiocsevegés</string>
     <string name="auto_nickname">Auto</string>
     <string name="auto_set_nickname">Auto</string>
@@ -129,7 +129,7 @@
     <string name="chat_skype">Csevegés Skype használatával</string>
     <string name="chat_yahoo">Csevegés a Yahoon</string>
     <string name="chat">Csevegés</string>
-    <string name="check_unsynchronized_accounts">Szinkronizálás ellenőrzésének gyakorisága</string>
+    <string name="check_unsynchronized_accounts">Szinkronizálás ellenőrzése</string>
     <string name="checkhint">egyéb telefon ellenőrzése</string>
     <string name="clear_default">Alapértelmezés törlése</string>
     <string name="clear_digits">telefonszám törlése</string>
@@ -156,7 +156,7 @@
     <string name="contact_detail_calllog_call_note_tips">Hívásnapló</string>
     <string name="contact_detail_calllog_call_record_tips">Hívásrögzítés</string>
     <string name="contact_directory_description">Mappa: %1$s</string>
-    <string name="contact_edit_title_edit">Névjegy szerkesztés</string>
+    <string name="contact_edit_title_edit">Névjegy szerkesztése</string>
     <string name="contact_edit_title_insert">%s névjegy hozzáadása</string>
     <string name="contact_edit_title_readonly">Írásvédett névjegy</string>
     <string name="contact_editor_prompt_multiple_accounts">Szinkronizálhatja az új névjegyet a következő fiókok valamelyikével. Melyiket kívánja használni?</string>
@@ -220,7 +220,7 @@
     <string name="description_call_log_unheard_voicemail">Olvastalna hangposta</string>
     <string name="description_call_log_voicemail">Hangüzenet</string>
     <string name="description_call">%1$s hívása</string>
-    <string name="description_contact_photo">fotó a névjegyhez</string>
+    <string name="description_contact_photo">Fénykép a névjegyhez</string>
     <string name="description_delete_button">törlés</string>
     <string name="description_designer">Tervező:</string>
     <string name="description_dial_button">tárcsáz</string>
@@ -574,7 +574,7 @@
     <string name="noFavoritesHelpText">Nincsenek kedvencei.Így adhat hozzá névjegyet a kedvencek listájához:</string>
     <string name="noGroups">Nincsenek csoportok</string>
     <string name="noMatchingContacts">Nincsenek a keresési feltételeknek megfelelő névjegyek.</string>
-    <string name="non_phone_add_to_contacts">Hozzáadás névjegyekhez</string>
+    <string name="non_phone_add_to_contacts">Hozzáadás névjegyhez</string>
     <string name="non_phone_caption">Telefonszám</string>
     <string name="non_phone_close">Bezárás</string>
     <string name="none_found">Nem található eszköz</string>
@@ -610,8 +610,8 @@
     <string name="photoPickerNotFoundText">Nincsenek elérhető képek a telefonon.</string>
     <string name="pick_favorites_contacts_list_title">%1$d kedvenc névjegy</string>
     <string name="pick_favorites_list_title">Összesen %1$d kedvenc névjegy</string>
-    <string name="pick_new_photo">Új fotó kiválasztása a Galériából</string>
-    <string name="pick_photo">Fotó kiválasztása a Galériából</string>
+    <string name="pick_new_photo">Fénykép kiválasztása a galériából</string>
+    <string name="pick_photo">Fénykép kiválasztása a galériából</string>
     <string name="pick_recent_contacts_list_title">%1$d legutóbbi névjegy</string>
     <string name="pick_recent_list_title">Összesen %1$d legutóbbi névjegy</string>
     <string name="picker_all_list_empty">Nincs névjegy</string>
@@ -836,9 +836,9 @@
     <string name="select_new_photo_from_photo_package">Böngészés a mappákban</string>
     <string name="select_none">Semmi nincs kiválasztva</string>
     <string name="select_photo_from_photo_package">Fénykép kiválasztása</string>
-    <string name="select_show_contacts">Névjegy kijelzés</string>
+    <string name="select_show_contacts">Névjegy kijelzése</string>
     <string name="select_vcard_title">Válassza ki a vCard fájlt</string>
-    <string name="send_contact_shortcut_todesktop_success">Névjegy hozzáadva az asztalhoz</string>
+    <string name="send_contact_shortcut_todesktop_success">A névjegy parancsikonja az asztalra helyezve</string>
     <string name="send_to_voicemail_checkbox">A hívások a hangpostára irányítva</string>
     <string name="separatorJoinAggregateAll">Összes névjegy</string>
     <string name="separatorJoinAggregateSuggestions">Javasolt névjegyek</string>
@@ -926,8 +926,8 @@
     <string name="summary_kind_title">Összefoglaló</string>
     <string name="t9_search_guide_pinyin">Írja be a 7-es és 5-ös számot Steve Jobs kereséséhez</string>
     <string name="t9_search_guide_zhuyin">Írja be a 7-es és 5-ös számot Steve Jobs kereséséhez</string>
-    <string name="take_new_photo">Új fénykép készítése</string>
-    <string name="take_photo">Fotó készítése</string>
+    <string name="take_new_photo">Fénykép készítése</string>
+    <string name="take_photo">Fénykép készítése</string>
     <string name="title_other_devices">Más elérhető eszközök</string>
     <string name="title_paired_devices">Párosított eszközök</string>
     <string name="titleJoinContactDataWith">Névjegyek összekapcsolása</string>
@@ -940,7 +940,7 @@
     <string name="toast_for_saving_nickname">Becenév mentve</string>
     <string name="toast_join_with_empty_contact">Kérjük, adja meg az ismerős nevét, mielőtt összekapcsolná egy másik ismerősével.</string>
     <string name="toast_making_personal_copy">Személyes másolat készítése</string>
-    <string name="toast_text_copied">Másolt szöveg</string>
+    <string name="toast_text_copied">Szöveg kimásolva</string>
     <string name="today">Ma</string>
     <string name="type_incoming">Bejövő hívás</string>
     <string name="type_missed">Nem fogadott hívás</string>
@@ -952,7 +952,7 @@
     <string name="upgrade_out_of_memory_retry">Verziófrissítés újrapróbálása</string>
     <string name="upgrade_out_of_memory_uninstall">Távolítson el néhány alkalmazást</string>
     <string name="upgrade_out_of_memory">Az ismerősök frissítése folyamatban van. A frissítési folyamathoz kb. %s MB belső tárhelyre van szükség. Válasszon az alábbi lehetőségek közül:</string>
-    <string name="use_photo_as_primary">Fotó felhasználása</string>
+    <string name="use_photo_as_primary">Fénykép használata</string>
     <string name="use_photo_as_primary2">%s fénykép használata</string>
     <string name="user_profile_contacts_list_header">Én</string>
     <string name="vcard_export_request_rejected_message">A vCard-exportálási kérelem elutasítva. Próbálja újra később.</string>
@@ -1041,4 +1041,5 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="callrecordview_menu_batch_delete">Kiválasztott hívások törlése</string>
     <string name="delete_call_log_selected_title">Törli a kiválasztott hívásokat?</string>
     <string name="toast_finish_delete_selected_call_log">A kiválasztott hívások törölve</string>
+    <string name="pref_key_sim_manage">SIM-kártya kezelés</string>
 </resources>
