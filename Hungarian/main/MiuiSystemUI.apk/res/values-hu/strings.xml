@@ -44,7 +44,7 @@
     <string name="screenshot_saving_title">Képernyőkép mentése...</string>
     <string name="screenshot_saving_text">Képernyőkép mentése.</string>
     <string name="screenshot_saved_title">Képernyőkép rögzítve.</string>
-    <string name="screenshot_saved_text">Megérintésével megtekintheti a képernyőképet.</string>
+    <string name="screenshot_saved_text">Érintse meg a képernyőkép megtekintéséhez.</string>
     <string name="screenshot_failed_title">Nem sikerült rögzíteni a képernyőképet.</string>
     <string name="screenshot_failed_text">Nem lehet menteni a képernyőképet. Lehet, hogy a tároló használatban van.</string>
     <string name="accessibility_back">Vissza</string>

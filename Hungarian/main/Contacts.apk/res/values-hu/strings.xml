@@ -384,6 +384,7 @@
     <string name="group_edit_field_hint_text">Csoport neve</string>
     <string name="group_member_remove_toast">Névjegy törölve a csoportból</string>
     <string name="group_name_hint">Csoport neve</string>
+    <string name="group_name">Csoportok</string>
     <string name="group_read_only">Nem szerkeszthető ezen a készüléken</string>
     <string name="group_rename_dialog_title">Csoport átnevezés</string>
     <string name="group_rename_fail_toast">A csoport átnevezése nem sikerült</string>

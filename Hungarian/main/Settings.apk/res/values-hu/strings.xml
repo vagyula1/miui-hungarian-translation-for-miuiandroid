@@ -247,7 +247,7 @@
     <string name="perm_update">Szoftver frissítés</string>
     <string name="perm_shortcut">Helyi menü</string>
     <string name="perm_hips_action_accept_count">Engedélyezve: %1$d</string>
-    <string name="perm_hips_action_reject_count">Megtagadva: %1$d</string>
+    <string name="perm_hips_action_reject_count">Elutasítva: %1$d</string>
     <string name="perm_hips_group_expense">Biztonság</string>
     <string name="perm_hips_group_pim">Személyes információ</string>
     <string name="perm_hips_group_location">Helymeghatározás</string>
