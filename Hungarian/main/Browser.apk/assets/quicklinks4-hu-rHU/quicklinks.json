@@ -37,42 +37,6 @@
 	    "position": 2
         },
         {
-            "title":"Mi2 Prohardver",
-            "url":"http://prohardver.hu/tema/re_xiaomi_mi-2_lehetetlen_kuldetes/friss.html",
-            "thumbnail":"thumb_prohardver.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "Mi2 Prohardver",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 3
-        },
-        {
-            "title":"Idõkép",
-            "url":"http://www.idokep.hu/",
-            "thumbnail":"thumb_idokep.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "Idõkép",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 4
-        },
-        {
-            "title":"Ibuygou",
-            "url":"http://www.ibuygou.com/",
-            "thumbnail":"thumb_ibuy.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "Ibuygou",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 5
-        },
-        {
             "title":"MiuiHungary",
             "url":"http://miuiandroid.hu/",
             "thumbnail":"thumb_miuihu.png",
@@ -82,8 +46,32 @@
 	    "displayName": "MiuiHungary",
 	    "isDelete": true,
 	    "movable": true,
-	    "position": 6
-        }, 
+	    "position": 3
+        }, 		
+        {
+            "title":"Miuihuforum",
+            "url":"http://miuiandroid.hu/forum/",
+            "thumbnail":"thumb_miuihuf.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Miuihuforum",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 4
+        },
+        {
+            "title":"Xaomishop",
+            "url":"http://www.xiaomishop.hu/",
+            "thumbnail":"thumb_xiaomishophu.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Xiaomishop",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 5
+        },		
         {
             "title":"EN MIUI Forum",
             "url":"http://en.miui.com/forum.php",
@@ -94,7 +82,7 @@
 	    "displayName": "EN MIUI Forum",
 	    "isDelete": true,
 	    "movable": true,
-	    "position": 7
+	    "position": 6
         },
         {
             "title":"Xiaomi",
@@ -106,8 +94,20 @@
 	    "displayName": "Xiaomi",
 	    "isDelete": true,
 	    "movable": true,
-	    "position": 8
+	    "position": 7
         },
+        {
+            "title":"Mi2 Prohardver",
+            "url":"http://prohardver.hu/tema/re_xiaomi_mi-2_lehetetlen_kuldetes/friss.html",
+            "thumbnail":"thumb_prohardver.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Mi2 Prohardver",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 8
+        },	
         {
             "title":"XDA Forum",
             "url":"http://forum.xda-developers.com/",
@@ -132,15 +132,14 @@
 	    "movable": true,
 	    "position": 10
         },
-
         {
-            "title":"CNN",
-            "url":"http://www.cnn.com/",
-            "thumbnail":"thumb_cnn.png",
+            "title":"Idõkép",
+            "url":"http://www.idokep.hu/",
+            "thumbnail":"thumb_idokep.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "CNN",
+	    "displayName": "Idõkép",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 11
@@ -175,33 +174,6 @@
 	    "displayName": "Origo!"
         },
         {
-            "title":"MSi2 Prohardver",
-            "url":"http://prohardver.hu/tema/re_xiaomi_mi-2_lehetetlen_kuldetes/friss.html",
-            "thumbnail":"thumb_prohardver.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "Mi2 Prohardver"
-        },
-        {
-            "title":"Idõkép",
-            "url":"http://www.idokep.hu/",
-            "thumbnail":"thumb_idokep.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "Idõkép"
-        },
-        {
-            "title":"Ibuygou",
-            "url":"http://www.ibuygou.com/",
-            "thumbnail":"thumb_ibuy.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "Ibuygou"
-        },
-        {
             "title":"MiuiHungary",
             "url":"http://miuiandroid.hu/",
             "thumbnail":"thumb_miuihu.png",
@@ -209,6 +181,24 @@
             "nightModeMask": "night.9.png",
             "favicon":"",
 	    "displayName": "MiuiHungary"
+        },		
+        {
+            "title":"Miuihuforum",
+            "url":"http://miuiandroid.hu/forum/",
+            "thumbnail":"thumb_miuihuf.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Miuihuforum"
+        },
+        {
+            "title":"Xiaomishop",
+            "url":"http://www.xiaomishop.hu/",
+            "thumbnail":"thumb_xiaomishop.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Xiaomishop"
         },
 		{
             "title":"EN MIUI Forum",
@@ -227,7 +217,7 @@
             "nightModeMask": "night.9.png",
             "favicon":"",
 	    "displayName": "Xiaomi"
-        },
+        },		
         {
             "title":"XDA Forum",
             "url":"http://forum.xda-developers.com/",
@@ -246,15 +236,14 @@
             "favicon":"",
 	    "displayName": "eBay"
         },
-
-        {
-            "title":"CNN",
-            "url":"http://www.cnn.com/",
-            "thumbnail":"thumb_cnn.png",
+      {
+            "title":"Idõkép",
+            "url":"http://www.idokep.hu/",
+            "thumbnail":"thumb_idokep.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "CNN"
+	    "displayName": "Idõkép"
         }
     ]
 }

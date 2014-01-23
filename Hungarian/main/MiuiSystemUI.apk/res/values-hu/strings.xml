@@ -275,4 +275,6 @@
     <string name="torch_closed">Lámpa kikapcsolva</string>
     <string name="torch_opened">Lámpa bekapcsolva</string>
     <string name="settings_screenshot_notification_disabled">Képernyőkép értesítés letiltása</string>
+    <string name="oldman_airplane_mode_text">Repülőgép</string>
+    <string name="oldman_incall_text">Bejövő hívás</string>
 </resources>

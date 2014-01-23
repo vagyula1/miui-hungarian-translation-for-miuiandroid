@@ -151,4 +151,5 @@
     <string name="type_rd" />
     <string name="view_stations_list">Mentett állomások</string>
     <string name="record_completed">A felvétel befejeződött</string>
+    <string name="toast_fm_error_startfailed">A rögzítés nem sikerült, lehet,hogy másik alkalmazás használja a hangrögzítést. Ellenőrizze majd próbálja újra.</string>
 </resources>
