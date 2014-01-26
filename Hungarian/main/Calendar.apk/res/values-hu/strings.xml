@@ -10,7 +10,7 @@
     <string name="tomorrow">Holnap</string>
     <string name="today_at_time_fmt">Ma %s</string>
     <string name="tomorrow_at_time_fmt">Holnap %s</string>
-    <string name="date_time_fmt" formatted="false">%s %s</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="repeats_label">Ismétlés</string>
     <string name="no_title_label">(Nincs cím)</string>
     <string name="calendar_refresh">Frissítés</string>

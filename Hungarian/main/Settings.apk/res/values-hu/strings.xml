@@ -1207,7 +1207,6 @@
     <string name="wifi_notify_open_networks_summary">Értesítést kérek az elérhető nyitott hálózatokról</string>
     <string name="wifi_poor_network_detection">Rossz minőségű kapcsolatok kerülése</string>
     <string name="wifi_poor_network_detection_summary">Csak akkor használjon Wi-Fi hálózatot, ha jó internetkapcsolatot tud biztosítani.</string>
-    <string name="wifi_setting_sleep_policy_title">Wi-Fi fenntartása alvás közben</string>
     <string name="wifi_setting_sleep_policy_error">Probléma adódott a beállítás megváltoztatásakor</string>
     <string name="wifi_add_network">Hálózat hozzáadása</string>
     <string name="wifi_access_points">Wi-Fi hálózatok</string>
@@ -1875,8 +1874,8 @@
     <string name="accessibility_service_state_off">Ki</string>
     <string name="accessibility_script_injection_allowed">Engedélyezett</string>
     <string name="accessibility_script_injection_disallowed">Nem lehetséges</string>
-    <string name="accessibility_script_injection_button_allow">Engedélyezés</string>
-    <string name="accessibility_script_injection_button_disallow">Engedélyezés</string>
+    <string name="accessibility_script_injection_button_allow">Igen</string>
+    <string name="accessibility_script_injection_button_disallow">Nem</string>
     <string name="accessibility_service_security_warning_title">Használja a következő szolgáltatást: %1$s?</string>
     <string name="accessibility_service_security_warning_summary">A(z) %1$s összegyűjti az összes beírt szöveget, kivéve a jelszavakat. Ez magában foglalja a személyes adatokat, például a bankkártyaszámokat. A telefonnal való interakciójáról is gyűjthet adatokat.</string>
     <string name="accessibility_service_disable_warning_title">Leállítja a következőt: %1$s?</string>
@@ -2789,4 +2788,83 @@
     <string name="activity_title_create_shortcut">Asztali parancsikonok</string>
     <string name="activity_title_settings">Beállítások</string>
     <string name="toast_shortcut_install">Parancsikon létrehozva</string>
+     <string name="wifi_scan_always_available">A keresés mindig elérhető</string>
+    <string name="wifi_scan_always_available_summary">A Google helyszolgáltatása és más alkalmazások akkor is kereshetnek hálózatokat, ha a Wi-Fi ki van kapcsolva</string>
+    <string name="wifi_install_credentials">Tanúsítványok telepítése</string>
+    <string name="wifi_scan_notify_text_location_on">A hely pontosságának javítása és egyéb célok érdekében a Google és más alkalmazások kereshetnek közeli Wi-Fi hálózatokat még akkor is, ha a Wi-Fi ki van kapcsolva. Ha nem szeretné ezt, állítsa át a Speciális > A keresés mindig elérhető beállítást.</string>
+    <string name="wifi_scan_notify_text_location_off">Az alkalmazások még akkor is megkereshetik a közeli hálózatokat, ha a Wi-Fi ki van kapcsolva. Ha nem szeretné ezt, állítsa át a Speciális > A keresés mindig elérhető beállítást.</string>
+    <string name="wifi_scan_notify_remember_choice">Ne jelenjen meg többé</string>
+    <string name="wifi_setting_sleep_policy_title">Tartsa bekapcsolva a Wi-Fit alvó üzemmódban</string>
+    <string name="wifi_suspend_optimizations">Wi-Fi optimalizálása</string>
+    <string name="wifi_suspend_optimizations_summary">Az akkumulátorhasználat minimalizálása, ha a Wi-Fi be van kapcsolva</string>
+    <string name="nfc_se_route_title">Biztonsági elem helyzete</string>
+    <string name="se_route_ese">Beépített biztonság</string>
+    <string name="se_route_uicc">Biztonság a SIM kártyán</string>
+    <string name="current_use_uicc_se">Biztonsági elem használata a SIM kártyán</string>
+    <string name="current_use_ese">Beépített biztonság elem használata</string>
+    <string name="touch_title">Érintés</string>
+    <string name="touch_sensitive_title">Használat kesztyűben</string>
+    <string name="touch_sensitive_summary">"Extra érintésérzékeny képernyő engedélyezése kesztyű viselése esetén"</string>
+    <string name="touch_sensitive_turn_off_title">Kesztyűhasználat kikapcsolva</string>
+    <string name="touch_sensitive_turn_off_summary">Kikapcsolja a véletlen használati módot is?</string>
+    <string name="touch_sensitive_turn_off_confirm">OK</string>
+    <string name="touch_sensitive_turn_off_cancel">Mégsem</string>
+    <string name="line_breaking_title">Paragráf szöveg optimalizálása</string>
+    <string name="line_breaking_summary">A paragráf vonaltörés optimalizálása</string>
+    <string name="media_feedback_enable_title">Rezgés ütemre</string>
+    <string name="credential_storage_type">Tárhelytípus</string>
+    <string name="credential_storage_type_hardware">Hardveresen támogatott</string>
+    <string name="credential_storage_type_software">Kizárólag szoftveres</string>
+    <string name="verify_applications">Alkalmazások ellenőrzése</string>
+    <string name="verify_applications_summary">Tiltás vagy figyelmeztetés az olyan alkalmazások telepítése előtt, amelyek károsak lehetnek</string>
+    <string name="location_access_title">Hozzáférés a saját pozícióhoz</string>
+    <string name="location_access_summary">Engedélyezze az engedélyt kérő alkalmazásoknak a helyadatok használatát</string>
+    <string name="location_sources_heading">Forráshelyek</string>
+    <string name="accessibility_screen_magnification_title">Nagyítási kézmozdulatok</string>
+    <string name="accessibility_screen_magnification_enable">Nagyítási kézmozdulatok</string>
+    <string name="accessibility_screen_magnification_summary">"Ha a funkció be van kapcsolva, úgy kicsinyíthet/nagyíthat, hogy háromszor rákoppint a képernyőre.
+	
+Nagyított állapotban:
+"<li><ul>"Pásztázhat: Két vagy több ujját húzza végig a képernyőn.
+"<li>Módosíthatja a nagyítási szintet: Két ujját húzza össze vagy távolítsa el egymástól.</li></ul></li>"
+
+Ideiglenesen felnagyíthatja az ujja alatt lévő részt is, úgy hogy hármat koppint és lenyomva hagyja ujját. A nagyított nézetben az ujját húzva fedezheti fel a képernyő más részeit is. Az ujja felemelésével visszatérhet az előző állapotra.
+
+Megjegyzés: A háromszoros koppintással való nagyítás a billentyűzet és a navigációs sáv kivételével mindenhol működik."</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">A bekapcsoló gomb megszakítja a hívást</string>
+    <string name="accessibility_toggle_speak_password_preference_title">Jelszavak kimondása</string>
+    <string name="accessibility_captioning_title">Képaláírások</string>	
+    <string name="accessibility_global_gesture_preference_title">Hozzáférési gyorskombináció</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Be</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Ki</string>
+    <string name="accessibility_global_gesture_preference_description">"Ha a funkció engedélyezve van, gyorsan elérheti a kisegítő lehetőségeket két lépésben:
+
+1. lépés: tartsa lenyomva a bekapcsológombot a hangjelzésig vagy rezgésig.
+
+2. lépés: két ujját tartsa lenyomva a hangjelzéssel történő jóváhagyásig.
+
+Ha az eszközt több felhasználó is használja, akkor e kombináció zárolási képernyőn való használatával ideiglenesen hozzáférhetővé válik az eszköz, amíg fel nem oldják azt."</string>
+    <string name="accessibility_toggle_large_text_preference_title">Nagy szöveg</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Képernyőnagyítás</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Képernyőnagyítás automatikus frissítése</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Nagyítás frissítése az alkalmazások közti átmeneteknél</string>
+    <string name="accessibility_long_press_timeout_preference_title">Érintés és tartási késleltetés</string>
+    <string name="bt_hci_snoop_log">Bluetooth HCI snoop napló engedélyezése</string>
+    <string name="bt_hci_snoop_log_summary">Az összes Bluetooth HCI-csomag rögzítése egy fájlban</string>
+    <string name="bt_trace_log">Bluetooth nyomkövetési napló engedélyezése</string>
+    <string name="bt_trace_log_summary">Bluetooth nyomkövetési napló engedélyezése</string>
+    <string name="clear_adb_keys">USB-s hibakeresésre vonatkozó engedélyek visszavonása</string>
+    <string name="adb_keys_warning_message">Visszavonja a hozzáférést az USB-s hibakereséshez az összes számítógépről, ahol korábban engedélyezte azt?</string>
+    <string name="bugreport_in_power">Hibajelentések az energiaellátási menüben</string>
+    <string name="bugreport_in_power_summary">Lehetőség az energiaellátási menüben a hibajelentésekre</string>
+    <string name="verify_apps_over_usb_title">USB-n keresztül telepített alkalmazások ellenőrzése</string>
+    <string name="verify_apps_over_usb_summary">Az ADB/ADT útján telepített alkalmazások ellenőrzése kártékony viselkedésre.</string>
+    <string name="overlay_display_devices_title">Másodlagos kijelzők szimulálása</string>
+    <string name="debug_hw_drawing_category">Hardveres gyorsítású megjelenítés</string>
+    <string name="show_hw_layers_updates_summary">Frissítéskor a hardverrétegek zölden villognak</string>
+    <string name="show_hw_overdraw">GPU újrarajzolás mutatása</string>
+    <string name="show_hw_overdraw_summary">A legjobbtól a legrosszabbig: kék, zöld, világos piros, piros</string>
+    <string name="show_non_rect_clip">Nem négyzetes kivágási műveletek hibakeresése</string>
+    <string name="force_msaa">4x MSAA kényszerítése</string>
+    <string name="force_msaa_summary">A 4x MSAA engedélyezése az OpenGL ES 2.0-nál</string>
 </resources>

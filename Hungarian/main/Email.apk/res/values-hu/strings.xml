@@ -242,6 +242,7 @@
   <string name="gal_searching_fmt">Keresés itt: %s…</string>
   <string name="general_preference_auto_advance_dialog_title">Továbblépés ide:</string>
   <string name="general_preference_auto_advance_label">Automatikus lépegetés</string>
+  <string name="general_preference_auto_advance_summary">Válassza ki, melyik képernyő jelenjen meg üzenet törlése után</string>
   <string name="general_preference_auto_advance_message_list">Üzenetek listája</string>
   <string name="general_preference_auto_advance_newer">Újabb üzenet</string>
   <string name="general_preference_auto_advance_older">Régebbi üzenet</string>
@@ -414,6 +415,12 @@
   <string name="widget_starred">Csillagozott</string>
   <string name="widget_touch_to_configure">Érintse meg a létrehozáshoz.</string>
   <string name="widget_unread">Olvasatlan</string>
+  <string name="account_settings_vibrate_when_label">Rezgés</string>
+  <string name="account_settings_vibrate_when_summary">Rezgés e-mail érkezésekor is</string>
+  <string name="account_settings_vibrate_when_always">Mindig</string>
+  <string name="account_settings_vibrate_when_silent">Csak néma üzemmódban</string>
+  <string name="account_settings_vibrate_when_never">Soha</string>
+  <string name="account_settings_vibrate_when_dlg_title">Rezgés</string>
   <string name="message_compose_fwd_header_fmt">"
 
 -------- Eredeti üzenet --------

@@ -399,4 +399,9 @@
         <item>Zene</item>
         <item>E-mail</item>
     </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Kikapcsolva</item>
+        <item>Nem négyzetes kivágás kékkel</item>
+        <item>Tesztelt rajzolási parancsok kiemelése zölddel</item>
+    </string-array>
 </resources>

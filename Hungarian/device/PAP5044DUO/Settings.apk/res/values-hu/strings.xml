@@ -22,8 +22,8 @@
     <string name="accessibility_no_services_installed">Nincs telepített szolgáltatás</string>
     <string name="accessibility_power_button_ends_call_title">Hívásmegszakítás bekapcsoló gombbal</string>
     <string name="accessibility_script_injection_allowed">Engedélyezett</string>
-    <string name="accessibility_script_injection_button_allow">Engedélyezés</string>
-    <string name="accessibility_script_injection_button_disallow">Engedélyezés</string>
+    <string name="accessibility_script_injection_button_allow">Igen</string>
+    <string name="accessibility_script_injection_button_disallow">Nem</string>
     <string name="accessibility_script_injection_disallowed">Nem lehetséges</string>
     <string name="accessibility_script_injection_security_warning_summary">Szeretné, ha az alkalmazások telepíthetnének olyan szkripteket a Google-tól, melyek révén az internetes tartalom még inkább hozzáférhetővé válik?</string>
     <string name="accessibility_script_injection_title">Internetes szkriptek telepítése</string>
