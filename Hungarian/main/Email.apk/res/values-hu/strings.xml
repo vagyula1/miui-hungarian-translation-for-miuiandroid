@@ -242,7 +242,6 @@
   <string name="gal_searching_fmt">Keresés itt: %s…</string>
   <string name="general_preference_auto_advance_dialog_title">Továbblépés ide:</string>
   <string name="general_preference_auto_advance_label">Automatikus lépegetés</string>
-  <string name="general_preference_auto_advance_summary">Válassza ki, melyik képernyő jelenjen meg üzenet törlése után</string>
   <string name="general_preference_auto_advance_message_list">Üzenetek listája</string>
   <string name="general_preference_auto_advance_newer">Újabb üzenet</string>
   <string name="general_preference_auto_advance_older">Régebbi üzenet</string>
