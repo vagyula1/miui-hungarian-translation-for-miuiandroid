@@ -418,15 +418,15 @@
     <string name="pref_scan_qrcode_entry_on">Be</string>
     <string name="pref_manual_exposure_title">Kézi exponálás</string>
     <string name="pref_camera_exposuretime_title">Exponálás ideje</string>
-    <string name="face_analyze_info_male">Férfi</string>
-    <string name="face_analyze_info_female">Nő</string>
+    <string name="face_analyze_info_male">férfi</string>
+    <string name="face_analyze_info_female">nő</string>
     <string name="face_beauty_intelligent_title">Automatikus beállítás</string>
     <string name="face_beauty_manual_title">Manuális beállítás</string>
     <string name="face_beauty_simple_mode_title">Arc beállítás</string>
-    <string name="face_beauty_intelligent_level_0">Off</string>
-    <string name="face_beauty_intelligent_level_1">Low</string>
-    <string name="face_beauty_intelligent_level_2">Mid</string>
-    <string name="face_beauty_intelligent_level_3">High</string>
+    <string name="face_beauty_intelligent_level_0">Ki</string>
+    <string name="face_beauty_intelligent_level_1">Alacsony</string>
+    <string name="face_beauty_intelligent_level_2">Közepes</string>
+    <string name="face_beauty_intelligent_level_3">Magas</string>
     <string name="pref_camera_show_gender_age_title">Arcfelismerési jelentés</string>
     <string name="pref_camera_show_gender_age_entry_on">Kor és nem megjelenítése</string>
     <string name="pref_camera_show_gender_age_entry_alias">Átlagéletkor megjelenítése</string>
@@ -453,4 +453,6 @@
     <string name="pref_camera_hdr_type_entry_normal">Normál</string>
     <string name="pref_camera_hdr_type_entry_live">Elő</string>
     <string name="accessibility_ev_control">Megvilágítás kompenzáció ellenőrzés</string>
+    <string name="pref_camera_whitebalance_entry_measure">Mérés</string>
+    <string name="face_analyze_info">%2$s éves %1$s</string>
 </resources>

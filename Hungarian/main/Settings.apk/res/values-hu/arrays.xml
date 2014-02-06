@@ -404,4 +404,23 @@
         <item>Nem négyzetes kivágás kékkel</item>
         <item>Tesztelt rajzolási parancsok kiemelése zölddel</item>
     </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Ki</item>
+        <item>A képernyőn sávként</item>
+        <item>A képernyőn sorként</item>
+        <item>adb shell dumpsys gfxinfo elemben</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Egyik sem</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi és 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Semelyik</item>
+        <item>Logcat</item>
+        <item>Systrace (grafika)</item>
+        <item>Verem meghívása glGetError esetén</item>
+    </string-array>
 </resources>

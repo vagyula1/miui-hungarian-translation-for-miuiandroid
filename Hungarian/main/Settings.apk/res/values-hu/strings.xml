@@ -2867,4 +2867,12 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="show_non_rect_clip">Nem négyzetes kivágási műveletek hibakeresése</string>
     <string name="force_msaa">4x MSAA kényszerítése</string>
     <string name="force_msaa_summary">A 4x MSAA engedélyezése az OpenGL ES 2.0-nál</string>
+    <string name="enable_opengl_traces_title">OpenGL nyomon követése</string>
+    <string name="accessibility_feature_state_off">Ki</string>
+    <string name="accessibility_feature_state_on">Be</string>
+    <string name="memory_clear_cache_message">Ez törli az alkalmazások gyorsítótárbeli adatait</string>
+    <string name="memory_clear_cache_title">Törli a gyorsítótárban tárolt adatokat?</string>
+    <string name="memory_media_cache_usage">Gyorsítótárazott adatok</string>
+    <string name="optimize_tips_apk_title">Telepítőfájlok：</string>
+    <string name="optimize_tips_apk_content">"Az alkalmazáok csomagfájljai, melyeknek telepítése után nincs szükség."</string>
 </resources>

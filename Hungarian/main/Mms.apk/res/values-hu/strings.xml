@@ -448,7 +448,7 @@
     <string name="add_attachment">Melléklet hozzáadása</string>
     <string name="send_sms">Üzenet küldése</string>
     <string name="file_share_message_description">Megosztom a fájlt</string>
-    <string name="addBlackList">Feketelistához adás</string>
+    <string name="addBlackList">Tiltólistára</string>
     <string name="confirm_add_blacklist_dialog_dspt">Hozzáadja a számot a feketelistához?</string>
     <string name="batch_adding_progress_message">Hozzáadás …</string>
     <string name="invalid_private_contact">Érvénytelen privát névjegy</string>
@@ -463,8 +463,7 @@
     <string name="feedback_description_hint">Ide írja be visszajelzését</string>
     <string name="feedback_submit">Elküld</string>
     <string name="pref_key_mx_feedback">Visszajelzés elküldése</string>
-    <string name="pref_summary_mx_feedback">"Segíteheti a MIUI-t!
-Küldje el a hibanaplót és visszajelzését közvetlenül a Xiaomi-nak.”</string>
+    <string name="pref_summary_mx_feedback">Küldje el a hibanaplót és visszajelzését közvetlenül a Xiaomi-nak.</string>
     <string name="toast_description_required">Elküldéshez visszajelzés szükséges</string>
     <string name="toast_feedback_finish">A jelentés automatikusan el lesz küldve Wi-Fi kapcsolat esetén</string>
     <string name="toast_feedback_max">Csak 3 jelentés küldhető naponta</string>

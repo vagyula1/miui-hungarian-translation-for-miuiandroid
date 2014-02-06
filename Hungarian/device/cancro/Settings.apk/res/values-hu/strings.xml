@@ -2486,7 +2486,7 @@
     <string name="led_frequence_summary">LED villogások közti szünet beállítása</string>
     <string name="led_pulse_summary">LED villogás új értesítéskor</string>
     <string name="show_rounded_corners">Sarkok kerekítése</string>
-    <string name="pref_operational_key">Funkció gombok</string>
+    <string name="pref_operational_key">Navigációs gombok</string>
     <string name="pref_button_light">Fény visszajelzés</string>
     <string name="pref_button_light_summary">Menü,Home és Vissza gombok visszajelzése</string>
     <string name="button_light_timeout">Fény visszajelzés beállításai</string>
@@ -2831,7 +2831,7 @@ Nagyított állapotban:
 Ideiglenesen felnagyíthatja az ujja alatt lévő részt is, úgy hogy hármat koppint és lenyomva hagyja ujját. A nagyított nézetben az ujját húzva fedezheti fel a képernyő más részeit is. Az ujja felemelésével visszatérhet az előző állapotra.
 
 Megjegyzés: A háromszoros koppintással való nagyítás a billentyűzet és a navigációs sáv kivételével mindenhol működik."</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">A bekapcsoló gomb megszakítja a hívást</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Hívásmegszakítás bekapcsológombbal</string>
     <string name="accessibility_toggle_speak_password_preference_title">Jelszavak kimondása</string>
     <string name="accessibility_captioning_title">Képaláírások</string>	
     <string name="accessibility_global_gesture_preference_title">Hozzáférési gyorskombináció</string>
@@ -2861,10 +2861,19 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="verify_apps_over_usb_summary">Az ADB/ADT útján telepített alkalmazások ellenőrzése kártékony viselkedésre.</string>
     <string name="overlay_display_devices_title">Másodlagos kijelzők szimulálása</string>
     <string name="debug_hw_drawing_category">Hardveres gyorsítású megjelenítés</string>
+    <string name="show_hw_layers_updates">Hardverréteg-frissítések</string>
     <string name="show_hw_layers_updates_summary">Frissítéskor a hardverrétegek zölden villognak</string>
     <string name="show_hw_overdraw">GPU újrarajzolás mutatása</string>
     <string name="show_hw_overdraw_summary">A legjobbtól a legrosszabbig: kék, zöld, világos piros, piros</string>
     <string name="show_non_rect_clip">Nem négyzetes kivágási műveletek hibakeresése</string>
     <string name="force_msaa">4x MSAA kényszerítése</string>
     <string name="force_msaa_summary">A 4x MSAA engedélyezése az OpenGL ES 2.0-nál</string>
+    <string name="enable_opengl_traces_title">OpenGL nyomon követése</string>
+    <string name="accessibility_feature_state_off">Ki</string>
+    <string name="accessibility_feature_state_on">Be</string>
+    <string name="memory_clear_cache_message">Ez törli az alkalmazások gyorsítótárbeli adatait</string>
+    <string name="memory_clear_cache_title">Törli a gyorsítótárban tárolt adatokat?</string>
+    <string name="memory_media_cache_usage">Gyorsítótárazott adatok</string>
+    <string name="optimize_tips_apk_title">Telepítőfájlok：</string>
+    <string name="optimize_tips_apk_content">"Az alkalmazáok csomagfájljai, melyeknek telepítése után nincs szükség."</string>
 </resources>
