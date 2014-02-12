@@ -246,4 +246,5 @@
     <string name="month_medium_october">Okt</string>
     <string name="month_medium_november">Nov</string>
     <string name="month_medium_december">Dec</string>
+    <string name="today_no_events">Ma nincs esemény</string>
 </resources>

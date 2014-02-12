@@ -24,4 +24,10 @@
         <item>Alapértelmezett</item>
         <item>Klasszik</item>
     </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Kezdőképernyő tisztítása</item>
+        <item>Widget hozzáadása</item>
+        <item>Háttérkép megváltoztatása</item>
+        <item>Képernyők közötti átmeneti hatások</item>
+    </string-array>
 </resources>

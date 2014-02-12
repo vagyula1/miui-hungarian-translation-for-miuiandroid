@@ -688,12 +688,12 @@
     <string name="profile_name_photo">Én</string>
     <string name="profile_name">Profilom</string>
     <string name="quickcontact_missing_app">Nincs megfelelő alkalmazás a művelet elvégzésére</string>
-    <string name="quit_dialog_confirm_title">Kilépés a névjegy összefőzésből?</string>
+    <string name="quit_dialog_confirm_title">Meg nem egyesítette a névjegyeket</string>
     <string name="reading_vcard_canceled_title">névjegykártya olvasás megszakítva</string>
     <string name="reading_vcard_failed_title">Nem sikerült beolvasni a vCard adatait.</string>
     <string name="readingSimContacts">Beolvasás…</string>
     <string name="readOnlyContactDeleteConfirmation">Ez a névjegy több fiókból is tartalmaz adatokat. Az írásvédett fiókokból származó adatok nem jelennek meg a Címtárban, de nem kerülnek törlésre.</string>
-    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
+    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" fiók több fiókból tartalmz adatokat. A névjegyzékből a csak olvasható fiókok adatai csak elrejtve lesznek, nem törölve.</string>
     <string name="readOnlyContactWarning">Írásvédett fiókból nem törölhet névjegyet, de saját címtárában elrejtheti azokat.</string>
     <string name="rebuild_t9_index_dialog_message">T9 index adatok újraépítése…</string>
     <string name="recent_contacts_label">Utolsó</string>

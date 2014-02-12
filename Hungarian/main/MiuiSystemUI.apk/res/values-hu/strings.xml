@@ -146,7 +146,7 @@
     <string name="settings_show_network_speed">Hálózati sebesség kijelzése</string>   
     <string name="settings_expandable_under_fullscreen">Teljesképernyős mód</string>
     <string name="settings_expandable_under_fullscreen_summary">A legördülő értesítés engedélyezése teljes képernyős módban</string>
-    <string name="settings_expandable_under_keyguard">Képernyőzár</string>
+    <string name="settings_expandable_under_keyguard">Engedélyezés a képernyőzáron</string>
     <string name="settings_expandable_under_keyguard_summary">A legördülő értesítés engedélyezése képernyőzáron</string>
     <string name="settings_toggle_position_divider_page">%1$d állapotsor aktív</string> 
     <string name="settings_toggle_position_divider_list">Állapotsor aktív</string>
@@ -277,4 +277,12 @@
     <string name="settings_screenshot_notification_disabled">Képernyőkép értesítés letiltása</string>
     <string name="oldman_airplane_mode_text">Repülőgép</string>
     <string name="oldman_incall_text">Bejövő hívás</string>
+    <string name="settings_advanced">További beállítások</string>
+    <string name="settings_basic_settings">Alapbeállítások</string>
+    <string name="settings_show_carrier">Szolgáltató nevének kijelzése</string>
+    <string name="settings_custom_carrier">Szolgáltató nevének szerkesztése</string>
+    <string name="settings_no_carrier">Nincs</string>
+    <string name="settings_show_carrier_summary">Kikapcsolva csak a képernyőzáron jelenik meg</string>
+    <string name="settings_show_screenshot_notification">Képernyőkép értesítés</string>
+    <string name="status_bar_and_notification_bar">Legördülő értesítési panel és állapotsor</string>
 </resources>

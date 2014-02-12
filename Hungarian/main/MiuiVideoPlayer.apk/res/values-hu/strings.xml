@@ -54,11 +54,12 @@
   <string name="vp_VideoView_error_network_not_available">Hálózat nem elérhető</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Sajnálom, a kiválasztott videóformátum nem streamelhető ez eszközön</string>
   <string name="vp_VideoView_error_text_unknown">Sajnálom, a kiválasztott videóformátum nem játszható le</string>
-  <string name="vp_VideoView_error_title">Video visszajátszási hiba!</string>
+  <string name="vp_VideoView_error_title">A videófájl nem játszható le!</string>
   <string name="menu_item_disable_audio_enhance">Hangkiemelés letiltása</string>
   <string name="menu_item_enable_audio_enhance">Hangkiemelés engedélyezése</string>
   <string name="toast_message_set_misound">MiAudio beállítása</string>
   <string name="menu_item_disable_3d_mode">3D letiltása</string>
   <string name="menu_item_enable_3d_mode">3D engedélyezése</string>
+  <string name="about_developer_name">Xiaomi Digital</string>
+  <string name="episode_suffix">beállítás</string>
 </resources>
-
