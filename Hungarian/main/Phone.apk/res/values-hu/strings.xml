@@ -358,7 +358,7 @@
   <string name="empty_alert">%s kötelező, nem maradhat üresen</string>
   <string name="empty_networks_list">Nem található hálózat.</string>
   <string name="enable">Engedélyezés</string>
-  <string name="enable_antispam_strange_summary">&gt;Első hívás némítása ismeretlen szám esetén</string>
+  <string name="enable_antispam_strange_summary">Első hívás némítása ismeretlen szám esetén</string>
   <string name="enable_antispam_strange_title">Ismeretlen hívás</string>
   <string name="enable_disable_administrative">Közigazgatás</string>
   <string name="enable_disable_advertisements">Hirdetések</string>
@@ -387,12 +387,12 @@
   <string name="enable_pin">SIM-kártya PIN-kódjának be-/kikapcsolása</string>
   <string name="enable_pin_ok">SIM-kártya PIN-kódja bekapcsolva</string>
   <string name="enable_proximity_summary_miui">Hívás közben lekapcsolja a képernyőt.</string>
-  <string name="enable_proximity_title_miui">Közelség érzékelő</string>
+  <string name="enable_proximity_title_miui">Közelség érzékelés</string>
   <string name="enable_sim_pin">SIM-kártya PIN-kódjának bekapcsolása</string>
   <string name="enable_sim_pin_miui">SIM-kártya PIN-kódjának bekapcsolása</string>
   <string name="enable_telocation_title_miui">Saját hely kijelzés</string>
-  <string name="enforce_proximity_summary_miui">Telefon megóvása amikor nincs használva</string>
-  <string name="enforce_proximity_title_miui">Közelség érzékelő</string>
+  <string name="enforce_proximity_summary_miui">A telefon véletlen használatának megakadályozása</string>
+  <string name="enforce_proximity_title_miui">Véletlen használat megelőzése</string>
   <string name="enter_pin_text">SIM-kártya PIN-kódja:</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin2_text_miui">PIN2</string>
@@ -440,8 +440,8 @@
   <string name="hac_mode_summary_miui">Hallókészülék-kompatibilitás bekapcsolása</string>
   <string name="hac_mode_title">Hallókészülékek</string>
   <string name="hac_mode_title_miui">Hallókészülékek</string>
-  <string name="handon_ringer_summary_miui">Értelmetlen amikor a rezgés engedélyezve van a bejövő hivásoknál</string>
-  <string name="handon_ringer_title_miui">Mozgásérzékelés</string>
+  <string name="handon_ringer_summary_miui">A telefon nem rezeg bejövő hívás esetén</string>
+  <string name="handon_ringer_title_miui">Rezgés kikapcsolása</string>
   <string name="hangup_sms_miui">Elutasít üzenettel</string>
   <string name="ignore_miui">Mellőz</string>
   <string name="import_all_sim_entries_miui">Összes névjegy importálása</string>
@@ -931,7 +931,7 @@
   <string name="turn_off_auto_select_title_miui">Hálózat automata kiválasztás kikapcsolás</string>
   <string name="turn_off_auto_select_warning_message_miui">After turning off this option, it will use the network you selected manually and will not register to another network</string>
   <string name="turn_off_miui">kikapcsolás</string>
-  <string name="turnover_mute_summary_miui">Fordítsa a telefont vízszintesen a némításhoz</string>
+  <string name="turnover_mute_summary_miui">Fordítsa le vízszintesen a telefont a némításhoz</string>
   <string name="turnover_mute_title_miui">Lefordításkor némítás</string>
   <string name="tty_mode_entries_full_miui">TTY Full</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>

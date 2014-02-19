@@ -25,9 +25,9 @@
         <item>Klasszik</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Kezdőképernyő tisztítása</item>
-        <item>Widget hozzáadása</item>
-        <item>Háttérkép megváltoztatása</item>
-        <item>Képernyők közötti átmeneti hatások</item>
+        <item>Átrendezés</item>
+        <item>Új widget</item>
+        <item>Háttérkép</item>
+        <item>Effektek</item>
     </string-array>
 </resources>

@@ -16,7 +16,7 @@
     <string name="cache_list_empty_hints">Nincs gyorsítótárazott fájl.</string>
     <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
     <string name="optimize_title_cache">Gyorsítótár</string>
-    <string name="optimize_title_ad">Hirdetések</string>
+    <string name="optimize_title_ad">Reklámfájl</string>
     <string name="optimize_title_apk">Telepítőfájl</string>
     <string name="optimize_title_residual">Maradvány</string>
     <string name="button_text_a_key_clean_up">Tisztítás</string>
@@ -32,14 +32,14 @@
     <string name="quick_scan_result_title">%s találat</string>
     <string name="quick_scan_result_summary">A tisztítás %d mp múlva indul</string>
     <string name="optimize_cache_header_left">Gyorsítótár: %d</string>
-    <string name="optimize_ad_header_left">Hirdetések: %d</string>
+    <string name="optimize_ad_header_left">Reklámfájlok: %d</string>
     <string name="optimize_apk_header_left">Telepítőfájlok: %d</string>
     <string name="optimize_large_file_header_left">Nagyméretű fájlok: %d</string>
     <string name="optimize_residual_header_left">Maradványok: %d</string>
     <string name="optimize_cache_list_empty_content">Nincs gyorsítótárazott fájl.</string>
-    <string name="optimize_ad_list_empty_content">Nincs hirdetófájl.</string>
-    <string name="optimize_apk_list_empty_content">Nincs telepítőfájl.</string>
-    <string name="optimize_residual_list_empty_content">Nincs maradványfájl.</string>
+    <string name="optimize_ad_list_empty_content">Nincsenek reklámfájlok.</string>
+    <string name="optimize_apk_list_empty_content">Nincsenek telepítőfájlok.</string>
+    <string name="optimize_residual_list_empty_content">Nincsenek maradványfájlok.</string>
     <string name="optimize_tips_title">Segítség</string>
     <string name="quick_scan_apk_list_item_version_hit">Verzió：%s</string>
     <string name="apk_status_uninstalled">Nincs telepítve</string>
@@ -2756,7 +2756,7 @@
     <string name="deep_clean_tips_large_file_title">Nagy fájlok</string>
     <string name="deep_clean_tips_residual_content">"Maradványfájlok,melyek az alkalmazás eltávolítása után az eszközön maradtak"</string>
     <string name="deep_clean_tips_residual_title">Maradványfájlok</string>
-    <string name="optimize_tips_ad_content">Képek, és egyéb hirdetéssel kapcsolatos adatok,melyeket egy harmadik fél szolgáltatója helyezett az eszközre.</string>
+    <string name="optimize_tips_ad_content">Képek, és egyéb reklámmmal kapcsolatos adatok,melyeket egy harmadik fél szolgáltatója helyezett az eszközre.</string>
     <string name="optimize_tips_ad_title">Reklámok</string>
     <string name="optimize_tips_cache_content">Ideiglenes fájlok,melyeket az alklmazások és folyamatok generálnak (pl. indexképek).</string>
     <string name="optimize_tips_cache_title">Gyorsítótár</string>

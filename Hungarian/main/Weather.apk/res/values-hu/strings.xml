@@ -111,7 +111,7 @@
   <string name="tip_weather">MIUI időjárás értesítés</string>
   <string name="tip_weather_info_content_1">Bring layers!</string>
   <string name="tip_weather_info_title_1">%1$s a várható hőmérséklet különbség %2$d fok</string>
-  <string name="tip_weather_info_title_2">%1$s a mai hőmérséklet a becslések szerint %2$s</string>
+  <string name="tip_weather_info_title_2">%1$s mai hőmérséklete %2$s</string>
   <string name="trend_weather_today">Ma</string>
   <string name="trend_weather_tomorrow">Holnap</string>
   <string name="weather_notification">Időjárás értesítés</string>
