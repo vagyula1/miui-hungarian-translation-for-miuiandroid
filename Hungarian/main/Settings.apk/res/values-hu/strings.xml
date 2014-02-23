@@ -2880,7 +2880,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="memory_available_suffix">Elérhető</string>
     <string name="scanning_prefix">Keresés:%s</string>
     <string name="cleanning_prefix">Tisztítás:%s</string>
-    <string name="pref_category_title_auto_update_cleanup_db">Cleanup database update settings</string>
+    <string name="pref_category_title_auto_update_cleanup_db">Az adatbázis frissítésének beállításai</string>
     <string name="pref_title_auto_update_cleanup_db">Automatikus frissítés</string>
     <string name="pref_summary_auto_update_cleanup_db">Frissítve:%s</string>
     <string name="pref_title_manual_check_cleanup_db_update">Frissítés</string>

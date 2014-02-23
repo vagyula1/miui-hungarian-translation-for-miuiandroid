@@ -246,9 +246,9 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="resource_trial_end_purchase">Megvásárlás</string>
     <string name="resource_trial_end_restore">Próbaidőszak befejezése</string>
     <string name="resource_trial_end_title">A próbaidőszak lejárt</string>
-    <string name="resource_trial_time">（%1$d perces próba）</string>
-    <string name="resource_on_trial">Próba: %1$s</string>
-    <string name="resource_download_trial">Próbaverzió</string>
+    <string name="resource_trial_time">（%1$d perces próbaverzió）</string>
+    <string name="resource_on_trial">Próbaverzió: %1$s</string>
+    <string name="resource_download_trial">Kipróbálom</string>
     <string name="resource_apply_trial">Kipróbálom</string>
     <string name="purchased_list">Vásárlásaim</string>
 </resources>

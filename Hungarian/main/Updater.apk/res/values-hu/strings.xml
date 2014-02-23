@@ -5,7 +5,7 @@
   <string name="active_xiaomi_account_msg">Please go to the MIUI forum to activate Xiaomi account:</string>
   <string name="active_xiaomi_account_title">Xiaomi fiók aktiválása</string>
   <string name="app_name">Frissítés</string>
-  <string name="apply_buddy_update_info_message">Indítsa újra a telefont a frissítés érvénybe lépéséhez</string>
+  <string name="apply_buddy_update_info_message">A frissités gombra kattintva elkezdődik a rendszerfrissítés</string>
   <string name="apply_existing_update_md5error_title">Az MD5 fájl nem egyezik meg!</string>
   <string name="apply_later_button_text">Frissítés később</string>
   <string name="apply_now_button_text">Frissítés most</string>
@@ -56,7 +56,7 @@
   <string name="finish">Vége</string>
   <string name="finish_download">Letöltés befejezve</string>
   <string name="fourgrid_hint_text">Köszönjük,hogy a MIUI fejlesztői verzióját használja. Kérjük ossza meg véleményét, ami segít minket abban,hogy a MIUI még jobb Android ROM lehessen!</string>
-  <string name="fourgrid_no_notificaiont">"Ne jelezze ki az állapotsorban"</string>
+  <string name="fourgrid_no_notificaiont">Ne jelezze ki az állapotsorban</string>
   <string name="fourgrid_notificaiont">Kijelzés az állapotsoron</string> 
   <string name="get_update_error">Failed to get update information</string>
   <string name="install_email">E-mail alk. telepítése</string>
@@ -65,6 +65,7 @@
   <string name="install_whole_rom">Teljes ROM letöltése javasolt</string>
   <string name="internal_build">Belső kiadás</string>
   <string name="kernel_upgrade_version">2.6.39.4-g86aa44d</string>
+  <string name="later">Később</string>
   <string name="loading">Lekérés</string>
   <string name="md5_check_cancelled">MD5 ellenőrzés megszakítva</string>
   <string name="mione_update_fail_description">Hiba, próbálja újra</string>
@@ -89,16 +90,15 @@
   <string name="next">Következő</string>
   <string name="no_proper_updates">Nem találhatók frissítések</string>
   <string name="no_updatecheck_executed">A frissítések ellenőrzése nem sikerült</string>
-  <string name="no_updates_found">A legfrissebb MIUI fut az eszközön</string>
+  <string name="no_updates_found">Az Ön által használt rendszer naprakész</string>
   <string name="no_updates_warning">Nincs elérhető frissítés.</string>
   <string name="no_updates_warning2">Nyugalom! Értesítést kap elérhető frissítés esetén</string>
-  <string name="not_recommend">"Ne ajánlja"</string>
+  <string name="not_recommend">Ne ajánlja</string>
   <string name="now">Újraindítás</string>
   <string name="paused_queued_for_network">Várakozás hálózati kapcsolatra</string>
   <string name="paused_queued_for_wifi">Várakozás Wi-Fi csatlakozásra...</string>
   <string name="previous">Előző</string>
   <string name="reboot_later">Újraindítás később</string>
-  <string name="later">Később</string>
   <string name="reboot_now">Újraindítás</string> 
   <string name="reboot_to_new_system">Rendszer újraindítása</string>
   <string name="recommend">Ajánlott</string>
@@ -119,9 +119,9 @@
   <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! Részletekért látogassa meg %2$s</string>
   <string name="sign_in_add_account">Xiaomi fiók aktiválása</string>
   <string name="sign_in_add_account_helper">Xiaomi fiók létrehozása,beállítása</string>
-  <string name="sign_in_info">"Ez a frissítés a %1$s felhasználó által aláírva, a MIUI részére %3$s"</string>
-  <string name="sign_in_info_rank_more">"A MIUI %3$s verzióját több,mint %2$s felhasználó ellenőrizte."</string>
-  <string name="sign_in_info_total_more">"A MIUI %3$s verzióját több,mint %2$s felhasználó ellenőrizte."</string>
+  <string name="sign_in_info">Ez a frissítés a %1$s felhasználó által aláírva, a MIUI részére %3$s</string>
+  <string name="sign_in_info_rank_more">A MIUI %3$s verzióját több,mint %2$s felhasználó ellenőrizte.</string>
+  <string name="sign_in_info_total_more">A MIUI %3$s verzióját több,mint %2$s felhasználó ellenőrizte.</string>
   <string name="sina_share_fail">A küldés nem sikerült!</string>
   <string name="sina_share_pendding">Küldés...</string>
   <string name="sina_share_success">Elküldve!</string>
@@ -157,7 +157,7 @@
   <string name="update_success_title">Rendszer frissítése...</string>
   <string name="upgrade_close">Bezár</string>
   <string name="upgrade_kernel">A jelenlegi kernel frissítése szükséges</string>
-  <string name="upgrade_kernel_msg">"A jelenlegi kernel nem egyezik meg a MIUI ROM kernelével.A kernel kézi frissítése szükséges:"</string>
+  <string name="upgrade_kernel_msg">A jelenlegi kernel nem egyezik meg a MIUI ROM kernelével.A kernel kézi frissítése szükséges:</string>
   <string name="verify_and_apply_dialog_message">MD5 ellenőrzése...</string>
   <string name="verify_and_apply_dialog_title">Ellenőrzés és frissítés</string>
   <string name="view_install_log">Napló</string>
