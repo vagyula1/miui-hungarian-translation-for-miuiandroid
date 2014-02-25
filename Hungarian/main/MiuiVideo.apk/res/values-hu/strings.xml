@@ -154,8 +154,8 @@
     <string name="live_loading_to_be_play">Betöltés…</string>
     <string name="live_title">Élő</string>
     <string name="live_tabs_hot">Népszerű</string>
-    <string name="live_tabs_all">Mind megtekintése</string>
-    <string name="live_tabs_choice">Hand picked</string>
+    <string name="live_tabs_all">Összes</string>
+    <string name="live_tabs_choice">Kiválasztott</string>
     <string name="live_pending_symbol"><CDATA>Pufferelés </CDATA></string>
     <string name="live_pending_to_be_play">Betöltés…</string>
     <string name="button_all">Öszes</string>

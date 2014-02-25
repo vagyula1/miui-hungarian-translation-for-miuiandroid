@@ -303,7 +303,7 @@
     <string name="phrase_from">From %1s</string>
     <string name="phrase_empty">Nincs kifejezés</string>
     <string name="pref_title_notification_body_enabled">Előnézet kijelzése</string>
-    <string name="pref_summary_notification_body_enabled">Üzenetek előnézetének kijelzése a képernyőzáron és az értesítési sávonr</string>
+    <string name="pref_summary_notification_body_enabled">Üzenetek előnézetének kijelzése a képernyőzáron és az értesítési sávon</string>
     <string name="pref_summary_notification_body_enabled_when_secure">Üzenetek előnézete letiltva,ha az adatvédelem be van kapcsolva</string>
     <string name="pref_title_new_message_popup">Felugró értesítés</string>
     <string name="pref_summary_new_message_popup">Felugró értesítés jelenik meg, ha új üzenet érkezik.</string>
