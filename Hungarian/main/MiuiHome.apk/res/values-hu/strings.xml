@@ -194,7 +194,7 @@
     <string name="widget_global_search">Keresés</string>
     <string name="multi_selecting_tips">Az átrendezéshez kattintson az ikonra</string>
     <string name="editing_add_widget_tips">Widget hozzáadása</string>
-    <string name="editing_set_wallpaper_tips">Háttérkép</string>
+    <string name="editing_set_wallpaper_tips">Háttérkép megváltoztatása</string>
     <string name="editing_set_transition_effect_tips">Képernyők közötti átmeneti hatások</string>
     <string name="online_wallpaper">Online háttérkép</string>
     <string name="custom_wallpaper_picker">Egyéni</string>

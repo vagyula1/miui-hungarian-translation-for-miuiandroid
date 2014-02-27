@@ -2874,7 +2874,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="memory_clear_cache_message">Ez törli az alkalmazások gyorsítótárbeli adatait</string>
     <string name="memory_clear_cache_title">Törli a gyorsítótárban tárolt adatokat?</string>
     <string name="memory_media_cache_usage">Gyorsítótárazott adatok</string>
-    <string name="optimize_tips_apk_title">Telepítőfájlok：</string>
+    <string name="optimize_tips_apk_title">Telepítőfájlok</string>
     <string name="optimize_tips_apk_content">"Az alkalmazáok csomagfájljai, melyeknek telepítése után nincs szükség."</string>
     <string name="memory_suffix">GB</string>
     <string name="memory_used_suffix">Felhasznált</string>
@@ -2883,7 +2883,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="cleanning_prefix">Tisztítás:%s</string>
     <string name="pref_category_title_auto_update_cleanup_db">Az adatbázis frissítésének beállításai</string>
     <string name="pref_title_auto_update_cleanup_db">Automatikus frissítés</string>
-    <string name="pref_summary_auto_update_cleanup_db">Frissítve:%s</string>
+    <string name="pref_summary_auto_update_cleanup_db">Frissítve: %s</string>
     <string name="pref_title_manual_check_cleanup_db_update">Frissítés</string>
     <string name="msg_cleanup_db_update_checking">Ellenőrzés...</string>
     <string name="msg_update_error_code_success">Frissítés sikerült</string>
@@ -2933,8 +2933,8 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="toast_backup_is_running">A mentés folyamatban. Próbálja később.</string>
     <string name="toast_backup_uninstall_failed">%d alkalmazás mentése nem sikerült. Próbálja később.</string>
     <string name="toast_backup_uninstall_success">A biztonsági mentés és az eltávolítás befejeződött</string>
-    <string name="notification_title_of_garbage_cleanup">Tisztítási értesítés</string>
-    <string name="notification_summary_of_garbage_cleanup">A felesleges fájlok mérete elérte a beállított %s határértéket.Törlés ajánlott</string>
+    <string name="notification_title_of_garbage_cleanup">Tisztítás! </string>
+    <string name="notification_summary_of_garbage_cleanup">A felesleges fájlok elérték a %s határértéket.Tisztítás ajánlott</string>
     <string name="item_garbage_time_daily">Naponta</string>
     <string name="item_garbage_time_3d">3 naponta</string>
     <string name="item_garbage_time_7d">7 naponta</string>
