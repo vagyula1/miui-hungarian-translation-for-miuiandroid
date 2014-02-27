@@ -203,4 +203,8 @@
     <string name="gadget_photo_label">Fénykép</string>
     <string name="gadget_weather_title">Időjárás</string>
     <string name="settings_shortcut">Beállítások parancsikon</string>
+    <string name="apply_as_lock_wallpaper">Igen</string>
+    <string name="apply_as_lock_wallpaper_message">Beállítja a képernyőzár hattérképének is?</string>
+    <string name="lock_screen_failed_message">A beállítás nem sikerült.</string>
+    <string name="lock_screen_success_message">Beállítva</string>
 </resources>

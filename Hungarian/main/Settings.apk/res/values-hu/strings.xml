@@ -16,7 +16,7 @@
     <string name="cache_list_empty_hints">Nincs gyorsítótárazott fájl.</string>
     <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
     <string name="optimize_title_cache">Gyorsítótár</string>
-    <string name="optimize_title_ad">Reklámfájl</string>
+    <string name="optimize_title_ad">Reklámok</string>
     <string name="optimize_title_apk">Telepítőfájl</string>
     <string name="optimize_title_residual">Maradvány</string>
     <string name="button_text_a_key_clean_up">Tisztítás</string>
@@ -36,7 +36,7 @@
     <string name="optimize_apk_header_left">Telepítőfájlok: %d</string>
     <string name="optimize_large_file_header_left">Nagyméretű fájlok: %d</string>
     <string name="optimize_residual_header_left">Maradványok: %d</string>
-    <string name="optimize_cache_list_empty_content">Nincs gyorsítótárazott fájl.</string>
+    <string name="optimize_cache_list_empty_content">Nincsenek gyorsítótárazott fájlok.</string>
     <string name="optimize_ad_list_empty_content">Nincsenek reklámfájlok.</string>
     <string name="optimize_apk_list_empty_content">Nincsenek telepítőfájlok.</string>
     <string name="optimize_residual_list_empty_content">Nincsenek maradványfájlok.</string>
@@ -2486,7 +2486,7 @@
     <string name="led_frequence_summary">LED villogások közti szünet beállítása</string>
     <string name="led_pulse_summary">LED villogás új értesítéskor</string>
     <string name="show_rounded_corners">Sarkok kerekítése</string>
-    <string name="pref_operational_key">Funkció gombok</string>
+    <string name="pref_operational_key">Navigációs gombok</string>
     <string name="pref_button_light">Fény visszajelzés</string>
     <string name="pref_button_light_summary">Menü,Home és Vissza gombok visszajelzése</string>
     <string name="button_light_timeout">Fény visszajelzés beállításai</string>
@@ -2756,7 +2756,7 @@
     <string name="deep_clean_tips_large_file_title">Nagy fájlok</string>
     <string name="deep_clean_tips_residual_content">"Maradványfájlok,melyek az alkalmazás eltávolítása után az eszközön maradtak"</string>
     <string name="deep_clean_tips_residual_title">Maradványfájlok</string>
-    <string name="optimize_tips_ad_content">Képek, és egyéb reklámmmal kapcsolatos adatok,melyeket egy harmadik fél szolgáltatója helyezett az eszközre.</string>
+    <string name="optimize_tips_ad_content">Képek, és egyéb hirdetéssel kapcsolatos adatok,melyeket egy harmadik fél szolgáltatója helyezett az eszközre.</string>
     <string name="optimize_tips_ad_title">Reklámok</string>
     <string name="optimize_tips_cache_content">Ideiglenes fájlok,melyeket az alklmazások és folyamatok generálnak (pl. indexképek).</string>
     <string name="optimize_tips_cache_title">Gyorsítótár</string>
@@ -2831,7 +2831,7 @@ Nagyított állapotban:
 Ideiglenesen felnagyíthatja az ujja alatt lévő részt is, úgy hogy hármat koppint és lenyomva hagyja ujját. A nagyított nézetben az ujját húzva fedezheti fel a képernyő más részeit is. Az ujja felemelésével visszatérhet az előző állapotra.
 
 Megjegyzés: A háromszoros koppintással való nagyítás a billentyűzet és a navigációs sáv kivételével mindenhol működik."</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">A bekapcsoló gomb megszakítja a hívást</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Hívásmegszakítás bekapcsológombbal</string>
     <string name="accessibility_toggle_speak_password_preference_title">Jelszavak kimondása</string>
     <string name="accessibility_captioning_title">Képaláírások</string>	
     <string name="accessibility_global_gesture_preference_title">Hozzáférési gyorskombináció</string>
@@ -2861,6 +2861,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="verify_apps_over_usb_summary">Az ADB/ADT útján telepített alkalmazások ellenőrzése kártékony viselkedésre.</string>
     <string name="overlay_display_devices_title">Másodlagos kijelzők szimulálása</string>
     <string name="debug_hw_drawing_category">Hardveres gyorsítású megjelenítés</string>
+    <string name="show_hw_layers_updates">Hardverréteg-frissítések</string>
     <string name="show_hw_layers_updates_summary">Frissítéskor a hardverrétegek zölden villognak</string>
     <string name="show_hw_overdraw">GPU újrarajzolás mutatása</string>
     <string name="show_hw_overdraw_summary">A legjobbtól a legrosszabbig: kék, zöld, világos piros, piros</string>
@@ -2874,7 +2875,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="memory_clear_cache_title">Törli a gyorsítótárban tárolt adatokat?</string>
     <string name="memory_media_cache_usage">Gyorsítótárazott adatok</string>
     <string name="optimize_tips_apk_title">Telepítőfájlok：</string>
-    <string name="optimize_tips_apk_content">"Az alkalmazáok csomagfájljai, melyeknek telepítése után nincs szükség."</string>  
+    <string name="optimize_tips_apk_content">"Az alkalmazáok csomagfájljai, melyeknek telepítése után nincs szükség."</string>
     <string name="memory_suffix">GB</string>
     <string name="memory_used_suffix">Felhasznált</string>
     <string name="memory_available_suffix">Elérhető</string>
@@ -2900,4 +2901,48 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="menu_item_notification_antispam_text_avail">Spam</string>
     <string name="button_text_view_power">Teljesítmény megtekintése</string>
     <string name="notification_title_firewall_blocked">Elutasított</string>
+    <string name="button_text_a_key_uninstall">Eltávolítás</string>
+    <string name="optimize_installed_apps_header_left">Telepített alk.:%d</string>
+    <string name="deep_clean_title_uninstall_apps">Alkalmazások</string>
+    <string name="deep_clean_summary_install_apps_today">%1$s|ma használt</string>
+    <string name="deep_clean_summary_install_apps_interval">%1$s|%2$d nappal ezelőtt</string>
+    <string name="deep_clean_summary_install_apps_new">%s|nem használt</string>
+    <string name="deep_clean_summary_install_apps_virus">%s|vírus</string>
+    <string name="deep_clean_summary_install_apps_risk">%s|gyanús</string>
+    <string name="optimize_installed_apps_list_empty_content">Nincs alkalmazás</string>
+    <string name="uninstall_confirm_title">Alkalmazások eltávolítása</string>
+    <string name="button_text_uninstall">Eltávolítás</string>
+    <string name="list_sub_view_item_view_detail">Részletek</string>
+    <string name="list_sub_view_item_view_file">Fájl</string>
+    <string name="list_sub_view_item_uninstall">Eltávolítás</string>
+    <string name="list_sub_view_item_backup_uninstall">Mentés és eltávolítás</string>
+    <string name="pref_category_title_garbage_cleanup_check">Tisztítás beállítása</string>
+    <string name="pref_title_garbage_cleanup_check_time">Értesítés</string>
+    <string name="pref_summary_garbage_cleanup_check_time">Értesítés,ha a felesleges fájlok mérete eléri a beállított értéket</string>
+    <string name="pref_title_garbage_cleanup_check_size">Mérethatár</string>
+    <string name="toast_application_no_residual_on_sdcard">"Az alkalmazás nem tárol adatokat a tárhelyen"</string>
+    <string name="applications_sort_type_title">Rendezés</string>
+    <string name="applications_sort_type_item_time">Gyakran használt</string>
+    <string name="applications_sort_type_item_size">Méret</string>
+    <string name="dialog_title_uninstall_apps">Eltávolítás</string>
+    <string name="dialog_title_backup_and_uninstall_apps">Biztonsági mentés és eltávolítás</string>
+    <string name="dialog_msg_uninstall_apps">Eltávolítja ezeket az alkalmazásokat?</string>
+    <string name="dialog_msg_backup_and_uninstall_apps">Az alkalmazások biztonsági mentésére és eltávolításárára készül</string>
+    <string name="button_text_uninstall_apps">Eltávolítás</string>
+    <string name="button_text_backup_and_uninstall_apps">Biztonsági mentés és eltávolítás</string>
+    <string name="toast_backup_is_running">A mentés folyamatban. Próbálja később.</string>
+    <string name="toast_backup_uninstall_failed">%d alkalmazás mentése nem sikerült. Próbálja később.</string>
+    <string name="toast_backup_uninstall_success">A biztonsági mentés és az eltávolítás befejeződött</string>
+    <string name="notification_title_of_garbage_cleanup">Tisztítási értesítés</string>
+    <string name="notification_summary_of_garbage_cleanup">A felesleges fájlok mérete elérte a beállított %s határértéket.Törlés ajánlott</string>
+    <string name="item_garbage_time_daily">Naponta</string>
+    <string name="item_garbage_time_3d">3 naponta</string>
+    <string name="item_garbage_time_7d">7 naponta</string>
+    <string name="item_garbage_time_never">Soha</string>
+    <string name="item_garbage_size_100m">100MB</string>
+    <string name="item_garbage_size_300m">300MB</string>
+    <string name="item_garbage_size_500m">500MB</string>
+    <string name="item_garbage_size_1000m">1GB</string>
+    <string name="item_title_garbage_time">Értesítés ideje</string>
+    <string name="item_title_garbage_size">Értesítési mérethatár</string>
 </resources>
