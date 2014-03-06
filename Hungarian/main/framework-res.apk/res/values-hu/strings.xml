@@ -1237,7 +1237,7 @@ a(z) %s fiók számára."</string>
     <string name="activity_chooser_view_dialog_title_default">Tevékenység kiválasztása</string>
     <string name="share_action_provider_share_with">Megosztás</string>
     <string name="status_bar_device_locked">Az eszköz le van zárva.</string>
-    <string name="list_delimeter">", "</string>
+    <string name="list_delimeter">". "</string>
     <string name="sending">Küldés…</string>
     <string name="launchBrowserDefault">Böngésző indítása?</string>
     <string name="SetupCallDefault">Fogadja a hívást?</string>

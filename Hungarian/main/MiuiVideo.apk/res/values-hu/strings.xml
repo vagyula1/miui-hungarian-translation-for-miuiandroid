@@ -331,4 +331,5 @@
     <string name="menu_item_enable_3d_mode">3D engedélyezése</string>
     <string name="menu_item_disable_3d_mode">3D letiltása</string>
     <string name="toast_message_set_misound">Állítsa be a Mi Audiot...</string>
+    <string name="start_time">Indítás</string>
 </resources>

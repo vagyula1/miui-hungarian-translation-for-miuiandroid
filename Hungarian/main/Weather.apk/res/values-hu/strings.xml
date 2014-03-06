@@ -35,7 +35,6 @@
   <string name="app_love_sms_title">Az üzenet tartalma</string>
   <string name="app_love_view_title">Előnézet</string>
   <string name="app_name">Időjárás</string>
-  <string name="app_nohave_net">Nincs hálózat</string>
   <string name="app_unquiet_net">Gyenge a hálózati kapcsolat</string>
   <string name="aqi_details_dangerous">Az idősek, a gyermekek, a szív vagy tüdőbetegségben szenvedők számára lehetőleg minden fizikai aktivitás elkerülése a szabadban,míg mások csökkentsék a hosszan tartó vagy erős fizikai megterhelést.</string>
   <string name="aqi_details_fine">Az érzékenyek mérsékeljék a hosszan tartó vagy erős fizikai megterhelést.</string>
@@ -122,4 +121,6 @@
   <string name="act_weather_cycle_link_china">Kínai időjárás hálózat</string>
   <string name="menu_add">Új város</string>
   <string name="menu_more">Részletek</string>
+  <string name="network_unavailable">Nincs hálózat</string>
+  <string name="weather_data_unreachable">"Az időjárás adatok letöltése nem sikerült.Próbálja meg később."</string>
 </resources>

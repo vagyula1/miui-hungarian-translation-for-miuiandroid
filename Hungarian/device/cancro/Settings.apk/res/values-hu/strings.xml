@@ -2948,4 +2948,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="dirac_control">Hangminőség optimalizálása</string>
     <string name="dirac_switch_summary">Mindig a MiSound erősítőt használja hangszóró esetén</string>
     <string name="dirac_switch_title">MiSound erősítő</string>
+    <string name="menu_item_force_stop">Bezárás</string>
+    <string name="menu_item_uninstall">Eltávolítás</string>
+    <string name="menu_item_app_details">Részletek</string>
 </resources>

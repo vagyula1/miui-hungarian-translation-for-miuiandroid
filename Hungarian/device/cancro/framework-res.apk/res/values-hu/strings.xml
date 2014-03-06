@@ -45,9 +45,9 @@
     <string name="time1_time2">%1$s - %2$s</string>
     <string name="date1_date2">%2$s - %5$s</string>
     <string name="numeric_md1_md2">%2$s.%3$s. - %7$s.%8$s.</string>
-    <string name="numeric_wday1_md1_wday2_md2">%2$s.%3$s., %1$s - %7$s.%8$s., %6$s</string>
+    <string name="numeric_wday1_md1_wday2_md2">%2$s.%3$s. %1$s - %7$s.%8$s. %6$s</string>
     <string name="numeric_mdy1_mdy2">%4$s.%2$s.%3$s. - %9$s.%7$s.%8$s.</string>
-    <string name="numeric_wday1_mdy1_wday2_mdy2">%4$s.%2$s.%3$s., %1$s - %9$s.%7$s.%8$s., %6$s</string>
+    <string name="numeric_wday1_mdy1_wday2_mdy2">%4$s.%2$s.%3$s. %1$s - %9$s.%7$s.%8$s. %6$s</string>
     <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%5$s %4$s.%2$s.%3$s., %1$s - %10$s %9$s.%7$s.%8$s., %6$s</string>
     <string name="numeric_md1_time1_md2_time2">%5$s %2$s. %3$s. - %10$s %7$s. %8$s.</string>
     <string name="numeric_wday1_md1_time1_wday2_md2_time2">%5$s %2$s. %3$s., %1$s - %10$s %7$s. %8$s., %6$s</string>
@@ -55,8 +55,8 @@
     <string name="wday1_date1_time1_wday2_date2_time2">%3$s %2$s, %1$s - %6$s %5$s, %4$s</string>
     <string name="wday1_date1_wday2_date2">%2$s, %1$s - %5$s, %4$s</string>
     <string name="date1_time1_date2_time2">%3$s %2$s - %6$s %5$s</string>
-    <string name="time_wday_date">%1$s %3$s, %2$s</string>
-    <string name="wday_date">%3$s, %2$s</string>
+    <string name="time_wday_date">%1$s %3$s %2$s</string>
+    <string name="wday_date">%3$s %2$s</string>
     <string name="time_wday">%1$s %2$s</string>
     <string name="same_year_md1_md2">%2$s %3$s. - %7$s %8$s.</string>
     <string name="same_year_wday1_md1_wday2_md2">%1$s %2$s %3$s - %6$s %7$s %8$s</string>
@@ -77,7 +77,7 @@
     <string name="short_format_month">%b</string>
     <string name="full_wday_month_day_no_year">E MMMM d</string>
     <string name="abbrev_wday_month_day_no_year">E MMMM d</string>
-    <string name="abbrev_wday_month_day_year">y. MMM d., E</string>
+    <string name="abbrev_wday_month_day_year">y. MMM d. E</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>
@@ -1268,7 +1268,7 @@ a(z) %s fiók számára."</string>
     <string name="activity_chooser_view_dialog_title_default">Tevékenység kiválasztása</string>
     <string name="share_action_provider_share_with">Megosztás</string>
     <string name="status_bar_device_locked">Az eszköz le van zárva.</string>
-    <string name="list_delimeter">", "</string>
+    <string name="list_delimeter">". "</string>
     <string name="sending">Küldés…</string>
     <string name="launchBrowserDefault">Böngésző indítása?</string>
     <string name="SetupCallDefault">Fogadja a hívást?</string>

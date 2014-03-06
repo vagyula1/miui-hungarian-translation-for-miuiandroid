@@ -306,4 +306,5 @@
     <string name="vip_expired">A jobb minőségű zene hozzáférése lejárt</string>
     <string name="vip_rebuy">Megújítás</string>
     <string name="vip_recommend_rebuy">VIP hozzáférés megújítása 5 MiCredittel 30napra</string>
+    <string name="source_from">Forrás: %1$s</string>
 </resources>

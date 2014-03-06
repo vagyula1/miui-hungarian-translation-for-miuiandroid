@@ -2945,4 +2945,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="item_garbage_size_1000m">1GB</string>
     <string name="item_title_garbage_time">Értesítés ideje</string>
     <string name="item_title_garbage_size">Értesítési mérethatár</string>
+    <string name="menu_item_force_stop">Bezárás</string>
+    <string name="menu_item_uninstall">Eltávolítás</string>
+    <string name="menu_item_app_details">Részletek</string>
 </resources>

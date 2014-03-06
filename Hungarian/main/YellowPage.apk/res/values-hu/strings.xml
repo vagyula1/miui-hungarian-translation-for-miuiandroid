@@ -47,5 +47,8 @@
     <string name="user_notice_yp_detail_summary_format">The partial info of this yellow page needs to be updated online, please read %1$s and %2$s, click \"Agree\" means that you agree the above content and should obey the agreement, click \"Cancel\" to view the cached info only.</string>
     <string name="title_about_yellow_page">Névjegy</string>
 	<string name="contact_detail_calllog_call_note_tips">Hívás megjegyzések</string>
-	<string name="contact_detail_calllog_call_record_tips">Hívásnapló</string> 
+	<string name="contact_detail_calllog_call_record_tips">Hívásnapló</string>
+    <string name="notify_connect_every_time">Minden alkalommal értesítsen a hálózat csatlakozáskor</string>
+    <string name="do_not_remind_me">"Ne emlékeztessen"</string>
+    <string name="recharge_phone_number_empty">A telefonszám mező nem lehet üres</string>
 </resources>
