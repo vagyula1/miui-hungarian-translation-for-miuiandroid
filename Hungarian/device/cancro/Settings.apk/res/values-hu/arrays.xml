@@ -423,4 +423,9 @@
         <item>Systrace (grafika)</item>
         <item>Verem meghívása glGetError esetén</item>
     </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>Túl nagy forgalom miatt lassú a sebesség</item>
+        <item>Gyenge jelerősség miatt lassú a sebesség</item>
+        <item>Átlépés…</item>
+    </string-array>
 </resources>

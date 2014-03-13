@@ -94,4 +94,6 @@
     <string name="dlg_title_confirm_alarm_silent">Ne jelezzenek a riasztások néma üzemmódban?</string>
     <string name="dlg_desc_confirm_alarm_silent">Az ébresztőóra és a jegyzet alkalmazás nem fog jelezni néma üzemmódban</string>
     <string name="close">Bezár</string>
+    <string name="undo">Visszavon</string>
+    <string name="redo">Újra</string>
 </resources>
