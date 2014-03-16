@@ -64,7 +64,7 @@
     <string name="gadget_weather_loading">Nincs időjárási adat</string>
     <string name="gadget_weather_low_temp">min</string>
     <string name="gadget_weather_theme_type">Gadget típus</string>
-    <string name="gadget_weather_time_format">MM.D EEE</string>
+    <string name="gadget_weather_time_format">MM.dd. EEE</string>
     <string name="gadget_weather_title_14">Időjárás 1x4</string>
     <string name="gadget_weather_title_24">Időjárás 2x4</string>
     <string name="global_search_hint">Kulcsszavas keresés</string>
