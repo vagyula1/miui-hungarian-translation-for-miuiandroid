@@ -146,13 +146,11 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_Perm_Picture">Fényképek</string>
   <string name="HIPS_Perm_Recorder_AudioVideo">Kép és hangfelvétel</string>
   <string name="HIPS_Perm_ROOT">Rendszergazda</string>
-  <string name="HIPS_Perm_ROOT_Desc">Rendszergazdai jogosultságok</string>
   <string name="HIPS_Perm_Recorder_Hint">%1$s alkalmazásnak engedélyezve a fényképkészítés és a videófelvétel</string>
   <string name="HIPS_Perm_Recorder_Video">Videófelvétel</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">Hanghívás</string>
   <string name="HIPS_Perm_Recorder">Kamera és Mikrofon</string>
   <string name="HIPS_Perm_RecordVideo">Videófelvétel</string>
-  <string name="HIPS_Perm_RejectAll">Mind elutasítása</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Nem elérhető a MIUI Stabil verziójában</string>
   <string name="HIPS_Perm_ROOT_Desc">ROOT jogosultság kérése</string>
   <string name="HIPS_Perm_ROOT_Hint">Nincs alkalmazás</string>
@@ -169,7 +167,6 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_Perm_SendSMS_SMSC">SMS központ:</string>
   <string name="HIPS_Perm_SendSMS_SMSC_Default">Alapértelmezett SMS központ</string>
   <string name="HIPS_Perm_SendSMS_Text">SMS küldése: %1$s</string>
-  <string name="HIPS_Perm_SendSMS">SMS küldése</string>
   <string name="HIPS_Perm_Settings_Desc">Rendszerbeállítások módosítása</string>
   <string name="HIPS_Perm_Settings_Hint">%1$s alk.módosíthatja a rendszerbeállításokat</string>
   <string name="HIPS_Perm_Settings_Modify">Rendszerbeállítások módosítása</string>
@@ -186,7 +183,6 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">Internet hozzáférés Wi-Fi hálózattal</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s alkalmazás Internet hozzáférési jogokat kapott.</string>
-  <string name="HIPS_Perm_WIFINetwork">Wi-Fi Hálózat</string>
   <string name="HIPS_SecurityPrompt_Accept">Engedélyezve (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Engedélyezés</string>
   <string name="HIPS_SecurityPrompt_Caption">Biztonsági figyelmeztetés</string>
