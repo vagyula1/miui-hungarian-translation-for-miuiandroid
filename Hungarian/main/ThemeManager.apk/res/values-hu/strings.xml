@@ -114,7 +114,7 @@
     <string name="resource_local">Helyi %1$s</string>
     <string name="resource_mute">Néma</string>
     <string name="resource_my">Helyi</string>
-    <string name="resource_no_result">Nincs</string>
+    <string name="resource_no_result">Nincs kapcsolat</string>
     <string name="resource_notification_default">Értesítések</string>
     <string name="resource_online">Online %1$s</string>
     <string name="resource_pack_discount_info">%1$s elmentve!</string>

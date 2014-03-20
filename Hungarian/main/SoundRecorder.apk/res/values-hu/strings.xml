@@ -112,4 +112,10 @@
     <string name="sync_only_in_wifi">Szinkronizálás csak Wi-Fi-vel</string>
     <string name="sync_only_in_wifi_summary">Ha kikapcsolja, a hangrögzítő adatkapvcsolatot fog használni a felvételek fel- és letöltésére</string>
     <string name="sync_only_in_wifi_alert">Ennek kikpacsolása növeli az adatforgalmat (ami növelheti a költségeket).</string>
+    <string name="wifi_recommended_title">Adatforgalmi figyelmeztetés</string>
+    <string name="wifi_recommended_body">"A fájl mobil adatkapcsolaton történő letöltése növelheti a költségeket."</string>
+    <string name="button_queue_for_wifi">Wi-Fi használata</string>
+    <string name="button_start_now">Letöltés</string>
+    <string name="notification_title_all_paused">A letöltés szüneteltetve</string>
+    <string name="notification_message_all_paused">A mobil adatkapcsolat növelheti a költségeket.</string>
 </resources>

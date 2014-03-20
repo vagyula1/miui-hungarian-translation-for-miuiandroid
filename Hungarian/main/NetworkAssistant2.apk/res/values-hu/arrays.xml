@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic">
+        <item>Tegnapi forgalom </item>
+        <item>Mai forgalom </item>
+        <item>Havi forgalom </item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Tegnapi 2G/3G forgalom</item>
+        <item>Mai 2G/3G forgalom</item>
+        <item>Ehavi 2G/3G forgalom</item>
+        <item>Tegnapi Wi-Fi forgalom</item>
+        <item>Mai Wi-fi forgalom</item>
+        <item>Ehavi Wi-Fi forgalom</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Tegnapi 2G/3G forgalom</item>
+        <item>Mai 2G/3G forgalom</item>
+        <item>Ehavi 2G/3G forgalom</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 másodpercenként</item>
+        <item>4 másodpercenként</item>
+        <item>5 másodpercenként</item>
+        <item>6 másodpercenként</item>
+        <item>7 másodpercenként</item>
+        <item>8 másodpercenként</item>
+        <item>9 másodpercenként</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Adat</item>
+        <item>Wi-Fi</item>
+        <item>Összes</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Üzenetsablon fogadása automatikusan</item>
+        <item>Üzenetsablon beállítása manuálisan</item>
+    </string-array>
+</resources>
