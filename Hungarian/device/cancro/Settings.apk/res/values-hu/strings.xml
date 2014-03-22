@@ -2904,11 +2904,11 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="button_text_a_key_uninstall">Eltávolítás</string>
     <string name="optimize_installed_apps_header_left">Telepített alk.:%d</string>
     <string name="deep_clean_title_uninstall_apps">Alkalmazások</string>
-    <string name="deep_clean_summary_install_apps_today">%1$s|ma használt</string>
-    <string name="deep_clean_summary_install_apps_interval">%1$s|%2$d nappal ezelőtt</string>
-    <string name="deep_clean_summary_install_apps_new">%s|nem használt</string>
-    <string name="deep_clean_summary_install_apps_virus">%s|vírus</string>
-    <string name="deep_clean_summary_install_apps_risk">%s|gyanús</string>
+    <string name="deep_clean_summary_install_apps_today">ma használt</string>
+    <string name="deep_clean_summary_install_apps_interval">%d nappal ezelőtt</string>
+    <string name="deep_clean_summary_install_apps_new">nem használt</string>
+    <string name="deep_clean_summary_install_apps_virus">vírus</string>
+    <string name="deep_clean_summary_install_apps_risk">gyanús</string>
     <string name="optimize_installed_apps_list_empty_content">Nincs alkalmazás</string>
     <string name="uninstall_confirm_title">Alkalmazások eltávolítása</string>
     <string name="button_text_uninstall">Eltávolítás</string>
