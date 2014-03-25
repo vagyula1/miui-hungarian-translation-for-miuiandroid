@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">Biztonság</string>
   <string name="Dashboard_App">Alkalmazások</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Ennek kikapcsolására a MIUI a továbbiakban nem felügyeli az alkalmazások engedélyeit.Bztosan kikapcsolja?"</string>
+  <string name="Dashboard_HIPS_Disable_Content">Ennek kikapcsolására a MIUI a továbbiakban nem felügyeli az alkalmazások engedélyeit.Bztosan kikapcsolja?</string>
   <string name="Dashboard_HIPS_Disable_Title">Engedélyfelügyelet</string>
   <string name="Dashboard_Log">Listák</string>
   <string name="Dashboard_Log_Clear_Content">Minden lista törlésre kerül. Biztosan folytatja?</string>
@@ -24,7 +24,7 @@
   <string name="Dashboard_Perm_SU_Desc">%1$d alk.rendszergazdai jogosultságainak felügyelete</string>
   <string name="Dashboard_Perm_SU_Disabled">Rendszergazdai jogosultságok letiltva</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Rendszergazdai jogosultságok nem elérhetőek a stabil MIUI verziókban</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Rendszergazdai jogosultságok engedélyezése 3.alkalmazás számára a rendszer instabilitásához, vagy személyes adatai elvesztéséhez,illetve a rendszer vagy az eszköz sérüléséhez vezethet.Kérem váltson a MIUI fejlesztői verziójára a rendszergazdai jogosultságok engedélyezéséhez."</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Rendszergazdai jogosultságok engedélyezése 3.alkalmazás számára a rendszer instabilitásához, vagy személyes adatai elvesztéséhez,illetve a rendszer vagy az eszköz sérüléséhez vezethet.Kérem váltson a MIUI fejlesztői verziójára a rendszergazdai jogosultságok engedélyezéséhez.</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI letöltése</string>
   <string name="Dashboard_Perm_SU_Switch">Rendszergazdai jogosultságok</string>
   <string name="Dashboard_Su_Enable_Content">"Ennek engedélyezése lehetővé teszi a Rendszergazdai jogosultságok kérvényezését.
@@ -34,7 +34,7 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="Generic_Check">Ellenőrzés</string>
   <string name="Generic_Clean">Tiszta</string>
   <string name="Generic_Configuration">Beállítás</string>
-  <string name="Generic_Copyright">Powered by LBE Privacy Guard</string>
+  <string name="Generic_Copyright">Fejlesztő: LBE Privacy Guard</string>
   <string name="Generic_Disable">Letiltva</string>
   <string name="Generic_Enable">Engedélyezve</string>
   <string name="Generic_Good">Jó</string>
@@ -57,11 +57,11 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="Generic_UserApp">Letöltött Alkalmazások (%d)</string>
   <string name="Generic_Version">Verzió: %1$s</string>
   <string name="HIPS_Action_Accept">Engedélyez</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Engedélyez&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Engedélyez&lt;/font></string>
   <string name="HIPS_Action_Accept_Count">Engedélyezve: %1$d</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Rákérdez&lt;/font&gt;</string>
+  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Rákérdez&lt;/font></string>
   <string name="HIPS_Action_Prompt">Rákérdez</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Megtagad&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Megtagad&lt;/font></string>
   <string name="HIPS_Action_Reject_Count">Megtagadva: %1$d</string>
   <string name="HIPS_Action_Reject">Megtagad</string>
   <string name="HIPS_Group_DataPrivacy">Titoktartás</string>
@@ -103,6 +103,7 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_Perm_EndCall">pillanatnyi hívás megszakítása</string>
   <string name="HIPS_Perm_GetCallState">pillanatnyi hívásállapot meghatározása</string>
   <string name="HIPS_Perm_ListenCallState">hívásállapot meghatározása</string>
+    <string name="HIPS_Perm_Location">Helymeghatározás</string>
   <string name="HIPS_Perm_Location_Access">aktuális helyzet meghatározása</string>
   <string name="HIPS_Perm_Location_CellInfo">cellainformáció lekérése</string>
   <string name="HIPS_Perm_Location_CellLocation">cellahelyzet lekérése</string>
@@ -112,14 +113,13 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_Perm_Location_Source_Cellular">Forrás: Cellainformáció</string>
   <string name="HIPS_Perm_Location_Source_GPS">Forrás: GPS</string>
   <string name="HIPS_Perm_Location_Source_Network">Forrás: Hálózat</string>
-  <string name="HIPS_Perm_Location">Positioning</string>
+  <string name="HIPS_Perm_MMS">MMS üzenetek</string>
   <string name="HIPS_Perm_MMS_Access">Bejövő MMS-ek olvasása</string>
   <string name="HIPS_Perm_MMS_Desc">Hozzáférés a bejövő MMS-ekhez</string>
-  <string name="HIPS_Perm_MMS_Hint">%1$s alk.férhet hozzá a bejövő SMS-ekhe</string>
-  <string name="HIPS_Perm_MMS">MMS üzenetek</string>
+  <string name="HIPS_Perm_MMS_Hint">%1$s alk.férhet hozzá a bejövő MMS-ekhez</string>
+  <string name="HIPS_Perm_Mobile_Connectivity">Mobilhálózat használata</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">Mobilhálózat használata</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s alk.használhatja a mobilhálózatot</string>
-  <string name="HIPS_Perm_Mobile_Connectivity">Mobilhálózat használata</string>
   <string name="HIPS_Perm_MobileNetwork">Mobil hálózat</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Internet hozzáférés mobil adatkapcsolat használatával</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s alk.internet elérésének engedélyezése</string>
@@ -139,22 +139,27 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_Perm_PhoneID_IMEISN">IMEI/sorozatszám meghatározása</string>
   <string name="HIPS_Perm_PhoneID_IMSI">IMSI szám meghatározása</string>
   <string name="HIPS_Perm_PhoneID_Number">Telefonszám meghatározása</string>
+  <string name="HIPS_Perm_Picture">Fényképek</string>
   <string name="HIPS_Perm_PromptAll">Összesre rákérdez</string>
   <string name="HIPS_Perm_RejectAll">Összes tiltása</string>
   <string name="HIPS_Perm_RecordAudio">Hangfelvétel</string>
+  <string name="HIPS_Perm_Recorder">Kamera és Mikrofon</string>
   <string name="HIPS_Perm_Recorder_Audio">Hangfelvétel</string>
-  <string name="HIPS_Perm_Picture">Fényképek</string>
+
   <string name="HIPS_Perm_Recorder_AudioVideo">Kép és hangfelvétel</string>
-  <string name="HIPS_Perm_ROOT">Rendszergazda</string>
+  <string name="HIPS_Perm_Recorder_Camera">Kamera</string>
+  <string name="HIPS_Perm_Recorder_Desc">Fénykép készítés és videófájl felvétel</string>
   <string name="HIPS_Perm_Recorder_Hint">%1$s alkalmazásnak engedélyezve a fényképkészítés és a videófelvétel</string>
   <string name="HIPS_Perm_Recorder_Video">Videófelvétel</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">Hanghívás</string>
-  <string name="HIPS_Perm_Recorder">Kamera és Mikrofon</string>
+
   <string name="HIPS_Perm_RecordVideo">Videófelvétel</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Nem elérhető a MIUI Stabil verziójában</string>
+  <string name="HIPS_Perm_ROOT">Rendszergazda</string>
   <string name="HIPS_Perm_ROOT_Desc">ROOT jogosultság kérése</string>
   <string name="HIPS_Perm_ROOT_Hint">Nincs alkalmazás</string>
   <string name="HIPS_Perm_ROOT_Title">Rendszergazdai jogosultságok engedélyezése</string>
+  <string name="HIPS_Perm_SendMMS">MMS küldése</string>
   <string name="HIPS_Perm_SendMMS_Desc">Közvetlen MMS küldése</string>
   <string name="HIPS_Perm_SendMMS_Hint">%1$s alk.küldhet MMS-t</string>
   <string name="HIPS_Perm_SendSMS">SMS küldése</string>
@@ -175,6 +180,7 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_Perm_SMS_Access">Bejövő SMS-ek olvasása</string>
   <string name="HIPS_Perm_SMS_Desc">Hozzáférés a bejövő SMS-ekhez</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s alk.férhet hozzá a bejövő SMS-ekhez</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">Fényképek és videók</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s alk.hozzáférhet a fényképekhez és videókhoz</string>
   <string name="HIPS_Perm_VideoRecorder">Fényképek és videók</string>
@@ -208,7 +214,7 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="Privacy_App_TrustDialog_Content">A MIUI nem fog rákérdezni az app biztonsági engedélyeire.</string>
   <string name="Privacy_App_TrustDialog_Title">Megbízható</string>
   <string name="Privacy_App_Uninstall">Eltávolítás</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$dengedély - &lt;font color=#478800&gt;Megbízható&lt;/font&gt;</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$dengedély - &lt;font color=#478800>Megbízható&lt;/font></string>
   <string name="Privacy_AppPerm_Count">%1$d engedély</string>
   <string name="Privacy_Perm_Count">Engedélyezve: %1$d Letiltva: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s alkalmazás rendszergazdai jogosultságokat kér, amely alapértelmezetten le van tiltva a biztonság érdekében. Ha engedélyezni szeretné, az Engedélyek alkalmazásban teheti meg.</string>

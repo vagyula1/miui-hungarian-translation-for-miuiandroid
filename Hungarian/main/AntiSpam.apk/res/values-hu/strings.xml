@@ -2,7 +2,7 @@
 <resources> 
   <string name="app_name">Felügyelet</string>
   <string name="bl_block_info" formatted="false">Elutasítva: %d szám, %d részlet</string>
-  <string name="bl_no_blacklist">Tiltólista üres</string>
+  <string name="bl_no_blacklist">A tiltólista üres</string>
   <string name="bl_no_block_call">A blokkolt hívásaok itt lesznek naplózva</string>
   <string name="bl_no_block_sms">A blokkolt üzenetek itt lesznek naplózva</string>
   <string name="dlg_add_blacklist">Hozzáadja a telefonszámot a tiltólistához?</string>

@@ -421,7 +421,7 @@
     <string name="menu_pick_from_contact">Válasszon a névjegyzékből</string>
     <string name="select_local_audio">Válasszon hanganyagot...</string>
     <string name="select_local_video">Válasszon videót...</string>
-    <string name="mx_recommend_msg">MiCloud üzenetkezelés engedélyezése. Kattintson az engedélyezéshez és küldjön üzeneteket ingyen a MIUI felhasználóknak.</string>
+    <string name="mx_recommend_msg">Érintse meg a MiCloud üzenetkezelés engedélyezéséhez.</string>
     <string name="set_smsc_address_title_miui">SMS központ száma</string>
     <string name="sim_card1">1.SIM kártya</string>
     <string name="sim_card2">2.SIM kártya</string>

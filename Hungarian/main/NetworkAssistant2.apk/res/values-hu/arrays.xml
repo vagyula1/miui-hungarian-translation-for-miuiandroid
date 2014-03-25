@@ -28,7 +28,7 @@
         <item>9 másodpercenként</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>Adat</item>
+        <item>2G/3G</item>
         <item>Wi-Fi</item>
         <item>Összes</item>
     </string-array>

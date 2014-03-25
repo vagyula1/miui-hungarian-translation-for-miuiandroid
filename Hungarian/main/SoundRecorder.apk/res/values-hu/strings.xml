@@ -73,9 +73,9 @@
     <string name="preference_led_indicator">LED értesítés lezárt képernyőnél</string>
     <string name="preference_led_indicator_prompt">LED értesítés lezárt képernyőnél a felvétel ideje alatt</string>
     <string name="preference_record_type_title">Felvétel típusa</string>
-    <string name="preference_scenes">Hely beállítása</string>
-    <string name="preference_record_type_dialog_title">Válassza ki a felvétel típusát</string>
-    <string name="preference_record_scenes_dialog_title">Váalassza ki a felvétel helyét</string>
+    <string name="preference_scenes">Felvétel módja</string>
+    <string name="preference_record_type_dialog_title">Válassza ki a rögzítendő fájl típusát</string>
+    <string name="preference_record_scenes_dialog_title">Válassza ki a felvétel módját</string>
     <string name="preference_silent_mode">Csörgés némítása felvétel alatt</string>
     <string name="preference_enable_earpiece_title">Fülhallgató engedélyezése</string> 
     <string name="preference_enable_earpiece_summary">Fülhallgató használata külső visszajátszáshoz</string>
@@ -114,7 +114,7 @@
     <string name="sync_only_in_wifi_alert">Ennek kikpacsolása növeli az adatforgalmat (ami növelheti a költségeket).</string>
     <string name="wifi_recommended_title">Adatforgalmi figyelmeztetés</string>
     <string name="wifi_recommended_body">"A fájl mobil adatkapcsolaton történő letöltése növelheti a költségeket."</string>
-    <string name="button_queue_for_wifi">Wi-Fi használata</string>
+    <string name="button_queue_for_wifi">Várakozás Wi-Fi kapcsolatra</string>
     <string name="button_start_now">Letöltés</string>
     <string name="notification_title_all_paused">A letöltés szüneteltetve</string>
     <string name="notification_message_all_paused">A mobil adatkapcsolat növelheti a költségeket.</string>
