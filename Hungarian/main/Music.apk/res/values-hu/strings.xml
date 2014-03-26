@@ -110,7 +110,7 @@
     <string name="id3_edit_failed">Az ID3 információk mentése nem sikerült</string>
     <string name="id3_modify_confirm_check">Menti az ID3 változtatásokat?</string>
     <string name="id3_modify_confirm_text">ID3 információk szerkesztése</string>
-    <string name="impunity_declaration">Az online zene a Baidu Online Music Service-ből származik. A <a href="http://music.baidu.com/doc/agreement"> felhasználói feltételek elfogadáshoz kattintson az \"OK\" gombra, kilépéshez a \"Mégsem\" gombra.</string>
+    <string name="impunity_declaration">Az online zene a Baidu Online Music Service-ből származik. A felhasználói feltételek elfogadáshoz kattintson az \"OK\" gombra, kilépéshez a \"Mégsem\" gombra.</string>
     <string name="impunity_declaration_title">Felhasználói feltételek</string>
     <string name="keep_quit_position_settings">Utolsó pozíció megjegyzése</string>
     <string name="keep_quit_position_summary">A lejátszó újraindításakor a zeneszám utolsó pozíciójától indul</string>
