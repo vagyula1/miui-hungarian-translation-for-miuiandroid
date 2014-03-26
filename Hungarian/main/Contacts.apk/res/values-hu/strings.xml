@@ -1043,4 +1043,14 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="delete_call_log_selected_title">Törli a kiválasztott hívásokat?</string>
     <string name="toast_finish_delete_selected_call_log">A kiválasztott hívások törölve</string>
     <string name="pref_key_sim_manage">SIM-kártya kezelés</string>
+    <string name="import_from_sim2">Importálás a SIM2 kártáyról</string>
+    <string name="eventTypeCustom">Egyéni</string>
+    <string name="callrecordview_menu_show_sim">%s hívás</string>
+    <string name="callrecordview_menu_delete_sim">%s hívásnapló törlése</string>
+    <string name="export_to_sim2">Exportálás a SIM2 kártyára</string>
+    <string name="pref_key_sim_manage2">SIM2 kártya konfigurálása</string>
+    <string name="account_sim2">%d SIM kártya</string>
+    <string name="sim_contact_number_missing">SIM névjegy telefonszám hiányzik.</string>
+    <string name="imei_invalid">Érvénytelen IMEI</string>
+    <string name="meid_invalid">Érvénytelen MEID</string>
 </resources>

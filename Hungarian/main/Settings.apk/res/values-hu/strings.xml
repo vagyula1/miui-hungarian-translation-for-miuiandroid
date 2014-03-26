@@ -1677,7 +1677,15 @@
     <string name="show_running_services">Futó szolgáltatások</string>
     <string name="show_background_processes">Tárolt folyamatok</string>
     <string name="reset_app_preferences">Alapbeállítások</string>
-    <string name="reset_app_preferences_desc">Ez visszaállítja az összes beállítást a következőknél: <li>Letiltott alkalmazások</li> <li>Letiltott alkalmazásokkal kapcsolatos értesítések</li> <li>Alapértelmezett alkalmazások az egyes műveletekhez</li><li>Háttéradatokra vonatkozó korlátozások az alkalmazásoknál</li>Az alkalmazásokban található adatok nem fognak elveszni.</string>
+    <string name="reset_app_preferences_title">Visszaállítja az alapbeállításokat?</string>
+    <string name="reset_app_preferences_desc">Ez visszaállítja az összes beállítást a következőknél:
+
+ "<li>Letiltott alkalmazások</li>"
+ "<li>Letiltott alkalmazásokkal kapcsolatos értesítések</li>"
+ "<li>Alapértelmezett alkalmazások az egyes műveletekhez</li>"
+ "<li>Háttéradatokra vonatkozó korlátozások az alkalmazásoknál</li>"
+ 
+Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="reset_app_preferences_button">Alapbeállítások</string>
     <string name="manage_space_text">Terület kezelése</string>
     <string name="filter">Szűrő</string>
@@ -3064,4 +3072,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="pref_summary_garbage_cleanup_check_size">Értesítés, ha a felesleges fájlok mérete elérte az előre beállított értéket</string>
     <string name="pref_title_expand_cache_group">Gyorsítótár bővítése</string>
     <string name="pref_summary_expand_cache_group">A gyorsítótár alapértelmezett bővül</string>
+    <string name="dialog_title_load_cleanup_engine_error">Hiba</string>
+    <string name="dialog_msg_load_cleanup_engine_error">A Tisztítás alkalmazás motorja sérült, újra kell telepítenie a ROM-ot!</string>
 </resources>

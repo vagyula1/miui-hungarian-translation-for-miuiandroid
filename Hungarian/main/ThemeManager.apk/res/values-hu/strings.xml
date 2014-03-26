@@ -242,9 +242,9 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="resource_user_know">OK</string>
     <string name="settings">Beállítások</string>
     <string name="to_activate_the_account">Aktiválja a Xiaomi fiókját</string>
-    <string name="resource_trial_end_message">%1$s kipróbálásának időszaka lejárt. Ha elnyerte tetszését, kérem vásárolja meg.</string>
+    <string name="resource_trial_end_message">%1$s téma kipróbálásának időszaka lejárt. Ha a téma elnyerte tetszését, kérem vásárolja meg.</string>
     <string name="resource_trial_end_purchase">Megvásárlás</string>
-    <string name="resource_trial_end_restore">Próbaidőszak befejezése</string>
+    <string name="resource_trial_end_restore">Próbaverzió vége</string>
     <string name="resource_trial_end_title">A próbaidőszak lejárt</string>
     <string name="resource_trial_time">（%1$d perces próbaverzió）</string>
     <string name="resource_on_trial">Próbaverzió: %1$s</string>
