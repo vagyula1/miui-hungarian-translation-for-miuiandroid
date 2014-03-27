@@ -411,7 +411,6 @@
     <string name="import_from_other_phone">Importálás másik telefonból</string>
     <string name="import_from_sdcard">Importálás a tárhelyről</string>
     <string name="import_from_sim">Importálás a SIM-kártyáról</string>
-    <string name="import_from_sim2">Importálás a 2.SIM-kártyáról</string>
     <string name="import_multiple_vcard_string">Több vCard fájl importálása</string>
     <string name="import_name">név</string>
     <string name="import_one_vcard_string">Egyetlen vCard fájl importálása</string>
