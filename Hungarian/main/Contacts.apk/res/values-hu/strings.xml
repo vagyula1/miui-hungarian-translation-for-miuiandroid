@@ -488,6 +488,7 @@
     <string name="menu_bar_group_ringtone">Csengőhang</string>
     <string name="menu_bar_group_sms">Üzenet</string>
     <string name="menu_call_ip_number">Kettős IP telefon (tárcsázás: %s)</string>
+	<string name="menu_dial_ip_number">IP telefon tárcsázás</string>
     <string name="menu_call">Ismerős hívása</string>
     <string name="menu_callNumber">%s hívása</string>
     <string name="menu_clear_frequents">Gyakoriak törlése</string>

@@ -87,7 +87,7 @@
     <string name="resource_default">Alapértelmezett csengőhang</string>
     <string name="resource_default_name">Téma</string>
     <string name="resource_delete_all">Töröl %1$d kiválasztott témát?</string>
-    <string name="resource_delete_confirm">Biztos,hogy törli a témát?</string>
+    <string name="resource_delete_confirm">Biztos, hogy törli a témát?</string>
     <string name="resource_delta_update_failed">A frissítés nem sikerült! A teljes téma letöltése</string>
     <string name="resource_delta_update_successful">A frissítés sikeres.</string>
     <string name="resource_delta_update_total">%1$d frissítve. Elmentve %2$s</string>
