@@ -25,7 +25,7 @@
     <string name="backup_delete">Mentés törlése:</string>
     <string name="backup_empty_info">Adatok,programok és beállítások biztonsági mentése</string>
     <string name="backup_empty">Nem található biztonsági mentés!</string>
-    <string name="backup_error">Hiba a törléskor, mentés folyamatban</string>
+    <string name="backup_error">A mentés nem sikerült</string>
     <string name="backup_failed">Mentési hiba</string>
     <string name="backup_file_error">Hiba a biztonsági mentésben, a művelet érvénytelen.</string>
     <string name="backup_finished">A mentés befejeződött</string>

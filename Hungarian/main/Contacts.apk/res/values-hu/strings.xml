@@ -317,7 +317,7 @@
     <string name="download_failed">A letöltés nem sikerült</string>
     <string name="download_preview_failed">Az előnézet betötlése nem sikerült</string>
     <string name="duplicate_group_name">A csoportnév már létezik.</string>
-    <string name="edit_contact_card_title">Névjegyek szerkesztése</string>
+    <string name="edit_contact_card_title">Névjegykártya szerkesztése</string>
     <string name="edit_contact">Névjegy szerkesztése</string>
     <string name="editContactDescription">Névjegy szerkesztése</string>
     <string name="editGroupDescription">Csoport szerkesztés</string>

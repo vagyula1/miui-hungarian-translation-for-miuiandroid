@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MiCredit központ</string>
-    <string name="label_order_name">Termék:</string>
-    <string name="label_order_price">Ár:</string>
-    <string name="label_balance">Egyenleg:</string>
+    <string name="label_order_name">Termék: </string>
+    <string name="label_order_price">Ár: </string>
+    <string name="label_balance">Egyenleg: </string>
     <string name="order_price">%1$s MiCredit</string>
     <string name="password_hint">Írja be a jelszót</string>
     <string name="password_error">Hibás jelszó.</string>

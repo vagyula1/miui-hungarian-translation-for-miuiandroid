@@ -2682,7 +2682,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="permission_manage">Engedélyek kezelése</string>
     <string name="permission_manage_summary">Automatikus indítás, adatvédelem, biztonsági engedély kezelés</string>
     <string name="other_relative">Egyéb engedélyek</string>
-    <string name="permission_manage_title">%s engedély részletek</string>
+    <string name="permission_manage_title">%s jogosultságainak részletezése</string>
     <string name="filter_apps_cached">Gyorsítótár</string>
     <string name="screen">Képernyő</string>
     <string name="system">Rendszer</string>
@@ -3074,4 +3074,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="pref_summary_expand_cache_group">A gyorsítótár alapértelmezett bővül</string>
     <string name="dialog_title_load_cleanup_engine_error">Hiba</string>
     <string name="dialog_msg_load_cleanup_engine_error">A Tisztítás alkalmazás motorja sérült, újra kell telepítenie a ROM-ot!</string>
+    <string name="title_show_notification_yes">Megjelenítés az értesítési sávon bekapcsolva</string>
+    <string name="title_show_notification_no">Megjelenítés az értesítési sávon kikapcsolva</string>
+    <string name="security_relative">Biztonság</string>
 </resources>

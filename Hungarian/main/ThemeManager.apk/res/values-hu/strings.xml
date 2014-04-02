@@ -66,7 +66,7 @@
     <string name="resource_comment_edit_comment_waiting">Ellenőrizze,hogy válaszolt-e már rá</string>
     <string name="resource_comment_edit_text_default">Hozzászólás írása</string>
     <string name="resource_comment_edit_title">Hozzászólás szerkesztés: %1$s</string>
-    <string name="resource_comment_entry_tips">>Hozzászólások megtekintése</string>
+    <string name="resource_comment_entry_tips">Hozzászólások megtekintése</string>
     <string name="resource_comment_expand_full_text">Bontsa ki a teljes szöveget ▼</string>
     <string name="resource_comment_footer">Üres megjegyzés nem jelenik meg.</string>
     <string name="resource_comment_good_comments">Pozitív</string>
@@ -94,7 +94,7 @@
     <string name="resource_detail">Részletek</string>
     <string name="resource_detail_comment_title">Hozzászólások</string>
     <string name="resource_detail_jump_to_same_author_title">A szerző további témái</string>
-    <string name="resource_detail_recommend_desiner_other_themes">%1$s által készült egyéb témák</string>
+    <string name="resource_detail_recommend_desiner_other_themes">%1$s által készített további témák</string>
     <string name="resource_detail_recommend_desiner_themes">%1$s témái</string>
     <string name="resource_detail_recommend_other_themes">Akiknek még tetszett</string>
     <string name="resource_detail_update_log_title">Frissítések</string>
@@ -103,11 +103,11 @@
     <string name="resource_downloaded_title">Letöltött témák</string>
     <string name="resource_downloading">Letöltés</string>
     <string name="resource_expand_full_text">Teljes</string>
-    <string name="resource_get_auth_checking">Engedélyezés...</string>
+    <string name="resource_get_auth_checking">Azonosítás...</string>
     <string name="resource_get_auth_exceed_max_limit_tips">A téma nem futtatható. Elérte a maximális 10 próbálkozást a Xiaomi fiókja. Próbálja másik fiókkal.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Nincs több próbálkozás!</string>
     <string name="resource_get_auth_missing">A téma nem a marketről származik, kérem töltse le onnan.</string>
-    <string name="resource_get_auth_retrieving">Engedélyezés...</string>
+    <string name="resource_get_auth_retrieving">Hitelesítés...</string>
     <string name="resource_import_successful">Letöltve.</string>
     <string name="resource_importing">Importálás</string>
     <string name="resource_list_title">Legutóbb kiválasztott</string>
@@ -122,7 +122,7 @@
     <string name="resource_pack_warning">Figyelmeztetés! Ön már megvásárolt %1$d témát, az aktuálisi ár már nem érvényes, kérjük vásárolja meg őket külön-külön.</string>
     <string name="resource_preview">Előnézet</string>
     <string name="resource_price_free">Ingyenes</string>
-    <string name="resource_price_unit">MiCredit</string>
+    <string name="resource_price_unit">" MiCredit"</string>
     <string name="resource_ranking">Népszerű</string>
     <string name="resource_ranking_free">Ingyenes</string>
     <string name="resource_ranking_purchase">Fizetős</string>

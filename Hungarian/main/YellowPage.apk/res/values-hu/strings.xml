@@ -164,4 +164,14 @@ Ellenőrizze a nyomkövetési számot."</string>
     <string name="nearby_yellow_page_title">Közeli</string>
     <string name="nearby_no_yellow_page">Nincs közeli eredmény</string>
     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
+    <string name="download_completed">A letöltés befejeződött! SD kártya útvonala: %s</string>
+    <string name="download_failed">A letöltés nem sikerült</string>
+    <string name="download_failed_storage">A letöltés nem sikerült, ellenőrizze az SD kártyát</string>
+    <string name="download_failed_network">A letöltés nem sikerült, ellenőrizze a hálózati beállításokat</string>
+    <string name="download_failed_gone">"A letöltés nem sikerült, a fájl nem található"</string>
+    <string name="download_failed_server">A letöltés nem sikerült, próbálja később</string>
+    <string name="download_failed_cannot_resume">A letöltés nem sikerült, próbálja később</string>
+    <string name="download_failed_file_exists">A fájl már létezik</string>
+    <string name="download_failed_space">A letöltés nem sikerült, nincs elég hely</string>
+    <string name="download_failed_blocked">A letöltés nem sikerült hálózati hiba miatt</string>
 </resources>

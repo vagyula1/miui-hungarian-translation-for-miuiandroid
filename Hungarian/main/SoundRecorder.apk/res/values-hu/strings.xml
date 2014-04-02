@@ -118,4 +118,5 @@
     <string name="button_start_now">Letöltés</string>
     <string name="notification_title_all_paused">A letöltés szüneteltetve</string>
     <string name="notification_message_all_paused">A mobil adatkapcsolat növelheti a költségeket.</string>
+    <string name="toast_file_is_downloading">A fájl letöltése, kérem várjon.</string>
 </resources>

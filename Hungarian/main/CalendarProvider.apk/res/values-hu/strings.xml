@@ -21,5 +21,4 @@
   <string name="holiday_update_title">A munkanapok adataihoz hálózati kapcsolat és frissítés szükséges</string>
   <string name="provider_label">Naptár</string>
   <string name="upgrade_msg">A Naptár adatbázisának frissítése</string>
-
 </resources>

@@ -163,7 +163,7 @@
     <string name="traffic_protection_label">Adatforgalmi figyelmeztetés</string>
     <string name="traffic_protection_next">Következő</string>
     <string name="traffic_protection_summary">Figyelmeztetés beállítása, ha az adatforgalom eléri megadott értéket</string>
-    <string name="traffic_protection_text_hint">Adatforgalmi korlát beállítása</string>
+    <string name="traffic_protection_text_hint">%s adatforgalmi korlátjának beállítása</string>
     <string name="traffic_protection_unknown"><u>Beállítás később</u></string>
     <string name="traffic_protection_use_data">Adatforgalom engedélyezve</string>
     <string name="traffic_setting_fragment_area">Helyi</string>

@@ -3077,4 +3077,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="pref_summary_expand_cache_group">A gyorsítótár alapértelmezett bővül</string>
     <string name="dialog_title_load_cleanup_engine_error">Hiba</string>
     <string name="dialog_msg_load_cleanup_engine_error">A Tisztítás alkalmazás motorja sérült, újra kell telepítenie a ROM-ot!</string>
+    <string name="title_show_notification_yes">Megjelenítés az értesítési sávon bekapcsolva</string>
+    <string name="title_show_notification_no">Megjelenítés az értesítési sávon kikapcsolva</string>
+    <string name="security_relative">Biztonság</string>
 </resources>
