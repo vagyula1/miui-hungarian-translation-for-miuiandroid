@@ -128,7 +128,7 @@
     <string name="search_history_cleared">A keresési előzmények törölve</string>
     <string name="preferences_alerts_title">Értesítések</string>
     <string name="preferences_alerts_vibrateWhen_title">Rezgés</string>
-    <string name="preferences_alerts_ringtone_title">Csengőhang kiválasztása</string>
+    <string name="preferences_alerts_ringtone_title">Csengőhang</string>
     <string name="preferences_alerts_popup_title">Előugró értesítés</string>
     <string name="preferences_default_reminder_title">Emlékeztető ideje</string>
     <string name="preferences_default_reminder_dialog">Emlékeztető ideje</string>
@@ -266,8 +266,8 @@
     <string name="subscribe_all">Feliratkozás</string>
     <string name="enter_calendar">Naptár</string>
     <string name="pref_title_no_remind">Nincs értesítés</string>
-    <string name="pref_title_notification_remind">Emlekeztető értesítés</string>
-    <string name="pref_title_alert_remind">Felugró értesítés</string>
+    <string name="pref_title_notification_remind">Értesítési sávon</string>
+    <string name="pref_title_alert_remind">Felugró ablakban</string>
     <string name="huangli_label">Huang Li</string>
     <string name="holiday_label">Ünnapnap</string>
     <string name="action_bar_today">M</string>

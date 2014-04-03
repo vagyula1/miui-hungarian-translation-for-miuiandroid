@@ -24,7 +24,7 @@
     <string name="delete">Törlés</string>
     <string name="error_forbidden">You account has some issues. Szinkronizálás letiltva.</string>
     <string name="error_not_acceptable">Szerver hiba. Szinkronizálás letiltva.</string>
-    <string name="error_title">Szinkronizálási hiba : %s</string>
+    <string name="error_title">Szinkronizálási hiba</string>
     <string name="error_unauthorized">Túl sok belépési kíérlet. Szinkronizálás letiltva.</string>
     <string name="every_day">Mindennap</string>
     <string name="experimental_validate">Érvényesítés</string>
