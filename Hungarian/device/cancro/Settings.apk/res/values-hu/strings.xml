@@ -241,7 +241,7 @@
     <string name="perm_enable">ROOT jogosultságok</string>
     <string name="perm_disable">Letiltás</string>
     <string name="perm_optimize">Optimalizálás</string>
-    <string name="perm_check">Ellenőrzés: </string>
+    <string name="perm_check">"Ellenőrzés: "</string>
     <string name="perm_clean">Tiszta</string>
     <string name="perm_good">Jó</string>
     <string name="perm_update">Szoftver frissítés</string>
@@ -464,7 +464,7 @@
     <string name="finish_checking_memory">Memória ellenőrzése befejezése...</string>
     <string name="start_checking_trash">Alkalmazás gyorsítótárazás ellenőrzése...</string>
     <string name="finish_checking_trash">Alkalmazás gyorsítótárazás ellenőrzésének befejezése...</string>
-    <string name="checking">Ellenőrzés</string>
+    <string name="checking">"Ellenőrzés: "</string>
     <string name="start_optimize_protection">Valósidejű védelem optimalizálása...</string>
     <string name="finish_optimize_protection">Valósidejű védelem optimalizálásának befejezése...</string>
     <string name="start_optimize_memory">Memória optimalizálása...</string>
@@ -754,8 +754,8 @@
     <string name="virus_scan_package_label_unknown">ismeretlen</string>
     <string name="virus_scan_not_found_virus">Nem található vírus</string>
     <string name="virus_scan_not_found_risk">Nem található gyanús fájl</string>
-    <string name="virus_scan_last_scan_today">Az utolsó víruskeresés: Ma </string>
-    <string name="virus_scan_last_scan_yesterday">Az utolsó víruskeresés: Tegnap </string>
+    <string name="virus_scan_last_scan_today">"Az utolsó víruskeresés: Ma "</string>
+    <string name="virus_scan_last_scan_yesterday">"Az utolsó víruskeresés: Tegnap "</string>
     <string name="virus_scan_last_scan_date">Az utolsó víruskeresés %d nappal ezelőtt volt</string>
     <string name="yes">Igen</string>
     <string name="create">Új</string>
@@ -2887,8 +2887,8 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="memory_suffix">GB</string>
     <string name="memory_used_suffix">Felhasznált</string>
     <string name="memory_available_suffix">Elérhető</string>
-    <string name="scanning_prefix">Keresés:%s</string>
-    <string name="cleanning_prefix">Tisztítás:%s</string>
+    <string name="scanning_prefix">Keresés: %s</string>
+    <string name="cleanning_prefix">Tisztítás: %s</string>
     <string name="pref_category_title_auto_update_cleanup_db">Az adatbázis frissítésének beállításai</string>
     <string name="pref_title_auto_update_cleanup_db">Automatikus frissítés</string>
     <string name="pref_summary_auto_update_cleanup_db">Frissítve: %s</string>
