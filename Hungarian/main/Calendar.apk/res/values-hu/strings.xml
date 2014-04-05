@@ -180,7 +180,6 @@
     <string name="birthday_notification_text_three_days_later">3 nap múlva születésnap! (%3$s)</string>
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_type_term_lunar" />
-    <string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_event_description">Ma van %1$s szültésnapja!</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
