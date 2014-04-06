@@ -674,8 +674,8 @@
     <string name="cancel">Mégsem</string>
     <string name="mem_lock">Lezárás</string>
     <string name="mem_unlock">Feloldás</string>
-    <string name="last_check_date_today">Utolsó vizsgálat: Ma </string>
-    <string name="last_check_date_yesterday">Utolsó vizsgálat: Tegnap </string>
+    <string name="last_check_date_today">"Utolsó vizsgálat: Ma "</string>
+    <string name="last_check_date_yesterday">"Utolsó vizsgálat: Tegnap "</string>
     <string name="last_check_never_checked">Ajánlott (első alkalommal)</string>
     <string name="last_check_canceled">Ajánlott: az előző átvizsgálás a befejezés előtt megszakítva</string>
     <string name="last_checked_default">Ajánlott: az utolsó vizsgálat %s ezelőtt volt</string>
@@ -729,7 +729,7 @@
     <string name="virus_scan_update_lib">A vírus adatbázisának frissítése automatikusan</string>
     <string name="virus_scan_update_now">Frissítés</string>
     <string name="virus_scan_use_cloud">Cloud vírus adatbázis</string>
-    <string name="virus_scan_can_use_wifi">Online adatbázis használata a víruskereséskor</string>
+    <string name="virus_scan_can_use_wifi">Online adatbázis használata</string>
     <string name="virus_scan_monitoring">Telepítéskor ellenőrzés</string>
     <string name="virus_scan_judge_is_virus">Víruskeresés alkalmazások telepítése előtt</string>
     <string name="virus_scan_viruslib_version">Vírus adatbázis verziója: %s</string>
@@ -3068,8 +3068,8 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="Settings_title_network_assistants">Az adatforgalom beállításai</string>
     <string name="Settings_title_anti_spam">A Felügyelet beállításai</string>
     <string name="Settings_title_power_center">A teljesítmény beállításai</string>
-    <string name="Settings_title_anti_virus">A Víruskereső beállításai</string>
-    <string name="virus_scan_is_cloud_scanning">Víruskeresés a Felhőben…</string>
+    <string name="Settings_title_anti_virus">A víruskereső beállításai</string>
+    <string name="virus_scan_is_cloud_scanning">Cloud víruskeresése…</string>
     <string name="perm_support_hints">LBE támogatásával</string>
     <string name="scanning_start_hints">Előkészítés…</string>
     <string name="pref_summary_garbage_cleanup_check_size">Értesítés, ha a felesleges fájlok mérete elérte az előre beállított értéket</string>

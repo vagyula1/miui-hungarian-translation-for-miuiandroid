@@ -65,7 +65,7 @@
     <string name="main_alert_message_no_mobile_package">Az adatforgalom nincs beállítva</string>
     <string name="main_button_idel_traffic">Csúcsidőn kívül</string>
     <string name="main_button_normal_traffic">Elérhető</string>
-    <string name="main_button_usage_adjust_manual">Kézi beállítás</string>
+    <string name="main_button_usage_adjust_manual">Adatforgalom beállítása</string>
     <string name="main_button_usage_adjust">Felhasznált adatforgalom beállítása</string>
     <string name="main_button_usage_adjusting">Beállítás…</string>
     <string name="main_button_usage_package_setting">Adatforgalom beállítása</string>
