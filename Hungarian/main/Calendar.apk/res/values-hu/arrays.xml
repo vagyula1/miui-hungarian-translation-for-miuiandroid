@@ -175,11 +175,6 @@
         <item>Csak néma üzemmódban</item>
         <item>Soha</item>
     </string-array>
-    <string-array name="prefValues_alerts_vibrateWhen">
-        <item>mindig</item>
-        <item>halk</item>
-        <item>soha</item>
-    </string-array>
     <string-array name="widget_style_list">
         <item>Átlátszó háttér</item>
         <item>Fehér háttér</item>

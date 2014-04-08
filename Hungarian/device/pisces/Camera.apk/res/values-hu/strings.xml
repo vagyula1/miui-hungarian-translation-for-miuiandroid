@@ -21,7 +21,6 @@
     <string name="no_save">Ne mentse</string>
     <string name="review_cancel">MÉGSEM</string>
     <string name="pref_camera_recordlocation_title">Helyszín mentése</string>
-    <string name="pref_camera_recordlocation_default">hibás</string>
     <string name="pref_camera_recordlocation_entry_off">Ki</string>
     <string name="pref_camera_recordlocation_entry_on">Be</string>
     <string name="pref_camera_sound_title">Zárhang</string>
@@ -77,11 +76,9 @@
     <string name="pref_camera_picturesize_professional_entry_1600x1200">2Mp(1600x1200)</string>
     <string name="pref_camera_picturesize_professional_entry_1280x720">0.9Mp(1280x720)</string>
     <string name="pref_camera_picturesize_professional_entry_1024x768">0.8Mp(1024x768)</string>
-    <string name="pref_camera_jpegquality_default">finom</string>
     <string name="pref_camera_picture_format_title">Képformátum választás</string> 
     <string name="pref_camera_jpegquality_title">Képminőség</string>
     <string name="pref_camera_jpegquality_entry_normal">Normál</string>
-    <string name="pref_camera_histogram_default">letiltás</string>
     <string name="pref_camera_histogram_title">Histogram</string>
     <string name="pref_camera_histogram_entry_enable">Engedélyezés</string>
     <string name="pref_camera_histogram_entry_disable">Letiltás</string>
@@ -138,13 +135,10 @@
     <string name="pref_camera_scenemode_entry_sports">Sportesemény</string>
     <string name="pref_camera_scenemode_entry_backlight">Háttérvilágítás</string>
     <string name="pref_camera_scenemode_entry_flowers">Virágok</string>
-    <string name="pref_camera_scenedetect_default">ki</string>
     <string name="pref_camera_scenedetect_title">Auto jelenet felismerés</string>
     <string name="not_selectable_in_scene_mode">Nem választható jelenetmódban.</string>
     <string name="pref_exposure_title">Megvilágítás</string>
     <string name="pref_camera_denoise_title">Zajszűrő</string>
-    <string name="pref_camera_denoise_default">denoise-on</string>
-    <string name="pref_camera_iso_default">auto</string>
     <string name="pref_camera_iso_title">ISO választás</string>
     <string name="pref_camera_antibanding_title">Csíkozódás csökkentés</string>
     <string name="pref_camera_antibanding_entry_0">Ki</string>
@@ -220,7 +214,6 @@
     <string name="error_app_unsupported">Nem támogatott videófelbontás ehhez az enkódolási típushoz</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR-felvétel</string>
     <string name="pref_camera_hand_night_title">Éjszakai mód</string>
-    <string name="pref_camera_ae_bracket_hdr_default">Ki</string>
     <string name="hdr_exit_button_text">Kilépés a HDR módból</string>
     <string name="raw_data_exit_button_text">Kilépés a RAW módból</string>
     <string name="hand_night_exit_button_text">Kilépés az éjszakai módból</string>
@@ -243,7 +236,6 @@
     <string name="pref_camera_long_pressing_burst_shooting_title">Sorozatfelvétel</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_off">Ki</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_on">Be</string>
-    <string name="pref_camera_long_pressing_burst_shooting_default">be</string>
     <string name="pref_camera_current_k_value">Jelenlegi érték</string>
     <string name="error_fail_to_start_audio_capture">Hangrögzítés sikertelen: A mikrofon egy másik alkalmazás használja.</string>
     <string name="toast_start_audio_capture">Hangvezérlés bekapcsolva (cheese,capture,shoot parancsokkal vezérelheti)</string>
@@ -255,7 +247,6 @@
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">sorozatfelvétel nem készíthető, ha a hangrögzítés be van kapcsolva.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Sorozatfelvétel nem készíthető, ha az ISO nem 'auto'-ra van állítva."</string>
     <string name="time_lapse_error">Hibás felbontás a gyorsított felvételhez.</string>
-    <string name="pref_camera_movie_solid_default">be</string>
     <string name="pref_camera_movie_solid_title">Képstabilizátor</string>
     <string name="pref_camera_movie_solid_entry_off">Ki</string>
     <string name="pref_camera_movie_solid_entry_on">Be</string>
