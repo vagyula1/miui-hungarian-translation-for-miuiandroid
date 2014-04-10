@@ -268,4 +268,6 @@
     <string name="holiday_label">Ünnapnap</string>
     <string name="action_bar_today">M</string>
     <string name="pref_title_alarm_remind">Riasztás</string>
+    <string name="event_date_format">MMMM dd. EEEE</string>
+    <string name="event_full_date_format">yyyy.MM.dd.</string>
 </resources>

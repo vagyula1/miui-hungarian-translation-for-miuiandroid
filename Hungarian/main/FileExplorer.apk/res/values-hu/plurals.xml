@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Biztos, hogy törli a %1$d fájlt</item>
+        <item quantity="one">Biztos, hogy törli a fájlt</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" és a %1$d mappát?"</item>
+        <item quantity="one">" és a mappát?"</item>
+    </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d elem</item>
         <item quantity="one">1 elem</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d fájl letöltése van hátra</item>
+        <item quantity="one">1 fájl letöltése van hátra</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d feltöltése van hátra</item>
+        <item quantity="one">1 fájl feltöltése van hátra</item>
     </plurals>
 </resources>

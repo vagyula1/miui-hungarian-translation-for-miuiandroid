@@ -80,8 +80,9 @@ A felhasználói tartalom megmarad."</string>
     <string name="perm_action_prompt">Rákérdez</string>
     <string name="perm_action_reject">Megtagad</string>
     <string name="unknown_installer">Ismeretlen telepítő</string>
-	<string name="virus_scan_clear">Eltávolítás</string>
+    <string name="virus_scan_clear">Eltávolítás</string>
     <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
     <string name="virus_scan_is_risk">Ez az alkalmazás veszélyt jelent!</string>
     <string name="virus_scan_is_virus">Az alkalmazás vírust tartalmaz, azonnal távolítsa el!</string>
+    <string name="virus_scan_caller_unknown">Ismeretlen</string>
 </resources>

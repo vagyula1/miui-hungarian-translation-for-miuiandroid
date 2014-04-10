@@ -18,6 +18,7 @@
     <string name="binded_accout_description">Fiókok egyesítve, használhatja Xiaomi vagy KuaiPan fiókját a belépéshez, mindkettő adatait olvashatja</string>
     <string name="binded_accout_title">Fiókok szinkronizálva</string>
     <string name="cache_size_label">Gyorsítótár</string>
+    <string name="cancel_app_garbage_cleanup">Ne törölje</string>
     <string name="cancel_with_count_down">Nem (%d)</string>
     <string name="cancel">Nem</string>
     <string name="category_all">Mind</string>
@@ -49,8 +50,9 @@
     <string name="confirm_know">OK</string>
     <string name="confirm">Igen</string>
     <string name="copy_failed">Másolás nem sikerült</string>
+    <string name="count_down_time">%d másodperc múlva elindul</string>
     <string name="create_kuaipan_shortcut_pref">Parancsikon létrehozása az asztalon</string>
-    <string name="create_new_folder_desctiption">Úja mappa létrehozása…</string>
+    <string name="create_new_folder_desctiption">Új mappa létrehozása…</string>
     <string name="create_new_folder_failed">%1$s mappa létrehozása sikertelen</string>
     <string name="create_share_link_description">Link megosztásának létrehozása…</string>
     <string name="cution">Tippek</string>
@@ -63,8 +65,7 @@
     <string name="decompress_to_here">Kicsomagolás ide:</string>
     <string name="decompress_to">Kicsomagolás…</string>
     <string name="delete_failed">A törlés nem sikerült</string>
-    <string name="delete_files_and_folders">Törli a kiválasztott %1$d fájlt és %2$d mappát?</string>
-	<string name="delete_file">Törli ezt a fájlt?</string>
+    <string name="delete_file">Törli ezt a fájlt?</string>
     <string name="delete_files">Törli a kiválasztott %1$d fájlt?</string>
     <string name="delete_folder">Törli a mappát?</string>
     <string name="delete_folders">Törli a kiválasztott %1$d mappát?</string>
@@ -178,7 +179,7 @@
     <string name="operation_create_folder_message">Adja meg a mappa nevét</string>  
     <string name="operation_decompressing">Kicsomagolás...</string>
     <string name="operation_deleting">Törlés</string>
-    <string name="operation_delete_confirm_message_folder">A könyvtár törlése a benne lévő fájlokat is törli.</string>
+    <string name="operation_delete_confirm_message_folder">A mappa törlésével a benne lévő fájlok és törlésre kerülnek.</string>
     <string name="operation_delete_confirm_message">Törlés megerősítése</string>
     <string name="operation_delete">Törlés</string>
     <string name="operation_deleting_detail">Fájlok törlése (%1$d/%2$d)</string>
@@ -256,8 +257,7 @@
     <string name="trash_box_capacity">Kuka mérete: %1$s</string>
     <string name="trash_box_link">Látogassa meg a pan.xiaomi.com webhlyet a kuka ürítéséhez</string>
     <string name="trash_box_message1">Töröljön néhány fájlt további szabad hely felszabadítsához</string>
-    <string name="ui_bar_txt_download_progress">Letötlés...</string>
-    <string name="ui_bar_txt_upload_progress">Feltöltés...</string>
+    <string name="trash_box_message2">Törölje a kuka tartalmát további szabad hely felszabadításához.</string>
     <string name="ui_filechange_btn_download">Fájlok letöltés</string>
     <string name="ui_filechange_btn_upload">Fájlok feltöltése</string>
     <string name="ui_main_menu_option_sign_in">Bejelentkezés</string>

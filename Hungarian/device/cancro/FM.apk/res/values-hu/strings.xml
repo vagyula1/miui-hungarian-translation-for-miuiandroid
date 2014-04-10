@@ -148,4 +148,5 @@
     <string name="view_stations_list">Mentett állomások</string>
     <string name="toast_fm_error_startfailed">A rögzítés nem sikerült, lehet,hogy másik alkalmazás használja a hangrögzítést. Ellenőrizze majd próbálja újra.</string>
     <string name="toast_fm_recorder_access_error">"Nem készíthető felvétel Védelem üzemmódban"</string>
+    <string name="msg_fm_starting">Indítás...</string>
 </resources>

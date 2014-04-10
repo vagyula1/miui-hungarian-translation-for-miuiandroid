@@ -143,5 +143,5 @@
     <string name="turn_on_speaker_phone">Hangszóró bekapcsolása</string>
     <string name="type_rd" />
     <string name="view_stations_list">Mentett állomások</string>
-
+    <string name="msg_fm_starting">Indítás...</string>
 </resources>
