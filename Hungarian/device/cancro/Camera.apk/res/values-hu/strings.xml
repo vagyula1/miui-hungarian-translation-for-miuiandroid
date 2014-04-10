@@ -454,7 +454,6 @@
     <string name="pref_camera_multiple_face_beauty_title">Gyönyörű arc üzemód</string>
     <string name="pref_camera_multiple_face_beauty_entry_off">Egy arc</string>
     <string name="pref_camera_multiple_face_beauty_entry_on">Két arc</string>
-    <string name="pref_camera_multiple_face_beauty_entry_on">Két arc</string>
     <string name="measure_whitebalance_button">Mérés</string>
     <string name="measure_whitebalance_text">Helyezzen egy fehér papírt vagy egy szürke kártyát a kamera lencséje elé,majd nyomja meg a gombot</string>
     <string name="pref_camera_hdr_type_title">HDR típusa</string>
