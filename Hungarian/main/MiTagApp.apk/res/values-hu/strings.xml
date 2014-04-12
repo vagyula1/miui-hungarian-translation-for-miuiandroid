@@ -27,10 +27,10 @@
   <string name="bump_erase">"Az NFC-matrica törléséhez
 érintse össze a telefon hátuljával"</string>
   <string name="bump_start">"A kezdéshez érintse
-a telefon hátulját a matricához"</string>
+a telefon hátlapját a matricához"</string>
   <string name="bump_write">"A NFC-matrica írásához
-érintse össze a telefon hátuljával"</string>
-  <string name="bump_write_alert">A beállítás alkalmazásához érintse a telefon hátulját a matricához</string>
+érintse össze a telefon hátlapjával"</string>
+  <string name="bump_write_alert">A beállítás alkalmazásához érintse a telefon hátlapját a matricához</string>
   <string name="call_sb">%s hívása</string>
   <string name="call_to">Hívás…;</string>
   <string name="car_mode">Autó üzemmód</string>
@@ -58,8 +58,8 @@ a telefon hátulját a matricához"</string>
   <string name="diselect_all">Egyik sem</string>
   <string name="display">Kijelző</string>
   <string name="disturb_mode">Csendes üzemmód</string>
-  <string name="edit_tag">Szerkesztés</string>
-  <string name="edit_tag_content">érintse össze a telefon hátuljával</string>
+  <string name="edit_tag">Módosítás</string>
+  <string name="edit_tag_content">érintse össze a telefon hátlapjával</string>
   <string name="email_body">Üzenet</string>
   <string name="email_subject">Tárgy</string>
   <string name="email_to">Címzett</string>
@@ -115,7 +115,7 @@ a telefon hátulját a matricához"</string>
   <string name="percent">%s%%</string>
   <string name="phone">Telefon</string>
   <string name="phone_call">Hívás</string>
-  <string name="phone_to_tag">Az NFC-matrica szerkesztéséhez</string>
+  <string name="phone_to_tag">Az NFC-matrica módosításához</string>
   <string name="pick_contact">Válassza ki a névjegyet</string>
   <string name="pick_contacts">Válassza ki a névjegyeket</string>
   <string name="preference">Beállítások</string>
@@ -147,7 +147,7 @@ a telefon hátulját a matricához"</string>
   <string name="set_now">Beállítás</string>
   <string name="settings">Beállítás</string>
   <string name="share">Megosztás</string>
-  <string name="share_content">"I've *%1$s* written to a Mi NFC-matrica. A beolvasáshoz csak érintse össze a telefon hátuljával. Az alkalmazás elérhetősége: http://app.xiaomi.com/detail/56946"</string>
+  <string name="share_content">"I've *%1$s* written to a Mi NFC-matrica. A beolvasáshoz csak érintse össze a telefon hátalapjával. Az alkalmazás elérhetősége: http://app.xiaomi.com/detail/56946"</string>
   <string name="share_subject">Egy alkalmazás megosztása: %1$s</string>
   <string name="share_wifi">Wi-Fi megosztás</string>
   <string name="shortcut">Gyorsbeállítások</string>
@@ -169,14 +169,14 @@ a telefon hátulját a matricához"</string>
   <string name="torch">Lámpa</string>
   <string name="total_read_tag">Beolvasott:</string>
   <string name="total_write_tag">Írt:</string>
-  <string name="touch_and_erase_more">"Másik másolat törléséhez
-érintse össze a telefont egy másik matricával.."</string>
+  <string name="touch_and_erase_more">"Másolat törléséhez
+érintse össze a telefon hátlapját egy másik matricával.."</string>
   <string name="touch_and_write_more">"Egy újabb másolat írásához
-érintse össze a telefont egy másik matricával."</string>
+érintse össze a telefon hátlapját egy másik matricával."</string>
   <string name="unavailable_net">"A telepítés nem sikerült: nincs hálózati kapcsolat"</string>
   <string name="unavailable_storage">"A telepítés nem sikerült: Nem használható az SD kártya"</string>
   <string name="unrecognized_tag">Ismeretlen NFC-matrica tartalom</string>
-  <string name="update_config">Beállítások szerkesztése</string>
+  <string name="update_config">Beállítások módosítása</string>
   <string name="user_configs">Beállítások</string>
   <string name="vibrate_mode">Rezgés</string>
   <string name="vibrate_off">Rezgés kikapcsolása</string>
