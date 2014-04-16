@@ -206,4 +206,5 @@
     <string name="share_item_not_found">Nem alálható meogsztható fájl</string>
     <string name="send_history_deleted">A feltöltési előzmények törölve</string>
     <string name="not_support_this_type">Nem megosztható fájlítpus</string>
+    <string name="file_not_exist">A fájl nem található</string>
 </resources>

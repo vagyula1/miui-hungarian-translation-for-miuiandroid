@@ -184,4 +184,6 @@
     <string name="usage_sorted_empty_text">Üres</string>
     <string name="usage_sorted_loading_text">Betöltés…</string>
     <string name="pref_new_installed_preconfig_title">Alapértelmezett beállítások az új alkalmazásoknak</string>
+    <string name="main_alert_message_slot_no_data_connection">"A SIM kártya foglalat nem támogatja
+a mobil adatkapcsolatot"</string>
 </resources>
