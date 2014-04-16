@@ -368,7 +368,6 @@
     <string name="pref_inverted">Inverz megjelenítés</string>
     <string name="pref_key_gesture_title">Gombok és mozgás</string>
     <string name="pref_key_title">Gombok beállítása</string>
-    <string name="pref_link_prefetch_title">Honlap betöltés</string>
     <string name="pref_link_prefetch_summary">: A böngésző engedélyezi a weboldal hivatkozások betöltését</string>
     <string name="pref_link_prefetch_title">Honlap betöltés</string>
     <string name="pref_link_prefetch_value_never_summary">Soha ne töltse be a weboldal hivatkozásokat a háttérben</string>
