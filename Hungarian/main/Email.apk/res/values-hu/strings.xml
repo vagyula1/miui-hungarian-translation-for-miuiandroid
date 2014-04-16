@@ -21,7 +21,6 @@
     <string name="account_folder_list_summary_outbox">Kimenő levelek</string>
     <string name="account_folder_list_summary_starred">Csillaggal megjelölt</string>
     <string name="account_password_spaces_error">Ez a jelszó egy vagy több szóközzel kezdődik, vagy végződik. Sok szerver nem támogatja a szóközöket a jelszavakban.</string>
-    <string name="account_password_spaces_error">"This password starts or ends with one or more space characters. Many servers don't support passwords with spaces."</string>
     <string name="account_security_dialog_content_fmt">%s a biztonsági beállítások frissítését igényli.</string>
     <string name="account_security_dialog_title">Biztonsági frissítés</string>
     <string name="account_security_policy_explanation_fmt">A(z) %s szerver engedélyt kér arra, hogy távolról vezérelhesse az Android-eszköz egyes biztonsági funkcióit.</string>
@@ -95,7 +94,7 @@
     <string name="account_setup_failed_dlg_auth_message">Helytelen felhasználónév vagy jelszó.</string>
     <string name="account_setup_failed_dlg_certificate_message">Nem lehet biztonságos kapcsolatot létesíteni a szerverrel.</string>
     <string name="account_setup_failed_dlg_edit_details_action">Részletek szerkesztése</string>
-    <string name="account_setup_failed_dlg_server_message">"Nem sikerült csatlakozni a szerverhez."</string>
+        <string name="account_setup_failed_dlg_server_message">Nem lehet kapcsolatot létesíteni a szerverrel.</string>
     <string name="account_setup_failed_dlg_title">Nem sikerült befejezni</string>
     <string name="account_setup_failed_ioerror">Nem sikerült megnyitni a kapcsolatot a szerverrel.</string>
     <string name="account_setup_failed_protocol_unsupported">Nem megfelelő szervercímet adott meg, vagy a szerver olyan protokollverziót követel, amelyet az e-mail nem támogat.</string>
@@ -386,13 +385,6 @@
     <string name="mailbox_name_display_trash">Kuka</string>
     <string name="mailbox_name_display_unread">Olvasatlan</string>
     <string name="mailbox_name_server_all_unread">Olvasatlan</string>
-    <string name="mailbox_name_server_drafts">Piszkozatok</string>
-    <string name="mailbox_name_server_inbox">Beérkező</string>
-    <string name="mailbox_name_server_junk">Spam</string>
-    <string name="mailbox_name_server_outbox">Kimenő levelek</string>
-    <string name="mailbox_name_server_sent">Elküldött</string>
-    <string name="mailbox_name_server_starred">Csillaggal megjelölt</string>
-    <string name="mailbox_name_server_trash">Kuka</string>
     <string name="mailbox_settings_activity_title">Szinkronizálási beállítások</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Szinkronizálási beállítások (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Ennyi nap leveleinek szinkronizálása</string>
@@ -703,7 +695,6 @@ Másolatot kap: %4$s
 (%s)"</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Nem lehet biztonságos kapcsolatot létesíteni a szerverrel.
 (%s)"</string>
-    <string name="account_setup_failed_dlg_server_message">Nem lehet kapcsolatot létesíteni a szerverrel.</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Nem lehet kapcsolódni a szerverhez.
 (%s)"</string>
 
