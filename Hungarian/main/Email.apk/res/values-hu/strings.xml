@@ -384,7 +384,6 @@
     <string name="mailbox_name_display_starred">Csillagozott</string>
     <string name="mailbox_name_display_trash">Kuka</string>
     <string name="mailbox_name_display_unread">Olvasatlan</string>
-    <string name="mailbox_name_server_all_unread">Olvasatlan</string>
     <string name="mailbox_settings_activity_title">Szinkronizálási beállítások</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Szinkronizálási beállítások (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Ennyi nap leveleinek szinkronizálása</string>
