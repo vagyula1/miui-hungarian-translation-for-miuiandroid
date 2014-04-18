@@ -107,7 +107,7 @@
     <string name="pref_camera_coloreffect_entry_mono">Szürkeárnyalat</string>
     <string name="pref_camera_coloreffect_entry_vivid">Élénk</string>
     <string name="pref_camera_coloreffect_entry_yesteryear">Szilveszter</string>
-    <string name="pref_camera_coloreffect_entry_brannan">Hjnal</string>
+    <string name="pref_camera_coloreffect_entry_brannan">Hajnal</string>
     <string name="pref_camera_coloreffect_entry_sketch">Vázlat</string>
     <string name="pref_camera_coloreffect_entry_seventy">1970</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Halszem</string>

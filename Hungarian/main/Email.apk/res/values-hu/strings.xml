@@ -264,7 +264,7 @@
     <string name="contextmenu_send_mail">E-mail küldése</string>
     <string name="contextmenu_sharelink">Link megosztása</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="conversation_content_provider">Beszélhgetés szolgáltató</string>
+    <string name="conversation_content_provider">Beszélgetés tartalomszolgáltató</string>
     <string name="conversation_folder_moved">Áthelyezve ide: %1$s</string>
     <string name="conversation_photo_welcome_text">A beszélgetés kiválasztásához érintse meg a küldő képét.</string>
     <string name="copy_email">E-mail cím másolása</string>
@@ -539,7 +539,6 @@
     <string name="preferences_signature_title">Aláírás</string>
     <string name="preview_attachment">Előnézet</string>
     <string name="previous_action">Előző</string>
-
     <string name="protocol">Protokoll</string>
     <string name="provider_note_live">Csak bizonyos \"Plus\" típusú fiókok rendelkeznek olyan POP-hozzáféréssel, amely lehetővé teszi a program számára a kapcsolódást. Ha nem tud bejelentkezni a megfelelő e-mail címmel és jelszóval, valószínűleg nem fizetett elő \"Plus\" típusú fiókra. Az ilyen e-mail fiókok eléréséhez indítsa el a böngészőt.</string>
     <string name="provider_note_t_online">Kérjük, az e-mail fiók beállítása előtt keresse fel a T-Online webhelyét, és hozzon létre jelszót a POP3-alapú e-mail hozzáféréshez.</string>
@@ -689,12 +688,10 @@ Címzett: %3$s
 Másolatot kap: %4$s
 
 "</string>
-
     <string name="account_setup_failed_dlg_auth_message_fmt">"Sikertelen bejelentkezés
 (%s)"</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Nem lehet biztonságos kapcsolatot létesíteni a szerverrel.
 (%s)"</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Nem lehet kapcsolódni a szerverhez.
 (%s)"</string>
-
 </resources>
