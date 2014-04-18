@@ -13,7 +13,6 @@
     <string name="abc_searchview_description_voice">Hangalapú keresés</string>
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következővel: %s</string>
-    <string name="account_cache_provider">Fiók Cache Provider</string>
     <string name="account_duplicate_dlg_message_fmt">Már használja ezt a felhasználónevet a(z) \"%s\" fiókhoz.</string>
     <string name="account_duplicate_dlg_title">Már létező fiók</string>
     <string name="account_folder_list_summary_drafts">Piszkozatok</string>
@@ -94,7 +93,7 @@
     <string name="account_setup_failed_dlg_auth_message">Helytelen felhasználónév vagy jelszó.</string>
     <string name="account_setup_failed_dlg_certificate_message">Nem lehet biztonságos kapcsolatot létesíteni a szerverrel.</string>
     <string name="account_setup_failed_dlg_edit_details_action">Részletek szerkesztése</string>
-        <string name="account_setup_failed_dlg_server_message">Nem lehet kapcsolatot létesíteni a szerverrel.</string>
+    <string name="account_setup_failed_dlg_server_message">Nem lehet kapcsolatot létesíteni a szerverrel.</string>
     <string name="account_setup_failed_dlg_title">Nem sikerült befejezni</string>
     <string name="account_setup_failed_ioerror">Nem sikerült megnyitni a kapcsolatot a szerverrel.</string>
     <string name="account_setup_failed_protocol_unsupported">Nem megfelelő szervercímet adott meg, vagy a szerver olyan protokollverziót követel, amelyet az e-mail nem támogat.</string>
@@ -237,7 +236,6 @@
     <string name="clear_display_images_whitelist_title">Képengedélyek törlése</string>
     <string name="collapse_recipient_details">Címzett adatainak elrejtése</string>
     <string name="compose">Levélírás</string>
-    <string name="compose_help_context">írás</string>
     <string name="confirm">megerősít</string>
     <string name="confirm_discard_text">Elveti ezt az üzenetet?</string>
     <string name="confirm_response">Válasz küldése...</string>
@@ -264,7 +262,6 @@
     <string name="contextmenu_send_mail">E-mail küldése</string>
     <string name="contextmenu_sharelink">Link megosztása</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="conversation_content_provider">Beszélgetés tartalomszolgáltató</string>
     <string name="conversation_folder_moved">Áthelyezve ide: %1$s</string>
     <string name="conversation_photo_welcome_text">A beszélgetés kiválasztásához érintse meg a küldő képét.</string>
     <string name="copy_email">E-mail cím másolása</string>
@@ -339,7 +336,6 @@
     <string name="forward_attribution_no_headers">---------- Továbbított levél ----------</string>
     <string name="forward_download_failed_ticker">Egy vagy több melléklet nem továbbítható.</string>
     <string name="forward_download_failed_title">A melléklet nincs továbbítva</string>
-    <string name="forward_subject_label">Továbbítás:</string>
     <string name="from">Feladó</string>
     <string name="from_heading">"Feladó: "</string>
     <string name="general_preference_confirm_delete_label">Megerősítés kérése törlés előtt</string>
@@ -440,7 +436,6 @@
     <string name="message_invite_title">Meghívó</string>
     <string name="message_saved">Az üzenet mentve piszkozatként.</string>
     <string name="message_view_attachment_background_load">Küldés előtt továbbított üzenete egy vagy több melléklete letöltődik.</string>
-    <string name="mock_content_provider">Mock Content Provider</string>
     <string name="more_atts_total">%1$d attachments in total</string>
     <string name="more_info_attachment">Információ</string>
     <string name="more_string">+%1$s</string>
@@ -565,14 +560,9 @@
     <string name="reply">Válasz</string>
     <string name="reply_all">Válasz mind.</string>
     <string name="reply_attribution" formatted="false">%s ezt írta (%s):</string>
-    <string name="reply_subject_label">Válasz:</string>
     <string name="replyto_heading">"Válaszcím: "</string>
     <string name="report">Visszajelzés</string>
     <string name="report_phishing">Adathalászat bejelentése</string>
-    <string name="report_rendering_improvement">Jól néz ki</string>
-    <string name="report_rendering_improvement_desc">Ez az üzenet jól néz ki.</string>
-    <string name="report_rendering_problem">Rosszul néz ki</string>
-    <string name="report_rendering_problem_desc">Ez az üzenet rosszul fest.</string>
     <string name="report_spam">Jelentés spamként</string>
     <string name="require_manual_sync_message">A fiók háttérben zajló szinkronizálása le van tiltva barangolás közben.</string>
     <string name="respond_inline">Válasz a soron belül</string>
@@ -662,7 +652,6 @@
     <string name="wait_for_sync_body">Az e-mail hamarosan megjelenik.</string>
     <string name="wait_for_sync_body_2">Exchange Server will prompt you within 1-30 seconds.Please confirm the security setting and activate.Pay attention to system alert.</string>
     <string name="wait_for_sync_title">Várakozás a szinkronizálásra</string>
-    <string name="wait_help_context">várakozás</string>
     <string name="widget_all_mail">Összes email</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Egyéb</string>
@@ -678,7 +667,6 @@
 %2$s"</string>
     <string name="auto_advance_help_title">"Automatikus léptetés beállítása
 (törlés, archiválás stb. után)"</string>
-
     <string name="message_compose_fwd_header_fmt">"
 
 -------- Eredeti üzenet --------
