@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Dokumentumok</string>
+    <string name="title_open">Megnyitás innen</string>
+    <string name="title_save">Mentés ide</string>
+    <string name="menu_create_dir">Mappa létrehozása</string>
+    <string name="menu_grid">Rács</string>
+    <string name="menu_list">Lista</string>
+    <string name="menu_sort">Rendezés</string>
+    <string name="menu_search">Keresés</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="menu_open">Megnyitás</string>
+    <string name="menu_save">Mentés</string>
+    <string name="menu_share">Megosztás</string>
+    <string name="menu_delete">Törlés</string>
+    <string name="mode_selected_count">%1$d kiválasztva</string>
+    <string name="sort_name">Név szerint</string>
+    <string name="sort_date">Módosítás dátuma szerint</string>
+    <string name="sort_size">Méret szerint</string>
+    <string name="drawer_open">Gyökérszint megjelenítése</string>
+    <string name="drawer_close">Gyökérszint elrejtése</string>
+    <string name="save_error">Nem sikerült menteni a dokumentumot</string>
+    <string name="create_error">Nem sikerült létrehozni a mappát</string>
+    <string name="query_error">A dokumentumok lekérése nem sikerült</string>
+    <string name="root_recent">Legutóbbiak</string>
+    <string name="root_available_bytes">%1$s szabad</string>
+    <string name="root_type_service">Tárhelyszolgáltatások</string>
+    <string name="root_type_shortcut">Parancsikonok</string>
+    <string name="root_type_device">Eszközök</string>
+    <string name="root_type_apps">További alkalmazások</string>
+    <string name="pref_advanced_devices">Speciális eszközök megjelenítése</string>
+    <string name="pref_file_size">Fájlméret megjelenítése</string>
+    <string name="pref_device_size">Eszközméret megjelenítése</string>
+    <string name="empty">Nincsenek elemek</string>
+    <string name="toast_no_application">A fájlt nem lehet megnyitni</string>
+    <string name="toast_failed_delete">Néhány dokumentumot nem lehet törölni</string>
+    <string name="share_via">Megosztás itt:</string>
+</resources>

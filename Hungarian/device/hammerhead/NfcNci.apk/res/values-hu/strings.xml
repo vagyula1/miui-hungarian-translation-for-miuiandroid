@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC-szolgáltatás</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="inbound_me_profile_title">NFC-n kapott névjegy</string>
+    <string name="inbound_me_profile_text">Érintse meg, ha hozzá szeretné adni ezt a személyt ismerősként.</string>
+    <string name="outbound_me_profile_title">Az NFC-kapcsolat befejeződött</string>
+    <string name="outbound_me_profile_text">Érintse meg kapcsolatfelvételi adatok megosztásához.</string>
+    <string name="accessibility_nfc_enabled">NFC bekapcsolva</string>
+    <string name="touch">Érintse meg a sugárzáshoz</string>
+    <string name="beam_progress">Bejövő sugár...</string>
+    <string name="beam_outgoing">Sugárzás...</string>
+    <string name="beam_complete">Átvitel befejezve.</string>
+    <string name="beam_failed">A sugárzás nem fejeződött be</string>
+    <string name="beam_canceled">Sugárzás megszakítva</string>
+    <string name="cancel">Mégse</string>
+    <string name="beam_touch_to_view">A megtekintéshez érintse meg.</string>
+    <string name="beam_handover_not_supported">A fogadó eszköz nem támogatja a nagyméretű fájlok átvitelét adatsugárzás útján.</string>
+    <string name="beam_try_again">Eszközök újbóli összekapcsolása</string>
+    <string name="connecting_headset">Csatlakozás</string>
+    <string name="connected_headset">Csatlakozva</string>
+    <string name="connect_headset_failed">A kapcsolódás sikertelen</string>
+    <string name="disconnecting_headset">Szétkapcsolás</string>
+    <string name="disconnected_headset">Szétkapcsolva</string>
+    <string name="pairing_headset">Párosítás</string>
+    <string name="pairing_headset_failed">Nem sikerült a párosítás</string>
+    <string name="failed_to_enable_bt">Nem lehet aktiválni a Bluetootht</string>
+    <string name="confirm_pairing">Biztosan párosítani szeretné a(z) %1$s Bluetooth-eszközt?</string>
+    <string name="pair_yes">Igen</string>
+    <string name="pair_no">Nem</string>
+    <string name="tap_again_to_pay">Koppintson ismét a(z) %1$s alkalmazással való fizetéshez</string>
+    <string name="tap_again_to_complete">Koppintson ismét, hogy a(z) %1$s alkalmazással fejezze be a műveletet</string>
+    <string name="transaction_failure">A tranzakciót nem lehetett végrehajtani a(z) %1$s alkalmazással.</string>
+    <string name="could_not_use_app">Nem lehetett használni a(z) %1$s alkalmazást.</string>
+    <string name="pay_with">Fizetőeszköz</string>
+    <string name="complete_with">Befejezés a következővel:</string>
+    <string name="default_pay_app_removed">Az érintéssel való fizetésnél előnyben részesített szolgáltatást eltávolították. Választ egy másikat?</string>
+</resources>

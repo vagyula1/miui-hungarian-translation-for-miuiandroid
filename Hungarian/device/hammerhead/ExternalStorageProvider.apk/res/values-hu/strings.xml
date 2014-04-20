@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Külső tároló</string>
+    <string name="root_internal_storage">Belső tároló</string>
+    <string name="root_documents">Dokumentumok</string>
+</resources>
