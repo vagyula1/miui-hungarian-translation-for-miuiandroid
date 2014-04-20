@@ -1,74 +1,19 @@
-*********************************************
-MIUI-v5-Hungarian-Translation-for-miuiandroid
-*********************************************
-    
-    aries (Xiaomi MI-TWO)   
+*********************************************************************************
+                 MIUI-v5-Hungarian-Translation-for-miuiandroid
+*********************************************************************************
 
-    crespo (Nexus S) 
+MIUIV5 Android Hungarian Translation Started Febr. 2013 by vagyula.
 
-    grouper (Nexus 7)
+MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
-    GT-I9100 (Samsung Galaxy S2)
+HUNGARIAN strings by vagyula is under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
-    jordan (Motorola Defy)
+Based on a work at http://miui.com and http://miuiandroid.com
 
-    LT18i (Sony Xperia Arc S)
+MIUI Android Multilang Translation Guide http://miui.connortumbleson.com/dev_guide
 
-    maguro (Galaxy Nexus - GSM)
+MIUI Translation: vagyula1@gmail.com
 
-    mione_plus (Xiaomi MI-ONE Plus)
+http://miuiandroid.hu
 
-    pyramid (HTC Sensation)
-
-    ville (HTC One S)
-
-    vision (HTC Desire Z)
-
-*********************************************
-    ? ? ?  c o m i n g   s o o n ? ? ?
-*********************************************
-
-    m0 (Galaxy S3 - GT-I9300)
-
-    GT-I9000 (Samsung Galaxy S)
-
-    GT-N7000 (Samsung Galaxy Note)
-
-    GT-N7100 (Samsung Galaxy Note II)
-    
-    ace (HTC Desire HD)
-
-    anzu (Sony Xperia Arc S)
-
-    glacier (myTouch 4G)
-
-    hwu8860 (Huawei U8800 / Honor)
-
-    hwu9200 (Huawei Ascend P1)
-
-    endeavoru (HTC One X)
-
-    mx (Meizu MX)
-
-    umts_spyder (Motorola RAZR)
-
-    LT26i (Sony Xperia S)
-
-    saga (HTC Desire S)
-
-    vivo (HTC Incredible S)
-
-    shooteru (HTC Evo 3D - GSM)
-
-    passion (HTC Touch HD2)
-
-    ventana (ZTE Grand-X)
-
-    hwu9500 (Ascend D1) 
-
-    i_u (LG Optimus LTE - LU6200)
-
-    edison (Motorola ME865)
-
-    t03g (Galaxy Note 2)
-    hwu9508 (Huawei Honor 2)
+***********************************************************************************
