@@ -35,7 +35,7 @@
   <string name="comment_upload_success">Hozzászólás elküldve!</string>
   <string name="confirm_download_cancelation_dialog_message">Biztos meg akarja szakítani letöltést?</string>
   <string name="copy_install_log">Vágólapra másol</string>
-  <string name="current_version_text">A legfrissebb verzió </string>
+  <string name="current_version_text">"A legfrissebb verzió "</string>
   <string name="current_version_update_monthly_build">Jelenlegi változat (Frissítés Havonta)</string>
   <string name="daily_build">Napi kiadás</string>
   <string name="dialog_no">Nem</string>

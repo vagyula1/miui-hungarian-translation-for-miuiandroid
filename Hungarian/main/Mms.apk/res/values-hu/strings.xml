@@ -411,7 +411,7 @@
     <string name="private_protect">Privát üzenet beállítás</string>
     <string name="private_new_notification">Új privát üzenet értesítés</string>
     <string name="enable_password_protect">Jelszavas védelem</string>
-    <string name="enable_visible_pattern_title">Látható minta készítésee</string>
+    <string name="enable_visible_pattern_title">Látható minta készítése</string>
     <string name="importing_progress_private_message">Üzenetek importálása a privát üzenetekhez</string>
     <string name="exporting_progress_private_message">Üzenetek exporálása a privát üzenetekból</string>
     <string name="confirm_export_dialog_title">Privát névjegy eltávolítása</string>

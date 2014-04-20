@@ -15,6 +15,7 @@
     <string name="action_open_flashlight">Lámpa</string>
     <string name="action_open_other_app">Alkalmazás</string>
     <string name="action_open_camera">Kamera</string>
+    <string name="action_open_camera2">Fényképezés</string>
     <string name="action_screen_shot">Képernyőkép</string>
     <string name="action_clear_sms_inbox">SMS törlés</string>
     <string name="action_clear_call_list">Hívásnapló törlés</string>
@@ -28,6 +29,8 @@
     <string name="action_share_to_moment">Megosztás</string>
     <string name="action_share_to_weibo">Megosztás Weibo-n</string>
     <string name="action_send_text_message">Üzenetküldés</string>
+    <string name="action_share_to_miliao">MiTalk</string>
+    <string name="action_share_to_miliao_wall">MiTalk</string>
     <string name="action_phone">Hívás</string>
     <string name="category_app">Alkalmazás</string>
     <string name="category_system_settings">Rendszer</string>
@@ -70,6 +73,13 @@
     <string name="cn_1000">1000</string>
     <string name="cn_10000">10000</string>
     <string name="cn_100000000">100000000</string>
+    <string name="default_action_title">Alapértelmezett művelet</string>
+    <string name="action_home">KEZDŐKÉPERNYŐ</string>
+    <string name="message_photo_end">Fénykép mentése</string>
+    <string name="select_camera">Kamera kiválasztása</string>
+    <string name="front_camera">Előlapi</string>
+    <string name="back_camera">Hátlapi</string>
+    <string name="write_pic_fail">A fénykép mentése nem sikerült!</string>
     <string name="splash_tip">Csatlakoztassa a MiKey-t</string>
     <string name="task_title_prefix">"Művelet N: "</string>
 </resources>

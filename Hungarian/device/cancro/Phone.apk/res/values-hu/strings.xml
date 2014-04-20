@@ -15,7 +15,6 @@
   <string name="administrative_disable">Közigazgatás letiltva</string>
   <string name="administrative_enable">Közigazgatás engedélyezve</string>
   <string name="advanced_settings">Opcionális beállítások</string>
-  <string name="advanced_settings_container">További beállítások</string>
   <string name="advanced_settings_hide">Érintse meg az összes elrejtéséhez</string>
   <string name="advanced_settings_show">Érintse meg az összes megjelenítéséhez</string>
   <string name="advertisements_disable">Hirdetések letiltva</string>
@@ -40,10 +39,10 @@
   <string name="answer_widget_sliding_horizontal_miui">Vízszintes csúsztatás</string>
   <string name="answer_widget_sliding_vertical_miui">Függőleges csúsztatás</string>
   <string name="answer_widget_title_miui">Hívásfogadás módja</string>
-    <string name="antispam_marked_count">Reported by %1$d MIUI users</string>
+  <string name="antispam_marked_count">Reported by %1$d MIUI users</string>
   <string name="antispam_notification_title">Ismeretlen számok azonosítása</string>
   <string name="apn_settings">Hozzáférési pontok nevei</string>
-    <string name="areacode_required_accept_miui">OK</string>
+  <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Segélyhívó szám</string>
   <string name="areacode_required_miui">Inteligens IP engedélyezve, kérem írja be a körzet számot</string>
   <string name="atr_disable">A jelentések a környék forgalmáról le vannak tiltva</string>
@@ -52,7 +51,6 @@
   <string name="audio_mode_earpiece">Fülhallgatós headset</string>
   <string name="audio_mode_speaker">Hangszoró</string>
   <string name="audio_mode_wired_headset">Vezetékes headset</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Azonosításhoz használt felhasználónév</string>
   <string name="auth_username_title">Azonosításhoz használt felhasználónév</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -371,10 +369,8 @@
   <string name="disable_pin_ok">SIM-kártya PIN-kódja kikapcsolva</string>
   <string name="disable_sim_pin">SIM-kártya PIN-kódjának kikapcsolása</string>
   <string name="disable_sim_pin_miui">SIM-kártya PIN-kódjának kikapcsolása</string>
-  <string name="display_name">Név</string>
   <string name="display_name_summary">&lt;Ugyanaz, mint a felhasználónév&gt;</string>
   <string name="display_name_title">Megjelenített név</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Szerver</string>
   <string name="doneButton">Kész</string>
   <string name="dtmf_tone_enable_title">Billentyűzet érintés hangja</string>
@@ -744,7 +740,6 @@
   <string name="ota_unsuccessful">"Nem aktiválta a telefont. Lehet, hogy keresnie kell egy jobb lefedettségű területet (egy ablak közelében vagy a szabadban). Próbálkozzon újra vagy hívja az ügyfélszolgálatot a további lehetőségekért."</string>
   <string name="other_settings">Egyéb</string>
   <string name="other_settings_miui">Egyéb</string>
-  <string name="password">Jelszó</string>
   <string name="password_title">Jelszó</string>
   <string name="pause_prompt_no">Nem</string>
   <string name="pause_prompt_str">"Hangjelzések küldése"</string>
@@ -781,7 +776,6 @@
   <string name="place_a_call1">Előfizetés 1</string>
   <string name="place_a_call2">Előfizetés 2</string>
   <string name="place_a_call3">Előfizetés 3</string>
-  <string name="port">Port</string>
   <string name="port_title">Port száma</string>
   <string name="pref_custom_location_summary_miui">Régió és szám tesztreszabása</string>
   <string name="pref_custom_location_title_miui">Tulajdonság testreszabása</string>
@@ -831,7 +825,6 @@
   <string name="progress_dialog_exiting_ecm">Segélykérő visszahívása mód kikapcsolása</string>
     <string name="prompt">Prompt</string>
     <string name="prompt_user">Prompt User</string>
-  <string name="proxy_address">Proxy cím</string>
   <string name="proxy_address_title">Kimenő proxy címe</string>
   <string name="pstn_phone">Mobiltelefonos hívás</string>
   <string name="puk_lock_warning_miui">"Kérem vegye figyelembe, ha mégegyszer elrontja, a SIM kártya mehet a kukába!"</string>
@@ -928,7 +921,6 @@
     <string name="select_network_automatic_hint_miui">"Can't register to the network you selected,select preferred network automatically"</string>
   <string name="selectContact">Névjegy kiválasztása</string>
   <string name="send_button">Küldés</string>
-    <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Kapcsolat megtartása</string>
   <string name="sendSms">Üzenet küldése</string>
   <string name="separate_from_conference_miui">Egyéni hívások</string>
@@ -962,10 +954,7 @@
   <string name="sip_accounts">Internetes hívás (SIP) fiókok</string>
   <string name="sip_accounts_title">Fiókok</string>
   <string name="sip_add_account_tip_text">Please add a SIP account to use Internet calling</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Mindig küld</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Minden hívásnál, amikor nincs elérhető adathálózat</string>
   <string name="sip_call_options_entry_2">Csak internetes hívásoknál</string>
   <string name="sip_call_options_entry_3">Mindig rákérdez</string>
@@ -1061,7 +1050,6 @@
   <string name="throttle_time_frame">Adathasználat időtartama</string>
   <string name="throttle_time_frame_subtext">"A ciklus %1$d٪ -a letelt A következő időszak %2$d nap múlva kezdődik (%3$s)"</string>
   <string name="title_data_settings">Adat beállítások</string>
-  <string name="transport">Protokol</string>
   <string name="transport_title">Átvitel típusa</string>
   <string name="turn_off_auto_select_confirm_message_miui">A hálózat nem elérhető,kikapcsolja ezt az opciót?</string>
   <string name="turn_off_auto_select_title_miui">Hálózat automata kiválasztás kikapcsolás</string>
@@ -1091,7 +1079,6 @@
     <string name="use_ims_default">UseImsDefault</string>
     <string name="use_ims_default_summary">Use IMS for all voice calls</string>
     <string name="use_ims_default_title">Use IMS Always</string>
-  <string name="username">Felhasználónév</string>
   <string name="username_title">Felhasználónév</string>
   <string name="ussdRunning">USSD-kód futtatása...</string>
   <string name="vibrate_on_ring_title">Rezgés csengetéskor</string>

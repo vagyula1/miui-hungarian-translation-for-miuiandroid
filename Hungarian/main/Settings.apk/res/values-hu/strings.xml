@@ -113,7 +113,7 @@
     <string name="power_chooser_sleep_summary">Minden funkció letiltása (telefon, üzenetek, Internet) az ébresztőórán kívül</string>
     <string name="power_chooser_mine_title">Egyéni</string>
     <string name="power_chooser_mine_summary">Gyári rendszerbeállítások mentése</string>
-    <string name="power_chooser_user_define_title">Egyéni profil létrehozása</string>
+    <string name="power_chooser_user_define_title">Új profil</string>
     <string name="power_chooser_user_define_summary">Egyéni beállítások alkalmazása</string>
     <string name="power_customizer_smart_mode">Alapértelmezett</string>
     <string name="power_customizer_standby_mode">Maraton</string>
@@ -2661,7 +2661,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="development_enable">Fejlesztői beállítások</string>
     <string name="device_name">Eszköz neve</string>
     <string name="device_edit_title">Név megváltoztatása</string>
-    <string name="device_name_usage_point">Ez a név fog megjelenni Bluetooth kapcsolat létesítésekor</string>
+    <string name="device_name_usage_point">Ez a név fog megjelenni kapcsolat létesítekor</string>
     <string name="drive_mode">Autó üzemmód</string>
     <string name="enable_drive_mode">Vezetés üzemmód engedélyezés</string>
     <string name="drive_mode_title">Autó üzemód beállításai</string>

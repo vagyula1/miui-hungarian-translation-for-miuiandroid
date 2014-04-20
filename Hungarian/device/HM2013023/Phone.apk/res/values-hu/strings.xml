@@ -14,7 +14,6 @@
     <string name="addSimEntries">SIM névjegy hozzáadás</string>
     <string name="administrative_disable">Közigazgatás letiltva</string>
     <string name="administrative_enable">Közigazgatás engedélyezve</string>
-    <string name="advanced_settings_container">További beállítások</string>
     <string name="advanced_settings_hide">▽ Érintse meg az összes elrejtéséhez</string>
     <string name="advanced_settings_show">▷ Érintse meg az összes megjelenítéséhez</string>
     <string name="advanced_settings">További beállítások</string>
@@ -55,7 +54,6 @@
     <string name="audio_mode_wired_headset">Vezetékes headset</string>
     <string name="auth_username_summary">Azonosításhoz használt felhasználónév</string>
     <string name="auth_username_title">Azonosításhoz használt felhasználónév</string>
-    <string name="auth_username">AuthUserName</string>
     <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
     <string name="auto_answer_delay_entries_delay_3s_miui">3s</string>
     <string name="auto_answer_delay_entries_delay_5s_miui">5s</string>
@@ -336,9 +334,7 @@
     <string name="disable">Letiltás</string>
     <string name="display_name_summary">&lt;Ugyanaz, mint a felhasználónév></string>
     <string name="display_name_title">Megjelenített név</string>
-    <string name="display_name">Név</string>
     <string name="domain_address_title">Szerver</string>
-    <string name="domain_address">SipDomain</string>
     <string name="doneButton">Kész</string>
     <string name="dtmf_tone_enable_title">Billentyűzet érintés hangja</string>
     <string name="dtmf_tone_entries_long_miui">Hosszú</string>
@@ -676,7 +672,6 @@
     <string name="other_settings_miui">Egyéb</string>
     <string name="other_settings">Egyéb</string>
     <string name="password_title">Jelszó</string>
-    <string name="password">Jelszó</string>
     <string name="pause_prompt_no">Nem</string>
     <string name="pause_prompt_str">Hangjelzések küldése</string>
     <string name="pause_prompt_yes">Igen</string>
@@ -708,7 +703,6 @@
     <string name="pin2_locked_message_miui">Rontott PIN2, a PIN2 használata zárolva. Kérem írja be a PUK2-kódot.</string>
     <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
     <string name="port_title">Port száma</string>
-    <string name="port">Port</string>
     <string name="pref_custom_location_summary_miui">Régió és szám tesztreszabása</string>
     <string name="pref_custom_location_title_miui">Tulajdonság testreszabása</string>
     <string name="prefer_2g_summary">Akkumulátor kímélés</string>
@@ -742,7 +736,6 @@
     <string name="private_num">Magántelefonszám</string>
     <string name="progress_dialog_exiting_ecm">Segélykérő visszahívása mód kikapcsolása</string>
     <string name="proxy_address_title">Kimenő proxy címe</string>
-    <string name="proxy_address">Proxy cím</string>
     <string name="pstn_phone">Mobiltelefonos hívás</string>
     <string name="puk_lock_warning_miui">Kérem vegye figyelembe, ha mégegyszer elrontja, a SIM kártya mehet a kukába!</string>
     <string name="puk_requested">Hibás jelszó, SIM zárolva! PUK2 szükséges.</string>
@@ -861,10 +854,7 @@
     <string name="sip_accounts_title">Fiókok</string>
     <string name="sip_accounts">Internetes hívás (SIP) fiókok</string>
     <string name="sip_add_account_tip_text">Please add a SIP account to use Internet calling</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
     <string name="sip_always_send_keepalive">Mindig küld</string>
-    <string name="sip_always">SIP_ALWAYS</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="sip_call_options_entry_1">Minden hívásnál, amikor nincs elérhető adathálózat</string>
     <string name="sip_call_options_entry_2">Csak internetes hívásoknál</string>
     <string name="sip_call_options_entry_3">Mindig rákérdez</string>
@@ -948,7 +938,6 @@
     <string name="throttle_time_frame">Adathasználat időtartama</string>
     <string name="title_data_settings">Adat beállítások</string>
     <string name="transport_title">Átvitel típusa</string>
-    <string name="transport">Protokol</string>
     <string name="tty_mode_entries_full_miui">TTY Full</string>
     <string name="tty_mode_entries_hco_miui">TTY HCO</string>
     <string name="tty_mode_entries_off_miui">TTY Off</string>
@@ -975,7 +964,6 @@
     <string name="updating_title">Hívás beállítások</string>
     <string name="uppertitle_tip">Hívás folyamatban</string>
     <string name="username_title">Felhasználónév</string>
-    <string name="username">Felhasználónév</string>
     <string name="ussdRunning">USSD-kód futtatása...</string>
     <string name="verifyFailed">A SIM PIN kódok nem egyeznek. Próbálja újra.</string>
     <string name="verifyNewPin">Írja be újra az új SIM PIN kódot</string>

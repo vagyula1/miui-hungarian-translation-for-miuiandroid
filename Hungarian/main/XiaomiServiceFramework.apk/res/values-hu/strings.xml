@@ -4,17 +4,18 @@
     <string name="access_denied">Hozzáférés megtagadva</string>
     <string name="access_token_expired_warning">Weibo account has expired, please rebind</string>
     <string name="access_token_invalid_warning">Weibo account is invalid, please rebind</string>
-    <string name="account_dspt">A Xiaomi fiók segítségével szinkronizálja üzeneteit,névjegyeit,fényképeit,jegyzeteit és egyéb adatait.</string>
+    <string name="account_dspt">"A bejelenzkezés után szinkronizálhatja
+névjegyzékét, üzeneteit,  fényképeit, jegyzeteit."</string>
     <string name="account_hint_text">Email/Telefonszám</string>
     <string name="account_name">Fiók: %1$s</string>
     <string name="account">Fiók</string>
     <string name="activate_phone_failed_notif_title_msim">%s SIM-ről a MiCloud indítása sikertelen</string>
     <string name="activate_phone_failed_notif_title">A MiCloud szolgáltatás engedélyezése nem sikerült</string>
-    <string name="activate_phone_send_sms_fail">Az aktiváló SMS elküldése nem sikerült, a szinkronizálás nem nyitható meg</string>
+    <string name="activate_phone_send_sms_fail">Az aktiváló SMS elküldése nem sikerült, a szinkronizálás nem folytatható</string>
     <string name="activate_phone_send_sms_failed_notif">Az aktiváló SMS elküldése nem sikerült</string>
     <string name="activate_phone_server_error_notif">Szerverhiba</string>
     <string name="activate_status_desc_acquire_phone_number_server_error_wait">Szerverhiba a telefonszám azonosítása közben, Újra próbálkozás...</string>
-    <string name="activate_phone_server_error">Szerverhiba，a szinkronizálás nem nyitható meg</string>
+    <string name="activate_phone_server_error">Szerverhiba，a szinkronizálás nem folytatható</string>
     <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Szerver I/O hiba a telefonszám azonosítása közben. Újrapróbálkozás...</string>
     <string name="activate_status_desc_acquire_phone_number_server_io_error">Szerver I/O hiba a telefonszám azonosítása miatt.</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_wait">Telefonszám beazonosítása nem sikerült...</string>
@@ -49,7 +50,7 @@
     <string name="activate_status_title_activating">SIM kártya aktiválása</string>
     <string name="activating">Aktiválás...</string>
     <string name="add_weibo_account">Fiók hozzáadása</string>
-    <string name="alert_notif_title_dspt">Proposes to restore synchronization to ensure data security</string>
+    <string name="alert_notif_title_dspt">Az adatok biztonsága érdekében javasolt a szinkronizálás</string>
     <string name="alert_title_remove_account">Fiók eltávolítása</string>
     <string name="app_name">Xiaomi service framework</string>
     <string name="available_functionality">Rendelkezésre álló funkciók</string>
@@ -65,13 +66,13 @@
     <string name="checking_account">Fiók ellenőrzése...</string>
     <string name="checking_input">Bevitel ellenőrzése...</string>
     <string name="cloud_messaging">MiCloud üzenetek</string>
-    <string name="cmcc_data_sync_notice">Use your Xiaomi account to sync messages, Contacts and other data. Meanwhile, Enjoy the cloud services.</string>
-    <string name="cmcc_micloud_dspt">A felhőszoláltatása tartalmazza a szinkronizálást, az eszköz keresését és egyéb funkciókat. Adatait online is elérheti bármikor!</string>
+    <string name="cmcc_data_sync_notice">Használja a felhőalapú szolgáltatásokat, szinkroniálja a névjegyek, üzenetek, és egyéb adatok.</string>
+    <string name="cmcc_micloud_dspt">A felhőszolgáltatás tartalmazza a szinkronizálást, az eszköz keresését és egyéb funkciókat. Adatai online is elérhetőek bármikor!</string>
     <string name="completed">Befejezés</string>
     <string name="confirm">Megerősít</string>
     <string name="current_account">Jelenlegi fiók</string>
     <string name="data_keep_in_phone">Hagyja meg</string>
-    <string name="data_sync_notice">Használja a MiCloud szolgáltatásait névjegyek,üzenetek,fényképek és egyéb adatok szinkronizálásához.</string>
+    <string name="data_sync_notice">Használja a MiCloud szolgáltatásait névjegyek, üzenetek, fényképek és egyéb adatok szinkronizálásához.</string>
     <string name="data_wipe_from_phone">Törölje le</string>
     <string name="dirty_contacts_count">%d névjegy</string>
     <string name="dirty_mms_count">%d üzenet</string>
@@ -101,7 +102,7 @@
     <string name="find_device_error_network">Hálózat nem elérhető</string>
     <string name="find_device_error_server">Szerver hiba</string>
     <string name="find_device_notice_p1">Elveszett vagy ellopott készüléke az</string>
-    <string name="find_device_notice_p2">i.xiaomi.com</string> 
+    <string name="find_device_notice_p2">" i.xiaomi.com "</string> 
     <string name="find_device_notice_p3">weboldal segítségével megtalálható vagy zárolható,illetve arról személyes adatai azonnal törölhető.</string>
     <string name="find_device_success_title">Eszköz keresés bekapcsolva</string>
     <string name="find_device">Eszköz keresése</string>
@@ -143,7 +144,7 @@
     <string name="micloud_activing_account">Fiók aktiválása,kérem várjon...</string>
     <string name="micloud_click_email_to_valid">Kattintson a bejövő leveleknél az aktiváló linkre</string>
     <string name="micloud_click_email">Kattintson a linkre a Xiaomi fiók aktiválásához</string>
-    <string name="micloud_delete_account">Fiók törlése</string>
+    <string name="micloud_delete_account">Fiók eltávolítása</string>
     <string name="micloud_dspt">A felhőszolgáltatás tartalmazza a MiCloud üzenetszolgáltatást, szinkronizálást, eszközének nyomonkövetését valamint egyéb funkciókat.Adataihoz bármikor Online is hozzáférhető!</string>
     <string name="micloud_email">Írja be az email címét</string>
     <string name="micloud_error_email">Érvénytelen email cím</string>
@@ -159,7 +160,7 @@
     <string name="micloud_input_password_prompt">Írja be a jelszót</string>
     <string name="micloud_intro_01_part_01">Ingyen küldhető SMS</string>
     <string name="micloud_intro_01_part_02">A MIUI felhasználók számára a hálózaton keresztül ingyen küldhető üzenet</string>
-    <string name="micloud_intro_02_part_01">Nem kell egyebet tennie</string>
+    <string name="micloud_intro_02_part_01">Nincs más teendő</string>
     <string name="micloud_intro_02_part_02">A felhőszolgáltatással szinkronizálhatja névjegyeit, üzeneteit, fényképeit és egyéb adatait más mobil eszközre.</string>
     <string name="micloud_intro_03_part_01">Biztonságos tartalom</string>
     <string name="micloud_intro_03_part_02">Az eszköz nyomonkövethető, lezárható illetve törölhető annak tartalma az i.xiaomi.com-on keresztül</string>
@@ -191,8 +192,8 @@
     <string name="micloud_warn_full_title">A MiCloud tárhely megtelt!</string>
     <string name="micloud_warn_low_sum">"A MiCloud tárhelyének 90%-a foglalt."</string>
     <string name="micloud_warn_low_title">A MiCloud tárhely hamarosan megtelik…</string>
-    <string name="micloud_web_discription_01">A tárolt fájlokhoz az i.xiaomi.com weboldalra</string>
-    <string name="micloud_web_discription_02">belépve bárhol és bármikor hozzáférhet</string>
+    <string name="micloud_web_discription_01">Hozzáférés számítógépről:</string>
+    <string name="micloud_web_discription_02">http://i.xiaomi.com</string>
     <string name="micloud_welcome_skip_login"><u>Lépés kihagyása</u></string>
     <string name="mili_center">MiCredit központ</string>
     <string name="my_xiaomi_account">Xiaomi fiókom</string>
@@ -213,7 +214,7 @@
     <string name="reg_type_phone">Regisztrálás telefonszámmal (ajánlott)</string>
     <string name="reging">Regisztrálás. Kérem várjon…</string>
     <string name="relogin">Bejelentkezés újra</string>
-    <string name="remove_account_notice">Mit szeretne tenni az előzőleg szinkronizált üzenetekkel ls névjegyekkel?</string>
+    <string name="remove_account_notice">Mit szeretne tenni a már szinkronizált üzenetekkel és névjegyekkel?</string>
     <string name="remove_confirm">Eltávolítás</string>
     <string name="remove_unactivated_account_notice">A Xiaomi fiók nincs aktiválva,eltávolítja?</string>
     <string name="removing_account">Fiók eltávolítása...</string>
@@ -227,10 +228,10 @@ Egy nemzetközi üzenetdíjnak megfelelő SMS szükséges az aktiváláshoz</str
     <string name="sim_changed_notification_content">SIM kártya nincs aktiválva.</string>
     <string name="skip_login_u"><u>Bejelentkezés kihagyása</u></string>
     <string name="skip_login">Bejelentkezés kihagyása</string>
-    <string name="skip_setup_account_msg">A Xiaomi fiók segítségével szinkronizálja üzeneteit,névjegyeit,fényképeit,jegyzeteit és egyéb adatait. Beállítja később?</string>
+    <string name="skip_setup_account_msg">A Xiaomi fiók segítségével szinkronizálja üzeneteit, névjegyeit, fényképeit, jegyzeteit és egyéb adatait. Beállítja később?</string>
     <string name="skip_setup_account_title">Fiókbeállítás kihagyása</string>
     <string name="start_micloud">Indítás</string>
-    <string name="sub_alert_notif_dspt" formatted="false">"A kéeszüléken találhatóe %s névjegy, %s SMS, %s fénykép, %s jegyzet és egyéb adat nem lett szinkronizálva. Amennyiben a telefon elveszik vagy megsérül, ezek az adatok végleg elvesznek. Az adatok biztonsága érdekében erősen ajánlott a szinkronizálás"</string>
+    <string name="sub_alert_notif_dspt" formatted="false">"A készüléken található %s névjegy, %s SMS, %s fénykép, %s jegyzet és egyéb adat még nincs szinkronizálva. Ha a telefon elveszik vagy megsérül, a rajta lévő adatok végleg elvesznek. Az adatok biztonsága érdekében erősen ajánlott a szinkronizálás"</string>
     <string name="sub_alert_notif_title">A szinkronizálás nincs engedélyezve</string>
     <string name="sync_dspt">MiCloud szolgáltatások</string>
     <string name="sync_off">Ki</string>
@@ -245,16 +246,16 @@ Egy nemzetközi üzenetdíjnak megfelelő SMS szükséges az aktiváláshoz</str
     <string name="update_contacts">Update the address book</string>
     <string name="updated_contacts">Frissítve %s névjegy</string>
     <string name="updated_nothing">Nincs frissítés</string>
-    <string name="user_agreement_p1">A bejelentkezéssel Ön elfogadja a </string>
-    <string name="user_agreement_p2"> Xiaomi felhasználói feltételeit</string>
-    <string name="user_agreement_p3"> és az </string>
-    <string name="user_agreement_p4"> adatvédelmi nyilatkozatot.</string>
-    <string name="user_agreement_p5">A bejelentkezéssel Ön elfogadja a </string>
+    <string name="user_agreement_p1">A bejelentkezéssel Ön elfogadja a</string>
+    <string name="user_agreement_p2">" Xiaomi felhasználói feltételeit"</string>
+    <string name="user_agreement_p3">" és az"</string>
+    <string name="user_agreement_p4">" adatvédelmi nyilatkozatot."</string>
+    <string name="user_agreement_p5">"A bejelentkezéssel Ön elfogadja a"</string>
     <string name="vcode_notification_title">Az ellenőrzés befejeződött</string>
     <string name="vcode_prompt_long">Írja be a Xiaomi által generált ellenőrzőkódot</string>
     <string name="vcode">Ellenőrzőkód</string>
-    <string name="wipe_data_dialog_msg">%s nem lett szinkronizálva (ez az adat elveszik,ha folytatja).</string>
-    <string name="wipe_data_dialog_title">"Néhány elem nem lett szinkronizálva."</string>
+    <string name="wipe_data_dialog_msg">%s nincs szinkronizálva (ezek az adatok elvesznek,ha folytatja).</string>
+    <string name="wipe_data_dialog_title">"Egyes adatok nincsenek szinkronizálva."</string>
     <string name="wrong_captcha">Hibás captcha kód</string>
     <string name="wrong_vcode">Hibás ellenőrzőkód</string>
     <string name="xiaomi_cloud_service">MiCloud</string>

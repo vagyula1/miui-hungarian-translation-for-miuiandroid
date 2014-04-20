@@ -53,9 +53,9 @@
   <string name="button_not_allow">Megtagad</string>
   <string name="cancel">Mégsem</string>
   <string name="enable_gps">GPS</string>
-  <string name="enable_notification">Helyszín</string>
+  <string name="enable_notification">Helyszín megjegyzése</string>
   <string name="enable_notification_city">%s időjárás értesítése bekapcsolva,a rendszer váratlan időjárás változás esetén (eső, hó, hirtelen hőmérsékletingadozás) értesítést küld.</string>
-  <string name="enable_notification_summary">Értesítés az előrejelzés változása esetén</string>
+  <string name="enable_notification_summary">Értesítés az időjárás változása esetén</string>
   <string name="first_start_network_toast_text">Hálózat hozzáférés engedélyezése</string>
   <string name="format_date_md">MMMd. kk:mm</string>
   <string name="format_date_trend_md">MMM.d</string>
@@ -82,7 +82,7 @@
   <string name="save_screen_shot_failed">A képernyőkép mentése nem sikrült.</string>
   <string name="selected_format">Kiválasztva %d elem</string>
   <string name="send_sms_notification">Időjárás adatok küldése</string>
-  <string name="send_sms_notification_summary">"A mai időjárás adatok elküldése ismerőseinek szöveges üzenetben"</string>
+  <string name="send_sms_notification_summary">"A mai időjárás adatok elküldése szöveges üzenetben"</string>
   <string name="send_weather_sms_cycle">%1$s előrejelzés：%2$s</string>
   <string name="send_weather_sms_error">Nincsenek időjárás adatok</string>
   <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
@@ -106,7 +106,7 @@
   <string name="sina_share_success">A megosztás sikeres!</string>
   <string name="sina_token_expired_warning">Weibo fiók kiléptette, lépjen be újra</string>
   <string name="sina_token_invalid_warning">Weibo fiók érvénytelen,lépjen be újra</string>
-  <string name="sms_notification">Küdés SMS-ben</string>
+  <string name="sms_notification">Küldés SMS-ben</string>
   <string name="tip_weather">MIUI időjárás értesítés</string>
   <string name="tip_weather_info_content_1">Bring layers!</string>
   <string name="tip_weather_info_title_1">%1$s a várható hőmérséklet különbség %2$d fok</string>
