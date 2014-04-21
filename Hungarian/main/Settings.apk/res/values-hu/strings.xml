@@ -1567,11 +1567,26 @@
     <string name="tethering_help_button_text">Súgó</string>
     <string name="network_settings_title">Mobilhálózatok</string>
     <string name="location_title">Saját pozíció</string>
-    <string name="location_network_based">A Google helyszolgáltatása</string>
-    <string name="location_neighborhood_level">Engedélyezze az alkalmazásoknak a Wi-Fi és mobilhálózatok használatát a hozzávetőleges tartózkodási hely meghatározásához</string>
-    <string name="location_neighborhood_level_wifi">Wi-Fi által meghatározott hely</string>
+    <string name="location_mode_title">Mód</string>
+    <string name="location_mode_high_accuracy_title">Nagyon pontos</string>
+    <string name="location_mode_battery_saving_title">Energiatakarékos</string>
+    <string name="location_mode_sensors_only_title">Csak a készüléken</string>
+    <string name="location_mode_location_off_title">Hely kikapcsolva</string>
+    <string name="location_mode_screen_title">Helymeghatározási mód</string>
+    <string name="location_mode_high_accuracy_description">GPS, Wi-Fi és mobilhálózatok használata a tartózkodási hely meghatározásához</string>
+    <string name="location_mode_battery_saving_description">Wi-Fi és mobilhálózatok használata a tartózkodási hely meghatározásához.</string>
+    <string name="location_mode_sensors_only_description">GPS használata a tartózkodási hely meghatározásához</string>
+    <string name="location_network_based">Hely Wi-Fi és mobilhálózat alapján</string>
+    <string name="location_neighborhood_level">Engedélyezze az alkalmazásoknak, hogy a Google helymeghatározó szolgáltatásával gyorsabban megbecsüljék tartózkodási helyét. A névtelen helyadatok összegyűjtés után a Google-hoz kerülnek.</string>
+    <string name="location_neighborhood_level_wifi">Helymeghatározás Wi-Fi-vel</string>
     <string name="location_gps">GPS-műholdak</string>
-    <string name="location_street_level">Engedélyezze a GPS használatát az alkalmazások számára tartózkodási helyének meghatározása érdekében</string>
+    <string name="location_category_recent_location_requests">Legutóbbi helylekérdezések</string>
+    <string name="location_category_location_services">Helyszolgáltatások</string>
+    <string name="location_high_battery_use">Magas akkumulátorhasználat</string>
+    <string name="location_low_battery_use">Alacsony akkumulátorhasználat</string>
+    <string name="location_loading_injected_setting">Lekérés…</string>
+    <string name="location_no_recent_apps">Az utóbbi időben egy alkalmazás sem kért le helyadatokat.</string>
+    <string name="location_street_level">Engedélyezze az alkalmazások számára a GPS használatát a telefonján a tartózkodási helyének meghatározásához</string>
     <string name="assisted_gps">Támogatott GPS használata</string>
     <string name="assisted_gps_enabled">Szerver használata a GPS mellett (a hálózati forgalom csökkentéséhez ne jelölje be)</string>
     <string name="assisted_gps_disabled">Szerver használata a GPS mellett (a GPS teljesítményének növeléséhez ne jelölje be)</string>
@@ -1684,6 +1699,7 @@
  "<li>Letiltott alkalmazásokkal kapcsolatos értesítések</li>"
  "<li>Alapértelmezett alkalmazások az egyes műveletekhez</li>"
  "<li>Háttéradatokra vonatkozó korlátozások az alkalmazásoknál</li>"
+ "<li>Minden engedélykorlátozás</li>"
  
 Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="reset_app_preferences_button">Alapbeállítások</string>
@@ -2661,10 +2677,10 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="development_enable">Fejlesztői beállítások</string>
     <string name="device_name">Eszköz neve</string>
     <string name="device_edit_title">Név megváltoztatása</string>
-    <string name="device_name_usage_point">Ez a név fog megjelenni kapcsolat létesítekor</string>
-    <string name="drive_mode">Autó üzemmód</string>
-    <string name="enable_drive_mode">Vezetés üzemmód engedélyezés</string>
-    <string name="drive_mode_title">Autó üzemód beállításai</string>
+    <string name="device_name_usage_point">Ez a név fog megjelenni kapcsolat létesítésekor</string>
+    <string name="drive_mode">Vezetés üzemmód</string>
+    <string name="enable_drive_mode">Vezetés üzemmód engedélyezése</string>
+    <string name="drive_mode_title">Vezetés üzemód beállításai</string>
     <string name="drive_mode_settings">Engedélyezés</string>
     <string name="drive_mode_voice_report">Hang jelentés</string>
     <string name="drive_mode_phone_report">Hívások</string>
@@ -2831,7 +2847,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="accessibility_screen_magnification_title">Nagyítási kézmozdulatok</string>
     <string name="accessibility_screen_magnification_enable">Nagyítási kézmozdulatok</string>
     <string name="accessibility_screen_magnification_summary">"Ha a funkció be van kapcsolva, úgy kicsinyíthet/nagyíthat, hogy háromszor rákoppint a képernyőre.
-\u0009
+
 Nagyított állapotban:
 "<li><ul>"Pásztázhat: Két vagy több ujját húzza végig a képernyőn.
 "<li>Módosíthatja a nagyítási szintet: Két ujját húzza össze vagy távolítsa el egymástól.</li></ul></li>"
@@ -2891,7 +2907,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="cleanning_prefix">Tisztítás: %s</string>
     <string name="pref_category_title_auto_update_cleanup_db">Az adatbázis frissítésének beállításai</string>
     <string name="pref_title_auto_update_cleanup_db">Automatikus frissítés</string>
-    <string name="pref_summary_auto_update_cleanup_db">Frissítve:%s</string>
+    <string name="pref_summary_auto_update_cleanup_db">Frissítve: %s</string>
     <string name="pref_title_manual_check_cleanup_db_update">Frissítés</string>
     <string name="msg_cleanup_db_update_checking">Ellenőrzés...</string>
     <string name="msg_update_error_code_success">Frissítés sikerült</string>
@@ -2953,6 +2969,9 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="item_garbage_size_1000m">1GB</string>
     <string name="item_title_garbage_time">Értesítés ideje</string>
     <string name="item_title_garbage_size">Értesítési mérethatár</string>
+    <string name="dirac_control">Hangminőség optimalizálása</string>
+    <string name="dirac_switch_summary">Mindig a MiSound erősítőt használja hangszóró esetén</string>
+    <string name="dirac_switch_title">MiSound erősítő</string>
     <string name="menu_item_force_stop">Bezárás</string>
     <string name="menu_item_uninstall">Eltávolítás</string>
     <string name="menu_item_app_details">Részletek</string>
@@ -2962,6 +2981,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="wifi_display_available_devices">Elérhető eszközök</string>
     <string name="wifi_display_certification">Vezeték nélküli kijelző tanúsítványa</string>
     <string name="wifi_display_certification_summary">Beállítások megjelenítése a vezeték nélküli kijelző tanúsítványával kapcsolatban</string>
+    <string name="wifi_display_enable_menu_item">Vezeték nélküli kijelző engedélyezése</string>
     <string name="wifi_display_details">Megjelenítési beállítások</string>
     <string name="wifi_display_disconnect_text">Ezzel befejezi a kapcsolatot a következővel:&lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="wifi_display_disconnect_title">Megszakítja?</string>
@@ -2980,6 +3000,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="wifi_display_status_connected">Csatlakozva</string>
     <string name="wifi_display_status_connecting">Csatlakozás</string>
     <string name="wifi_display_status_in_use">Használatban</string>
+    <string name="wifi_display_status_not_available">Nem érhető el</string>
     <string name="wifi_display_summary_disabled">Letiltva</string>
     <string name="wifi_display_summary_off">Ki</string>
     <string name="wifi_display_summary_on">Be</string>
@@ -3048,7 +3069,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="toast_removed_from_white_list">Eltávolítva a fehérlistából</string>
     <string name="notification_button_text_of_low_memory">Tisztítás</string>
     <string name="notification_title_of_low_memory">A rendszer tárhelyen használt %s</string>
-    <string name="power_20s_enter_mode">%1$d átváltás %2$s profilra</string>
+    <string name="power_20s_enter_mode">%1$dmp múlva átváltás %2$s profilra</string>
     <string name="power_notify_lowbattery">Az akkumulátor kapacitása kisebb, mint %1$d%%</string>
     <string name="power_recovery_mode">Visszaállítás %1$s profilra</string>
     <string name="power_subtitle_lowbattery">Automatikus energiatakarékos üzemmód alacsony akkuszint esetén</string>
@@ -3077,4 +3098,30 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="title_show_notification_yes">Megjelenítés az értesítési sávon bekapcsolva</string>
     <string name="title_show_notification_no">Megjelenítés az értesítési sávon kikapcsolva</string>
     <string name="security_relative">Biztonság</string>
+    <string name="debug_hw_overdraw">GPU tartalom-felülírási hibakeresés</string>
+    <string name="process_stats_summary_title">Folyamatstatisztikák</string>
+    <string name="process_stats_summary">A futó folyamatok statisztikái</string>
+    <string name="app_memory_use">Memóriahasználat</string>
+    <string name="process_stats_total_duration">%1$s alkalmazások a következő időszakra: %2$s</string>
+    <string name="process_stats_type_background">Háttérben futó folyamatok</string>
+    <string name="process_stats_type_foreground">Előtérben futó folyamatok</string>
+    <string name="process_stats_type_cached">Gyorsítótárazott folyamatok</string>
+    <string name="process_stats_memory_status">Az eszköz memóriája jelenleg %1$s</string>
+    <string name="process_stats_avg_ram_use">Átlagos RAM-használat</string>
+    <string name="process_stats_max_ram_use">Maximális RAM-használat</string>
+    <string name="process_stats_run_time">Futási idő</string>
+    <string name="services_subtitle">Szolgáltatások</string>
+    <string name="menu_proc_stats_duration">Időtartam</string>
+    <string name="menu_duration_3h">3 óra</string>
+    <string name="menu_duration_6h">6 óra</string>
+    <string name="menu_duration_12h">12 óra</string>
+    <string name="menu_duration_1d">1 nap</string>
+    <string name="menu_show_system">Rendszerfolyamatok megjelenítése</string>
+    <string name="menu_use_uss">Egyedi készletméret használata</string>
+    <string name="menu_proc_stats_type">Statisztika típusa</string>
+    <string name="menu_proc_stats_type_background">Háttérben futó folyamatok</string>
+    <string name="menu_proc_stats_type_foreground">Előtérben futó folyamatok</string>
+    <string name="menu_proc_stats_type_cached">Gyorsítótárazott folyamatok</string>
+    <string name="force_rtl_layout_all_locales">Elrendezés jobbról balra</string>
+    <string name="force_rtl_layout_all_locales_summary">Elrendezés jobbról balra minden nyelvnél</string>
 </resources>

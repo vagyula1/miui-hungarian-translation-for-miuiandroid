@@ -99,7 +99,11 @@
         <item>Lassú</item>
         <item>Normál</item>
         <item>Gyors</item>
+        <item>Gyorsabb</item>
         <item>Nagyon gyors</item>
+        <item>Gyors</item>
+        <item>Nagyon gyors</item>
+        <item>Leggyorsabb</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Nagyon alacsony</item>
@@ -148,6 +152,8 @@
         <item>Kapcsolat bontása %1$s hálózattal...</item>
         <item>Nincs kapcsolat</item>
         <item>Sikertelen</item>
+        <item>Blokkolva</item>
+        <item>Rossz minőségű kapcsolat ideiglenesen elkerülve</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Nyomógomb</item>
@@ -193,6 +199,11 @@
         <item>Elindítások száma</item>
         <item>Alkalmazás neve</item>
     </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Semelyik</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Semelyik</item>
         <item>PAP</item>
@@ -213,10 +224,94 @@
         <item>Riasztás</item>
         <item>Rezgés</item>
     </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Semelyik</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP vagy CHAP</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Semelyik</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
     <string-array name="app_install_location_entries">
         <item>Belső tárhely</item>
         <item>Eltávolítható SD-kártya</item>
         <item>Döntse el a rendszer</item>
+    </string-array> 
+    <string-array name="app_ops_categories">
+        <item>Helyszín</item>
+        <item>Személyes</item>
+        <item>Üzenetkezelés</item>
+        <item>Eszköz</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>megközelítő elhelyezkedés</item>
+        <item>pontos elhelyezkedés</item>
+        <item>GPS</item>
+        <item>rezgés</item>
+        <item>névjegyzék olvasása</item>
+        <item>névjegyzék módosítása</item>
+        <item>hívásnapló olvasása</item>
+        <item>hívásnapló módosítása</item>
+        <item>naptár olvasása</item>
+        <item>naptár módosítása</item>
+        <item>wi-fi keresés</item>
+        <item>értesítések</item>
+        <item>cella keresés</item>
+        <item>telefonhívás</item>
+        <item>SMS olvasása</item>
+        <item>SMS írása</item>
+        <item>SMS fogadás</item>
+        <item>segélykérő SMS fogadása</item>
+        <item>MMS fogadása</item>
+        <item>WAP push fogadása</item>
+        <item>SMS küldése</item>
+        <item>ICC SMS olvasása</item>
+        <item>ICC SMS írása</item>
+        <item>beállítások módosítása</item>
+        <item>rajzolás a tetejére</item>
+        <item>hozzáférés az értesítésekhez</item>
+        <item>kamera</item>
+        <item>hangfelvétel rögzítése</item>
+        <item>zene lejátszása</item>
+        <item>vágólap olvasása</item>
+        <item>vágólap módosítása</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Helyszín</item>
+        <item>Helyszín</item>
+        <item>LHelyszín</item>
+        <item>Rezgés</item>
+        <item>Névjegyzék olvasása</item>
+        <item>Névjegyzék módosítása</item>
+        <item>Hívásnapló olvasása</item>
+        <item>Hívásnapló olvasása</item>
+        <item>Naptár olvasása</item>
+        <item>Naptár módosítása</item>
+        <item>Helyszín</item>
+        <item>Értesítések engedélyezése</item>
+        <item>Helyszín</item>
+        <item>Telefonhívás</item>
+        <item>SMS/MMS olvasása</item>
+        <item>SMS/MMS küldése</item>
+        <item>SMS/MMS fogadása</item>
+        <item>SMS/MMS fogadása</item>
+        <item>SMS/MMS fogadása</item>
+        <item>SMS/MMS fogadása</item>
+        <item>SMS/MMS küldése</item>
+        <item>SMS/MMS fogadása</item>
+        <item>SMS/MMS küldése</item>
+        <item>Beállítások módosítása</item>
+        <item>Rajzolás a tetejére</item>
+        <item>Hozzáférés az értesítésekhez</item>
+        <item>Kamera</item>
+        <item>Hangfelvétel rögzítése</item>
+        <item>Zene lejátszása</item>
+        <item>Vágólap olvasása</item>
+        <item>Vágólap módosítása</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Rövid</item>
@@ -227,11 +322,6 @@
         <item>Ellenőrzés soha</item>
         <item>Csak DRM-tartalom ellenőrzése</item>
         <item>Ellenőrzés mindig</item>
-    </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Soha ne használjon HDCP ellenőrzést</item>
@@ -265,6 +355,30 @@
         <item>Animáció mérete: 5x</item>
         <item>Animáció mérete: 10x</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Nincs</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi és 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Semelyik</item>
+        <item>Logcat</item>
+        <item>Systrace (grafika)</item>
+        <item>Verem meghívása glGetError esetén</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Kikapcsolva</item>
+        <item>Nem négyzetes kivágás kékkel</item>
+        <item>Tesztelt rajzolási parancsok kiemelése zölddel</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Ki</item>
+        <item>A képernyőn sávként</item>
+        <item>A képernyőn sorként</item>
+        <item>adb shell dumpsys gfxinfo elemben</item>
+	</string-array>
     <string-array name="app_process_limit_entries">
         <item>Normál korlátozás</item>
         <item>Nincsenek háttérfolyamatok</item>
@@ -272,14 +386,6 @@
         <item>Legfeljebb 2 folyamat</item>
         <item>Legfeljebb 3 folyamat</item>
         <item>Legfeljebb 4 folyamat</item>
-    </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -297,7 +403,19 @@
         <item>Időtúllépés</item>
         <item>Sikertelen</item>
     </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Ascended being</item>
+        <item>Human</item>
+        <item>Neanderthal</item>
+        <item>Chimp</item>
+        <item>Monkey</item>
+    </string-array>
     <string-array name="haptic_feedback_level_entries">
+        <item>Erős</item>
+        <item>Közepes</item>
+        <item>Gyenge</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
         <item>Erős</item>
         <item>Közepes</item>
         <item>Gyenge</item>
@@ -338,13 +456,6 @@
         <item>Google Now indítása</item>
         <item>Alkalmazás bezárása</item>
     </string-array>
-    <string-array name="screen_key_long_press_action_value">
-        <item>none</item>
-        <item>recent_panel</item>
-        <item>voice_assistant</item>
-        <item>google_now</item>
-        <item>close_app</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 másodperc</item>
         <item>1 másodperc</item>
@@ -359,12 +470,53 @@
         <item>20 másodperc</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Device connected, creating session…</item>
-        <item>Session created.</item>
-        <item>Session tearing down…</item>
-        <item>Session failed.</item>
-        <item>Timed out, retrying…</item>
-        <item>Device connected</item>
+        <item>Eszköz csatlakozva…</item>
+        <item>Munkamenet létrehozva.</item>
+        <item>Munkamenet lekapcsolása…</item>
+        <item>Sikertelen munkamenet.</item>
+        <item>Időtúllépés, újrapróbálkozás…</item>
+        <item>Eszköz csatlakozva</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP és korábbi verziók</item>
+        <item>Windows Vista és újabb verziók</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_start_summary">
+        <item>"A Windows XP és korábbi verzióihoz,
+a meghajtóprogram kézi telepítése szükséges"</item>
+        <item>"A Windows Vistánál és újabb verzióknál,
+a MI 3 zenelejátszóként megjelenik a számítógépen"</item>
+        <item>"A Mac OS operációs rendszerén,
+a meghajtóprogram kézi telepítése szükséges"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_1_summary">
+        <item>"(A Beállítás varázsló mellőzése)
+Csatlakozáskor, a Xiaomi megjelenik, mint USB mass storage eszköz.
+ Nyissa meg és válassza a Setup.exe fájlt a telepítéshez"</item>
+        <item></item>
+        <item>"Csatlakozáskor, a Xiaomi megjelenik, mint USB mass storage eszköz..
+Nyissa meg és válassza a AndroidFileTransfer.dmg fájlt a telepítéshez"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_2_summary">
+        <item>"2.MI 3 mobile tároló eszköz megjelenik a számítógépén
+Most már alkalmas a fájlátvitelre"</item>
+        <item></item>
+        <item>"A számítógép automatikusan beolvassa a telefonon lévő fájlokat
+Most már alkalmas a fájlátvitelre"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>"Ha telepíti ezt a meghajtóprogramot
+MI 3 mobil tároló eszköznek fog megjelenni a számítógépen"</item>
+        <item>"A  Windows Vistánál és újabb verzióknál,
+a MI 3 zenelejátszóként megjelenik a számítógépen"</item>
+        <item>"Ha telepíti ezt a meghajtóprogramot
+a számítógép automatikusan beolvassa a telefonon lévő fájlokat"</item>
+        <item></item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Meleg</item>
@@ -376,8 +528,16 @@
         <item>Alapértelmezett</item>
     </string-array>
     <string-array name="startup_hips_action">
-        <item>EngedélyezAllow</item>
+        <item>Engedélyez</item>
         <item>Megtagad</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Természetes</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Egymikrofonos zajcsökkentés</item>
+        <item>Kétmikrofonos zajcsökkentés</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Arcalapú feloldás</item>
@@ -385,9 +545,17 @@
         <item>PINkód</item>
         <item>Kevert jelszó</item>
     </string-array>
-    <string-array name="phone_call_noise_suppression_title">
-        <item>Egymikrofonos zajcsökkentés</item>
-        <item>Kétmikrofonos zajcsökkentés</item>
+    <string-array name="wifi_connect_type_entries">
+        <item>Automatikus csatlakozás</item>
+        <item>Manuális csatlakozás</item>
+        <item>Mindig kérdezzen rá</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 perc</item>
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>1 óra</item>
+        <item>Korlátlan</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -399,33 +567,49 @@
         <item>Zene</item>
         <item>E-mail</item>
     </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Kikapcsolva</item>
-        <item>Nem négyzetes kivágás kékkel</item>
-        <item>Tesztelt rajzolási parancsok kiemelése zölddel</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Ki</item>
-        <item>A képernyőn sávként</item>
-        <item>A képernyőn sorként</item>
-        <item>adb shell dumpsys gfxinfo elemben</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Egyik sem</item>
-        <item>720x480 mdpi</item>
-        <item>1280x720 tvdpi</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi és 1920x1080 xhdpi</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Semelyik</item>
-        <item>Logcat</item>
-        <item>Systrace (grafika)</item>
-        <item>Verem meghívása glGetError esetén</item>
-    </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Túl nagy forgalom miatt lassú a sebesség</item>
         <item>Gyenge jelerősség miatt lassú a sebesség</item>
         <item>Átlépés…</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Rövid késleltetés</item>
+        <item>Normál</item>
+        <item>Jobb minőség</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Nagyon kicsi</item>
+        <item>Kicsi</item>
+        <item>Normál</item>
+        <item>Nagy</item>
+        <item>Nagyon nagy</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Semelyik</item>
+        <item>Vázlat</item>
+        <item>Árnyékolás</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Fekete alapon fehér</item>
+        <item>Fehér alapon fekete</item>
+        <item>Fekete alapon sárga</item>
+        <item>Kék alapon sárga</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (hibakeresési)</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>A Dalvik használata</item>
+        <item>Az ART használata</item>
+        <item>Az ART hibakeresési verziójának használata</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Ki</item>
+        <item>Tartalom-felülírási területek mutatása</item>
+        <item>A deuteranomália területeinek megjelenítése</item>
+        <item>Tartalom-felülírási számláló megjelenítése</item>
     </string-array>
 </resources>

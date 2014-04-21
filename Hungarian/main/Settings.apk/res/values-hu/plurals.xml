@@ -40,4 +40,12 @@
         <item quantity="other">%1$d lépésre van a fejlesztői beállítások bekapcsolásához.</item>
         <item quantity="one">Már csak %1$d lépésre van a fejlesztői beállítások bekapcsolásához.</item>
     </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Helytelen PIN kód a SIM kártyához; még %d próbálkozása van.</item>
+        <item quantity="one">Helytelen PIN kód a SIM kártyához; még %d próbálkozása van, mielőtt fel kellene vennie a kapcsolatot szolgáltatójával az eszköz feloldásához.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s nyomtató észlelve</item>
+        <item quantity="one">%1$s nyomtató észlelve</item>
+    </plurals>
 </resources>
