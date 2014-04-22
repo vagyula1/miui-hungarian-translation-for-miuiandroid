@@ -1805,6 +1805,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="keyboard_layout_dialog_switch_hint">Váltáshoz nyomja meg a Control+szóköz billentyűkódot</string>
     <string name="keyboard_layout_default_label">Alapértelmezett</string>
     <string name="keyboard_layout_picker_title">Billentyűzet elrendezések</string>
+    <string name="user_dict_settings_title">Felhasználói szótár</string>
     <string name="user_dict_settings_titlebar">Felhasználói szótár</string>
     <string name="user_dict_single_settings_title">Személyes szótár</string>
     <string name="user_dict_multiple_settings_title">Személyes szótárak</string>
@@ -2497,9 +2498,12 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="manually_add_network">Hálózat kézi hozzáadása</string>
     <string name="network_detail">%s hálózat részletei</string>
     <string name="connected_wifi">Wi-Fi kapcsolat</string>
-    <string name="incoming_call_vibrate_abbreviation">Hívások</string>
-    <string name="notification_vibrate_abbreviation">Értesítések</string>
-    <string name="mms_vibrate_abbreviation">Üzenetek</string>
+    <string name="incoming_call_breathing_light_freq_title">Hívások LED villogásának gyakorisága</string>
+    <string name="incoming_call_breathing_light_color_title">Hívások</string>
+    <string name="notification_breathing_light_freq_title">Értesítések LED villogásának gyakorisága</string>
+    <string name="notification_breathing_light_color_title">Értesítések</string>
+    <string name="mms_breathing_light_freq_title">Üzenetek LED villogásának gyakorisága</string>
+    <string name="mms_breathing_light_color_title">Üzenetek színe</string>
     <string name="breathing_light_color_title"></string>
     <string name="breathing_light_color_menu_title">Értesítés színe</string>
     <string name="breathing_light_color_summary">LED színe amikor új értesítés érkezik</string>

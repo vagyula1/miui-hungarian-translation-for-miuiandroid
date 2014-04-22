@@ -14,11 +14,27 @@
         <item>15 perc</item>
         <item>30 perc</item>
         <item>1 óra</item>
+        <item>12 óra</item>
         <item>1 nap</item>
         <item>2 nap</item>
         <item>1 hét</item>
+        <item>2 hét</item>
     </string-array>
-    <string-array name="preferences_default_reminder_labels">
+    <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_labels">   
     	<item>Nincs</item>
 	<item>0 perc</item>
         <item>5 perc</item>
@@ -26,9 +42,25 @@
 	<item>15 perc</item>
 	<item>30 perc</item>
         <item>1 óra</item>
+        <item>12 óra</item>
 	<item>1 nap</item>
         <item>2 nap</item>
-	<item>1 hét</item>       
+	<item>1 hét</item>   
+        <item>2 hét</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Helyi alapértelmezett</item>

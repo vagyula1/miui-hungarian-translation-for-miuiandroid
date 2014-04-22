@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_emergency_call">Segélyhívás</string>
+    <string name="lockscreen_forgot_pattern_button_text">Elfelejtette a feloldómintát?</string>
+    <string name="lockscreen_transport_prev_description">Előző</string>
+    <string name="lockscreen_transport_next_description">Következő</string>
+    <string name="lockscreen_transport_play_description">Lejátszás</string>
+    <string name="lockscreen_too_many_failed_attempts_countdown">Próbálja újra %d másodperc múlva.</string>
+    <string name="lockscreen_pattern_wrong">Próbálja újra:</string>
+    <string name="lockscreen_pattern_instructions">Rajzolja le a mintát a feloldáshoz</string>
+    <string name="unlockscreen_recharging_message">Töltés %d%%</string>
+    <string name="unlockscreen_recharge_completed">Feltöltve</string>
+    <string name="unlockscreen_low_battery">Csatlakoztassa a töltőt</string>
+    <string name="emergency_call_string">Segélyhívás</string>
+    <string name="forget_password_string">Elfelejtett jelszó</string>
+    <string name="miui_unlockscreen_password_wrong">Próbálja újra:</string>
+    <string name="contact_carrier_message">Vegye fel a kapcsolatot a szolgáltatójával.</string>
+    <string name="input_puk_code">Írja be a PUK kódot</string>
+    <string name="input_puk_code_to_unlock">Írja be a PUK kódot az eszköz feloldáshoz</string>
+    <string name="unlocking_sim_card">SIM kártya feloldása</string>
+    <string name="short_pukcode_error_msg">Csak kevesebb,mint 8 szám lehet.</string>
+    <string name="short_pincode_error_msg">Csak 4–8 szám lehet</string>
+    <string name="input_pin_code">PIN kód</string>
+    <string name="input_pin_code_to_unlock">Írja be a PIN kódot a feloldásához</string>
+    <string name="pincode_set_to_default_msg">A PIN kód alapértelmezetten 1234, itt módosítható:</string>
+    <string name="incorrect_pukcode_remaining_attempts">Hibás PUK kód, %d próbálkozása maradt</string>
+    <string name="incorrect_pincode_remaining_attempts">Hibás PIN kód, %d próbálkozása maradt</string>
+    <string name="incorrect_pukcode">Hibás PUK kód</string>
+    <string name="incorrect_pincode">Hibás PIN kód</string>
+    <string name="puk_operation_failed">PUK művelet sikertelen.</string>
+    <string name="pin_operation_failed">PIN művelet sikertelen.</string>
+    <string name="return_to_me_message">Kérem adja vissza a tulajdonosának.</string>
+    <string name="unlock_string">OK</string>
+    <string name="open_wifi_settings">Hálózati kapcsolat megnyitása</string>
+    <string name="lock_screen_date">MM.dd EEEE</string>
+    <string name="lockscreen_glogin_instructions">Feloldáshoz lépjen be a fiókjába</string>
+    <string name="lockscreen_glogin_password_hint">Jelszó</string>
+    <string name="lockscreen_glogin_checking_password">Ellenőrzés…</string>
+    <string name="login_website_in_case_forget_password">Elfelejtett jelszava visszaállításához látogassa meg az i.xiaomi.com weboldalt.</string>
+    <string name="screen_on_proximity_sensor_title">Véletlen használat megelőzése</string>
+    <string name="screen_on_proximity_sensor_summary">"Ne takarja le a képernyő felső részét"</string>
+    <string name="screen_on_proximity_sensor_hint">A funkció letiltásához nyomja meg egyszerre a Vissza és Hangerő gombot.</string>
+    <string name="experimental_validate_thanks">Köszönjük!</string>
+    <string name="experimental_validate_warning">Köszönjök, hogy segíti a MIUI fejlesztését!</string>
+    <string name="experimental_validate">Érvényesítés</string>
+    <string name="experimental_try_string">Próba</string>
+    <string name="experimental_validate_username">Felhasználónév</string>
+    <string name="experimental_validate_password">Jelszó</string>
+    <string name="experimental_validate_progress">Bejelentkezés…</string>
+    <string name="experimental_validate_fail">A bejelentkezés nem sikerült</string>
+    <string name="lockscreen_glogin_forgot_pattern">Fiók feloldása</string>
+    <string name="lockscreen_glogin_too_many_attempts">Túl sok mintarajzolási kísérlet</string>
+    <string name="lockscreen_glogin_invalid_input">Hibás felhasználónév vagy jelszó.</string>
+    <string name="find_device_turn_off_flight_mode_instructions">"Az eszköz lezárva.
+Kapcsolja ki a repülőgép üzemmódot."</string>
+    <string name="find_device_check_sim">SIM kártya ellenőrzés…</string>
+    <string name="find_device_turn_off_flight_mode">Repülőgép üzemmód kikapcsolása</string>
+    <string name="phone_locked_string">A telefon lezárva</string>
+    <string name="phone_locked_timeout_seconds_string">Próbálja újra %s másodperc múlva</string>
+    <string name="phone_locked_timeout_minutes_string">Próbálja újra %s perc múlva</string>
+    <string name="input_password_hint_text">Jelszó megadása</string>
+    <string name="unlock_sim_string">SIM kártya feloldása</string>
+    <string name="starting_camera_string">Kamera indítása</string>
+    <string name="lockscreen_glogin_submit_button">Bejelentkezés</string>
+    <string name="lockscreen_access_pattern_start">Feloldóminta elkezdődött</string>
+    <string name="lockscreen_access_pattern_cleared">Feloldóminta törölve</string>
+    <string name="lockscreen_access_pattern_cell_added">Cell added</string>
+    <string name="lockscreen_access_pattern_detected">Feloldóminta befejezve</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d alkalommal hibásan adta meg a jelszavát. %d sikertelen próbálkozás után a fiókbejelentkezés szükséges a feloldáshoz.
+
+ Próbálja újra %d mp múlva."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">%d alkalommal hibásan adta meg a jelszavát. %d sikertelen próbálkozás után a telefon visszaáll a gyári állapotra, a felhasználói adatok elvesznek.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">%d alkalommal hibásan adta meg a jelszavát. A telefon most visszaáll a gyári állapotra.</string>
+</resources>

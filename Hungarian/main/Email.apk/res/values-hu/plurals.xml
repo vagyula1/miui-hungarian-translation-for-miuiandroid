@@ -20,6 +20,10 @@
         <item quantity="other">%d GB</item>
         <item quantity="one">%d GB</item>
     </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d kiválasztva</item>
+        <item quantity="one">1 kiválasztva</item>
+    </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d kiválasztva</item>
         <item quantity="one">1 kiválasztva</item>
