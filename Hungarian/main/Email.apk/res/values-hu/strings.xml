@@ -688,8 +688,9 @@ Másolatot kap: %4$s
     <string name="conversation_item_mark_unread">Olvasatlan</string>
     <string name="default_signature">MIUI-ról küldve</string>
     <string name="outbox_alert_title_sent_failed">Az emailt nem sikerült elküldeni</string>
-    <string name="outbox_alert_description_sent_failed">"Cause: The attachement
-size exceeds receiving limit"</string>
+    <string name="outbox_alert_description_sent_failed">"A melléklet
+mérete elérte a maximálisan fogadható mérethatárt"</string>
     <string name="outbox_alert_button_confirm">Szerkesztés</string>
-    <string name="blank_feedback_toast">The feedback is blank, please input feedback!</string>
+    <string name="blank_feedback_toast">A visszajelzés mező üres, írjon be megjegyzését!</string>
+    <string name="contact_select">Válasszon névjegyet</string>
 </resources>

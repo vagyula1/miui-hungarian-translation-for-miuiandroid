@@ -2146,6 +2146,10 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="preferred_application_warning_replace">Lecserél</string>
     <string name="preferred_application_warning_title">%s lecserélése</string>
     <string name="preferred_application_warning_use_system">%s használata alapértelmezettként</string>
+    <string name="preferred_sms_warning_message">\"%1$s\" használata alapértelmezett üzenetküldő alkalmazásként növelheti az adatforgalmat és veszélyeztetheti az adatok biztonságát.</string>
+    <string name="preferred_sms_warning_use_system">Mégsem</string>
+    <string name="preferred_sms_settings">Ez az alkalmazás lesz az alapértelmezett üzenetkezelő alkalmazás.</string>
+    <string name="preferred_sms_title">Alapértelmezett üzenetkezelő alkalmazás</string>
     <string name="header_account_settings">Fiókbeállítások</string>
     <string name="remove_account_label">Fiók törlése</string>
     <string name="header_add_an_account">Fiók hozzáadása</string>
@@ -2487,7 +2491,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="lock_settings_picker_settings">Képernyőzár beállítása</string>
     <string name="lock_screen_unlock_show">Képernyőzárolás megjelenítése</string>
     <string name="lock_screen_unlock_show_summary">Engedélyezése után nem használ egyéb képernyőzárat</string>
-    <string name="date_time_settings">Dátum &amp; idő</string>
+    <string name="date_time_settings">Dátum és idő</string>
     <string name="timezone_settings">Időzóna</string>
     <string name="security_privacy_settings_title">Biztonság és adatvédelem</string>
     <string name="nearby_wifi">Válasszon Wi-Fi hálózatot</string>

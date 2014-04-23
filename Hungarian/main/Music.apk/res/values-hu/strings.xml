@@ -308,4 +308,11 @@
     <string name="vip_recommend_rebuy">VIP hozzáférés megújítása 5 MiCredittel 30napra</string>
     <string name="source_from">Forrás: %1$s</string>
     <string name="no_music_to_play">Nincs lejátszható zene</string>
+    <string name="load_recommend_in_process">Betöltés…</string>
+    <string name="load_recommend_failed">A lista betöltése nem sikerült</string>
+    <string name="click_to_play_all">Kattintson az összes lejátszásához</string>
+    <string name="collect_topic_success">Borító a kedvencekhez adva</string>
+    <string name="collect_bill_success">Számla a kedvencekhez adva</string>
+    <string name="collect_fm_success">Hozzáadva a kedvencekhez</string>
+    <string name="uncollect_success">Eltávolítás a kedvencekből</string>
 </resources>
