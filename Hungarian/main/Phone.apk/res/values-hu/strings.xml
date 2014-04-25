@@ -136,6 +136,7 @@
   <string name="call_waiting_tone_title_miui">Hívásvárakoztatás hangja</string>
   <string name="call_waiting_tone_twice_and_vibrate_miui">Lejátszás és rezgés kétszer</string>
   <string name="call_waiting_tone_twice_only_miui">Lejátszás csak kétszer</string>
+  <string name="callwait_open_hint">\"Hívásvárakoztatás\" Kapcsolódási probléma vagy érvénytelen MMI-kód.</string>
   <string name="caller_id_sum_miui">Rejtse vagy mutassa a számot a kimenő hívásokban (ha támogatja a szolgáltató)</string>
   <string name="caller_id_title_miui">Hívásazonosító</string>
   <string name="caller_manage_header">Konferencia hívás %s</string>
@@ -642,6 +643,7 @@
   <string name="onscreenMuteText">Némítás</string>
   <string name="onscreenShowDialpadText">Tárcsázó</string>
   <string name="onscreenSwapCallsText">Csere</string>
+  <string name="open_miui">Megnyitás</string>
   <string name="optional_summary">&lt;Opcionális&gt;</string>
   <string name="ota_activate">Aktiválás</string>
   <string name="ota_call_end">Vissza</string>

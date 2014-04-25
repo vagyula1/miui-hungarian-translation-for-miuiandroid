@@ -1126,4 +1126,5 @@
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="call_record_error_access">"Nem készíthető felvétel Védelem üzemmódban"</string>
+  <string name="callwait_open_hint">\"Hívásvárakoztatás\" Kapcsolódási probléma vagy érvénytelen MMI-kód.</string>
 </resources>
