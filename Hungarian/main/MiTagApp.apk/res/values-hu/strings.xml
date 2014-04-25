@@ -69,6 +69,7 @@
   <string name="err_nfc_off">Kapcsolja be az NFC-t a Beállításokban &gt; Vezeték nélküli &amp; egyéb hálózatok &gt; Továbbiak &gt; NFC</string>
   <string name="err_no_enough_space">Nincs elég hely a matricán</string>
   <string name="err_no_nfc">"A készülék nem támogatja az NFC-t. ez az alkalmazás lehetséges, hogy nem fog működni."</string>
+  <string name="err_tag_read_only">"Nem írhat erre a matricára"</string>
   <string name="err_tag_not_supported">"A telefon nem támogatja az NFC-t"</string>
   <string name="error_password">Hibás jelszó</string>
   <string name="failed_install">A telepítés nem sikerült</string>
@@ -116,6 +117,8 @@
   <string name="phone_to_tag">Az NFC-matrica módosításához</string>
   <string name="pick_contact">Válassza ki a névjegyet</string>
   <string name="pick_contacts">Válassza ki a névjegyeket</string>
+  <string name="play_music_desc">Zenelejátszás vagy szüneteltetés</string>
+  <string name="play_song">Zenelejátszás</string>
   <string name="preference">Beállítások</string>
   <string name="pwd_pref">NFC-matrica védelem a felülírástól</string>
   <string name="pwd_pref_desc">寫入貼紙時將激活貼紙的寫保護功能，他人改寫你的貼紙需要提供密碼</string>
