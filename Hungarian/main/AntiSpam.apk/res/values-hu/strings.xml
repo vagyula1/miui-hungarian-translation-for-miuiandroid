@@ -66,11 +66,11 @@
   <string name="dlg_import_blacklist">Hozzáadás a tiltólistához</string>
   <string name="dlg_import_whitelist">Hozzáadás a kivételekhez</string>
   <string name="dlg_keyword_ok">Mentés</string>
-  <string name="dlg_no_block">Engedélyezze ezt a számot?</string>
-  <string name="dlg_no_block_ok">Engedélyezés</string>
+  <string name="dlg_no_block">Törli ezt a számot a tiltólistából?</string>
+  <string name="dlg_no_block_ok">Igen</string>
   <string name="dlg_remove_address_blacklist">Törli ezt a régiót a tiltólistáról és visszaállítja ezeket az üzeneteket a beérkező üzenetekhez?</string>
   <string name="dlg_remove_address_whitelist">Törli ezt a régiót a kivételek listájáról?</string>
-  <string name="dlg_remove_blacklist">Eltávolítja ezt a számot a tiltólistából?</string>
+  <string name="dlg_remove_blacklist">Törli a tiltólistából?</string>
   <string name="dlg_remove_blacklist_ok">Eltávolítás</string>
   <string name="dlg_remove_whitelist">Törli ezeket a telefonszámokat a kivételek listájáról?</string>
   <string name="dlg_retore">Visszaállítja az üzeneteket?</string>
@@ -79,7 +79,7 @@
   <string name="dlg_white_antispam_hint">Kivételek</string>
   <string name="dlg_white_antispam_message">Hozzáadja a kivételekhez az üzenetet?</string>
   <string name="fw_blocked">Tiltólista értesítés</string>
-  <string name="fw_blocked_count">Letiltva:</string>
+  <string name="fw_blocked_count">Elutasítva:</string>
   <string name="fw_blocked_count_call">"%d hívás "</string>
   <string name="fw_blocked_count_sms">"%d üzenet"</string>
   <string name="hint_antispam_mode_edit">Egyéni mód</string>
@@ -117,8 +117,8 @@
   <string name="menu_wh_remove">Eltávolítás</string>
   <string name="NACaddnumtitle">Telefonszám hozzáadása a kivételekhez</string>
   <string name="note_call_none">Nincs hívás</string>
-  <string name="note_keyword_none">Nincs kulcsszó</string>
-  <string name="note_list_none">Nincs kivétel lista</string>
+  <string name="note_keyword_none">Nincs kulcsszó beállítva</string>
+  <string name="note_list_none">Üres a kivételek listája</string>
   <string name="note_preference_delete">Ez a beállítás használatban van, nem törölhető</string>
   <string name="note_sms_none">Nincs üzenet</string>
   <string name="one_address_choose_hint">%s1 régió</string>

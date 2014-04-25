@@ -137,7 +137,7 @@
   <string name="system_backup_ask">Rákérdez</string> 
   <string name="system_backup_button_text">Rendszer biztonsági mentése</string>
   <string name="system_backup_cancel_text">Mégse</string>
-  <string name="system_backup_download_helper">A frssítés letöltése és alkalmazása után az eszköz automatikusan újraindul.</string>
+  <string name="system_backup_download_helper">A frissítés letöltése és alkalmazása után az eszköz automatikusan újraindul.</string>
   <string name="system_backup_error_message">Hiba a rendszer biztonsági mentésekor</string>
   <string name="system_backup_helper">A rendszerfrissítés nem törli a felhasználói adatokat. Mentés ajánlott</string> 
   <string name="system_backup_ok_text">Mentés</string>
