@@ -56,7 +56,7 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="Generic_Update">Szoftver frissítése</string>
   <string name="Generic_UserApp">Letöltött Alkalmazások (%d)</string>
   <string name="Generic_Version">Verzió: %1$s</string>
-  <string name="HIPS_Action_Accept">Engedélyez</string>
+  <string name="HIPS_Action_Accept">Engedélyezés</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Engedélyez&lt;/font></string>
   <string name="HIPS_Action_Accept_Count">Engedélyezve: %1$d</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Rákérdez&lt;/font></string>
@@ -202,7 +202,7 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Előfordulhat hardver meghibásodás</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Használja körültekintően!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Biztos benne, hogy engedélyezi %1$s alkalmazásnak a rendszergazdai jogosultságokat?</string>
-  <string name="HIPS_SecurityPrompt_Title">%1$s megkíséreli a %2$s -t</string>
+  <string name="HIPS_SecurityPrompt_Title">%1$s megkíséreli a %2$s használatát</string>
   <string name="Privacy_App_Finish">Befejez</string>
   <string name="Privacy_App_Installed">Engedély testreszabása</string>
   <string name="Privacy_App_Launch">Futtat</string>

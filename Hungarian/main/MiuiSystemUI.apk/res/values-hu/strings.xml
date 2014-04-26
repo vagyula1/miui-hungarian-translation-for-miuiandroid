@@ -206,7 +206,7 @@
     <string name="status_bar_network_flow_today">Ma:%1$s</string>
     <string name="status_bar_network_flow">Ma: %1$s Hátralévő: %2$s App-ok: %3$s</string>
     <string name="status_bar_network_flow_exceed">"Ma:%1$s    Hátralévő:%2$s    App-ok:%3$s"</string>
-    <string name="drive_mode_tip">Autó mód engedélyezve - Vezessen óvatosan!</string>
+    <string name="drive_mode_tip">Vezetés üzemmód engedélyezve</string>
     <string name="no_notification_tips">Nincs értesítés</string>
     <string name="notification_otg_mouse_in">Egér csatlakoztatva</string>
     <string name="notification_otg_keyboard_in">Billentyűzet csatlakoztatva</string>

@@ -453,7 +453,7 @@
     <string name="anti_spam">Tiltólista</string>
     <string name="permission_mgr">Engedélyek</string>
     <string name="cleaner">Tisztítás</string>
-    <string name="cleaner_support_hints">Clean Master támogatásával</string>
+    <string name="cleaner_support_hints"/>
     <string name="power_mgr">Teljesítmény</string>
     <string name="protection_adb">USB hibakeresés</string>
     <string name="protection_perm">Engedélyek beállítása</string>
@@ -704,7 +704,7 @@
     <string name="virus_scan_list_item_virus">Vírus</string>
     <string name="virus_scan_list_item_risk">Gyanús</string>
     <string name="virus_scan_start">Víruskeresés</string>
-    <string name="virus_scan_support">Tencent támogatásával</string>
+    <string name="virus_scan_support"/>
     <string name="virus_scan_last_time">Utolsó víruskeresés: %s</string>
     <string name="virus_scan_safe">A rendszer vírusmentes</string>
     <string name="virus_scan_dangerous">Gyanús</string>
@@ -3096,7 +3096,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="Settings_title_power_center">A teljesítmény beállításai</string>
     <string name="Settings_title_anti_virus">A víruskereső beállításai</string>
     <string name="virus_scan_is_cloud_scanning">Cloud víruskeresése…</string>
-    <string name="perm_support_hints">LBE támogatásával</string>
+    <string name="perm_support_hints"/>
     <string name="scanning_start_hints">Előkészítés…</string>
     <string name="pref_summary_garbage_cleanup_check_size">Értesítés, ha a felesleges fájlok mérete elérte az előre beállított értéket</string>
     <string name="pref_title_expand_cache_group">Gyorsítótár bővítése</string>

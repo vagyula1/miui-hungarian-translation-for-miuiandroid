@@ -304,7 +304,7 @@
     <string name="flash_off">Nincs vaku</string>
     <string name="manual">Kézi</string>
     <string name="close">Bezárás</string>
-    <string name="details_title">%2$d a %1$d elemből:</string>
+    <string name="details_title">%1$d/%2$d :</string>
     <string name="set_label_local_albums">Helyi albumok</string>
     <string name="folder_camera">Kamera</string>
     <string name="folder_download">Letöltés</string>
@@ -313,7 +313,7 @@
     <string name="deleted">Törölve</string>
     <string name="undo">VISSZAVON</string>
     <string name="cancel">Mégsem</string>
-    <string name="set_as">Beállít,mint</string>
+    <string name="set_as">Beállít, mint</string>
     <string name="no_thumbnail">Nincs indexkép</string>
     <string name="loading">Betötlés…</string>
     <string name="crop_saved">A kivágott kép mentve %s.</string>
@@ -322,7 +322,7 @@
     <string name="white_balance">Fehéregyensúly</string>
     <string name="focal_length">Fókusztávolság</string>
     <string name="aperture">Rekesz</string>
-    <string name="flash">Vakumód</string>
+    <string name="flash">Vaku</string>
     <string name="description">Leírás</string>
     <string name="duration">Időtartam</string>
     <string name="file_size">Fájl méret</string>
@@ -335,7 +335,7 @@
     <string name="orientation">Tájolás</string>
     <string name="path">Útvonal</string>
     <string name="time">Idő</string>
-    <string name="title">Cím</string>
+    <string name="title">Név</string>
     <string name="group_by">Csoport szerint</string>
     <string name="group_by_album">Album szerint</string>
     <string name="group_by_faces">Emberek szerint</string>
@@ -468,5 +468,19 @@
     <string name="pref_camera_hdr_type_title">HDR típusa</string>
     <string name="pref_camera_hdr_type_entry_normal">Normál</string>
     <string name="pref_camera_hdr_type_entry_live">Elő</string>
+    <string name="pref_camera_ubi_focus_title">Ubi Focus</string>
+    <string name="pref_camera_opti_zoom_title">Opti Zoom</string>
+    <string name="pref_camera_chroma_flash_title">Chroma Flash</string>
+    <string name="simple_mode_button_text_ubi_focus">Ubi Focus mód bezárása</string>
+    <string name="simple_mode_button_text_chroma_flash">Chroma Flash mód bezárása</string>
+    <string name="simple_mode_button_text_opti_zoom">OptiZoom mód bezárása</string>
+    <string name="ubi_focus_exit_button_text">Kilépés az Ubi Focus módból</string>
+    <string name="chroma_flash_exit_button_text">Kilépés a Chroma Flash módból</string>
+    <string name="opti_zoom_exit_button_text">Kilépés az OptiZoom módból</string>
+    <string name="pref_camera_auto_opti_zoom_title">Automatikus Opti Zoom, ha az arány nagyobb, mint 2</string>
+    <string name="confirm_enable_opti_zoom_message">Szeretné engedélyezni az opti-zoom-ot a fényképeknél?</string>
+    <string name="enable_feature">Igen</string>
+    <string name="not_enable_feature">Emlékeztessen</string>
+    <string name="accessibility_opti_zoom_button">Opti_Zoom</string>
     <string name="accessibility_ev_control">Megvilágítás kompenzáció ellenőrzés</string>
 </resources>

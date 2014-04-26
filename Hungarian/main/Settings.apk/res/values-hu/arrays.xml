@@ -314,9 +314,16 @@
         <item>Vágólap módosítása</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Rövid</item>
-        <item>Közepes</item>
-        <item>Hosszú</item>
+	<item>Rövid</item>
+        <item>Közepes</item>   
+        <item>Hosszú</item> 
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Alapértelmezett</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Serif</item>
+        <item>Monospace</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Ellenőrzés soha</item>
@@ -409,6 +416,12 @@
         <item>Neanderthal</item>
         <item>Chimp</item>
         <item>Monkey</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>normál</item>
+        <item>közepes</item>
+        <item>alacsony</item>
+        <item>kritikus</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Erős</item>
