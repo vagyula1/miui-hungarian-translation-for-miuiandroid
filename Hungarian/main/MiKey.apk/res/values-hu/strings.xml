@@ -22,6 +22,7 @@
     <string name="action_clear_memory">RAM ürítés</string>
     <string name="action_capture_video">Videófelvétel</string>
     <string name="action_lock_screen">Képernyőzár</string>
+    <string name="action_zero_volume">Némítás</string>
     <string name="action_open_sound_recorder">Hangrögzítő</string>
     <string name="action_open_or_close_motion">Képernyő elforgatás</string>
     <string name="action_open_wechat">WeChat</string>
@@ -79,7 +80,20 @@
     <string name="select_camera">Kamera kiválasztása</string>
     <string name="front_camera">Előlapi</string>
     <string name="back_camera">Hátlapi</string>
+    <string name="settings">Beállítások</string>
+    <string name="about">Névjegy</string>
     <string name="write_pic_fail">A fénykép mentése nem sikerült!</string>
+    <string name="setting_feedback">Visszajelzés</string>
+    <string name="setting_speed_desc">"A gomb kattintásának válaszideje."</string>
     <string name="splash_tip">Csatlakoztassa a MiKey-t</string>
     <string name="task_title_prefix">"Művelet N: "</string>
+    <string name="setting_speed_slow">Lassú</string>
+    <string name="setting_speed_quick">Gyors</string>
+    <string name="setting_keeplive_desc">"Ez a beílltás lehetővé teszi, hogy az alkalmazások a háttérben fussanak ezáltal gyorsan elérhetővé váljanak, ami azonban növelheti az akkumulátor fogyasztást."</string>
+    <string name="setting_speed_text">Sebbesség</string>
+    <string name="setting_keeplive_text">Fut a háttérben</string>
+    <string name="setting_instant_photo_text">Fókuszálás fényképezés előtt</string>
+    <string name="setting_vibrate_text">Érintési visszajelzés</string>
+    <string name="setting_instant_photo_desc">"Fókuszálás fényképezés előtt."</string>
+    <string name="setting_speed_max_time">1000</string>
 </resources>
