@@ -5,16 +5,6 @@
         <item>Szám rejtése</item>
         <item>Szám mutatása</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>CDMA / EvDo automatikus</item>
-        <item>Csak WCDMA</item>
-        <item>CsakGSM</item>
-        <item>GSM / WCDMA preferált</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM / WCDMA preferred</item>
-    </string-array>
     <string-array name="list_language_entries">
         <item>Angol</item>
         <item>Francia</item>

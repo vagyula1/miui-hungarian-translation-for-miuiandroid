@@ -195,7 +195,7 @@
   <string name="st_mute_block">Lenémított hívások és elutasított üzenetek</string>
   <string name="st_mute_title">Csendes üzemmód</string>
   <string name="st_other_setting_group">Egyéb</string>
-  <string name="st_settings_name">Művelet kiválasztása</string>
+  <string name="st_settings_name">Beállítás</string>
   <string name="st_show_block_notification">Tiltólista értesítés kijelzés</string>
   <string name="st_show_num_keyword">" kulcsszó"</string>
   <string name="st_show_num_number">" szám"</string>
@@ -240,7 +240,7 @@
   <string name="tab_block_log_unKnowNumber">Ismeretlen szám</string>
   <string name="tab_call">Hívásnapló</string>
   <string name="tab_sms">Üzenetnapló</string>
-  <string name="tab_title">Felügyelet</string>
+  <string name="tab_title">Tiltólista</string>
   <string name="toast_keyword_blank">Kulcsszó üres</string>
   <string name="toast_keyword_exist">Kulcsszó: %s már létezik</string>
   <string name="toast_keyword_invalid">Érvénytelen kulcsszó</string>

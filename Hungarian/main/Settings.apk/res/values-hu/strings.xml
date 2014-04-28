@@ -2924,7 +2924,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="msg_update_error_code_network_error">Hálózati hiba,próbálja később!</string>
     <string name="msg_update_error_code_unknown_error">Ismeretlen hiba,próbálja később!</string>
     <string name="msg_cleanup_db_update_time_unknown">Frissítve:ismeretlen</string>
-    <string name="quick_cleanup">Tisztítás</string>
+    <string name="quick_cleanup">RAM ürítés</string>
     <string name="menu_item_notification_title">Kijelzés az értesítési panelen</string>
     <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_garbage_text_error">Hiba</string>
@@ -3132,4 +3132,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="menu_proc_stats_type_cached">Gyorsítótárazott folyamatok</string>
     <string name="force_rtl_layout_all_locales">Elrendezés jobbról balra</string>
     <string name="force_rtl_layout_all_locales_summary">Elrendezés jobbról balra minden nyelvnél</string>
+    <string name="select_runtime_title">Futtatási környezet kiválasztása</string>
+    <string name="select_runtime_dialog_title">Futtatási környezet kiválasztása</string>
+    <string name="select_runtime_warning_message">Újraindítja, hogy a futtatási környezet módosuljon %1$s beállításról %2$s beállításra?</string>
 </resources>

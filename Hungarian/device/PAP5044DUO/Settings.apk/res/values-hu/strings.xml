@@ -575,7 +575,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="common_settings">Gyakran használt</string>
     <string name="complete_settings">Minden beállítás</string>
     <string name="computing_size">Számítás...</string>
-    <string name="config_list_label">Beállított hálózatok</string>
     <string name="configure_input_method">Beviteli módok beállítása</string>
     <string name="confirm">OK</string>
     <string name="confirm_clear_blacklist">Törli a blokkolt listát?</string>
@@ -786,7 +785,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="disable_service_title">Leállítja a következőt: %1$s?</string>
     <string name="disable_text">Letiltás</string>
     <string name="disabled">Letiltva</string>
-    <string name="disconnect">Leválaszt</string>
     <string name="display_font_size_label">Betűméret:</string>
     <string name="display_label">Képernyő</string>
     <string name="display_order_text">Rendezési szempont:</string>
@@ -1038,7 +1036,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="headset_settings">Fülhallgató</string>
     <string name="heavy_weight_stop_description">Ezt az alkalmazást nem lehet biztonságosan leállítani. Ha leállítja, akkor elveszítheti az aktuális munkájának egy részét.</string>
     <string name="help_label">Súgó</string>
-    <string name="hidden_ssid_label">Rejtett SSID:</string>
     <string name="history_details_title">Előzmények részletei</string>
     <string name="home_app_uninstall_button">Alkalmazás eltávolítása</string>
     <string name="home_key">Home gomb</string>
@@ -1081,7 +1078,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="internal_storage">Belső tárhely</string>
     <string name="invalid_location">A telepítés helye nem érvényes.</string>
     <string name="invalid_size_value">Nem lehet kiszámítani a csomag méretét</string>
-    <string name="ipaddr_label">IP cím:</string>
     <string name="item_app_permission">Alkalmazás engedélyek</string>
     <string name="item_install_monitor">Telepítés ellenőrzése</string>
     <string name="item_mms">Kéretlen üzenetek szűrése</string>
@@ -1125,7 +1121,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="led_settings">Jelzőfény</string>
     <string name="legal_information">Jogi információk</string>
     <string name="license_title">Licensz</string>
-    <string name="link_speed_label">Kapcsolat sebessége:</string>
     <string name="local_backup_password_summary_change">Válassza ki, ha módosítaná vagy eltávolítaná a jelszót az asztali teljes mentésekhez</string>
     <string name="local_backup_password_summary_none">Az asztali teljes biztonsági mentések jelenleg nem védettek.</string>
     <string name="local_backup_password_title">Asztali mentés jelszava</string>
@@ -1227,7 +1222,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="log_count">(%d)</string>
     <string name="lte_ram_dump_off">Ite ramlista kikapcsolása</string>
     <string name="lte_ram_dump_on">Ite ramlista bekapcsolása</string>
-    <string name="macaddr_label">MAC cím:</string>
     <string name="main_running_process_description">A használatban lévő fő folyamat.</string>
     <string name="man_add_application">Alkalmazás hozzáadása</string>
     <string name="manage_device_admin">Eszköz-rendszergazdák</string>
@@ -1341,8 +1335,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="network_assistant">Adatforgalom</string>
     <string name="network_detail">%s hálózat részletei</string>
     <string name="network_settings_title">Mobilhálózatok</string>
-    <string name="network_state_label">Hálózat állapota:</string>
-    <string name="networkid_label">Hálózati azonosító:</string>
     <string name="networks">Szolgáltatóválasztás</string>
     <string name="new_backup_pw_prompt">Írjon be új jelszót a teljes mentésekhez itt</string>
     <string name="new_bw_list_button">Hozzáadás</string>
@@ -1957,7 +1949,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="runningservices_settings_title">Futó szolgáltatások</string>
     <string name="save_button">Mentés</string>
     <string name="scan_done">A vizsgálat befejeződött</string>
-    <string name="scan_list_label">Keresési eredmények:</string>
     <string name="scanning_virus">Víruskeresés...</string>
     <string name="score">pont</string>
     <string name="score_good_state">A készülék optimalizálva</string>
@@ -2215,7 +2206,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="summary_usb">Vírusfertőzés elkerülése USB-kapcsolaton keresztül</string>
     <string name="summary_virus">%2$d vírus találat</string>
     <string name="summary_virus_update">Vírusadatbázis automatikus frissítése Wi-Fi kapcsolat esetén</string>
-    <string name="supplicant_state_label">Kiegészítő állapota:</string>
     <string name="sync_active">Szinkronizálás aktív</string>
     <string name="sync_automatically">Adatok automatikus szinkronizálása</string>
     <string name="sync_calendar">Naptár</string>
@@ -2244,7 +2234,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="testing_phone_info">Telefon adatai</string>
     <string name="testing_sim_toolkit">SIM eszköztár</string>
     <string name="testing_usage_stats">Használati statisztika</string>
-    <string name="testing_wifi_info">Wi-Fi információ</string>
     <string name="tether_settings_title_all">Internet megosztása</string>
     <string name="tether_settings_title_bluetooth">Bluetooth megosztása</string>
     <string name="tether_settings_title_usb">USB-megosztás</string>
@@ -2252,7 +2241,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="tether_settings_title_wifi">Hordozható hotspot</string>
     <string name="tethering_help_button_text">Súgó</string>
     <string name="time_picker_title">Idő</string>
-    <string name="time_zone_auto_stub">Válasszon időzónát</string>
     <string name="timezone_settings">Időzóna</string>
     <string name="title_app_update_no">%d alkalmazáshoz elérhető frissítés</string>
     <string name="title_app_update_yes">Minden alkalmazás naprakész</string>
@@ -2870,14 +2858,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="wifi_speed">Vonalsebesség</string>
     <string name="wifi_ssid">Hálózati SSID</string>
     <string name="wifi_starting">Wi-Fi bekapcsolása...</string>
-    <string name="wifi_state_disabled">Kikapcsolva</string>
-    <string name="wifi_state_disabling">Kikapcsolás</string>
-    <string name="wifi_state_enabled">Bekapcsolva</string>
-    <string name="wifi_state_enabling">Bekapcsolás</string>
-    <string name="wifi_state_label">Wi-Fi állapota:</string>
-    <string name="wifi_state_unknown">Ismeretlen</string>
     <string name="wifi_status">Állapot</string>
-    <string name="wifi_status_test">Wi-Fi állapot</string>
     <string name="wifi_stopping">Wi-Fi kikapcsolása...</string>
     <string name="wifi_suspend_optimizations">Wi-Fi optimalizálása</string>
     <string name="wifi_suspend_optimizations_summary">Az akkumulátorhasználat minimalizálása, ha a Wi-Fi be van kapcsolva</string>
@@ -2910,7 +2891,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="wifi_tether_stopping">Hotspot kikapcsolása...</string>
     <string name="wifi_unchanged">(nem változott)</string>
     <string name="wifi_unspecified">(nincs megadva)</string>
-    <string name="wifi_update">Statisztika frissítése</string>
     <string name="wifi_wapi_as_certificate">AS tanúsítvány</string>
     <string name="wifi_wapi_cert_cancel_button">Mégsem</string>
     <string name="wifi_wapi_cert_create_subdir">Új mappa</string>
