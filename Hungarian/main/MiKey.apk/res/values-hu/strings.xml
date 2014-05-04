@@ -90,7 +90,8 @@
     <string name="setting_speed_slow">Lassú</string>
     <string name="setting_speed_quick">Gyors</string>
     <string name="setting_keeplive_desc">"Ez a beílltás lehetővé teszi, hogy az alkalmazások a háttérben fussanak ezáltal gyorsan elérhetővé váljanak, ami azonban növelheti az akkumulátor fogyasztást."</string>
-    <string name="setting_speed_text">Sebbesség</string>
+    <string name="setting_vibrate_desc">"Érintési visszajelzés beállítása"</string>
+    <string name="setting_speed_text">Sebesség</string>
     <string name="setting_keeplive_text">Fut a háttérben</string>
     <string name="setting_instant_photo_text">Fókuszálás fényképezés előtt</string>
     <string name="setting_vibrate_text">Érintési visszajelzés</string>

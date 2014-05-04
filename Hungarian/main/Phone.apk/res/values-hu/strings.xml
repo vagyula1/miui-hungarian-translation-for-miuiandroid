@@ -920,7 +920,7 @@
   <string name="transport_title">Átvitel típusa</string>
   <string name="turn_off_auto_select_confirm_message_miui">A hálózat nem elérhető,kikapcsolja ezt az opciót?</string>
   <string name="turn_off_auto_select_title_miui">Hálózat automata kiválasztás kikapcsolás</string>
-  <string name="turn_off_auto_select_warning_message_miui">After turning off this option, it will use the network you selected manually and will not register to another network</string>
+  <string name="turn_off_auto_select_warning_message_miui">Az opció kikapcsolása után a manuálisan kiválasztott hálózatot fogja használni és nem fog másik hálózatra regisztrálni</string>
   <string name="turn_off_miui">kikapcsolás</string>
   <string name="turnover_mute_summary_miui">Fordítsa le vízszintesen a telefont a némításhoz</string>
   <string name="turnover_mute_title_miui">Lefordításkor némítás</string>

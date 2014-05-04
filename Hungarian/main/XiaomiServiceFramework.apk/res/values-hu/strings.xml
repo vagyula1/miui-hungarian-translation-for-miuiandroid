@@ -52,7 +52,7 @@ névjegyzékét, üzeneteit,  fényképeit, jegyzeteit."</string>
     <string name="add_weibo_account">Fiók hozzáadása</string>
     <string name="alert_notif_title_dspt">Az adatok biztonsága érdekében javasolt a szinkronizálás</string>
     <string name="alert_title_remove_account">Fiók eltávolítása</string>
-    <string name="app_name">Xiaomi service framework</string>
+    <string name="app_name">MiCloud</string>
     <string name="available_functionality">Rendelkezésre álló funkciók</string>
     <string name="bad_authentication">Azonosítás sikertelen. Hibás felhasználónév vagy jelszó</string>
     <string name="bind_sina_weibo">Bind Sina WeiBo</string>

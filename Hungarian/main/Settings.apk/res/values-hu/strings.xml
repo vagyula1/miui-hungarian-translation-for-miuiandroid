@@ -1238,6 +1238,7 @@
     <string name="wifi_wps_failed_overlap">Egy másik WPS-munkamenetet észleltünk. Kérjük, próbálkozzon újra néhány perc múlva.</string>
     <string name="wifi_ssid">Hálózati SSID</string>
     <string name="wifi_security">Biztonság</string>
+    <string name="wifi_security_none">Nincs</string>
     <string name="wifi_signal">Jelerősség</string>
     <string name="wifi_status">Állapot</string>
     <string name="wifi_speed">Vonalsebesség</string>

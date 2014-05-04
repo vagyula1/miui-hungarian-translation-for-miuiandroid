@@ -230,7 +230,7 @@
   <string name="st_title_man_head_addblacklist">Telefonszám előtagjának hozzáadásaa tiltólistához</string>
   <string name="st_title_man_head_addwhitelist">Telefonszám előtagjának hozzáadásaa a kivételekhez</string>
   <string name="st_title_mode_choose_group">Az elutasítás módjának kiválasztása</string>
-  <string name="st_title_open_antispam">Tiltólista</string>
+  <string name="st_title_open_antispam">Tiltólista használata</string>
   <string name="st_title_settings_other_group">További beállítások</string>
   <string name="st_title_show_antispamnotification">Értesítés elutasított hívás esetén</string>
   <string name="st_title_whitelist_numbers">Kivételek</string>
