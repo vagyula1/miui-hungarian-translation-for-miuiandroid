@@ -210,4 +210,19 @@ Engedélyezés a Beállítások >Settings > Eszközök > Gombok menüpontban"</s
     <string name="easter"/>
     <string name="text_copied">A szöveg a vágólapra másolva.</string>
     <string name="text_cut">Szöveg kivágása</string>
+    <string name="sync_data_merge_warning_desc">%s adatai a telefonon egyesítve lesznek a felhőben szereplő adataival! Használja körültekintően!</string>
+    <string name="sync_data_recover_warning_title">Adatvisszaállítási figyelmeztetés</string>
+    <string name="sync_data_recover_warning_desc">%s adatai a telefonon vissza lesznek állítva a felhőből! Használja körültekintően!</string>
+    <string name="sync_data_merge_warning_ok">Egyesítés</string>
+    <string name="sync_data_merge_warning_cancel">Mégsem</string>
+    <string name="sync_data_recover_warning_ok">Visszaállítás</string>
+    <string name="sync_data_recover_warning_cancel">Mégsem</string>
+    <string name="sync_data_contact">Névjegyek</string>
+    <string name="sync_data_mms">SMS</string>
+    <string name="sync_data_cloud_album">Cloud album</string>
+    <string name="sync_data_call_log">Hívásnapló</string>
+    <string name="sync_data_notes">Jegyzetek</string>
+    <string name="sync_data_msg_seperate">, </string>
+    <string name="sync_data_loading">Adatok lekérése a szerverről</string>
+    <string name="sync_data_merge_warning_title">Adat egyesítési figyelmeztetés</string>
 </resources>

@@ -2,22 +2,42 @@
 <resources>
     <plurals name="delete_files_confirm">
         <item quantity="other">Biztos, hogy törli a %1$d fájlt</item>
+        <item quantity="zero">Biztos, hogy törli a %1$d fájlt</item>
         <item quantity="one">Biztos, hogy törli a fájlt</item>
+        <item quantity="two">Biztos, hogy törli a %1$d fájlt</item>
+        <item quantity="few">Biztos, hogy törli a %1$d fájlt</item>
+        <item quantity="many">Biztos, hogy törli a %1$d fájlt</item>
     </plurals>
     <plurals name="delete_folders_confirm">
         <item quantity="other">" és a %1$d mappát?"</item>
+        <item quantity="zero">" és a %1$d mappát?"</item>
         <item quantity="one">" és a mappát?"</item>
+        <item quantity="two">" és a %1$d mappát?"</item>
+        <item quantity="few">" és a %1$d mappát?"</item>
+        <item quantity="many">" és a %1$d mappát?"</item>
     </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d elem</item>
-        <item quantity="one">1 elem</item>
+        <item quantity="zero">%d elem</item>
+        <item quantity="one">%d elem</item>
+        <item quantity="two">%d elem</item>
+        <item quantity="few">%d elem</item>
+        <item quantity="many">%d elem</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">%1$d fájl letöltése van hátra</item>
         <item quantity="one">1 fájl letöltése van hátra</item>
+        <item quantity="zero">Nincs letöltés</item>
+        <item quantity="two">%1$d fájl letöltése van hátra</item>
+        <item quantity="few">%1$d fájl letöltése van hátra</item>
+        <item quantity="many">%1$d fájl letöltése van hátra</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">%1$d feltöltése van hátra</item>
-        <item quantity="one">1 fájl feltöltése van hátra</item>
+        <item quantity="other">%1$d feltöltés van hátra</item>
+        <item quantity="one">1 fájl feltöltés van hátra</item>
+        <item quantity="zero">Nincs feltöltés</item>
+        <item quantity="two">%1$d feltöltés van hátra</item>
+        <item quantity="few">%1$d feltöltés van hátra</item>
+        <item quantity="many">%1$d feltöltés van hátra</item>
     </plurals>
 </resources>

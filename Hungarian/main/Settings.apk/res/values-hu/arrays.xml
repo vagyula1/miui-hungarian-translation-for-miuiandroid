@@ -510,7 +510,7 @@ a meghajtóprogram kézi telepítése szükséges"</item>
 Csatlakozáskor, a Xiaomi megjelenik, mint USB mass storage eszköz.
  Nyissa meg és válassza a Setup.exe fájlt a telepítéshez"</item>
         <item></item>
-        <item>"Csatlakozáskor, a Xiaomi megjelenik, mint USB mass storage eszköz..
+        <item>"Csatlakozáskor, a Xiaomi megjelenik, mint USB mass storage eszköz.
 Nyissa meg és válassza a AndroidFileTransfer.dmg fájlt a telepítéshez"</item>
         <item></item>
     </string-array>
@@ -523,10 +523,10 @@ Most már alkalmas a fájlátvitelre"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>"Ha telepíti ezt a meghajtóprogramot
-MI 3 mobil tároló eszköznek fog megjelenni a számítógépen"</item>
+        <item>"A meghajtóprogram telepítése után a 
+Mi3 mobil tároló eszközként fog megjelenni a számítógépen"</item>
         <item>"A  Windows Vistánál és újabb verzióknál,
-a MI 3 zenelejátszóként megjelenik a számítógépen"</item>
+a Mi3 zenelejátszóként megjelenik a számítógépen"</item>
         <item>"Ha telepíti ezt a meghajtóprogramot
 a számítógép automatikusan beolvassa a telefonon lévő fájlokat"</item>
         <item></item>

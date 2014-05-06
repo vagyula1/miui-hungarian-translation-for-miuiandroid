@@ -315,4 +315,14 @@
     <string name="collect_bill_success">Számla a kedvencekhez adva</string>
     <string name="collect_fm_success">Hozzáadva a kedvencekhez</string>
     <string name="uncollect_success">Eltávolítás a kedvencekből</string>
+    <string name="dirac_mode_general_earbuds">Általános fülhallgató</string>
+    <string name="dirac_mode_general_inear">Általános hallójárati fülhallgató</string>
+    <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
+    <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
+    <string name="sync_alert_title">Zene szinkronizálása</string>
+    <string name="sync_alert_message">Szinkronizálja a telefonján lévő kedvenc zenéit a MiCloud fiókjával.</string>
+    <string name="not_now">Most nem</string>
+    <string name="sync_disable_toast">Később bekapcsolhatja a Beállítások > Fiókok > MiCloud menüpontban</string>
+    <string name="login_and_enable">Bejelentkzeés és szinkronizálás</string>
+    <string name="sync_enable_toast">Módosíthatja a Beállítások > Fiókok > MiCloud menüpontban</string>
 </resources>

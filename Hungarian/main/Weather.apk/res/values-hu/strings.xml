@@ -6,8 +6,8 @@
   <string name="act_aqi_so2_title">SO2</string>
   <string name="act_city_find_gps_error">Város kiválasztása a listából.</string>
   <string name="act_find_city_hint">Keresés</string>
-  <string name="act_find_city_hot_title">Népszerű városok</string>
-  <string name="act_find_city_null_data">Nincs eredmény.</string>
+  <string name="act_find_city_hot_title">Hozzáadás</string>
+  <string name="act_find_city_null_data">Nincs eredmény</string>
   <string name="act_find_city_title">Új helyszín</string>
   <string name="act_init_dialog_finish">Globális időjárás információ hozzáadva.</string>
   <string name="act_set_city_find_side">Helyszín keresése..</string>
@@ -108,7 +108,7 @@
   <string name="sina_token_invalid_warning">Weibo fiók érvénytelen,lépjen be újra</string>
   <string name="sms_notification">Küldés SMS-ben</string>
   <string name="tip_weather">MIUI időjárás értesítés</string>
-  <string name="tip_weather_info_content_1">Bring layers!</string>
+  <string name="tip_weather_info_content_1">Öltözzön rétegesen!</string>
   <string name="tip_weather_info_title_1">%1$s a várható hőmérséklet különbség %2$d fok</string>
   <string name="tip_weather_info_title_2">%1$s mai hőmérséklete %2$s</string>
   <string name="trend_weather_today">Ma</string>
@@ -123,4 +123,13 @@
   <string name="menu_more">Részletek</string>
   <string name="network_unavailable">Nincs hálózat</string>
   <string name="weather_data_unreachable">"Az időjárás adatok letöltése nem sikerült.Próbálja meg később."</string>
+  <string name="location_tag">Helymeghatározás</string>
+  <string name="act_weather_find_city_no_result">Nincs eredmény</string>
+  <string name="act_weather_find_city_added">A város hozzáadva</string>
+  <string name="act_weather_find_city_net_no_good">"Nem sikerült csatlakozni a hálózathoz"</string>
+  <string name="act_weather_find_city_click_retry">Érintse meg újra</string>
+  <string name="button_abandon">Elvetés</string>
+  <string name="act_weather_cycle_no_forcast">Ismeretlen</string>
+  <string name="edit_city">Módosítás</string>
+  <string name="gps_hint">Jelenlegi helyszín</string>
 </resources>

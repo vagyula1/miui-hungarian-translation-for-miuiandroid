@@ -693,4 +693,10 @@ mérete elérte a maximálisan fogadható mérethatárt"</string>
     <string name="outbox_alert_button_confirm">Szerkesztés</string>
     <string name="blank_feedback_toast">A visszajelzés mező üres, írjon be megjegyzését!</string>
     <string name="contact_select">Válasszon névjegyet</string>
+    <string name="wait_for_sync_body_txt_array_1">Az Exchange Szerver figyelmezteti fogja</string>
+    <string name="wait_for_sync_body_txt_array_2">1–30</string>
+    <string name="wait_for_sync_body_txt_array_3">mp múlva. Ellenőrizze a biztonsági beállításokat ás aktiválja. Ügyeljen a</string>
+    <string name="wait_for_sync_body_txt_array_4">rendszer figyelmeztetésre</string>
+    <string name="wait_for_sync_body_txt_array_5">.</string>
+    <string name="wait_for_sync_note">Húzza le az értesítéshez. Érintse meg a biztonsági beállítások befejezéséhez.</string>
 </resources>

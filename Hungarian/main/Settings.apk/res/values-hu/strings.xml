@@ -220,7 +220,7 @@
     <string name="version_text">Verzió: %1$s</string>
     <string name="privacy_relative">Adatvédelmi kapcsolat</string>
     <string name="perm_app_name">Engedélyek</string>
-    <string name="perm_copyright">LBE Privacy Guard által fejlesztve</string>
+    <string name="perm_copyright"/>
     <string name="perm_version">Verzió: %1$s</string>
     <string name="perm_configuration">Beállítások</string>
     <string name="perm_user_app">Letötltött alk. (%d)</string>
@@ -3136,4 +3136,16 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="select_runtime_title">Futtatási környezet kiválasztása</string>
     <string name="select_runtime_dialog_title">Futtatási környezet kiválasztása</string>
     <string name="select_runtime_warning_message">Újraindítja, hogy a futtatási környezet módosuljon %1$s beállításról %2$s beállításra?</string>
+    <string name="dirac_mode_general_inear">Általános fülhallgató</string>
+    <string name="dirac_mode_piston_1">Xiaomi piston-1</string>
+    <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
+    <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
+    <string name="msd_pc_system_install_start_summary_vista">"A Windows Vistánál és újabb verzióknál,
+%1$s tároló eszköznként fog megjelenni a számítógépen."</string>
+    <string name="msd_pc_system_install_step_2_summary_xp">"2. Számítógéphez való csatlakozás után 
+%1$s tároló eszköznként fog megjelenni a számítógépen."</string>
+    <string name="msd_pc_system_install_finish_summary_xp">"A meghajtóprogram telepítése után
+%1$s tároló eszköznként fog megjelenni a számítógépen."</string>
+    <string name="msd_pc_system_install_finish_summary_vista">"A Windows Vistánál és újabb verzióknál,
+%1$s automatikusan zenelejátszóként fog megjelenni a számítógépen."</string>
 </resources>
