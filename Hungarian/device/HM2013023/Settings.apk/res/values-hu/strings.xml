@@ -782,7 +782,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="debug_hw_drawing_category">Hardveres gyorsítású megjelenítés</string>
     <string name="debug_hw_overdraw">GPU tartalom-felülírási hibakeresés</string>
     <string name="debug_input_category">Bevitel</string>
-    <string name="debug_intent_sender_label">Hibajelentés feladója</string>
     <string name="debug_layout">Elrendezéshatár mutatása</string>
     <string name="debug_layout_summary">Kliphatárok,margók stb. megjelenítése</string>
     <string name="debug_log">Hibajelentés</string>
