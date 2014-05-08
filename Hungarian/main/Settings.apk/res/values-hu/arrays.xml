@@ -614,4 +614,8 @@ a számítógép automatikusan beolvassa a telefonon lévő fájlokat"</item>
         <item>A deuteranomália területeinek megjelenítése</item>
         <item>Tartalom-felülírási számláló megjelenítése</item>
     </string-array>
+    <string-array name="perm_disable_keyguard_action">
+        <item>Engedélyez</item>
+        <item>Megtagad</item>
+    </string-array>
 </resources>

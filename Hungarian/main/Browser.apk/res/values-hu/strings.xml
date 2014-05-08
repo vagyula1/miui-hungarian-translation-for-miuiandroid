@@ -521,7 +521,7 @@
     <string name="time_picker_dialog_pm">Du</string>
     <string name="time_picker_dialog_title">Idő beállítása</string>
     <string name="title_bar_loading">Betöltés…</string>
-    <string name="too_many_windows_dialog_message">Nem nyithat meg új fület, amíg be nem zár egy másikat.</string>
+    <string name="too_many_windows_dialog_message">Nem nyitható meg új oldal, amíg be nem zár egy másikat.</string>
     <string name="too_many_windows_dialog_title">Elérte a lapok maximális számát</string>
     <string name="ua_switcher_desktop">Asztali webhely kérése</string>
     <string name="uploads_disabled">A fájlok feltöltése le van tiltva.</string>

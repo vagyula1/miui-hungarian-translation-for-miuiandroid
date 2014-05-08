@@ -1819,6 +1819,9 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="user_dict_settings_add_shortcut_option_name">Parancsikon:</string>
     <string name="user_dict_settings_add_locale_option_name">Nyelv:</string>
     <string name="user_dict_settings_edit_dialog_title">Szó szerkesztése</string>
+    <string name="user_dict_settings_add_word_hint">Írjon be egy szót</string>
+    <string name="user_dict_settings_add_shortcut_hint">Opcionális parancsikon</string>
+    <string name="user_dict_settings_edit_dialog_title">Szó szerkesztése</string>
     <string name="user_dict_settings_context_menu_edit_title">Szerkesztés</string>
     <string name="user_dict_settings_context_menu_delete_title">Törlés</string>
     <string name="user_dict_settings_empty_text">Nincsenek szavak a felhasználói szótárban. Új szavakat a Hozzáadás (+) gomb megérintésével vehet fel.</string>
@@ -3148,4 +3151,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
 %1$s tároló eszköznként fog megjelenni a számítógépen."</string>
     <string name="msd_pc_system_install_finish_summary_vista">"A Windows Vistánál és újabb verzióknál,
 %1$s automatikusan zenelejátszóként fog megjelenni a számítógépen."</string>
+    <string name="dialog_title_auto_start_tips">Az automatikus indításkor</string>
+    <string name="dialog_message_auto_start_tips">Néhány alkalmazás rosszul jelzi, hogy a rendszer megakadályozta az automatikus indítást. Ezt ellenőrizheti a Beállítások > Alkalmazások menüpont alatt.</string>
+    <string name="button_text_known">Ok</string>
 </resources>
