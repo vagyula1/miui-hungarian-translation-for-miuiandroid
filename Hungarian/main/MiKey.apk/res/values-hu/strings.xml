@@ -50,6 +50,7 @@
     <string name="delete">Törlés</string>
     <string name="input_phone">Telefonszám megadása</string>
     <string name="earphone">Fülhallgató</string>
+    <string name="file_delimiter">/</string>
     <string name="select_device">Mit szeretne csatlakoztatni?</string>
     <string name="times">alkalommal</string>
     <string name="rank_prefix">"Értékelés: "</string>
@@ -58,6 +59,7 @@
     <string name="device_not_recognized">A csatlakoztatott eszköz nem ismerhető fel, próbálja újra.</string>
     <string name="clean_memory">Memória ürítése</string>
     <string name="close_all">Bezárás</string>
+    <string name="close_recorder">Hangrögzítő bezárása</string>
     <string name="sms_sent_done">Üzenet elküldve</string>
     <string name="cn_0">0</string>
     <string name="cn_1">1</string>
@@ -97,4 +99,13 @@
     <string name="setting_vibrate_text">Érintési visszajelzés</string>
     <string name="setting_instant_photo_desc">"Fókuszálás fényképezés előtt."</string>
     <string name="setting_speed_max_time">1000</string>
+    <string name="notification_control_play">Lejátszás</string>
+    <string name="notification_control_stop">Megállítás</string>
+    <string name="notification_recorder_file_location">Fájl helye:</string>
+    <string name="notification_recorder_start">Felvétel indítása...</string>
+    <string name="sdcard">sd kártya</string>
+    <string name="setting_silent_mode">Néma üzemmód</string>
+    <string name="showSlip">Legördülő értesítés</string>
+    <string name="silent_mode_tip_main">Némítás gomb le van tiltva</string>
+    <string name="silent_mode_tip_sub">Kapcsolja be a beállításokban</string>
 </resources>
