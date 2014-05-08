@@ -1821,7 +1821,6 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="user_dict_settings_edit_dialog_title">Szó szerkesztése</string>
     <string name="user_dict_settings_add_word_hint">Írjon be egy szót</string>
     <string name="user_dict_settings_add_shortcut_hint">Opcionális parancsikon</string>
-    <string name="user_dict_settings_edit_dialog_title">Szó szerkesztése</string>
     <string name="user_dict_settings_context_menu_edit_title">Szerkesztés</string>
     <string name="user_dict_settings_context_menu_delete_title">Törlés</string>
     <string name="user_dict_settings_empty_text">Nincsenek szavak a felhasználói szótárban. Új szavakat a Hozzáadás (+) gomb megérintésével vehet fel.</string>

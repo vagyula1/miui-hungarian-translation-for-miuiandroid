@@ -9,8 +9,6 @@ névjegyzékét, üzeneteit,  fényképeit, jegyzeteit."</string>
     <string name="account_hint_text">Email/Telefonszám</string>
     <string name="account_name">Fiók: %1$s</string>
     <string name="account">Fiók</string>
-    <string name="activate_phone_failed_notif_title_msim">%s SIM-ről a MiCloud indítása sikertelen</string>
-    <string name="activate_phone_failed_notif_title">A MiCloud szolgáltatás engedélyezése nem sikerült</string>
     <string name="activate_phone_send_sms_fail">Az aktiváló SMS elküldése nem sikerült, a szinkronizálás nem folytatható</string>
     <string name="activate_phone_send_sms_failed_notif">Az aktiváló SMS elküldése nem sikerült</string>
     <string name="activate_phone_server_error_notif">Szerverhiba</string>
@@ -259,7 +257,6 @@ Egy nemzetközi üzenetdíjnak megfelelő SMS szükséges az aktiváláshoz</str
     <string name="wrong_captcha">Hibás captcha kód</string>
     <string name="wrong_vcode">Hibás ellenőrzőkód</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
-
     <string name="activate_desc_2_intl_sim_cards">A 2 SIM kártya kártya aktiválásához 2db nemzetközi SMS elküldése szükséges</string>
     <string name="activate_desc_2_sim_cards">A 2 SIM kártya kártya aktiválásához egy 2db SMS elküldése szükséges</string>
     <string name="activate_desc_intl_sim_card">A SIM kártya kártya aktiválásához egy nemzetközi SMS elküldése szükséges</string>
@@ -269,7 +266,7 @@ Egy nemzetközi üzenetdíjnak megfelelő SMS szükséges az aktiváláshoz</str
     <string name="activate_feature_find_device">Eszköz keresése</string>
     <string name="activate_feature_mms_sync">Üzenetek szinkr.</string>
     <string name="activate_feature_mx">Ingyenes felhő üzenetkezelés</string>
-    <string name="activate_phone_failed_notif_title">"A SIM kártya aktiválása nem sikrült"</string>
+    <string name="activate_phone_failed_notif_title">A SIM kártya aktiválása nem sikerült</string>
     <string name="activate_phone_failed_notif_title_msim">"%s SIM kártya akiválása nem sikerült"</string>
     <string name="activate_popup_confirm_failed_phone_error">Újra</string>
     <string name="activate_popup_confirm_failed_query_info">Újra</string>
