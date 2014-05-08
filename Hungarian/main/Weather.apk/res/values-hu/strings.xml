@@ -49,8 +49,8 @@
   <string name="aqi_quality_index_moderate">mérsékelt</string>
   <string name="aqi_quality_index_pure">tiszta</string>
   <string name="aqi_quality_index_unhealthy">egészségtelen</string>
-  <string name="button_allow">Engedélyez</string>
-  <string name="button_not_allow">Megtagad</string>
+  <string name="button_allow">Mentés</string>
+  <string name="button_not_allow">Mégsem</string>
   <string name="cancel">Mégsem</string>
   <string name="enable_gps">GPS</string>
   <string name="enable_notification">Helyszín megjegyzése</string>
@@ -130,6 +130,6 @@
   <string name="act_weather_find_city_click_retry">Érintse meg újra</string>
   <string name="button_abandon">Elvetés</string>
   <string name="act_weather_cycle_no_forcast">Ismeretlen</string>
-  <string name="edit_city">Módosítás</string>
+  <string name="edit_city">Szerkeszt</string>
   <string name="gps_hint">Jelenlegi helyszín</string>
 </resources>

@@ -3150,7 +3150,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
 %1$s tároló eszköznként fog megjelenni a számítógépen."</string>
     <string name="msd_pc_system_install_finish_summary_vista">"A Windows Vistánál és újabb verzióknál,
 %1$s automatikusan zenelejátszóként fog megjelenni a számítógépen."</string>
-    <string name="dialog_title_auto_start_tips">Az automatikus indításkor</string>
-    <string name="dialog_message_auto_start_tips">Néhány alkalmazás rosszul jelzi, hogy a rendszer megakadályozta az automatikus indítást. Ezt ellenőrizheti a Beállítások > Alkalmazások menüpont alatt.</string>
+    <string name="dialog_title_auto_start_tips">Az automatikus indításról</string>
+    <string name="dialog_message_auto_start_tips">Egyes biztonsági alkalmazások hibásan jelzik, hogy a rendszer megakadályozta az automatikus indítást. Az engedélyek ellenőrzése a Beállítások > Alkalmazások menüpont alatt található.</string>
     <string name="button_text_known">Ok</string>
 </resources>
