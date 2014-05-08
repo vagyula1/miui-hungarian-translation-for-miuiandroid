@@ -173,13 +173,14 @@ névjegyzékét, üzeneteit,  fényképeit, jegyzeteit."</string>
     <string name="micloud_resend_active_email">Aktiváló email újraküldés</string>
     <string name="micloud_space_full_influence"><u>Mi történik ha megtelik a felhő tárhely?</u></string>
     <string name="micloud_storage_space">MiCloud tárhely</string>
-    <string name="micloud_summary">Login to Xiaomi account to sync Contacts, Gallery Albums and other functions.</string>
-    <string name="micloud_title_dspt" formatted="false">Teljes méret %s felhasznált %s | elérhető %s</string>
+    <string name="micloud_summary">Jelentkezzen be a Xiaomi fiókba a névjegyek, fényképek szinkronizálásához és egyéb szolgáltatások eléréséhez.</string>
+    <string name="micloud_title_dspt" formatted="false">Teljes méret %s
+Felhasznált %s | Elérhető %s</string>
     <string name="micloud_title_full_dspt">A MiCloud tárhely megtelt!</string>
     <string name="micloud_use_existing">Meglévő</string>
-    <string name="micloud_user_base_info">Felhasználó információ</string>
+    <string name="micloud_user_base_info">Felhasználói adatok</string>
     <string name="micloud_user_email">Email</string>
-    <string name="micloud_user_id">Felhasználói azonosító</string>
+    <string name="micloud_user_id">Azonosító</string>
     <string name="micloud_user_name">Név</string>
     <string name="micloud_user_phone">Telefonszám</string>
     <string name="micloud_user_space_usage">Felhasznált tárhely</string>
@@ -330,4 +331,5 @@ Egy nemzetközi üzenetdíjnak megfelelő SMS szükséges az aktiváláshoz</str
 	<string name="phone_num_hint_text">Telefonszám</string>
 	<string name="sim_unactivated_title">A SIM kártya nincs aktiválva</string>
 	<string name="find_device_notice_p4">Amikor a SIM kártya csere történik, a regisztációs SMS elküldése után nyomonkövethető lesz a telefon</string>
+    <string name="micloud_upgrade_space">Tárhely bővítés</string>
 </resources>

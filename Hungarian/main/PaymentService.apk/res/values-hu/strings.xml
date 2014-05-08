@@ -451,4 +451,5 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
     <string name="scan_prompt_number">%1$s előfizetéses kártya számának keresése</string>
     <string name="scan_prompt_password">Scan %1$s előfizetéses kártya jelszó keresése</string>
     <string name="scan_prompt_voucher">MiCredit jelszó keresése</string>
+    <string name="btn_agree">Elfogad</string>
 </resources>
