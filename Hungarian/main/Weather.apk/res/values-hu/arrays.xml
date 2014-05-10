@@ -83,82 +83,82 @@
         <item></item>
         <item></item>
         <item></item>
-        <item>"Esik az eső, vigyen magával esernyőt."</item>
-        <item>"Esik az eső, vigyen magával esernyőt."</item>
-        <item>"Esik az eső, vigyen magával esernyőt."</item>
-        <item>"Ha elmegy otthonról,vigyen magával esernyőt!"</item>
-        <item>"Ha elmegy otthonról,vigyen magával esernyőt!"</item>
-        <item>"Ha elmegy otthonról,vigyen magával esernyőt!"</item>
+        <item>"Esik az eső, vigyen magával esernyőt. "</item>
+        <item>"Esik az eső, vigyen magával esernyőt. "</item>
+        <item>"Esik az eső, vigyen magával esernyőt. "</item>
+        <item>"Ha elmegy otthonról,vigyen magával esernyőt! "</item>
+        <item>"Ha elmegy otthonról,vigyen magával esernyőt! "</item>
+        <item>"Ha elmegy otthonról,vigyen magával esernyőt! "</item>
         <item>"Esni fog ma,vigyen magával esernyőt!"</item>
-        <item>"Szemerkél az eső,vigyen magával esernyőt!"</item>
-        <item>"Havaseső esik,vigyen magával esernyőt!"</item>
-        <item>"Hóvihar van, öltözzön föl melegen."</item>
-        <item>"Havazni fog ma, vegyen föl sapkát és sálat,ha elmegy otthonról."</item>
-        <item>"Erősen havazik, vegyen föl sapkát és sálat."</item>
-        <item>"Havazik egy kicsit, vegyen föl sapkát és sálat."</item>
-        <item>"Egy kis hóesés van,vegyen föl sapkát és sálat."</item>
-        <item>"Nagyon erős homokvihar van, viseljen pormaszkot."</item>
-        <item>"Kicsit esik az eső,vigyen magával esernyőt!"</item>
-        <item>"Nagyon erős homokvihar van, viseljen pormaszkot"</item>
-        <item>"Nagyon erős homokvihar van, viseljen pormaszkot."</item>
-        <item>"Nem mindennapi jégeső esik! Sétáljon óvatosan!"</item>
+        <item>"Szemerkél az eső,vigyen magával esernyőt! "</item>
+        <item>"Havaseső esik,vigyen magával esernyőt! "</item>
+        <item>"Hóvihar van, öltözzön föl melegen. "</item>
+        <item>"Havazni fog ma, vegyen föl sapkát és sálat,ha elmegy otthonról. "</item>
+        <item>"Erősen havazik, vegyen föl sapkát és sálat. "</item>
+        <item>"Havazik egy kicsit, vegyen föl sapkát és sálat. "</item>
+        <item>"Egy kis hóesés van,vegyen föl sapkát és sálat. "</item>
+        <item>"Nagyon erős homokvihar van, viseljen pormaszkot. "</item>
+        <item>"Kicsit esik az eső,vigyen magával esernyőt! "</item>
+        <item>"Nagyon erős homokvihar van, viseljen pormaszkot. "</item>
+        <item>"Nagyon erős homokvihar van, viseljen pormaszkot. "</item>
+        <item>"Nem mindennapi jégeső esik! Sétáljon óvatosan! "</item>
     </string-array>
     <string-array name="weather_sms_content">
-        <item>Fényvédő használata ajánlott.</item>
-        <item>Felhős nap lesz a mai.</item>
-        <item>Az időjárás egyre rosszabb lesz, ajánlott, hogy maradjon bent egy ideig.</item>
-        <item>Ha elmegy, vegye figyelembe a forgalmat. Vezessen óvatosan :)</item>
-        <item>"Esik az eső, vigyen magával esernyőt."</item>
-        <item>"Esik az eső, vigyen magával esernyőt."</item>
-        <item>"Esik az eső, vigyen magával esernyőt."</item>
-        <item>Vigyen magával esernyőt!</item>
-        <item>Vigyen magával esernyőt!</item>
-        <item>Vigyen magával esernyőt! :)</item>
-        <item>Vigyen magával esernyőt!</item>
-        <item>"Szemerkél az eső,vigyen magával esernyőt!"</item>
-        <item>"Jégeső esik, vigyen magával esernyőt!"</item>
-        <item>"Erősen havazik!"</item>
-        <item>Havazni fog ma, vegyen föl sapkát és sálat.</item>
-        <item>"Erősen havazik, vegyen föl sapkát és sálat."</item>
-        <item>"Egy kis hóesés van,vegyen föl sapkát és sálat."</item>
-        <item>"Havazik, vegyen föl sapkát és sálat"</item>
-        <item>Nagyon erős homokvihar van, viseljen pormaszkot.</item>
-        <item>Nagyon erős homokvihar van, viseljen pormaszkot.</item>
-        <item>Nagyon erős homokvihar van, viseljen pormaszkot.</item>
-        <item>Nagyon erős homokvihar van, viseljen pormaszkot.</item>
-        <item>"Nem mindennapi jégeső esik! Sétáljon óvatosan!"</item>
-        <item>Nagyon szennyezett a levegő, viseljen pormaszkot.</item>
-        <item>Nagyon szennyezett a levegő, maradjon odabent.</item>
+        <item>"Használj fényvédőt. "</item>
+        <item>"Felhős napunk lesz ma. "</item>
+        <item>"Az időjárás egyre rosszabb lesz, maradj otthon. "</item>
+        <item>"Ha elmész otthonról, vedd figyelembe a forgalmat és vezess óvatosan :) "</item>
+        <item>"Esik az eső, vigyél magaddal esernyőt. "</item>
+        <item>"Esik az eső, vigyél magaddal esernyőt. "</item>
+        <item>"Esik az eső, vigyél magaddal esernyőt. "</item>
+        <item>"Vigyél magaddal esernyőt! "</item>
+        <item>"Vigyél magaddal esernyőt! "</item>
+        <item>"Vigyél magaddal esernyőt! "</item>
+        <item>"Vigyél magaddal esernyőt! "</item>
+        <item>"Szemerkél az eső,vigyen magával esernyőt! "</item>
+        <item>"Jégeső esik, vigyen magával esernyőt! "</item>
+        <item>"Erősen havazik! "</item>
+        <item>"Havazni fog ma, vegyen föl sapkát és sálat. "</item>
+        <item>"Erősen havazik, vegyél föl sapkát és sálat. "</item>
+        <item>"Egy kis hóesés van,vegyél föl sapkát és sálat. "</item>
+        <item>"Havazik, vegyél föl sapkát és sálat. "</item>
+        <item>"Nagyon erős homokvihar van, vigyél pormaszkot. "</item>
+        <item>"Nagyon erős homokvihar van, vigyél pormaszkot. "</item>
+        <item>"Nagyon erős homokvihar van, vigyél pormaszkot. "</item>
+        <item>"Nagyon erős homokvihar van, vigyél pormaszkot. "</item>
+        <item>"Nem mindennapi jégeső esik! Vigyázz odakint! "</item>
+        <item>"Nagyon szennyezett a levegő, vigyél pormaszkot. "</item>
+        <item>"Nagyon szennyezett a levegő, maradj otthon. "</item>
     </string-array>
     <string-array name="weather_sms_addons">
-        <item>Ma @ időjárása $ </item>
-        <item>A hőmérséklet % </item>
-        <item>Ne felejts el esernyőt vinni! </item>
+        <item>"Ma @ időjárása $. "</item>
+        <item>"A hőmérséklet %°C."</item>
+        <item>"Ne felejts el esernyőt vinni! "</item>
         <item></item>
-        <item>"Ha kint száradnak a ruhák, ne felejtsd el majd berakni! :)" </item>
-        <item>"Ha lehet, ne vezess. Első a biztonság." </item>
+        <item>"Ha kint száradnak a ruhák, ne felejtsd el majd berakni! :) "</item>
+        <item>"Ha lehet, most ne vezess. Első a biztonság. "</item>
         <item>Vezess óvatosan! </item>
-        <item>"Légy óvatos,csúszik." </item>
+        <item>"Légy óvatos,csúszik az út. "</item>
         <item></item>
-        <item>Légy óvatos odakint. </item>
-        <item>"Ne menj ki,csak ha nagyon szükséges." </item>
-        <item>Használj napszemüveget és fényvédőt. </item>
-        <item>Használj napszemüveget és fényvédőt. </item>
-        <item>"Szeles idő van, vigyél egy kabátot magaddal." </item>
-        <item>Nagyon szennyezett a levegő, vigyél pormaszkot. </item>
-        <item>Vigyél magaddal kabátot. </item>
-        <item>Vigyél maszkot. :) </item>
-        <item>Vigyél magaddal sapkát és kesztyűt. </item>
-        <item>"Meleg van kint!" </item>
-        <item>"Meleg van kint!" </item>
-        <item>Öltözz melegen! </item>
-        <item>Jön a hideg… </item>
-        <item>Öltözz melegen! </item>
-        <item>Vegyél föl fülvédőt,hűvös van! :) </item>
-        <item>Indulhat a futás! </item>
-        <item>Jó kis nap a futásra! :) </item>
-        <item>"Jó kis nap szárítani a ruhákat!" </item>
-        <item>"Kezd hűvösödni,vigyél magaddal kabátot!" </item>
+        <item>"Légy óvatos odakint. "</item>
+        <item>"Ne menj ki,csak ha nagyon szükséges. "</item>
+        <item>"Használj napszemüveget és fényvédőt. "</item>
+        <item>"Használj napszemüveget és fényvédőt. "</item>
+        <item>"Szeles idő van, vigyél egy kabátot magaddal. "</item>
+        <item>"Nagyon szennyezett a levegő, vigyél pormaszkot. "</item>
+        <item>"Vigyél magaddal kabátot. "</item>
+        <item>"Vigyél pormaszkot. :) "</item>
+        <item>"Vigyél sapkát és kesztyűt. "</item>
+        <item>"Meleg van kint! "</item>
+        <item>"Meleg van kint! "</item>
+        <item>"Öltözz melegen! "</item>
+        <item>"Jön a hideg… "</item>
+        <item>"Öltözz rétegesen! "</item>
+        <item>"Vegyél föl fülvédőt,hűvös van! :) "</item>
+        <item>"Indulhat a futás! "</item>
+        <item>"Menj ki egy kicsit levegőzni, ne mindig a gép előtt ülj! :) "</item>
+        <item>"Lehet a szabadban szárítani a ruhákat! "</item>
+        <item>"Kezd hűvösödni,vigyél magaddal egy pulcsit! "</item>
     </string-array>
     <string-array name="weather_info_uv">
         <item>0</item>
@@ -178,15 +178,15 @@
         <item>0</item>
         <item>Nem elérhető</item>
         <item>11</item>
-        <item>Könnyű kabát</item>
+        <item>Vékony kabát</item>
         <item>12</item>
-        <item>Könnyű kabát</item>
+        <item>Vékony kabát</item>
         <item>13</item>
         <item>Nyári viselet</item>
         <item>14</item>
         <item>Nyári viselet</item>
         <item>15</item>
-        <item>Könnyű kabát</item>
+        <item>Vékony kabát</item>
         <item>16</item>
         <item>Rétegesen öltözzön!</item>
         <item>17</item>

@@ -133,6 +133,7 @@
   <string name="call_settings">Hívásbeállítások</string>
   <string name="call_settings_category_miui">Hívás</string>
   <string name="call_settings_miui">Hívásbeállítások</string>
+  <string name="call_status_dialing">Tárcsázás</string>
   <string name="call_title_redialing_with_times_miui">%d újrapróbálások száma</string>
   <string name="call_waiting_sum_miui">Hívás közben értesítést kérek a beérkező hívásokról</string>
     <string name="call_type_title">IMS Call type</string>
@@ -354,7 +355,7 @@
   <string name="dial_emergency_empty_error">A hívás nem indítható, kérjük, tárcsázzon egy segélyhívó számot!</string>
   <string name="dial_emergency_error">A hívás nem indítható; a(z) %s nem segélyhívó szám!</string>
     <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
-  <string name="dial_related_setting_catory_miui">Tárcsáz</string>
+  <string name="dial_related_setting_catory_miui">Tárcsázó</string>
   <string name="dialerKeyboardHintText">A tárcsázáshoz használja a billentyűzetet</string>
   <string name="disable">Letiltás</string>
   <string name="disable_all_cf_miui">Összes hívásátirányítás tiltva</string>

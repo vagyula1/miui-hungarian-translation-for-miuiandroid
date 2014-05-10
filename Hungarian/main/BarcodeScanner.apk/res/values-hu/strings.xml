@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vonalkódolvasó</string>
+    <string name="copy">Másolás</string>
+    <string name="name">Név:</string>
+    <string name="nickname">Becenév:</string>
+    <string name="company">Cég:</string>
+    <string name="title">Cím:</string>
+    <string name="phone">Telefonszám:</string>
+    <string name="email">Email:</string>
+    <string name="web">Web:</string>
+    <string name="address">Cím:</string>
+    <string name="birthday">Születésnap:</string>
+    <string name="note">Megjegyzés:</string>
+    <string name="add_to_contacts">Hozzáadás a kapcsolatokhoz</string>
+    <string name="recognize">Beolvasás</string>
+    <string name="place_barcode_into_rectangle">Helyezze a QR kódot téglalap keresőn belülre</string>
+    <string name="open_flash_error">Nem sikerült bekapcsolni a vakut</string>
+    <string name="close_flash_error">nem sikrült kikapcsolni a vakut</string>
+    <string name="scan_fail">A keresés nem sikerült</string>
+    <string name="vcard_prompt">Nem adható hozzá, mert hiányzik a név</string>
+    <string name="copy_succeed">A másolás sikerült</string>
+    <string name="fail_generate_barcode">A QR vagy barcode kód generálása nem sikerült</string>
+    <string name="scan_result">Keresési eredméyn</string>
+    <string name="flash_lable">Vaku</string>
+    <string name="picker_lable">Galéria</string>
+</resources>

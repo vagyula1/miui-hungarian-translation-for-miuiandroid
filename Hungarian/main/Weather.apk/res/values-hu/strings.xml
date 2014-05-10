@@ -58,9 +58,9 @@
   <string name="enable_notification_summary">Értesítés az időjárás változása esetén</string>
   <string name="first_start_network_toast_text">Hálózat hozzáférés engedélyezése</string>
   <string name="format_date_md">MMMd. kk:mm</string>
-  <string name="format_date_trend_md">MMM.d</string>
-  <string name="format_date_week">EEE</string>
-  <string name="format_date_wmd">M.d.EEE</string>
+  <string name="format_date_trend_md">MMMd</string>
+  <string name="format_date_week">EEE.</string>
+  <string name="format_date_wmd">M.d.EEE.</string>
   <string name="install_tencent">Weibo alkamazás telepítése</string>
   <string name="loading_weather">Időjárás betöltése...</string>
   <string name="local_city">Helyi városok</string>
