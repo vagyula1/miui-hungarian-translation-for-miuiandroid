@@ -304,7 +304,7 @@ Egy nemzetközi üzenetdíjnak megfelelő SMS szükséges az aktiváláshoz</str
     <string name="activate_popup_title_register_account">Fiók regisztráció</string>
     <string name="activate_status_desc_checking_xiaomi_account">Xiaomi fiók ellenőrzése</string>
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Hiba lépett fel a Xiaomi fiók ellenőrzése során</string>
-	<string name="activate_status_desc_getting_sim_info_fail">"A SIM kártya információ lekérése nem sikerült"</string>
+    <string name="activate_status_desc_getting_sim_info_fail">"A SIM kártya információ lekérése nem sikerült"</string>
     <string name="activate_status_desc_query_activation_info">Aktiválási adatok lekérése</string>
     <string name="activate_status_desc_query_activation_info_downlink_sms_error">A szervernek nem sikerült elküldeni az aktiváló SMS-t</string>
     <string name="activate_status_desc_query_activation_info_no_info">Nincs adat az aktiválásról a szerveren</string>
@@ -318,18 +318,18 @@ Egy nemzetközi üzenetdíjnak megfelelő SMS szükséges az aktiváláshoz</str
     <string name="activate_status_desc_request_activation_sms">Requesting an activation SMS from server to your phone</string>
     <string name="activate_status_desc_request_activation_sms_phone_error">A begépelt telefonszám hibás</string>
     <string name="activate_status_desc_request_activation_sms_server_error">A server error occurred while requesting an activation SMS from server to your phone</string>
-	<string name="activate_status_desc_sending_sms_fail">"Az aktiváló SMS küldése nem sikerült"</string>
+    <string name="activate_status_desc_sending_sms_fail">"Az aktiváló SMS küldése nem sikerült"</string>
     <string name="activate_status_desc_wait_for_phone_service">Várakozás a szolgáltatásra</string>
     <string name="activate_status_desc_wait_for_sms">Várakozás az aktiváló SMS-re</string>
     <string name="activate_status_desc_wait_for_sms_fail">"Az aktiváló SMS fogadása nem sikerült"</string>
     <string name="activate_status_desc_wait_for_sms_success">Az aktiváló SMS fogadva</string>
-	<string name="error_phone_error">Érvénytelen telefonszám</string>
-	<string name="foreign_login"><u>Ország/körzetszám</u></string>
+    <string name="error_phone_error">Érvénytelen telefonszám</string>
+    <string name="foreign_login"><u>Ország/körzetszám</u></string>
     <string name="micloud_area_code_hot">Hot</string>
     <string name="micloud_area_code_title">Ország/körzetszám</string>
-	<string name="micloud_error_invalid_phone_num">Érvénytelen telefonszám</string>
-	<string name="phone_num_hint_text">Telefonszám</string>
-	<string name="sim_unactivated_title">A SIM kártya nincs aktiválva</string>
-	<string name="find_device_notice_p4">Amikor a SIM kártya csere történik, a regisztációs SMS elküldése után nyomonkövethető lesz a telefon</string>
+    <string name="micloud_error_invalid_phone_num">Érvénytelen telefonszám</string>
+    <string name="phone_num_hint_text">Telefonszám</string>
+    <string name="sim_unactivated_title">A SIM kártya nincs aktiválva</string>
+    <string name="find_device_notice_p4">Amikor a SIM kártya csere történik, a regisztációs SMS elküldése után nyomonkövethető lesz a telefon</string>
     <string name="micloud_upgrade_space">Tárhely bővítés</string>
 </resources>

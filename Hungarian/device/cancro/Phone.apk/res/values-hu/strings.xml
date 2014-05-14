@@ -294,7 +294,7 @@
     <string name="current_areacode_sum_miui">A jelenlegi hely körzetszáma.</string>
    <string name="cursorError">Cursor error.</string>
   <string name="custom_location_location_hint_miui">Név</string>
-    <string name="custom_location_location_no_item_miui">Add a number by touching the add + button.</string>
+    <string name="custom_location_location_no_item_miui">Telefonszám hozzáadásához nyomja meg a + gombot.</string>
   <string name="custom_location_number_hint_miui">Régió kód. pl.: 010, csoport pl.: 68#####</string>
   <string name="cw_title_miui">Hívásvárakoztatás</string>
   <string name="data_enable_summary">Adathozzáférés engedélyezése mobilhálózatokon</string>
@@ -673,8 +673,8 @@
   <string name="number">Szám</string>
   <string name="number_format_error_message_miui">%s csak a támogatott számok</string>
   <string name="number_type_jituan_miui">Csoport szám</string>
-  <string name="number_type_miui">Szám típus</string>
-  <string name="number_type_mob_miui">Mobile szám</string>
+  <string name="number_type_miui">Telefonszám típusa</string>
+  <string name="number_type_mob_miui">Mobil szám</string>
   <string name="number_type_tel_miui">Vezetékes</string>
     <string name="nw_subset_unlock_failed">SIM Network Subset unlock request unsuccessful.</string>
     <string name="nw_subset_unlock_success">SIM Network Subset unlock successful.</string>

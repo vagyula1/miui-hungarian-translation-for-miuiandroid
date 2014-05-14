@@ -557,4 +557,7 @@ EL szeretné hagyni az oldalt?"</string>
     <string name="webview_today">Ma</string>
     <string name="webview_yesterday">Tegnap</string>
     <string name="week_picker_dialog_title">Hét beállítása</string>
+    <string name="xiaomi_bookmark_title">Xiaomi</string>
+    <string name="ssl_certificate">Biztonsági tanúsítvány</string>
+    <string name="ssl_certificate_is_valid">Ez a tanúsítvány érvényes.</string>
 </resources>

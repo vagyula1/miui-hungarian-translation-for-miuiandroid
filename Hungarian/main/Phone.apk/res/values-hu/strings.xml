@@ -716,6 +716,7 @@
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G előnyben</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_miui">4G előnyben</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automatikus</string>
   <string name="preferred_network_type_pref_entries_global_miui">Globális</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Csak 2G hálózat</string>

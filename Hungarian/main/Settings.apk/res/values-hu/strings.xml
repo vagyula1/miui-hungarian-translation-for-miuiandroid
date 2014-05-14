@@ -3153,4 +3153,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="dialog_title_auto_start_tips">Az automatikus indításról</string>
     <string name="dialog_message_auto_start_tips">Egyes biztonsági alkalmazások hibásan jelzik, hogy a rendszer megakadályozta az automatikus indítást. Az engedélyek ellenőrzése a Beállítások > Alkalmazások menüpont alatt található.</string>
     <string name="button_text_known">Ok</string>
+    <string name="translation_contributors_title">Fordítók</string>
+    <string name="toast_garbage_cleanup_success">A tisztítás sikerült</string>
 </resources>
