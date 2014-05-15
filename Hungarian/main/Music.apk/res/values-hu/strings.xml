@@ -327,4 +327,5 @@
     <string name="sync_enable_toast">Módosíthatja a Beállítások > Fiókok > MiCloud menüpontban</string>
     <string name="volume_alert_playback_alert_title">Magas hangerő figyelmeztetés</string>
     <string name="volume_alert_playback_message">A halláskárosodás elkerülése érdekében ne hallgassa hosszú ideig túl magas hangerőn.</string>
+    <string name="select_device">Eszköz kiválasztása</string>
 </resources>

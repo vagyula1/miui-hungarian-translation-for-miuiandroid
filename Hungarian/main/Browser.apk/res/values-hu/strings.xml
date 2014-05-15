@@ -560,4 +560,5 @@ EL szeretné hagyni az oldalt?"</string>
     <string name="xiaomi_bookmark_title">Xiaomi</string>
     <string name="ssl_certificate">Biztonsági tanúsítvány</string>
     <string name="ssl_certificate_is_valid">Ez a tanúsítvány érvényes.</string>
+    <string name="pref_content_cloud_speedup">Felhő gyorsítás engedélyezése</string>
 </resources>

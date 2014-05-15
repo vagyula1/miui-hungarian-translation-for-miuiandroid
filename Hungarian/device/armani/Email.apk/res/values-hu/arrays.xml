@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Apró méretű szöveg</item>
+        <item>Kisméretű szöveg</item>
+        <item>Normál méretű szöveg</item>
+        <item>Nagyméretű szöveg</item>
+        <item>Óriási méretű szöveg</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Válasz</item>
+        <item>válasz mindenkinek</item>
+        <item>Továbbítás</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sikerült</item>
+        <item>Nincs kapcsolat.</item>
+        <item>A bejelentkezés sikertelen.</item>
+        <item>Biztonsági hiba</item>
+        <item>A szinkronizálás sikertelen.</item>
+        <item>Belső hiba</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Rendszer</item>
+        <item>Gyakran használt</item>
+        <item>Összes mappa</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Újabb</item>
+        <item>Korábbi</item>
+        <item>Beszélgetéslista</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Csak az archiválás megjelenítése</item>
+        <item>Csak a törlés megjelenítése</item>
+        <item>Archiválás és törlés megjelenítése</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Csak az archiválás megjelenítése</item>
+        <item>Csak a törlés megjelenítése</item>
+        <item>Archiválás és törlés megjelenítése</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Alapértelmezett</item>
+        <item>Formátum</item>
+        <item>Név</item>
+        <item>Feladó</item>
+        <item>Dátum</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Törlés után az újabb beszélgetés megjelenítése</item>
+        <item>Törlés után a korábbi beszélgetés megjelenítése</item>
+        <item>Törlés után a beszélgetéslista megjelenítése</item>
+    </string-array>
+</resources>

@@ -285,4 +285,6 @@
     <string name="settings_show_carrier_summary">Kikapcsolva csak a képernyőzáron jelenik meg</string>
     <string name="settings_show_screenshot_notification">Képernyőkép értesítés</string>
     <string name="status_bar_and_notification_bar">Legördülő értesítési panel és állapotsor</string>
+    <string name="call_status_ringing">Csengetés</string>
+    <string name="reject_call">Elutasítás</string>
 </resources>

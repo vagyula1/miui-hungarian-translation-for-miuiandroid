@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Mindig bekapcsolva</item>
+        <item>Igény szerint</item>
+        <item>Ki</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>A böngésző nyitja meg ezt az oldalt</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Apró</item>
+        <item>Kicsi</item>
+        <item>Normál</item>
+        <item>Nagy</item>
+        <item>Óriási</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Távoli</item>
+        <item>Közepes</item>
+        <item>Közeli</item>
+    </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Asztal</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Kínai (GBK)</item>
+        <item>Kínai (Big5)</item>
+        <item>Japán (ISO-2022-JP)</item>
+        <item>Japán (SHIFT_JIS)</item>
+        <item>Japán (EUC-JP)</item>
+        <item>Koreai (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Soha</item>
+        <item>Csak Wi-Fi esetén</item>
+        <item>Mindig</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Soha</item>
+        <item>Csak Wi-Fi esetén</item>
+        <item>Mindig</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Soha ne</item>
+        <item>Csak Wi-Fi esetén</item>
+        <item>Mindig</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Fehér</item>
+        <item>Sárga</item>
+        <item>Szürke</item>
+        <item>Barna</item>
+        <item>Zöld</item>
+        <item>Kék</item>
+        <item>Sötét</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Előző/Következő oldal</item>
+        <item>Ablakváltás</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Oldal eleje/vége</item>
+        <item>Ablakváltás</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Soha</item>
+        <item>Csak Wi-Fi kapcsolat esetén</item>
+        <item>Mindig</item>
+    </string-array>
+</resources>
