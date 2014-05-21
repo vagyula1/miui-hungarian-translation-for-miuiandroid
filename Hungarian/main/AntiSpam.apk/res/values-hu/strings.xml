@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources> 
+  <string name="ACaddnumcontent">Adja meg az előtagot a rendszer automatikusan hozzáadja *</string>
   <string name="ACaddnumtitle">Előtag hozzáadása a kivételekhez</string>
   <string name="AD_ALLOW">Engedélyezés</string>
   <string name="AD_AntiSpam">Tiltás</string>
@@ -27,6 +28,7 @@
   <string name="addwhitelist">Hozzáadás a kivételekhez</string>
   <string name="all_address_choose_hint">Minden régió</string>
   <string name="app_name">Tiltólista</string>
+  <string name="backsound_set_hint">Beállítja %s hangjának?</string>
   <string name="baidu_thanks"/>
   <string name="bl_block_info" formatted="false">Elutasítva: %d szám, %d részlet</string>
   <string name="bl_no_blacklist">A tiltólista üres</string>
@@ -37,6 +39,8 @@
   <string name="block_phone_number">Elutasított hívás: %d</string>
   <string name="Call_ADRESS">Régiónkénti tiltás</string>
   <string name="Call_BLACKLIST">Hívás elutasítás</string>
+  <string name="Call_DEFAULT">Intelligens hívás elutasítás</string>
+  <string name="call_delete_hint">Törli az összes elutasított hívást erről a számról?</string>
   <string name="Call_MODENAME">Alapértelmezett tiltás</string>
   <string name="Call_PREFIX">Előtag tiltás</string>
   <string name="Call_PRIVATE_CALL">Magántelefonszámok</string>
@@ -72,6 +76,8 @@
   <string name="dlg_remove_address_whitelist">Törli ezt a régiót a kivételek listájáról?</string>
   <string name="dlg_remove_blacklist">Törli a tiltólistából?</string>
   <string name="dlg_remove_blacklist_ok">Eltávolítás</string>
+  <string name="dlg_remove_blacklist">Törli a számot a tiltólistáról?</string>
+  <string name="dlg_remove_whitelist_ing">Törlés a kivételek listájáról…</string>
   <string name="dlg_remove_whitelist">Törli ezeket a telefonszámokat a kivételek listájáról?</string>
   <string name="dlg_retore">Visszaállítja az üzeneteket?</string>
   <string name="dlg_retore_ok">Visszaállítás</string>
@@ -115,6 +121,7 @@
   <string name="menu_restore">Üzenetek visszaállítása</string>
   <string name="menu_sms">Üzenetküldés</string>
   <string name="menu_wh_remove">Eltávolítás</string>
+  <string name="NACaddnumcontent">Telefonszám</string>
   <string name="NACaddnumtitle">Telefonszám hozzáadása a kivételekhez</string>
   <string name="note_call_none">Nincs hívás</string>
   <string name="note_keyword_none">Nincs kulcsszó beállítva</string>
@@ -127,6 +134,8 @@
   <string name="Phonepass">Hívások engedélyezése</string>
   <string name="SMS_ADRESS">Régió tiltólista</string>
   <string name="SMS_BLACKLIST">Kéretlen üzenetek</string>
+  <string name="SMS_DEFAULT">Intelligens elutasítás</string>
+  <string name="sms_delete_hint">törli az összes beérkező üzenetet, ami erről a számról érkezett?</string>
   <string name="SMS_KEYWORDS">Kulcsszavas tiltólista</string>
   <string name="SMS_MODENAME">Alapértelmezett tiltólista</string>
   <string name="SMS_PREFIX">Előtag tíltólista</string>

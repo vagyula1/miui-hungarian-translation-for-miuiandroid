@@ -468,4 +468,5 @@
     <string name="toast_feedback_finish">A jelentés automatikusan el lesz küldve Wi-Fi kapcsolat esetén</string>
     <string name="toast_feedback_max">Csak 3 jelentés küldhető naponta</string>
     <string name="toast_feedback_start">Visszejelzés küldése…</string>
+    <string name="context_menu_add_calendar">Mutassa a naptárban</string>
 </resources>

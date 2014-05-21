@@ -139,6 +139,7 @@
     <string name="delete_multi_bookmarks_alert_title">Törli a kiválasztott %1$s elemet?</string>
     <string name="delete">Törlés</string>
     <string name="disable_autofill">Automatikus kitöltés letiltása</string> 
+    <string name="dont_remind_again">Ne emlékeztessen újra</string>
     <string name="download_complete">A letöltés befejeződött</string>
     <string name="download_default_path_txt">Beállítás alapértelmezett mappának</string>
     <string name="download_dialog_default_path_invalid">A letöltés helyének útvonala nem megfelelő, alapértelmezett útvonal beállítva</string>
@@ -527,6 +528,8 @@
     <string name="uploads_disabled">A fájlok feltöltése le van tiltva.</string>
     <string name="url_copy_done">Link kimásolva</string>
     <string name="url_hint">Írja be az URL címet</string>
+    <string name="use_cellular_network_alert_title">Hálózati figyelmeztetés</string>
+    <string name="use_cellular_network_alert_message">Nincs elérhető Wi-Fi hálózat, használja a mobil adatkapcsolatot?</string>
     <string name="user_defined_webpage_title">URL hozzáadása a kezdőlapra</string> 
     <string name="user_defined_webpage">URL hozzáadása</string>
     <string name="username">Név</string>
@@ -561,4 +564,5 @@ EL szeretné hagyni az oldalt?"</string>
     <string name="ssl_certificate">Biztonsági tanúsítvány</string>
     <string name="ssl_certificate_is_valid">Ez a tanúsítvány érvényes.</string>
     <string name="pref_content_cloud_speedup">Felhő gyorsítás engedélyezése</string>
+    <string name="snapshot_successed">Offline olvasáshoz elmentve</string>
 </resources>
