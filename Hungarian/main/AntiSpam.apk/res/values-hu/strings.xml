@@ -76,7 +76,6 @@
   <string name="dlg_remove_address_whitelist">Törli ezt a régiót a kivételek listájáról?</string>
   <string name="dlg_remove_blacklist">Törli a tiltólistából?</string>
   <string name="dlg_remove_blacklist_ok">Eltávolítás</string>
-  <string name="dlg_remove_blacklist">Törli a számot a tiltólistáról?</string>
   <string name="dlg_remove_whitelist_ing">Törlés a kivételek listájáról…</string>
   <string name="dlg_remove_whitelist">Törli ezeket a telefonszámokat a kivételek listájáról?</string>
   <string name="dlg_retore">Visszaállítja az üzeneteket?</string>
