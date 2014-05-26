@@ -13,7 +13,7 @@
     <string name="note">Megjegyzés:</string>
     <string name="add_to_contacts">Névjegyzékhez adás</string>
     <string name="recognize">Beolvasás</string>
-    <string name="place_barcode_into_rectangle">Helyezze a QR kódot vagy a vonalkódot a téglapaon belülre</string>
+    <string name="place_barcode_into_rectangle">Helyezze a QR kódot vagy a vonalkódot a téglapon belülre</string>
     <string name="open_flash_error">Nem sikerült bekapcsolni a vakut</string>
     <string name="close_flash_error">Nem sikerült kikapcsolni a vakut</string>
     <string name="scan_fail">A keresés nem sikerült</string>
@@ -129,7 +129,8 @@
     <string name="setting_instant_photo_text">Fókuszálás fényképezés előtt</string>
     <string name="setting_vibrate_text">Érintési visszajelzés</string>
     <string name="setting_instant_photo_desc">"Fókuszálás fényképezés előtt."</string>
-    <string name="toolbox_outer_desc">"Az Eszköztár módosításához kattintson az "+" jelre vagy az ikonra"</string>
+    <string name="toolbox_outer_desc">"Az Eszköztár módosításához kattintson
+a "+" jelre vagy az ikonra"</string>
     <string name="setting_speed_max_time">1000</string>
     <string name="notification_control_play">Lejátszás</string>
     <string name="notification_control_stop">Megállítás</string>
