@@ -3155,4 +3155,26 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="button_text_known">Ok</string>
     <string name="translation_contributors_title">Fordítók</string>
     <string name="toast_garbage_cleanup_success">A tisztítás sikerült</string>
+    <string name="security_keyguard_category_name">Zár</string>
+    <string name="security_password_category_name">Jelszó</string>
+    <string name="bluetooth_unlock_title">Feloldás Bluetooth eszközzel</string>
+    <string name="bluetooth_unlock_turned_off">Kikapcsolva</string>
+    <string name="bluetooth_unlock_turned_on">Bekapcsolva</string>
+    <string name="bluetooth_unlock_settings_toggle_title">Alkalmaz</string>
+    <string name="bluetooth_unlock_settings_unlock_device">Zár feloldása</string>
+    <string name="bluetooth_unlock_settings_devices_title">Eszköz</string>
+    <string name="bluetooth_unlock_no_matched_device_yet">Nincs elérhető eszköz</string>
+    <string name="bluetooth_unlock_change_matched_device">Válasszon másik eszközt</string>
+    <string name="bluetooth_unlock_add_device">Új eszköz</string>
+    <string name="bluetooth_unlock_delete_device">Eszköz törlése</string>
+    <string name="bluetooth_unlock_confirm_device_text">Érintse meg az eszközt a megerősítéshez</string>
+    <string name="bluetooth_unlock_device_matched_text">A zár feloldásához használja ezt az eszközt</string>
+    <string name="bluetooth_unlock_delete_device_confirm_msg">Biztos, hogy törölni szeretné ezt az eszközt?</string>
+    <string name="bluetooth_unlock_change_device_confirm_msg">Lecseréli a régebben párosított eszközt az újra?</string>
+    <string name="wifi_type_approval_title"/>
+    <string name="manage_xiaomi_router">Xiaomi router kezelés</string>
+    <string name="xiaomi_router_notif_title">Xiaomi router notification</string>
+    <string name="xiaomi_router_notif_summary">Értesítsen, ha van elérhető Xiaomi router</string>
+    <string name="xiaomi_router_available_notif_title">Xiaomi router elérhető</string>
+    <string name="xiaomi_router_available_notif_summary">Kattintson a megtekintéshez</string>
 </resources>

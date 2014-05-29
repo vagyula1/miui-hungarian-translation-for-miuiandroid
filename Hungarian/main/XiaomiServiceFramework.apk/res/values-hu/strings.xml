@@ -332,4 +332,9 @@ Egy nemzetközi üzenetdíjnak megfelelő SMS szükséges az aktiváláshoz</str
     <string name="sim_unactivated_title">A SIM kártya nincs aktiválva</string>
     <string name="find_device_notice_p4">Amikor a SIM kártya csere történik, a regisztációs SMS elküldése után nyomonkövethető lesz a telefon</string>
     <string name="micloud_upgrade_space">Tárhely bővítés</string>
+    <string name="sync_sub_1_sms">A SIM kártya aktiválásához egy szöveges üzenet elküldése szükséges (normál díjas)</string>
+    <string name="sync_sub_1_intl_sms">A SIM kártya aktiválásához egy szöveges üzenet elküldése szükséges (nemzetközi díjas)</string>
+    <string name="sync_sub_2_sms">A SIM kártyák aktiválásához két szöveges üzenet elküldése szükséges(normál díjas)</string>
+    <string name="sync_sub_2_intl_sms">A SIM kártyák aktiválásához két szöveges üzenet elküldése szükséges (nemzetközi díjas)</string>
+    <string name="sync_sub_1_sms_1_intl_sms">A SIM kártyák aktiválásához két szöveges üzenet elküldése szükséges (belföldi és nemzetközi díjas)</string>
 </resources>

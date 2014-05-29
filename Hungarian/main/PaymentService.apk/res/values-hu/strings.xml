@@ -208,7 +208,7 @@ We will check again within two working days."</string>
     <string name="progress_downloading">Betöltés…</string>
     <string name="btn_net_connection_retry">Újra</string>
     <string name="pay_record_typeall">Összes</string>
-    <string name="mibi_license_title">Felhasználói nyilatkozat</string>
+    <string name="mibi_license_title">Felhasználási feltételek</string>
     <string name="mibi_license_message">A %1$s elfogadásához kattintson az OK gombra.</string>
     <string name="mibi_license_message_span">MiCredit Felhasználói Szerződés</string>
     <string name="security_setting">Biztonsági beállítások</string>
@@ -427,7 +427,7 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
     <string name="linkpay_copyright">Copyright, China Unicom</string>
     <string name="linkpay_szf_getresult_error">A fizetési információ lekérése nem sikerült, vegye fel a kapcsolatot a szolgáltatóval.</string>
     <string name="linkpay_shenzhoufu_alert">Please select a valid card and validation code or you will not be able to complete purchase.</string>
-    <string name="button_confirm">Elfogad</string>
+    <string name="button_confirm">OK</string>
     <string name="button_next">Következő</string>
     <string name="colon">": "</string>
     <string name="detail_consume_account">Customer ID</string>
@@ -452,4 +452,19 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
     <string name="scan_prompt_password">Scan %1$s előfizetéses kártya jelszó keresése</string>
     <string name="scan_prompt_voucher">MiCredit jelszó keresése</string>
     <string name="btn_agree">Elfogad</string>
+    <string name="button_bind_phone">Összekapcsolás</string>
+    <string name="button_count_down_reget">Ellenőrző kód igénylése(%1$s)</string>
+    <string name="button_reget">Ellenőrző kód igénylése</string>
+    <string name="button_sms_code">Elfogad</string>
+    <string name="giftcard_payment">%1$s MiCredit</string>
+    <string name="label_giftcard">Ajándékkártya:</string>
+    <string name="partner_giftcard_payment">%1$s MiCredit （csak %2$s）</string>
+    <string name="prepaid_card_order_info">%1$s feltöltőkártya: RMB %2$s</string>
+    <string name="prepaid_error_not_choose_carrier">Nincs szolgáltató kiválsztva.</string>
+    <string name="sms_code_hint">Mobiltelefonos ellenőrző kód</string>
+    <string name="sms_code_error">Hibás a mobiltelefonos ellenőrző kód, igenyélje újra</string>
+    <string name="summary_bind_phone">A fiók biztonsága érdekében közelező a mobiltelefonos ellenőrzőkód használata a fizetés jóváhagyásához.</string>
+    <string name="summary_sms_code">A fiók biztonsága érdekében, adja meg a %1$s telefonjára kapott ellenőrzőkódot, majd a fizetési művelet lezárul</string>
+    <string name="title_bind_phone">Mobiltelefonos szám összekapcsolása.</string>
+    <string name="title_sms_code">Adja meg a mobiltelefonos ellenőrző kódot</string>
 </resources>

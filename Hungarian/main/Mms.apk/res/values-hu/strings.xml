@@ -376,7 +376,7 @@
     <string name="msg_type_hint_sms">Szöveges üzenet</string>
     <string name="msg_type_hint_mms">Multimédia üzenet</string>
     <string name="msg_type_hint_mx">MiCloud üzenet</string>
-    <string name="mx_reactivate">A NiCloud üzenetkezelés újraaktiválása</string>
+    <string name="mx_reactivate">A MiCloud üzenetkezelés újraaktiválása</string>
     <string name="mx_activate_error_title">A MiCloud üzenetkezelés aktiválása nem sikerült</string>
     <string name="mx_activate_error_sim_change">SIM kártya megváltozott, MiCloud üzenetkezelés újraaktiválása szükséges</string>
     <string name="mx_activate_error_malformed_info">A MiCloud üzenetkezelés aktiválása nem sikerült, újraaktiválása szükséges</string>
@@ -384,7 +384,7 @@
     <string name="mx_activate_hint_sim_change">SIM kártya megváltozott, újraaktiválás szükséges.Aktiválja?</string>
     <string name="mx_activate_int_hint_sim_change">Egy nemzetközi sms elküldése szükséges a MiCloud üzenetkezelés újraaktiválásához (a szolgáltató költséget számíthat fel).</string>
     <string name="mx_activate_hint_malformed_info">A művelet megszakítva, újraaktiválása szükségesd. Aktiválja?</string>
-    <string name="mx_activate_int_hint_malformed_info">>Egy nemzetközi sms elküldése szükséges a MiCloud üzenetkezelés újraaktiválásához (a szolgáltató költséget számíthat fel).</string>
+    <string name="mx_activate_int_hint_malformed_info">Egy nemzetközi sms elküldése szükséges a MiCloud üzenetkezelés újraaktiválásához (a szolgáltató költséget számíthat fel).</string>
     <string name="mx_activate_hint_server">Központnak nem sikerült az aktiválás? Aktiválja?</string>
     <string name="mx_activate_int_hint_server">>Egy nemzetközi sms elküldése szükséges a MiCloud üzenetkezelés újraaktiválásához (a szolgáltató költséget számíthat fel).</string>
     <string name="need_download">Letöltés...</string>
@@ -469,4 +469,5 @@
     <string name="toast_feedback_max">Csak 3 jelentés küldhető naponta</string>
     <string name="toast_feedback_start">Visszejelzés küldése…</string>
     <string name="context_menu_add_calendar">Mutassa a naptárban</string>
+    <string name="quick_reply">Válasz</string>
 </resources>

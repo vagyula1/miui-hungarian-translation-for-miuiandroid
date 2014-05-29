@@ -485,4 +485,6 @@
     <string name="not_enable_feature">Emlékeztessen</string>
     <string name="accessibility_opti_zoom_button">Opti_Zoom</string>
     <string name="accessibility_ev_control">Megvilágítás kompenzáció ellenőrzés</string>
+    <string name="toast_cannot_preview_image_when_screen_locked">Nem tekinthető meg a kép vagy a videó, ha a képernyő le van zárva.</string>
+    <string name="pref_video_quality_entry_4kuhd">4K</string>
 </resources>

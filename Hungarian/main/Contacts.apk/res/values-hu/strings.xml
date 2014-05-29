@@ -1053,4 +1053,7 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="sim_contact_number_missing">SIM névjegy telefonszám hiányzik.</string>
     <string name="imei_invalid">Érvénytelen IMEI</string>
     <string name="meid_invalid">Érvénytelen MEID</string>
+    <string name="account_msim">SIM %d</string>
+    <string name="export_to_sim1">Exportálás SIM 1-ről</string>
+    <string name="import_from_sim1">Importálás SIM 1-ről</string>
 </resources>

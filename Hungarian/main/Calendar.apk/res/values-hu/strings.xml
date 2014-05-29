@@ -270,4 +270,6 @@
     <string name="pref_title_alarm_remind">Riasztás</string>
     <string name="event_date_format">MMMM dd. EEEE</string>
     <string name="event_full_date_format">yyyy.MM.dd.</string>
+    <string name="pref_error_no_ringtone_select">Nincs kiválasztva</string>
+    <string name="view_all_matches">Összes</string>
 </resources>

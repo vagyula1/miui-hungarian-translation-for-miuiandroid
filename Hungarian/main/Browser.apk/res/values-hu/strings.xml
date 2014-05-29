@@ -565,4 +565,13 @@ EL szeretné hagyni az oldalt?"</string>
     <string name="ssl_certificate_is_valid">Ez a tanúsítvány érvényes.</string>
     <string name="pref_content_cloud_speedup">Felhő gyorsítás engedélyezése</string>
     <string name="snapshot_successed">Offline olvasáshoz elmentve</string>
+    <string name="date_picker_dialog_other_button_label">Other</string>
+    <string name="copy_to_clipboard_failure_message">Nem sikerült a vágólapra másolni</string>
+    <string name="miuichromium_error_page_title">"Az oldal nem található"</string>
+    <string name="miuichromium_error_page_reason_network">URL link megtekintése</string>
+    <string name="miuichromium_error_page_mobile">Mobilhálózat</string>
+    <string name="miuichromium_error_page_wlan">Wi-Fi beállítások</string>
+    <string name="miuichromium_error_page_reason_server">"A böngésző nem tudja betölteni az oldalt"</string>
+    <string name="miuichromium_error_page_reload">Újratöltés</string>
+    <string name="miuichromium_error_page_url">URL oldal megtekintése</string>
 </resources>
