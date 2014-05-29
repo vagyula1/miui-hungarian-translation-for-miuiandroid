@@ -137,7 +137,7 @@ a "+" jelre vagy az ikonra"</string>
     <string name="notification_recorder_file_location">Fájl helye:</string>
     <string name="notification_recorder_start">Felvétel indítása...</string>
     <string name="sdcard">sd kártya</string>
-    <string name="update_message">Frissítés eérhető!</string>
+    <string name="update_message">Frissítés elérhető!</string>
     <string name="setting_silent_mode">Néma üzemmód</string>
     <string name="setting_silent_mode_default">Fülhallgató mód (Húzza ki a MiKey-t)</string>
     <string name="setting_silent_mode_desc">Válassza mindig a fülhallgató módot a MiKey kihúzásakor, különben nem lesz hang.</string>
@@ -154,8 +154,8 @@ a "+" jelre vagy az ikonra"</string>
     <string name="faq_focus_text">A fókuszálás és a vaku alapértelemzetten engedélyezve van. Ennek kikapcsolása gyorsabb AF-et, de expozíciós hibákat és elmosódott képeket eredményez.</string>
     <string name="faq_plug_title">Nem ismerhető fel a MiKey?</string>
     <string name="faq_plug_text">Csatlakoztatáskor ügyeljen arra, hogy a gomb szélein lévő peremet nyomja le.</string>
-    <string name="faq_misreq_title">失灵了怎么办？</string>
-    <string name="faq_misreq_text">锁屏下按键短暂失灵是因为手机休眠所致。 未锁屏下变成了音乐等第三方软件的控制，是因为米键被劫持，请关闭音乐，清除内存和通知栏，在米键App中插入米键，选择米键就好。 这一问题工程师正在解决，由于比较复杂，一两个更新迭代无法完成，请各位米粉见谅，我们仍在不懈的努力。</string>
+    <string name="faq_misreq_title">Zene vezérlési probléma esetén...</string>
+    <string name="faq_misreq_text">Ha a zenevezérlés nem reagál a képernyőzáron, lépjen ki a Zene alkalmazásból, törlölje a RAM-ból, és indítsa újra a Mikeyt. A hiba ismert, a fejlesztők dolgoznak ennek megszüntetésén!</string>
     <string name="faq_comp_title">Milyen telefonokhoz használható?</string>
     <string name="faq_comp_text">A MIUI V5 rendszerével és a MiKey alkalmazással együtt használható.</string>
     <string name="faq_voice_title">Híváskor nincs hang?</string>
