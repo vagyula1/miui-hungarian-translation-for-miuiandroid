@@ -19,7 +19,7 @@
     <string name="data_usage_correction_timeout_body">Érintse meg a frissítéshez.</string>
     <string name="data_usage_correction_timeout_title">Adatforgalom szinkorizálásának időtúllépése</string>
     <string name="data_usage_disabled_dialog_enable">Adatkapcsolat engedélyezése</string>
-    <string name="data_usage_disabled_dialog">Adatforgalmi figyelmeztetés. A felhasználható adatforgalom túllépése jelentősen emelhetik a költségeket.</string>
+    <string name="data_usage_disabled_dialog">Adatforgalmi figyelmeztetés. A felhasználható adatforgalom túllépése jelentősen megemelhetik a költségeket.</string>
     <string name="data_usage_leisure_warning_body">Érintse meg az adatforgalom részleteinek megtekintéséhez.</string>
     <string name="data_usage_leisure_warning_title">Csúcsidőn kívül felhasználható adatforgalom</string>
     <string name="data_usage_limit_body">Érintse meg a mobil adatkapcsolat engedélyezéséhez.</string>
@@ -162,8 +162,8 @@
     <string name="traffic_protection_data_usage_summary">A felhasználható adatforgalom túllépése jelentősen emelhetik a költségeket.</string>
     <string name="traffic_protection_label">Adatforgalmi figyelmeztetés</string>
     <string name="traffic_protection_next">Következő</string>
-    <string name="traffic_protection_summary">Figyelmeztetés beállítása, ha az adatforgalom eléri megadott értéket</string>
-    <string name="traffic_protection_text_hint">%s adatforgalmi korlátjának beállítása</string>
+    <string name="traffic_protection_summary">Figyelmeztetés beállítása, ha az adatforgalom eléri a megadott értéket</string>
+    <string name="traffic_protection_text_hint">%s Adatforgalmi határérték beállítása</string>
     <string name="traffic_protection_unknown"><u>Beállítás később</u></string>
     <string name="traffic_protection_use_data">Adatforgalom engedélyezve</string>
     <string name="traffic_setting_fragment_area">Helyi</string>

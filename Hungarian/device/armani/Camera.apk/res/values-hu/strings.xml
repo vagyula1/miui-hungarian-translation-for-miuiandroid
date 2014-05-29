@@ -468,17 +468,10 @@
     <string name="pref_camera_multiple_face_beauty_title">Gyönyörű arc üzemód</string>
     <string name="pref_camera_multiple_face_beauty_entry_off">Egy arc</string>
     <string name="pref_camera_multiple_face_beauty_entry_on">Két arc</string>
-    <string name="pref_camera_multiple_face_beauty_default">off</string>
-    <string name="pref_camera_multiple_face_beauty_values_off">off</string>
-    <string name="pref_camera_multiple_face_beauty_values_on">on</string>
     <string name="measure_whitebalance_button">Mérés</string>
     <string name="measure_whitebalance_text">Helyezzen egy fehér papírt vagy egy szürke kártyát a kamera lencséje elé,majd nyomja meg a gombot</string>
-
     <string name="pref_camera_hdr_type_title">HDR típus</string>
-    <string name="pref_camera_hdr_type_entry_normal">Normal</string>
-    <string name="pref_camera_hdr_type_entry_live">Live</string>
-    <string name="pref_camera_hdr_type_entryvalue_normal">normal</string>
-    <string name="pref_camera_hdr_type_entryvalue_default">normal</string>
-    <string name="pref_camera_hdr_type_entryvalue_live">live</string>
+    <string name="pref_camera_hdr_type_entry_normal">Normál</string>
+    <string name="pref_camera_hdr_type_entry_live">Élő</string>
     <string name="accessibility_ev_control">Megvilágítás kompenzáció ellenőrzés</string>
 </resources>

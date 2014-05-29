@@ -67,7 +67,7 @@ névjegyzékét, üzeneteit,  fényképeit, jegyzeteit."</string>
     <string name="cmcc_data_sync_notice">Használja a felhőalapú szolgáltatásokat, szinkroniálja a névjegyek, üzenetek, és egyéb adatok.</string>
     <string name="cmcc_micloud_dspt">A felhőszolgáltatás tartalmazza a szinkronizálást, az eszköz keresését és egyéb funkciókat. Adatai online is elérhetőek bármikor!</string>
     <string name="completed">Befejezés</string>
-    <string name="confirm">Megerősít</string>
+    <string name="confirm">Igen</string>
     <string name="current_account">Jelenlegi fiók</string>
     <string name="data_keep_in_phone">Hagyja meg</string>
     <string name="data_sync_notice">Használja a MiCloud szolgáltatásait névjegyek, üzenetek, fényképek és egyéb adatok szinkronizálásához.</string>
@@ -227,7 +227,8 @@ Egy nemzetközi üzenetdíjnak megfelelő SMS szükséges az aktiváláshoz</str
     <string name="sim_changed_notification_content">SIM kártya nincs aktiválva.</string>
     <string name="skip_login_u"><u>Bejelentkezés kihagyása</u></string>
     <string name="skip_login">Bejelentkezés kihagyása</string>
-    <string name="skip_setup_account_msg">A Xiaomi fiók segítségével szinkronizálja üzeneteit, névjegyeit, fényképeit, jegyzeteit és egyéb adatait. Beállítja később?</string>
+    <string name="skip_setup_account_msg">A Xiaomi fiók segítségével szinkronizálhatja üzeneteit, névjegyeit, fényképeit, jegyzeteit és egyéb adatait. 
+Beállítja később?</string>
     <string name="skip_setup_account_title">Fiókbeállítás kihagyása</string>
     <string name="start_micloud">Indítás</string>
     <string name="sub_alert_notif_dspt" formatted="false">"A készüléken található %s névjegy, %s SMS, %s fénykép, %s jegyzet és egyéb adat még nincs szinkronizálva. Ha a telefon elveszik vagy megsérül, a rajta lévő adatok végleg elvesznek. Az adatok biztonsága érdekében erősen ajánlott a szinkronizálás"</string>

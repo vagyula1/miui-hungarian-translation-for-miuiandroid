@@ -3,10 +3,10 @@
     <string name="app_label">Iránytű</string>
     <string name="getting_location">Helymeghatározás...</string>
     <string name="cannot_get_location">Helymeghatározás sikertelen</string>
-    <string name="location_north">É %s</string>
-    <string name="location_south">D %s</string>
-    <string name="location_east">% K</string>
-    <string name="location_west">%s Ny</string>
+    <string name="location_north">É. hosszúság</string>
+    <string name="location_south">D. hosszúság</string>
+    <string name="location_east">K. szélesség</string>
+    <string name="location_west">NY. szélesség</string>
     <string name="menu_calibrate">Kalibrálás</string>
     <string name="menu_calibrate_altitude">Kalibrálási magasság</string>
     <string name="calibrate_success">A kalibrálás befejeződött</string>
