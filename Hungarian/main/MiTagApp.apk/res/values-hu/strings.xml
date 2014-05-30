@@ -70,9 +70,12 @@
   <string name="err_no_enough_space">Nincs elég hely a matricán</string>
   <string name="err_no_nfc">"A készülék nem támogatja az NFC-t. ez az alkalmazás lehetséges, hogy nem fog működni."</string>
   <string name="err_tag_read_only">"Nem írhat erre a matricára"</string>
+  <string name="err_tag_protected">Ez a matrica jelszóvédett. Adja meg a helyes jelszót.</string>
   <string name="err_tag_not_supported">"A telefon nem támogatja az NFC-t"</string>
   <string name="error_password">Hibás jelszó</string>
   <string name="failed_install">A telepítés nem sikerült</string>
+  <string name="failed_to_erase">Nem sikerült a matrica törlése</string>
+  <string name="failed_to_write">Nem sikerült a matrica írása</string>
   <string name="gps">GPS</string>
   <string name="help_title">Segítség</string>
   <string name="hint_input_address">Írja be a címzett nevét</string>
@@ -120,10 +123,9 @@
   <string name="play_music_desc">Zenelejátszás vagy szüneteltetés</string>
   <string name="play_song">Zenelejátszás</string>
   <string name="preference">Beállítások</string>
+  <string name="pwd_alert">Jelszó beállítása most</string>
   <string name="pwd_pref">NFC-matrica védelem a felülírástól</string>
-  <string name="pwd_pref_desc">寫入貼紙時將激活貼紙的寫保護功能，他人改寫你的貼紙需要提供密碼</string>
-  <string name="pwd_prot_off">Ki</string>
-  <string name="pwd_prot_on">BE</string>
+  <string name="pwd_pref_desc">Egy jelszó szükséges, mielőtt a felhasználók írnának erre a 21-es sorozatú NFC matricára</string>
   <string name="read_a_tag">NFC-matrica olvasása</string>
   <string name="reading">Beolvasás…</string>
   <string name="remote_app">Letötlésre várakozó alkalmazások…</string>
@@ -148,7 +150,7 @@
   <string name="set_now">Beállítás</string>
   <string name="settings">Beállítás</string>
   <string name="share">Megosztás</string>
-  <string name="share_content">"I've *%1$s* written to a Mi NFC-matrica. A beolvasáshoz csak érintse össze a telefon hátalapjával. Az alkalmazás elérhetősége: http://app.xiaomi.com/detail/56946"</string>
+  <string name="share_content">"Én *%1$s* írtam egy Mi NFC-matricára. A beolvasáshoz csak érintse össze a telefon hátalapjával. Az alkalmazás elérhetősége: http://app.xiaomi.com/detail/56946"</string>
   <string name="share_subject">Egy alkalmazás megosztása: %1$s</string>
   <string name="share_wifi">Wi-Fi megosztás</string>
   <string name="shortcut">Gyorsbeállítások</string>
@@ -187,6 +189,7 @@
   <string name="write_pon_pon_tile">Írás az NFC-matricára</string>
   <string name="write_success">Az írás befejeződött</string>
   <string name="write_tag">NFC-matrica írása</string>
+  <string name="writing">Írás…</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">A tárhely nem elérhető, ellenőrizze az SD kártyát.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
@@ -203,8 +206,8 @@ a telefon hátlapját a matricához"</string>
 érintse össze a telefon hátlapját egy másik matricával.."</string>
   <string name="touch_and_write_more">"Egy újabb másolat írásához
 érintse össze a telefon hátlapját egy másik matricával."</string> 
-  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+  <string name="xiaomi_update_dialog_message">"Jelenlegi verzió %1$s
 Méret: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Jelenlegi verzió %1$s
+Frissítés mérete: %2$s"</string>
 </resources>
