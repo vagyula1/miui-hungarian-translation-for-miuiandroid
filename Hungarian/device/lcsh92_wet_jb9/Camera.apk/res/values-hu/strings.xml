@@ -105,7 +105,6 @@
     <string name="pref_camera_whitebalance_entry_fluorescent">Fénycső</string>
     <string name="pref_camera_whitebalance_entry_cloudy">Felhős</string>
     <string name="pref_camera_coloreffect_title">Szín effektus</string>
-    <string name="pref_camera_coloreffect_entry_none">Nincs</string>
     <string name="pref_camera_coloreffect_entry_none" />
     <string name="pref_camera_coloreffect_entry_mono" />
     <string name="pref_camera_coloreffect_entry_sepia" />
@@ -115,7 +114,6 @@
     <string name="pref_camera_coloreffect_entry_blackboard" />
     <string name="pref_camera_coloreffect_entry_whiteboard" />
     <string name="pref_camera_coloreffect_entry_sepia_blue" />
-
     <string name="pref_camera_touchafaec_entry_off">Ki</string>
     <string name="pref_camera_touchafaec_entry_on">Be</string>
     <string name="pref_camera_sharpness_entry_low">alacsony</string>
