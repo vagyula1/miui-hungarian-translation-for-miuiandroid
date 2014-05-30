@@ -3173,8 +3173,8 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="bluetooth_unlock_change_device_confirm_msg">Lecseréli a régebben párosított eszközt az újra?</string>
     <string name="wifi_type_approval_title"/>
     <string name="manage_xiaomi_router">Xiaomi router kezelés</string>
-    <string name="xiaomi_router_notif_title">Xiaomi router notification</string>
-    <string name="xiaomi_router_notif_summary">Értesítsen, ha van elérhető Xiaomi router</string>
+    <string name="xiaomi_router_notif_title">Xiaomi router értesítés</string>
+    <string name="xiaomi_router_notif_summary">Értesítést kérek elérhető Xiaomi router esetén</string>
     <string name="xiaomi_router_available_notif_title">Xiaomi router elérhető</string>
     <string name="xiaomi_router_available_notif_summary">Kattintson a megtekintéshez</string>
 </resources>
