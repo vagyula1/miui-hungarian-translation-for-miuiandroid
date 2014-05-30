@@ -245,7 +245,9 @@
         <item>Helyszín</item>
         <item>Személyes</item>
         <item>Üzenetkezelés</item>
+        <item>Média</item>
         <item>Eszköz</item>
+        <item>Indítás</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>megközelítő elhelyezkedés</item>
@@ -279,11 +281,30 @@
         <item>zene lejátszása</item>
         <item>vágólap olvasása</item>
         <item>vágólap módosítása</item>
+        <item>média gombok</item>
+        <item>audio focus</item>
+        <item>hangerő</item>
+        <item>beszédhang hangereje</item>
+        <item>csengőhang hangereje</item>
+        <item>média hangereje</item>
+        <item>riasztás hangereje</item>
+        <item>értesítés hangereje</item>
+        <item>bluetooth volume</item>
+        <item>ébren tartás</item>
+        <item>tartózkodási hely kezelése</item>
+        <item>nagyon pontos tartózkodási hely kezelés</item>
+        <item>wifi változás</item>
+        <item>bluetooth változás</item>
+        <item>adatk. változás</item>
+        <item>MMS küldése</item>
+        <item>MMS olvasása</item>
+        <item>MMS írása</item>
+        <item>autom. indítás</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Helyszín</item>
         <item>Helyszín</item>
-        <item>LHelyszín</item>
+        <item>Helyszín</item>
         <item>Rezgés</item>
         <item>Névjegyzék olvasása</item>
         <item>Névjegyzék módosítása</item>
@@ -295,23 +316,42 @@
         <item>Értesítések engedélyezése</item>
         <item>Helyszín</item>
         <item>Telefonhívás</item>
-        <item>SMS/MMS olvasása</item>
-        <item>SMS/MMS küldése</item>
-        <item>SMS/MMS fogadása</item>
-        <item>SMS/MMS fogadása</item>
-        <item>SMS/MMS fogadása</item>
-        <item>SMS/MMS fogadása</item>
-        <item>SMS/MMS küldése</item>
-        <item>SMS/MMS fogadása</item>
-        <item>SMS/MMS küldése</item>
+        <item>SMS olvasása</item>
+        <item>SMS írása</item>
+        <item>SMS fogadása</item>
+        <item>SMS fogadása</item>
+        <item>MMS fogadása</item>
+        <item>SMS fogadása</item>
+        <item>SMS küldése</item>
+        <item>SMS olvasása</item>
+        <item>SMS írása</item>
         <item>Beállítások módosítása</item>
         <item>Rajzolás a tetejére</item>
         <item>Hozzáférés az értesítésekhez</item>
         <item>Kamera</item>
-        <item>Hangfelvétel rögzítése</item>
+        <item>Hangfelvétel rögzítés</item>
         <item>Zene lejátszása</item>
         <item>Vágólap olvasása</item>
         <item>Vágólap módosítása</item>
+        <item>Média gombok</item>
+        <item>Audio focus</item>
+        <item>Hangerő</item>
+        <item>Beszédhang hangereje</item>
+        <item>Csengőhang hangereje</item>
+        <item>Média hangereje</item>
+        <item>Riasztás hangereje</item>
+        <item>Értesítés hangereje</item>
+        <item>Bluetooth hanegereje</item>
+        <item>Ébren tartás</item>
+        <item>Tartózkodási hely</item>
+        <item>Tartózkodási hely</item>
+        <item>Wifi változás</item>
+        <item>Bluetooth változás</item>
+        <item>Adatk. változás</item>
+        <item>MMS küldés</item>
+        <item>MMS olvasás</item>
+        <item>MMS írás</item>
+        <item>Autom.indítás</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
 	<item>Rövid</item>
