@@ -36,6 +36,7 @@
     <string name="download_preview_failed">Előnézet betöltése nem sikeült</string>
     <string name="download_success">Letöltve!</string>
     <string name="fail_to_add_account">Fiók hozzáadás sikertelen</string>
+    <string name="resource_import_failed">Az importálás nem sikerült</string>
     <string name="live_wallpaper">Élő háttérkép</string>
     <string name="loading">Töltés...</string>
     <string name="loading_resource_detail_fail">Téma betöltése nem sikerült!</string>
@@ -86,6 +87,7 @@
     <string name="resource_comment_upload_success">Megjegyzés elküldve! Ellenőrzés után megjelenik</string>
     <string name="resource_default">Alapértelmezett csengőhang</string>
     <string name="resource_default_name">Téma</string>
+    <string name="resource_delete">Törlés</string>
     <string name="resource_delete_all">Töröl %1$d kiválasztott témát?</string>
     <string name="resource_delete_confirm">Biztos, hogy törli a témát?</string>
     <string name="resource_delta_update_failed">A frissítés nem sikerült! A teljes téma letöltése</string>
@@ -120,6 +122,7 @@
     <string name="resource_pack_discount_info">%1$s elmentve!</string>
     <string name="resource_pack_price_info">%1$s eredeti</string>
     <string name="resource_pack_warning">Figyelmeztetés! Ön már megvásárolt %1$d témát, az aktuálisi ár már nem érvényes, kérjük vásárolja meg őket külön-külön.</string>
+    <string name="resource_ringtone_playing_error">lejátszási hiba</string>
     <string name="resource_preview">Előnézet</string>
     <string name="resource_price_free">Ingyenes</string>
     <string name="resource_price_unit">" MiCredit"</string>
@@ -251,4 +254,8 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="resource_download_trial">Kipróbálom</string>
     <string name="resource_apply_trial">Kipróbálom</string>
     <string name="purchased_list">Vásárlásaim</string>
+    <string name="apply_default_font_tip">"Megtartja a jelenlegi betűtípust?"</string>
+    <string name="theme_yes">Igen</string>
+    <string name="theme_no">Nem</string>
+    <string name="theme_fresh_man_notifaction">Próbáljon ki új témákat.</string>
 </resources>

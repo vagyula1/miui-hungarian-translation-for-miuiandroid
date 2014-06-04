@@ -60,6 +60,7 @@
     <string name="accessibility_phone_one_bar">Telefon egy sáv.</string>
     <string name="accessibility_phone_two_bars">Telefon két sáv.</string>
     <string name="accessibility_phone_three_bars">Telefon három sáv.</string>
+    <string name="accessibility_phone_four_bars">Telefon négy sáv.</string>
     <string name="accessibility_phone_signal_full">Telefonjel megtelt.</string>
     <string name="accessibility_no_data">Nincsenek adatok.</string>
     <string name="accessibility_data_one_bar">Adat egy sáv.</string>

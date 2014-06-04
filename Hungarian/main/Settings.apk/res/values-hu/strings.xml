@@ -3017,7 +3017,8 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="wifi_display_summary_on">Be</string>
     <string name="free_wifi_summary">Ingyenes Wi-Fi elérhetőség, %1$s biztosítja</string>
     <string name="free_wifi_connect_title">Ingyenes Wi-Fi hálózat elérhető</string>
-    <string name="free_wifi_connect_summary">Az ingyenes Wi-Fi hálózatot %1$s biztosítja. Érintse meg a csatlakozáshoz.</string>
+    <string name="free_wifi_connect_summary">Érintse meg a %1$s csatlakozásához.</string>
+    <string name="free_wifi_manage_summary">Érintse meg a %1$s megtekintéséhez.</string>
     <string name="free_wifi_connect_dialog_title">Ingyenes Wi-Fi hálózat elérhető</string>
     <string name="free_wifi_connect_dialog_summary">%1$s ingyenes Wi-Fi hálózatot %2$s biztosítja.</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
@@ -3177,4 +3178,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="xiaomi_router_notif_summary">Értesítést kérek elérhető Xiaomi router esetén</string>
     <string name="xiaomi_router_available_notif_title">Xiaomi router elérhető</string>
     <string name="xiaomi_router_available_notif_summary">Kattintson a megtekintéshez</string>
+    <string name="development_settings_not_available">A fejlesztői lehetőségek nem érhetők el ennél a felhasználónál</string>
+    <string name="mtp_ptp_mode_summary">aktív MTP vagy PTP funkcióval</string>
 </resources>
