@@ -474,5 +474,17 @@ Használja ki!"</string>
     <string name="modified_time">Módosítás ideje</string>
     <string name="photo_size">Méret</string>
     <string name="taken_time">Idő</string>
-    <string name="yellow_page">Könyvtár</string>
+    <string name="yellow_page">Könyvtár</string>  
+    <string name="alert_init_merged_title">Az összes fényképe. Végre egy helyen.</string>
+    <string name="alert_init_merged_message">"A készüléken és a MiCloudban tárolt fényképek együtt jelennek meg."</string>
+    <string name="click_to_add_picture">Kattintson a képek hozzáadásához</string>
+    <string name="local_time">(Helyi)</string>
+    <string name="long_press_to_refocus">Hagyja nyomva az újrafókuszáláshoz</string>
+    <string name="photo_page_detail_show_in_the_map">Tartózkodási hely megjelenítése a térképen</string>
+    <string name="picker_tab_photo">Fénykép</string>
+    <string name="start_slide_show">Diavetítés indítása</string>
+    <string name="sync_in_progress_message">A szinkronizálás folyamatban...</string>
+    <string name="ubifocus_data_missing">Néhány adat elveszett</string>
+    <string name="ubifocus_map_error">Néhány adat hibás</string>
+    <string name="ubifocus_refocus_fail_tip">Az átirányítás nem lehetséges, mert náhány adat hibás vagy hiányzik</string>	
 </resources>

@@ -29,7 +29,7 @@
     <string name="downloading">Letöltés</string>
     <string name="insufficient_drm_rights">Elégtelen DRM-jogosultság.</string>
     <string name="copy_message_text">Másolás</string>
-	<string name="copy_message_text_success">Szöveg kimásolva</string>
+    <string name="copy_message_text_success">Szöveg kimásolva</string>
     <string name="done">Kész</string>
     <string name="move_up">Fel</string>
     <string name="move_down">Le</string>
@@ -470,4 +470,7 @@
     <string name="toast_feedback_start">Visszejelzés küldése…</string>
     <string name="context_menu_add_calendar">Mutassa a naptárban</string>
     <string name="quick_reply">Válasz</string>
+    <string name="sp_category_title_prefix">%s</string>
+    <string name="sp_category_all">Minden szolgáltatói üzenet</string>
+    <string name="sp_category_bank">Banki üzenetek</string>
 </resources>

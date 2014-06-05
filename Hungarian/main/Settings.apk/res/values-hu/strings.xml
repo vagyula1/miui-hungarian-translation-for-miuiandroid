@@ -2419,6 +2419,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="device_sd_memory">SD kártya:</string>
     <string name="device_cpu2_info">"Dual Core "</string>
     <string name="device_cpu4_info">"Quad-Core "</string>
+    <string name="device_cpu8_info">"Octa-Core "</string>
     <string name="available_size">%s elérhető</string>
     <string name="total_size">%s (teljes)</string>
     <string name="memory_title">Összes %2$s\u0009\u0009Elérhető %1$s</string>

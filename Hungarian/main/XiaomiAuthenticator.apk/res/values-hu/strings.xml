@@ -137,6 +137,7 @@
     <string name="title_forgetpattern">Elfelejtett feloldóminta</string>
     <string name="resetbtn_patternforgotten">Visszaállítás</string>
     <string name="authenticator_page_reactivation">Újraaktiválás</string>
+    <string name="success_copy_to_clipboard">Vágólapra másolva</string>
     <string name="success_set_password">A feloldóminta beállítva</string>
     <string name="success_reset_password">A feloldóminta frissítve</string>
     <string name="correct_enter_password">A feloldóminta elfogadva</string>

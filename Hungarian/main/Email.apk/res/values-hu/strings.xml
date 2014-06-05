@@ -714,4 +714,11 @@ A frissített verzió mérete: %2$s"</string>
     <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="att_download_failed_title">A melléklet letöltése nem sikerült</string>
+    <string name="att_download_failed_content">A letöltés nem sikerült</string>
+    <string name="dialog_insufficient_space_on_external">"A letöltés nem fejeződött be. Nincs elég szabad hely a külső tárolón."</string>
+    <string name="dialog_insufficient_space_on_internal">"Nincs elég hely a belső tárolón."</string>
+    <string name="dialog_insufficient_space_for_single_account_on_internal">Nincs elég szabad hely a %s.</string>
+    <string name="dialog_auto_download_failed">"Az automatikus letöltést nem lehet befejezni"</string>
+    <string name="mail">E-mail</string>
 </resources>
