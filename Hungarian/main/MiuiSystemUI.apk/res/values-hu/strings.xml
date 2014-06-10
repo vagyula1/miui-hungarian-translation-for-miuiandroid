@@ -183,13 +183,13 @@
     <string name="dlg_ok">OK</string>
     <string name="ext_media_checking_notification_title">Az SD kártya előkészítése</string>
     <string name="ext_media_checking_notification_message">Hibakeresés.</string>
-    <string name="ext_media_nofs_notification_title">Üres SD kárty</string>
+    <string name="ext_media_nofs_notification_title">Üres SD kártya</string>
     <string name="ext_media_nofs_notification_message">Az SD kártya üres vagy nem támogatott fájlrendszerrel rendelkezik.</string>
     <string name="ext_media_unmountable_notification_title">Sérült SD kártya</string>
     <string name="ext_media_unmountable_notification_message">Az SD kártya sérült. Újra kell formáznia.</string>
     <string name="ext_media_badremoval_notification_title">Az SD váratlanul eltávolításra került</string>
     <string name="ext_media_badremoval_notification_message">Oldja ki az SD kártyát az eltávolítás előtt az adatvesztés megakadályozása érdekében.</string>
-    <string name="ext_media_safe_unmount_notification_title">USB storage safe to remove</string>
+    <string name="ext_media_safe_unmount_notification_title">USB tároló biztonságos eltávolítása</string>
     <string name="ext_media_safe_unmount_notification_message">Biztonságosan eltávolíthatja az SD kártyát.</string>
     <string name="ext_media_nomedia_notification_title">Eltávolított SD kártya</string>
     <string name="ext_media_nomedia_notification_message">Az SD kártya eltávolítva. Helyezzen be egy újat.</string>

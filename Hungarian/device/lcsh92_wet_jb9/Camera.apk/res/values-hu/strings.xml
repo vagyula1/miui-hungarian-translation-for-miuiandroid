@@ -369,7 +369,7 @@ lépjen ki a nézetből</string>
     <string name="simple_mode_button_text_panorama">Panoráma mód bezárása</string>
     <string name="simple_mode_button_text_color_effect">Szűrők bezárása</string>
     <string name="simple_mode_button_text_audio_capture">Hangrögzítő bezárása</string>
-    <string name="simple_mode_button_text_slow_video">Lassított kamera bezárása</string>
+    <string name="simple_mode_button_text_slow_video">Lassított felvétel bezárása</string>
     <string name="pref_camera_coloreffect_title_simple_mode">Szűrők</string>
     <string name="pref_video_slow_speed_title_simple_mode">Lassítás</string>
     <string name="simple_mode_title">Egyszerű mód</string>

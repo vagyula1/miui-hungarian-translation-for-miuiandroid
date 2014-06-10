@@ -108,9 +108,9 @@
   <string name="sina_token_invalid_warning">Weibo fiók érvénytelen,lépjen be újra</string>
   <string name="sms_notification">Küldés SMS-ben</string>
   <string name="tip_weather">MIUI időjárás értesítés</string>
-  <string name="tip_weather_info_content_1">Öltözzön rétegesen!</string>
-  <string name="tip_weather_info_title_1">%1$s a várható hőmérséklet különbség %2$d fok</string>
-  <string name="tip_weather_info_title_2">%1$s mai hőmérséklete %2$s</string>
+  <string name="tip_weather_info_content_1">Öltözzön az időjárásnak megfelelően!</string>
+  <string name="tip_weather_info_title_1">A várható hőmérs.különbség %2$d°</string>
+  <string name="tip_weather_info_title_2">%1$s %2$s</string>
   <string name="trend_weather_today">Ma</string>
   <string name="trend_weather_tomorrow">Holnap</string>
   <string name="weather_notification">Időjárás értesítés</string>

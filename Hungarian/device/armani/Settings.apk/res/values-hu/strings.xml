@@ -3204,4 +3204,12 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="gemini_wap_push_permission_head">Az Auto-push szolgáltatás engedélyezése után fogadhat push-üzeneteket, futtathat alkalmazást helyben és adatforgalmat bonyolíthat. Az auto-push szolgáltatások általában a következők: e-mail értesítés, eszközkezelés, szolgáltatás-kijelzés, szolgáltatás-betöltés és push ellátás.</string>
     <string name="gemini_wap_push_permission_tail">Elfogadja a megállapodás feltételeit?</string>
     <string name="gemini_wap_push_permission_title">Auto-push szolgáltatás megállapodása</string>
+    <string name="oldman_mode_entry_title">Egyszerűsített üzemmód</string>
+    <string name="oldman_mode_entry_name">Egyszerűsített üzemmód</string>
+    <string name="oldman_mode_settings_caption">Egyszerűsített üzemmód beállításai</string>
+    <string name="oldman_mode_enabled_name">Egyszerűsített üzemmód</string>
+    <string name="oldman_mode_summary">Egyszerűsített kezdőképernyő és menü használata</string>
+    <string name="oldman_mode_confirm_title">Újraindítja a készüléket?</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">A készülék újraindul és belép az egyszerűsített üzemmódba.</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">Kilép az egyszerűsített üzemmódból?</string>
 </resources>
