@@ -721,4 +721,7 @@ A frissített verzió mérete: %2$s"</string>
     <string name="dialog_insufficient_space_for_single_account_on_internal">Nincs elég szabad hely a %s.</string>
     <string name="dialog_auto_download_failed">"Az automatikus letöltést nem lehet befejezni"</string>
     <string name="mail">E-mail</string>
+    <string name="outbox_alert_button_resend">Újraküldés</string>
+    <string name="outbox_alert_button_no_resend">"Ne küldje"</string>
+    <string name="outbox_alert_mailbox_not_found">Az email cím nem található</string>
 </resources>

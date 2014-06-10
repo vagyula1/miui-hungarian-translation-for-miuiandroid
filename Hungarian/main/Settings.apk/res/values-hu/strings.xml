@@ -1522,7 +1522,9 @@
     <string name="master_clear_desc">Ez minden adatot töröl a telefonról</string>
     <string name="master_clear_accounts">Jelenleg a következő fiókokba van bejelentkezve:</string>
     <string name="master_clear_desc_also_erases_external"><li>Zene</li><li>Fotók</li><li>Más felhasználói adatok</li></string>
-    <string name="master_clear_desc_erase_external_storage">"A zenék, képek és más felhasználói adatok törléséhez az "</string>
+    <string name="master_clear_desc_erase_external_storage">"
+
+A zenék, képek és más felhasználói adatok törléséhez az "<b>USB-tárat</b> is törölnie kell.</string>
     <string name="erase_external_storage">USB-tár törlése</string>
     <string name="erase_external_storage_description">Minden adat, például zenék és képek törlése a belső USB-tárról</string>
     <string name="master_clear_button_text">Telefon visszaállítása</string>
@@ -1578,6 +1580,15 @@
     <string name="location_mode_battery_saving_description">Wi-Fi és mobilhálózatok használata a tartózkodási hely meghatározásához.</string>
     <string name="location_mode_sensors_only_description">GPS használata a tartózkodási hely meghatározásához</string>
     <string name="location_network_based">Hely Wi-Fi és mobilhálózat alapján</string>
+    <string name="manage_mobile_plan_title">Mobil-előfizetés</string>
+    <string name="sms_application_title">Alapértelmezett SMS-alkalmazás</string>
+    <string name="sms_change_default_dialog_title">Módosítja az SMS-alkalmazást?</string>
+    <string name="sms_change_default_dialog_text" formatted="false">A(z) %s alkalmazást szeretné használni a(z) %s helyett az SMS-ekhez?</string>
+    <string name="sms_change_default_no_previous_dialog_text">A(z) %s alkalmazást szeretné használni az SMS-ekhez?</string>
+    <string name="mobile_unknown_sim_operator">Ismeretlen SIM kártya szolgáltató</string>
+    <string name="mobile_no_provisioning_url">%1$s – nincs ismert hozzáférés-kezelő webhely</string>
+    <string name="mobile_insert_sim_card">Helyezze be a SIM kártyát és indítsa újra</string>
+    <string name="mobile_connect_to_internet">Csatlakozzon az internethez</string>
     <string name="location_neighborhood_level">Engedélyezze az alkalmazásoknak, hogy a Google helymeghatározó szolgáltatásával gyorsabban megbecsüljék tartózkodási helyét. A névtelen helyadatok összegyűjtés után a Google-hoz kerülnek.</string>
     <string name="location_neighborhood_level_wifi">Helymeghatározás Wi-Fi-vel</string>
     <string name="location_gps">GPS-műholdak</string>
@@ -3181,4 +3192,18 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="xiaomi_router_available_notif_summary">Kattintson a megtekintéshez</string>
     <string name="development_settings_not_available">A fejlesztői lehetőségek nem érhetők el ennél a felhasználónál</string>
     <string name="mtp_ptp_mode_summary">aktív MTP vagy PTP funkcióval</string>
+    <string name="app_feedback">Hibajelentés</string>
+    <string name="app_backup">Mentés</string>
+    <string name="google_backup_section_title">Google mentés és visszaállítás</string>
+    <string name="system_backup_section_title">Mentés</string>
+    <string name="local_backup_section_title">Helyi mentések</string>
+    <string name="local_backup_section_summary">Rendszerbeállítások, fiókok és alkalmazások biztonsági mentése</string>
+    <string name="modem_tool_log">Modem naplózások rögzítése</string>
+    <string name="modem_tool_log_start">Felvétel indítása</string>
+    <string name="modem_tool_log_stop">Felvétel leállítása</string>
+    <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+    <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Hibajelentés készítése (kb. 1 perc)</string>
+    <string name="bugreport_tool_log_toast">Napló mentve %s</string>
+    <string name="bugreport_tool_log">Hibajelentés rögzítése</string>
 </resources>
