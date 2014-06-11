@@ -3213,7 +3213,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="garbage_white_list_empty_content">Üres</string>
     <string name="virus_scanner_select_trust_lib">Válasszon vírus adatbázist</string>
     <string name="virus_scan_clean_dialog_message">Törlés...</string>
-    <string name="bluetooth_is_discoverable">Az összes közeli Bluetooth eszköz számára látható (%1$s)</string>
     <string name="bluetooth_connected_no_map">Csatlakoztatva (nincs üzenet-hozzáférés)</string>
     <string name="bluetooth_remember_choice">Ne jelenjen meg többé</string>
     <string name="bluetooth_map_request">Üzenet-hozzáférési kérelem</string>
@@ -3229,7 +3228,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="no_notification_listeners">Nincs telepítve értesítésfigyelő.</string>
     <string name="notification_listener_security_warning_title">Engedélyezi a(z) %1$s szolgáltatást?</string>
     <string name="notification_listener_security_warning_summary">%1$s a rendszer és minden telepített alkalmazás által küldött összes értesítést el tudja majd olvasni. Ezekben lehetnek személyes adatok, például ismerősök nevei és az Ön részére küldött SMS-ek szövegei. Ezeket az értesítéseket el is vetheti, illetve a bennük lévő műveletgombokat megérintheti.</string>
-    <string name="bluetooth_quick_toggle_summary">Bluetooth bekapcsolása</string>
     <string name="bluetooth_profile_map">Üzenet-hozzáférés</string>
     <string name="bluetooth_map_profile_summary_connected">Csatlakoztatva a térképhez</string>
     <string name="bluetooth_map_profile_summary_use_for">Használat a térképhez</string>
@@ -3330,7 +3328,6 @@ A telefon beállításához jelentős hálózati tevékenységre lehet szükség
     <string name="usage_type_data_wifi_send">Küldött Wi--i adat</string>
     <string name="usage_type_data_wifi_recv">Fogadott Wi-Fi adat</string>
     <string name="battery_desc_users">A felhasználó akkumulátorhasználata</string>
-    <string name="tts_default_lang_summary">Beállítja a beszélt szöveg nyelvspecifikus hangját</string>
     <string name="tts_engine_network_required">Ez a nyelv működő hálózati kapcsolatot igényel a szövegfelolvasáshoz.</string>
     <string name="tts_default_sample_string">Ez egy példa a beszédszintézisre</string>
     <string name="tts_status_title">Alapértelmezett nyelv állapota</string>
@@ -3338,11 +3335,9 @@ A telefon beállításához jelentős hálózati tevékenységre lehet szükség
     <string name="tts_status_requires_network">A(z) %1$s nyelv használatához hálózati kapcsolatra van szükség</string>
     <string name="tts_status_not_supported">A(z) %1$s nyelv nem támogatott</string>
     <string name="tts_status_checking">Ellenőrzés...</string>
-    <string name="backup_erase_dialog_message">Kikapcsolja a Wi-Fi jelszavakat, könyvjelzőket, egyéb beállításokat és alkalmazásadatok biztonsági mentését, illetve törli a Google szerverein lévő összes példányt?</string>
     <string name="vpn_lockdown_summary">Válasszon ki egy VPN-profilt, amelyhez mindig csatlakozni szeretne. A hálózati forgalom csak akkor lesz engedélyezve, ha ehhez a VPN-hez csatlakozik.</string>
     <string name="vpn_lockdown_none">Egyik sem</string>
     <string name="vpn_lockdown_config_error">A mindig bekapcsolt VPN-hez a szerver és a DNS IP-címe is szükséges.</string>
-    <string name="vpn_no_network">Nincs hálózati kapcsolat. Próbálja újra később.</string>
     <string name="user_summary_restricted_profile">Korlátozott jogokkal rendelkező profil</string>
     <string name="user_need_lock_message">Mielőtt létrehozhatna egy korlátozott profilt, be kell állítania egy képernyőzárat, hogy megvédje alkalmazásait és személyes adatait.</string>
     <string name="user_set_lock_button">Képernyőzár beállítása</string>
@@ -3373,7 +3368,6 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="user_cannot_manage_message">Csak a telefon tulajdonosa kezelheti a felhasználókat.</string>
     <string name="user_cannot_add_accounts_message">Korlátozott profilok nem adhatnak hozzá fiókokat</string>
     <string name="user_confirm_remove_self_message">Az Ön tárhelye és adatai el fognak tűnni a telefonról. Ezt a műveletet nem lehet visszavonni.</string>
-    <string name="user_confirm_remove_message">A felhasználó tárhelye és adatai el fognak tűnni a telefonról. Ezt a műveletet nem lehet visszavonni.</string>
     <string name="user_profile_confirm_remove_message">A profil tárhelye és adatai el fognak tűnni a telefonról. Ezt a műveletet nem lehet visszavonni.</string>
     <string name="user_adding_new_user">Új felhasználó hozzáadása...</string>
     <string name="user_delete_user_description">Felhasználó törlése</string>
