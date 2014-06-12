@@ -841,7 +841,7 @@
     <string name="bluetooth_lock_voice_dialing">Hanghívás zárolása</string>
     <string name="bluetooth_lock_voice_dialing_summary">A bluetooth tárcsázó használatának megakadályozása, ha a képernyő le van zárva</string>
     <string name="bluetooth_devices">Bluetooth eszközök</string>
-    <string name="bluetooth_device_name">Eszköz neve</string>
+    <string name="bluetooth_device_name">Eszköz neve:</string>
     <string name="bluetooth_device_details">Eszköz beállítások</string>
     <string name="bluetooth_profile_details">Profil beállítások</string>
     <string name="bluetooth_name_not_set">Nem állított be nevet; a fióknév használata</string>
@@ -3435,4 +3435,5 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="hdmi_color_calibration_none">Természetes</string>
     <string name="hdmi_3d_display_enable_title">3D Megjelenítő</string>
     <string name="hdmi_3d_display_enable_summary">3D játékok támogatásának engedélyezése</string>
+    <string name="bluetooth_device_address">Eszköz címe:</string>
 </resources>

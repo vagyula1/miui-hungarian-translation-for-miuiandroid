@@ -334,4 +334,15 @@
     <string name="start_time">Indítás</string>
     <string name="receive_ad_notify">Értesítés</string>
     <string name="receive_ad_notify_summary">A megnyitást követően értesítést kap a legújabb és legnépszerűbb videókról</string>
+    <string name="addon" />
+    <string name="addon_category">Kiegészítők</string>
+    <string name="add_more_addons">még több kiegészítő</string>
+    <string name="pick_addon_to_delete">válasszon elemet</string>
+    <string name="delete_addon">Törlés</string>
+    <string name="delete_addon_content">Törli ezt az elemet?</string>
+    <string name="install_comfirm">kattintson a telepítéshez</string>
+    <string name="start_addon">kiegészítők indítása</string>
+    <string name="addon_install_complete_disc">%s telepítése befejeződött</string>
+    <string name="addon_update_desc">Új veerzió elérhető, frissíti?</string>
+    <string name="upgrade">Frissítés</string>
 </resources>

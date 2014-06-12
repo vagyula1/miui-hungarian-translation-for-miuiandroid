@@ -16,6 +16,10 @@
     </string-array>
     <string-array name="series_detail_tabs">
         <item>Epizód</item>
-        <item>Összesítet</item>
+        <item>Összesített</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Minden kiegészítő</item>
+        <item>Saját kiegészítő</item>
     </string-array>
 </resources>
