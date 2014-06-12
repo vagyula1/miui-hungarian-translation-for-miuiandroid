@@ -509,8 +509,8 @@
     <string name="sub_sync_item_browser_title_cloud_tab">Oldalak szinkronizálása</string>
     <string name="sub_sync_item_browser_title_history_summary">Böngészési előzmények szinkronizálása</string>
     <string name="sub_sync_item_browser_title_history">Előzmények szinkronizálása</string>
-    <string name="sub_sync_item_browser_title_novel_summary">Sync novels of browser</string>
-    <string name="sub_sync_item_browser_title_novel">Sync novels</string>
+    <string name="sub_sync_item_browser_title_novel_summary">Böngésző könyveinek szinkronizálása</string>
+    <string name="sub_sync_item_browser_title_novel">Könyvek szinkronizálása</string>
     <string name="sync_item_browser_summary">A böngészési adatok szinkronizálása a felhővel elősegíti a könnyebb használatot egyéb eszközökön</string>
     <string name="sync_item_browser_title">Böngésző szinkronizálása</string>
     <string name="tab_history">Előzmények</string>
@@ -590,8 +590,8 @@ EL szeretné hagyni az oldalt?"</string>
     <string name="webapp_menu_favorites">Kedvencek</string>
     <string name="webapp_menu_exit">Kilépés</string>
     <string name="webapp_settings_title">Beállítások</string>
-    <string name="sub_sync_item_browser_title_webapp">Webappok szinkronizálás</string>
-    <string name="sub_sync_item_browser_title_webapp_summary">Webappok hozzáadva a kedvencekhez</string>
+    <string name="sub_sync_item_browser_title_webapp">Webappok szinkronizálása</string>
+    <string name="sub_sync_item_browser_title_webapp_summary">A kedvencekhez adott webappok</string>
     <string name="pref_webapp_settings_fontsize">Betűméret</string>
     <string name="pref_webapp_settings_savewidth">"Ne töltse le a képeket 2G/3G hálózaton"</string>
     <string name="pref_webapp_settings_hidebottombar">Mindig rejtse el az alsó sávot</string>
