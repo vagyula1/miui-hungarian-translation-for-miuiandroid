@@ -124,7 +124,7 @@
     <string name="mediaset">Sorozatok</string>
     <string name="select_all">Mind kiválasztása</string>
     <string name="cancel_select_all">Egyiket sem</string>
-    <string name="login_tip_title">Bejelentjezés</string>
+    <string name="login_tip_title">Bejelentkezés</string>
     <string name="login_tip_content">Lépjen be a Xiaomi fiókjába a nyomonkövetett műsorok frissítéséhez.</string>
     <string name="nologin_no_waitfornewset">A műsorok nyomonkövetéséhez bejelentkezés szükséges.</string>
     <string name="video">MiVideo</string>
