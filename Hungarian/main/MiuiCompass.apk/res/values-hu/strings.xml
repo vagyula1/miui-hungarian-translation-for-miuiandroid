@@ -24,6 +24,10 @@
     <string name="direction_south">D</string>
     <string name="direction_east">K</string>
     <string name="direction_west">Ny</string>
+    <string name="direction_north_east">ÉK</string>
+    <string name="direction_north_west">ÉNy</string>
+    <string name="direction_south_east">DK</string>
+    <string name="direction_south_west">DNy</string>
     <string name="guide_toast">"Lehetséges,hogy interferencia van a mágneses mező körül.
 Kalibrálja az iránytűt a kép közepén lévő ábra szerint."</string>
 </resources>

@@ -71,4 +71,5 @@ Kapcsolja ki a repülőgép üzemmódot."</string>
  Próbálja újra %d mp múlva."</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">%d alkalommal hibásan adta meg a jelszavát. %d sikertelen próbálkozás után a telefon visszaáll a gyári állapotra, a felhasználói adatok elvesznek.</string>
     <string name="lockscreen_failed_attempts_now_wiping">%d alkalommal hibásan adta meg a jelszavát. A telefon most visszaáll a gyári állapotra.</string>
+    <string name="bluetooth_unlock_rssi_far_debug_msg">A Bluetooth eszköz túl távol van.</string>
 </resources>

@@ -209,7 +209,7 @@ We will check again within two working days."</string>
     <string name="btn_net_connection_retry">Újra</string>
     <string name="pay_record_typeall">Összes</string>
     <string name="mibi_license_title">Felhasználási feltételek</string>
-    <string name="mibi_license_message">A %1$s elfogadásához kattintson az OK gombra.</string>
+    <string name="mibi_license_message">A %1$s elfogadásához kattintson az Elfogad gombra.</string>
     <string name="mibi_license_message_span">MiCredit Felhasználói Szerződés</string>
     <string name="security_setting">Biztonsági beállítások</string>
     <string name="lockscreen_forgot_pattern_button_text">&lt;u>Elfelejtett jelszód&lt;/u></string>

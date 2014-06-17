@@ -3436,4 +3436,6 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="hdmi_3d_display_enable_title">3D Megjelenítő</string>
     <string name="hdmi_3d_display_enable_summary">3D játékok támogatásának engedélyezése</string>
     <string name="bluetooth_device_address">Eszköz címe:</string>
+    <string name="title_font">Betűtípus</string>
+    <string name="title_font_current">Jelenleg használt</string>
 </resources>

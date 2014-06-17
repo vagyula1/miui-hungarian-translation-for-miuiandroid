@@ -258,4 +258,8 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="theme_yes">Igen</string>
     <string name="theme_no">Nem</string>
     <string name="theme_fresh_man_notifaction">Próbáljon ki új témákat.</string>
+    <string name="resource_connect_network_message">Csatlakozik a hálózathoz?</string>
+    <string name="resource_allow">Igen</string>
+    <string name="resource_remind_another_time">"Ne emlékeztessen"</string>
+    <string name="resource_connect_network_settings">Értesítés csatlakozás esetén</string>
 </resources>

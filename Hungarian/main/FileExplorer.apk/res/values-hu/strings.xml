@@ -322,4 +322,6 @@
     <string name="share_box">Megosztva</string>
     <string name="share_box_send">Elküldve</string>
     <string name="share_box_receive">Fogadott</string>
+    <string name="file_not_exist">A fájl nem található</string>
+    <string name="open_file_failed">A megnyitás sikertelen</string>
 </resources>

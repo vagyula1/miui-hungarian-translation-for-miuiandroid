@@ -1056,4 +1056,8 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="account_msim">SIM %d</string>
     <string name="export_to_sim1">Exportálás SIM 1-ről</string>
     <string name="import_from_sim1">Importálás SIM 1-ről</string>
+    <string name="resource_connect_network_message">Csatlakozik a hálózathoz?</string>
+    <string name="resource_allow">Igen</string>
+    <string name="resource_remind_another_time">"Ne emlékeztessen"</string>
+    <string name="resource_connect_network_settings">Értesítés csatlakozás esetén</string>
 </resources>

@@ -486,5 +486,7 @@ Használja ki!"</string>
     <string name="sync_in_progress_message">A szinkronizálás folyamatban...</string>
     <string name="ubifocus_data_missing">Néhány adat elveszett</string>
     <string name="ubifocus_map_error">Néhány adat hibás</string>
-    <string name="ubifocus_refocus_fail_tip">Az átirányítás nem lehetséges, mert náhány adat hibás vagy hiányzik</string>	
+    <string name="ubifocus_refocus_fail_tip">Az összpontosítás nem lehetséges, mert néhány adat hibás vagy hiányzik</string>
+    <string name="download_refocus_data">Összpontosított adat letöltése</string>
+    <string name="refocus_data_downloading">Összpontosított adat letöltése…</string>
 </resources>
