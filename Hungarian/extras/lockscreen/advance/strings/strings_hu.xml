@@ -1,5 +1,5 @@
-<strings>
-    <string name="short_date_format" value="MMMM dd.EEEE" />
-    <string name="long_date_format" value="yyyy.MM.dd." />
+<resources>
 	<string name="date_format" value="MMMM dd.EEEE" />
-</strings>
+    <string name="emergency_call">Segélyhívás</string>
+    <string name="unknown_number">Ismeretlen szám</string>
+</resources>
