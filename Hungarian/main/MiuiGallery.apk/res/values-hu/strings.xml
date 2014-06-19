@@ -486,7 +486,11 @@ Használja ki!"</string>
     <string name="sync_in_progress_message">A szinkronizálás folyamatban...</string>
     <string name="ubifocus_data_missing">Néhány adat elveszett</string>
     <string name="ubifocus_map_error">Néhány adat hibás</string>
-    <string name="ubifocus_refocus_fail_tip">Az összpontosítás nem lehetséges, mert néhány adat hibás vagy hiányzik</string>
-    <string name="download_refocus_data">Összpontosított adat letöltése</string>
-    <string name="refocus_data_downloading">Összpontosított adat letöltése…</string>
+    <string name="ubifocus_refocus_fail_tip">Az újrafókuszálás nem lehetséges, mert néhány adat hibás vagy hiányzik</string>
+    <string name="download_refocus_data">Újrafókuszált adat letöltése</string>
+    <string name="refocus_data_downloading">Újrafókusztált adat letöltése…</string>
+    <string name="item_not_sync_for_origin_video">A videófájl még nem lett szinkronizálva a felhővel és még nem volt letöltve</string>
+    <string name="item_not_sync_for_origin_image">A kép még nem lett szinkronizálva a felhővel és az eredeti kép még nem lett letöltve</string>
+    <string name="item_not_sync_for_refocus_data">A kép még nem lett szinkronizálva a felhővel és az adat még nem lett letöltve</string>
+    <string name="ubifocus_guide_text">Az újrafókuszáláshoz tartsa 0.5mp-ig</string>
 </resources>

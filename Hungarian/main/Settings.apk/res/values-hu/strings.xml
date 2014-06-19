@@ -3438,4 +3438,5 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="bluetooth_device_address">Eszköz címe:</string>
     <string name="title_font">Betűtípus</string>
     <string name="title_font_current">Jelenleg használt</string>
+    <string name="use_network_warning">A Xiaomi keretrendszerhez és a felhőszolgáltatáshoz internetkapcsolat szükséges</string>
 </resources>

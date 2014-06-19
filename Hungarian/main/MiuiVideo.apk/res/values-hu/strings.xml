@@ -2,7 +2,7 @@
 <resources>
     <string name="xiaomi_account_type_unsupported">A rendszer nem támogatja a Xiaomi fiókokat.</string>
     <string name="no_login_xiaomi_account">Jelentkezzen be a Xiaomi fiókjába a megjegyzés hozzáfűzéséhez.</string>
-    <string name="authenticating"><CDATA>Ellenőrzés </CDATA></string>
+    <string name="authenticating">Ellenőrzés </string>
     <string name="authenticated_failed">A bejelentkezés nem sikerült</string>
     <string name="authenticating_manually">Az azonosítás sikertelen</string>
     <string name="app_name">MiVideo</string>
@@ -74,9 +74,9 @@
     <string name="jni_invalid_param">Érvénytelen paraméterek</string>
     <string name="jni_no_media_source">Nincs médiaforrás</string>
     <string name="load_data_failed">"Nem sikerült csatlakozni a hálózathoz"</string>
-    <string name="loading_video">" "<CDATA>Betöltés </CDATA>" "</string>
-    <string name="loading_tv">" "<CDATA>Betöltés </CDATA>" "</string>
-    <string name="loading">" "<CDATA>Betöltés </CDATA>" "</string>
+    <string name="loading_video">" "Betöltés " "</string>
+    <string name="loading_tv">" "Betöltés " "</string>
+    <string name="loading">" "Betöltés " "</string>
     <string name="no_filter_media">"Nincs találat. Változtasson a keresési feltételeken."</string>
     <string name="no_search_result">"Nincs találat. Változtasson a keresési feltételeken."</string>
     <string name="no_media">Üres</string>
@@ -84,8 +84,8 @@
     <string name="no_tv">Nincsenek csatornák</string>
     <string name="no_special_subject">Üres</string>
     <string name="loading_review_failed">A hozzászólások betöltése nem sikerült</string>
-    <string name="loading_review"><CDATA>Betöltés </CDATA></string>
-    <string name="searching">" "<CDATA>Keresés </CDATA>" "</string>
+    <string name="loading_review">Betöltés </string>
+    <string name="searching">" "Keresés"  "</string>
     <string name="recentplay">Korábban játszott</string>
     <string name="clearplayhistory">Előzmény törlése</string>
     <string name="no_playhistory">Nincs előzmény</string>
@@ -150,13 +150,13 @@
     <string name="connecting">Csatlakozás…</string>
     <string name="retrieving">Ellenőrzés…</string>
     <string name="cant_connecting">"Nem sikerült csatlakozni a szerverhez"</string>
-    <string name="live_loading_symbol"><CDATA>Betöltés </CDATA></string>
+    <string name="live_loading_symbol">Betöltés </string>
     <string name="live_loading_to_be_play">Betöltés…</string>
     <string name="live_title">Élő</string>
     <string name="live_tabs_hot">Népszerű</string>
     <string name="live_tabs_all">Összes</string>
     <string name="live_tabs_choice">Kiválasztott</string>
-    <string name="live_pending_symbol"><CDATA>Pufferelés </CDATA></string>
+    <string name="live_pending_symbol">Pufferelés </string>
     <string name="live_pending_to_be_play">Betöltés…</string>
     <string name="button_all">Öszes</string>
     <string name="button_ep">Epizód</string>
@@ -345,4 +345,18 @@
     <string name="addon_install_complete_disc">%s telepítése befejeződött</string>
     <string name="addon_update_desc">Új veerzió elérhető, frissíti?</string>
     <string name="upgrade">Frissítés</string>
+    <string name="loading_text">Betöltés... </string>
+    <string name="get_cert_file_failed">nem elérhető a thunder tanúsítvány, nyomja meg a vissza gombot</string>
+    <string name="failed_title">attention</string>
+    <string name="failed_text_parse_file">hiba! hibás fájlformátum</string>
+    <string name="failed_text">nem elérhető a tanúsítvány, próbálja újra!</string>
+    <string name="failed_text_11">ellenőrzés sikertelen! próbálja újra!</string>
+    <string name="failed_text_49">a fiókkal nincs megvásárolva a film, a lejátszáshoz meg kell vásárolnia a thunder cinema-ból</string>
+    <string name="failed_text_21">a lejátszani kívánt film nem online, várjon!</string>
+    <string name="failed_text_708">the number of terminal is too many, please play it on the terminal you play ever</string>
+    <string name="failed_text_502">a lejátszani kívánt film offline vagy a hozzáférése lejárt, nem játszható le</string>
+    <string name="gong_count_netdevice">%d internet eszköz</string>
+    <string name="thunder_cinema">thunder cinema</string>
+    <string name="xunlei_login_error">thunder belépési hiba</string>
+    <string name="xunlei_cinema_title">thunder cinema</string>
 </resources>

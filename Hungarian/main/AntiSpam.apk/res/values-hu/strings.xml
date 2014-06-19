@@ -256,4 +256,7 @@
   <string name="user_define_title">Egyéni</string>
   <string name="whitelist_prefix_add_hint">Ezzel az előtaggal rendelkező számok hozzáadása a kivételekhez</string>
   <string name="wl_no_whitelist">A kivételek listája üres</string>
+  <string name="ad_block_hint">%d blokkolva</string>
+  <string name="ad_single_block_hint">Blokkolva</string>
+  <string name="ad_permission_hint">"A reklámblokkoló használata kihathat az alkalmazások teljesítményére vagy megakadályozhatják azokat a normális működésükben."</string>
 </resources>

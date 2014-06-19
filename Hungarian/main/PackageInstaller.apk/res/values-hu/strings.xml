@@ -85,4 +85,9 @@ A felhasználói tartalom megmarad."</string>
     <string name="virus_scan_is_risk">Ez az alkalmazás veszélyt jelent!</string>
     <string name="virus_scan_is_virus">Az alkalmazás vírust tartalmaz, azonnal távolítsa el!</string>
     <string name="virus_scan_caller_unknown">Ismeretlen</string>
+    <string name="ad_relative">Reklámok</string>
+    <string name="ad_block_button_title">Reklámok blokkolása</string>
+    <string name="adware_title">Reklmámok</string>
+    <string name="adware_hint">Ezeket a bővítményeket a külső fejlesztők használják hirdetések megjelenítésére</string>
+    <string name="adware_count">%d bővítményt tartalmaz</string>
 </resources>

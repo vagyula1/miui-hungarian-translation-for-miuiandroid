@@ -91,6 +91,7 @@ névjegyzékét, üzeneteit,  fényképeit, jegyzeteit."</string>
     <string name="error_sim_not_ready">SIM kártya nem áll készen</string>
     <string name="error_unknown">Ismeretlen hiba.</string>
     <string name="error_user_name">Hibás felhasználónév.</string>
+    <string name="error_device_id">IMEI szám betöltése sikertelen</string>
     <string name="failed_to_send_activate_email">Az aktiváló email elküldése nem sikerült.</string>
     <string name="find_device_check_phone_error_title">Eszköz keresés engedélyezése nem sikerült</string>
     <string name="find_device_disabled_notice">Nyissa meg újra az eszköz keresést a beállítások -> fiókok &amp; szinkronizálás-> xiaomi fiók menüpontban</string>

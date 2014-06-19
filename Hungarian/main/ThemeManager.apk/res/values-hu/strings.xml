@@ -262,4 +262,14 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="resource_allow">Igen</string>
     <string name="resource_remind_another_time">"Ne emlékeztessen"</string>
     <string name="resource_connect_network_settings">Értesítés csatlakozás esetén</string>
+    <string name="theme_user_agreement_content1">Olvassa el a felhasználási feltételeket:</string>
+    <string name="theme_user_agreement_content2">" Felhasználási feltételek"</string>
+    <string name="theme_user_agreement_content3">" és "</string>
+    <string name="theme_user_agreement_content4">Adatvédelem</string>
+    <string name="theme_user_agreement_content5">. Tudomásul vette, hogy internetkapcsolat szükséges?</string>
+    <string name="theme_user_agreement_title">Nyilatkozat</string>
+    <string name="theme_user_agreement_allow">Igen</string>
+    <string name="theme_user_agreement_remind_never">"Ne emlékeztessen"</string>
+    <string name="theme_user_agreement_remind_again">Értesítés csatlakozás esetén</string>
+    <string name="theme_user_agreement_remind_summary">A következő újraindításig</string>
 </resources>
