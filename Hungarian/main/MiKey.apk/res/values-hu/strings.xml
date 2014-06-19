@@ -112,7 +112,7 @@
     <string name="select_camera">Kamera kiválasztása</string>
     <string name="front_camera">Előlapi</string>
     <string name="back_camera">Hátlapi</string>
-    <string name="buy">Vásárlás</string>
+    <string name="setting_buy">Vásárlás</string>
     <string name="settings">Beállítások</string>
     <string name="about">Névjegy</string>
     <string name="write_pic_fail">A fénykép mentése nem sikerült!</string>
@@ -168,4 +168,10 @@ a "+" jelre vagy az ikonra"</string>
     <string name="faq_stat_text">Éjszaka törlődik, így reggel mindig 0-ról indul.</string>
     <string name="faq_vsm_title">Előírások</string>
     <string name="faq_vsm_text">A hátlap levétele húzza ki a MiKey-t!</string>
+    <string name="action_open_camera360_capture">Camera360 effekt</string>
+    <string name="action_open_camera360_edit">Camera360 szerkesztés</string>
+	<string name="setting_toolbar">Eszköztár</string>
+    <string name="setting_toolbar_desc">"Az eszköztár műveletek elérhetők lesznek az értesítési sávban"</string>
+    <string name="setting_toolbar_tip">" Új művelet hozzáadásához kattintson a "+" jelre 
+vagy tartsa az ujját a módosítani kívánt ikonon"</string>
 </resources>
