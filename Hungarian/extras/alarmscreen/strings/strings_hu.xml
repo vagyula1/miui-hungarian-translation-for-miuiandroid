@@ -1,4 +1,4 @@
 <resources>
-    <string name="slider_text" value="Ébresztés leállítás" />
-    <string name="snooze_message" value="Szundi %d percig" />
+    <string name="slider_text">>>> Kikapcsolás >>></string>
+    <string name="snooze_message">Szundi %d percig</string>
 </resources>

@@ -1,0 +1,8 @@
+<strings>
+    <string name="sliding_down_hint_miui" value="Húzza le a felvételhez"/> 
+	<string name="sliding_target_hint_miui" value="Húzza ide a felvételhez"/> 
+	<string name="sliding_up_hint_miui" value="Húzza fel a hívás elutasításához"/> 
+	<string name="hangup_sms_miui" value="Válasz SMS-ben"/> 
+	<string name="answer_and_hangup_miui" value="Felvesz"/> 
+	<string name="ignore_miui" value="Elutasít"/>
+</strings>
