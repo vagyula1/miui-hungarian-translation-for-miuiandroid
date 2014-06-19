@@ -186,4 +186,5 @@
     <string name="pref_new_installed_preconfig_title">Alapértelmezett beállítások az új alkalmazásoknak</string>
     <string name="main_alert_message_slot_no_data_connection">"A SIM kártya foglalat nem támogatja
 a mobil adatkapcsolatot"</string>
+    <string name="spinner_title">%1$s - Mobil adat: %2$s</string>
 </resources>

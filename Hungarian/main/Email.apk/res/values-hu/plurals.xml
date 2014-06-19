@@ -3,6 +3,10 @@
     <plurals name="move_messages">
         <item quantity="other">Üzenetek áthelyezése</item>
         <item quantity="one">Üzenet áthelyezése</item>
+        <item quantity="zero">Üzenet áthelyezése</item>
+        <item quantity="two">Üzenet áthelyezése</item>
+        <item quantity="few">Üzenetek áthelyezése</item>
+        <item quantity="many">Üzenetek áthelyezése</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%d B</item>
@@ -23,14 +27,26 @@
     <plurals name="contact_num_selected">
         <item quantity="other">%d kiválasztva</item>
         <item quantity="one">1 kiválasztva</item>
+        <item quantity="zero">%d kiválasztva</item>
+        <item quantity="two">%d kiválasztva</item>
+        <item quantity="few">%d kiválasztva</item>
+        <item quantity="many">%d kiválasztva</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d kiválasztva</item>
         <item quantity="one">1 kiválasztva</item>
+        <item quantity="zero">nincs kiválasztva</item>
+        <item quantity="two">%d kiválasztva</item>
+        <item quantity="few">%d kiválasztva</item>
+        <item quantity="many">%d kiválasztva</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">%1$d beszélgetés áthelyezése</item>
         <item quantity="one">Beszélgetés áthelyezése</item>
+        <item quantity="zero">%1$d beszélgetés áthelyezése</item>
+        <item quantity="two">%1$d beszélgetés áthelyezése</item>
+        <item quantity="few">%1$d beszélgetés áthelyezése</item>
+        <item quantity="many">%1$d beszélgetés áthelyezése</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Piszkozatok</item>
@@ -39,14 +55,26 @@
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Törli ezt a(z) %1$d beszélgetést?</item>
         <item quantity="one">Törli ezt a beszélgetést?</item>
+        <item quantity="zero">Törli ezt a beszélgetést?</item>
+        <item quantity="two">Törli ezt a(z) %1$d beszélgetést?</item>
+        <item quantity="few">Törli ezt a(z) %1$d beszélgetést?</item>
+        <item quantity="many">Törli ezt a(z) %1$d beszélgetést?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Ezek a beszélgetések összevont elemeket tartalmaz, törli őket?</item>
         <item quantity="one">Ez a beszélgetés összevont elemeket tartalmaz, törli őket?</item>
+        <item quantity="zero">Ez a beszélgetés összevont elemeket tartalmaz, törli őket?</item>
+        <item quantity="two">Ezek a beszélgetések összevont elemeket tartalmaz, törli őket?</item>
+        <item quantity="few">Ezek a beszélgetések összevont elemeket tartalmaz, törli őket?</item>
+        <item quantity="many">Ezek a beszélgetések összevont elemeket tartalmaz, törli őket?</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Archiválja ezt a(z) %1$d beszélgetést?</item>
         <item quantity="one">Archiválja ezt a beszélgetést?</item>
+        <item quantity="zero">Archiválja ezt a(z) %1$d beszélgetést?</item>
+        <item quantity="two">Archiválja ezt a(z) %1$d beszélgetést?</item>
+        <item quantity="few">Archiválja ezt a(z) %1$d beszélgetést?</item>
+        <item quantity="many">Archiválja ezt a(z) %1$d beszélgetést?</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
         <item quantity="other">Elveti a(z) %1$d beszélgetéshez tartozó piszkozatokat?</item>
@@ -90,9 +118,19 @@
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d új üzenet – megtekintés</item>
+        <item quantity="zero">%1$d új üzenet – megtekintés</item>
+        <item quantity="one">%1$d új üzenet – megtekintés</item>
+        <item quantity="two">%1$d új üzenet – megtekintés</item>
+        <item quantity="few">%1$d új üzenet – megtekintés</item>
+        <item quantity="many">%1$d új üzenet – megtekintés</item>
     </plurals>
     <plurals name="show_messages_read">
         <item quantity="other">%1$d régebbi üzenet</item>
+        <item quantity="zero">%1$d régebbi üzenet</item>
+        <item quantity="one">%1$d régebbi üzenet</item>
+        <item quantity="two">%1$d régebbi üzenet</item>
+        <item quantity="few">%1$d régebbi üzenet</item>
+        <item quantity="many">%1$d régebbi üzenet</item>
     </plurals>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d olvasatlan</item>
@@ -100,5 +138,9 @@
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d üzenet véglegesen törölve lesz.</item>
         <item quantity="one">%1$d üzenet véglegesen törölve lesz.</item>
+        <item quantity="zero">%1$d üzenet véglegesen törölve lesz.</item>
+        <item quantity="two">%1$d üzenet véglegesen törölve lesz.</item>
+        <item quantity="few">%1$d üzenet véglegesen törölve lesz.</item>
+        <item quantity="many">%1$d üzenet véglegesen törölve lesz.</item>
     </plurals>
 </resources>

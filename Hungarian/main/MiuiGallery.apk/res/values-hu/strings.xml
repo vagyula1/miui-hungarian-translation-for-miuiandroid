@@ -492,5 +492,5 @@ Használja ki!"</string>
     <string name="item_not_sync_for_origin_video">A videófájl még nem lett szinkronizálva a felhővel és még nem volt letöltve</string>
     <string name="item_not_sync_for_origin_image">A kép még nem lett szinkronizálva a felhővel és az eredeti kép még nem lett letöltve</string>
     <string name="item_not_sync_for_refocus_data">A kép még nem lett szinkronizálva a felhővel és az adat még nem lett letöltve</string>
-    <string name="ubifocus_guide_text">Az újrafókuszáláshoz tartsa 0.5mp-ig</string>
+    <string name="ubifocus_guide_text">Nyomja hosszan az újrafókuszáláshoz</string>
 </resources>
