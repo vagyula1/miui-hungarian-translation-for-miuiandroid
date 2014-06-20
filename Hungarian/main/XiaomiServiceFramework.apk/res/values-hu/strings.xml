@@ -4,8 +4,8 @@
     <string name="access_denied">Hozzáférés megtagadva</string>
     <string name="access_token_expired_warning">Weibo account has expired, please rebind</string>
     <string name="access_token_invalid_warning">Weibo account is invalid, please rebind</string>
-    <string name="account_dspt">"A bejelenzkezés után szinkronizálhatja
-névjegyzékét, üzeneteit,  fényképeit, jegyzeteit."</string>
+    <string name="account_dspt">"A bejelentkezés után szinkronizálhatja
+névjegyeket, üzeneteket,  fényképeket, jegyzeteket."</string>
     <string name="account_hint_text">Email/Telefonszám</string>
     <string name="account_name">Fiók: %1$s</string>
     <string name="account">Fiók</string>

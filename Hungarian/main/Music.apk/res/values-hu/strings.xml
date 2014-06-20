@@ -323,12 +323,12 @@
     <string name="sync_alert_message">Szinkronizálja a telefonján lévő zenéit a MiCloud fiókjával.</string>
     <string name="not_now">Most nem</string>
     <string name="sync_disable_toast">Később bekapcsolhatja a Beállítások > Fiókok > MiCloud menüpontban</string>
-    <string name="login_and_enable">Bejelentkezés és szinkronizálás</string>
+    <string name="login_and_enable">Belépés és szinkr.</string>
     <string name="sync_enable_toast">Módosíthatja a Beállítások > Fiókok > MiCloud menüpontban</string>
     <string name="volume_alert_playback_alert_title">Magas hangerő figyelmeztetés</string>
     <string name="volume_alert_playback_message">A halláskárosodás elkerülése érdekében ne hallgassa hosszú ideig túl magas hangerőn.</string>
     <string name="select_device">Eszköz kiválasztása</string>
-    <string name="impunity_declaration_ignore">Ne kérdezze</string>
+    <string name="impunity_declaration_ignore">Ne emlékeztessen</string>
     <string name="impunity_declaration_settings">Értesítés csatlakozás esetén</string>
     <string name="impunity_declaration_summary">Felugró ablakban figyelmeztessen a zene alkalmazás indításakor</string>
     <string name="take_effect_afater_restart">Az alkalmazást újra kell indítani az új beállítások alkalmazásához</string>
