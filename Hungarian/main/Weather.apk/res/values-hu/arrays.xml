@@ -14,33 +14,6 @@
         <item>Reggeli torna:</item>
         <item>Szabadidős tevékenység:</item>
     </string-array>
-    <string-array name="weather_image">
-        <item>Tiszta</item>
-        <item>Felhős</item>
-        <item>Hazy</item>
-        <item>Ködös</item>
-        <item>Felhőszakadás</item>
-        <item>Viharos</item>
-        <item>Heves esőzés</item>
-        <item>Zivatar</item>
-        <item>Zivatar</item>
-        <item>Heves esőzés</item>
-        <item>Eső</item>
-        <item>Szitálás</item>
-        <item>Ónos eső</item>
-        <item>Hóvihar</item>
-        <item>Helyenként havazás</item>
-        <item>Havazás</item>
-        <item>Havazás</item>
-        <item>Hószállingózás</item>
-        <item>Erős homokvihar</item>
-        <item>Homokvihar</item>
-        <item>Kisebb homokvihar</item>
-        <item>Homokvihar</item>
-        <item>Jégeső</item>
-        <item>Szeles</item>
-        <item>Ködös</item>
-    </string-array>
     <string-array name="weather_details_key">
         <item>Nem elérhető</item>
         <item>Alkalmas</item>

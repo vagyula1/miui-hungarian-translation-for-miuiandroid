@@ -79,8 +79,8 @@
     <string name="delete_folder">Törli a %1$d mappát?</string>
     <string name="delete_file">Törli a %1$d kiválasztott fájlt?</string>
     <string name="delete_files_and_folders">Törli a %1$d kiválasztott fájlt és %2$d könyvtárat?</string>
-    <string name="confirm_delete_pictures">%s</string>
-    <string name="confirm_delete_videos">%s videó</string>
+    <string name="confirm_delete_pictures">Törli a %s képet?</string>
+    <string name="confirm_delete_videos">Törli a %s videót?</string>
     <string name="cancel">Mégsem</string>
     <string name="select_all">Összes kiválasztása</string>
     <string name="slideshow">Diavetítés</string>
@@ -173,7 +173,7 @@
     <string name="tab_all_text">Mindkettő</string>
     <string name="cloud_gallery_space_full">A MiCloud tárhely megtelt,töröljön néhány képet.</string>
     <string name="share_album_space_full">A megosztott album megtelt. Töröljön néhény felesleges fényképet.</string>
-    <string name="cloud_gallery_recyclebin_full">A lomtár megtelt,kérem látogassa meg az i.xiaomi.com webhelyet az ürítéshez.</string>
+    <string name="cloud_gallery_recyclebin_full">A lomtár megtelt,kérem látogassa meg az i.mi.com webhelyet az ürítéshez.</string>
     <string name="sync_history_power_on">Szinkronizálás töltéskor</string>
     <string name="sync_only_in_wifi_alert">A feltöltés csak Wi-Fi használatával kikapcsolása adatforgalmi költséggel járhat. Biztos,hogy kikapcsolja?</string>
     <string name="sync_only_in_wifi">Feltöltés csak Wi-Fi-vel</string>
@@ -319,7 +319,7 @@ Használja ki!"</string>
     <string name="error_should_not_select_image">Figyelem: kérem ne válasszon ki képet.</string>
     <string name="error_should_not_select_video">Figyelem: kérem ne válasszon ki videót.</string>
     <string name="storage_all_volumes">Összes tároló eszköz</string>
-    <string name="settings_i_xiaomi_com">Az i.xiaomi.com weboldalra belépve láthatja az albumait</string>
+    <string name="settings_i_xiaomi_com">Az i.mi.com weboldalra belépve láthatja az albumait</string>
     <string name="cloud_album_more_settings">MiCloud album(ok) és auto.feltöltés</string>
     <string name="browse_category">Fénykép böngészés</string>
     <string name="photo_page_save_image">Mentés</string>
@@ -460,6 +460,7 @@ Használja ki!"</string>
     <string name="item_not_sync">Ez az elem nincs szinkronizálva a clouddal és nem tölthető le</string>
     <string name="move">Áthelyezés</string>
     <string name="bigscreen_video_quit">Érintse meg a lejátszás befejezéséhez</string>
+    <string name="bigscreen_slide_playing">A diavetítás lejátszása a %s eszközön</string>
     <string name="confirm_delete_home_merge_item">Törli %s képe(ke)t a helyi és a felhő tárolóból?</string>
     <string name="deselect_all">Egyik sem</string>
     <string name="device_model">Eszköz</string>
@@ -493,4 +494,18 @@ Használja ki!"</string>
     <string name="item_not_sync_for_origin_image">A kép még nem lett szinkronizálva a felhővel és az eredeti kép még nem lett letöltve</string>
     <string name="item_not_sync_for_refocus_data">A kép még nem lett szinkronizálva a felhővel és az adat még nem lett letöltve</string>
     <string name="ubifocus_guide_text">Nyomja hosszan az újrafókuszáláshoz</string>
+    <string name="confirm_delete_init_message">A fényképek törlődni fognak erről az eszközről és a MiCloud-ből is. Ha csak az eszközről szeretné törölni, keresse meg a mappát.</string>
+    <string name="confirm_delete_has_cloud_local_image_video">Törli a %s elemet a &lt;b>helyi és felhőtárhelyből&lt;/b>?</string>
+    <string name="confirm_delete_has_cloud_local_image">Törli a %s fényképet a &lt;b>helyi- és felhőtárhelyből&lt;/b>?</string>
+    <string name="confirm_delete_has_cloud_local_video">Törli a %s videófájlt a &lt;b>helyi- és felhőtárhelyből&lt;/b>?</string>
+    <string name="confirm_delete_has_cloud_image_video">Törli a %s elemet a &lt;b>felhőből&lt;/b>?</string>
+    <string name="confirm_delete_has_cloud_image">Töri a %s fényképet a &lt;b>felhőből&lt;/b>?</string>
+    <string name="confirm_delete_has_cloud_video">Törli %s videófájlt a &lt;b>felhőből&lt;/b>?</string>
+    <string name="confirm_delete_has_local_image_video">Törli a %s elemet?</string>
+    <string name="confirm_delete_has_local_image">Törli a %s fényképet?</string>
+    <string name="confirm_delete_has_local_video">Törli a %s videófájlt?</string>
+    <string name="skip_hide_special_album">"Nem rejthető el rendszeralbum (pl. Kamera, Képernyőkép)."</string>
+    <string name="ubifocus_refocus_data_missing">Az újrafókuszálás nem sikerült néhány hiányzó adatt miatt</string>
+    <string name="ubifocus_refocus_download_tip">Töltse le az újrafókuszált adatot az újrafókuszálás előtt</string>
+    <string name="ubifocus_refocus_map_error">Az újrafókuszálás nem sikerült néhány hibás adat miatt</string>
 </resources>

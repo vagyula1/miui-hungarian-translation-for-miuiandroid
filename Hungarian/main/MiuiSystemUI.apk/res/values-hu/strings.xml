@@ -283,7 +283,7 @@
     <string name="settings_show_carrier">Szolgáltató nevének kijelzése</string>
     <string name="settings_custom_carrier">Szolgáltató nevének szerkesztése</string>
     <string name="settings_no_carrier">Nincs</string>
-    <string name="settings_show_carrier_summary">Kikapcsolva csak a képernyőzáron jelenik meg</string>
+    <string name="settings_show_carrier_summary">Ha ez a kapcsoló ki van kapcsolva, a szolgáltató neve csak a képernyőzáron és az értesítési sávon lesz látható</string>
     <string name="settings_show_screenshot_notification">Képernyőkép értesítés</string>
     <string name="status_bar_and_notification_bar">Legördülő értesítési panel és állapotsor</string>
     <string name="call_status_ringing">Csengetés</string>

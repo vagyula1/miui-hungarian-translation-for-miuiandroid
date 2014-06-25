@@ -362,7 +362,7 @@
     <string name="home_net_title">Figyelem</string>
     <string name="home_net_content">Az alkalmazáshoz internetkapcsolat szükséges, engedélyezi?</string>
     <string name="backkey_remark">Nyomja meg a vissza gombot a kilépéshez</string>
-    <string name="ok_no_more">Ne emlékeztessen</string>
+    <string name="ok_no_more">Ne emlékeztessen újra</string>
     <string name="setting_use_network">Internetkapcsolat engedélyezése</string>
     <string name="setting_use_network_summery">Az alkalmazás használni fogja az internetkapcsolatot</string>
 	<string name="sure">Igen</string>

@@ -13,7 +13,7 @@
   <string name="notification_download_failed">A letöltés nem sikerült</string>
   <string name="notification_filename_extras">" és további %d"</string>
   <string name="notification_filename_separator">", "</string>
-  <string name="notification_need_wifi_for_size">A letöltéshez Wi-Fi kell</string>
+  <string name="notification_need_wifi_for_size">A letöltéshez Wi-Fi kapcsolat szükséges</string>
   <string name="notification_paused_in_background">Szünetel a háttérben</string>
   <string name="permdesc_accessAllDownloads">Az alkalmazások megnézhetik és módosíthatják a rendszer bármelyik alkalmazása által kezdeményezett letöltéseket.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Az alkalmazások letölthetnek fájlokat a letöltési gyorsítótárba, amelyeket a letöltéskezelő nem törölhet automatikusan, ha helyre van szüksége.</string>

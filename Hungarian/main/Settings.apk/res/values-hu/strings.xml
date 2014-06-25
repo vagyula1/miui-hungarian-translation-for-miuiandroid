@@ -3425,12 +3425,12 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="power_mode_balanced_title">Enable Balanced Power</string>
     <string name="usb_host_mode_text">USB host mód engedélyezése</string>
     <string name="usb_host_mode_subtext">For using game controllers and other peripherals on USB port, may decrease battery life</string>
-    <string name="title_color_calibration">Color Correction preset</string>
-    <string name="dialog_title_color_calibration">Color Correction preset</string>
+    <string name="title_color_calibration">Színkorrekció beállítás</string>
+    <string name="dialog_title_color_calibration">Színkorrekció beállítása</string>
     <string name="color_calibration_srgb">sRGB</string>
     <string name="color_calibration_none">Természetes</string>
-    <string name="title_hdmi_color_calibration">Color Correction preset</string>
-    <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
+    <string name="title_hdmi_color_calibration">Színkorrekció beállítása</string>
+    <string name="dialog_title_hdmi_color_calibration">Színkorrekció beállítása</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="hdmi_color_calibration_none">Természetes</string>
     <string name="hdmi_3d_display_enable_title">3D Megjelenítő</string>
@@ -3439,4 +3439,10 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="title_font">Betűtípus</string>
     <string name="title_font_current">Jelenleg használt</string>
     <string name="use_network_warning">A Xiaomi keretrendszerhez és a felhőszolgáltatáshoz internetkapcsolat szükséges</string>
+    <string name="cta_dialog_title">Figyelmeztetés</string>
+    <string name="cta_dialog_msg">A biztonság alkalmazás vírus adatbázis frissítéséhez internetkapcsolat szükséges. Engedélyezi a kapcsolatot?</string>
+    <string name="cta_checkbox_title">Ne emlékeztessen újra</string>
+    <string name="cta_button_text_cancel">Mégsem</string>
+    <string name="cta_button_text_agree">OK</string>
+    <string name="cta_settings">Internetbeállítások</string>
 </resources>

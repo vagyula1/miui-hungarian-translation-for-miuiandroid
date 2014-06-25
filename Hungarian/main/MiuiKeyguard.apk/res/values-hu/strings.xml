@@ -36,7 +36,7 @@
     <string name="lockscreen_glogin_instructions">Feloldáshoz lépjen be a fiókjába</string>
     <string name="lockscreen_glogin_password_hint">Jelszó</string>
     <string name="lockscreen_glogin_checking_password">Ellenőrzés…</string>
-    <string name="login_website_in_case_forget_password">Elfelejtett jelszava visszaállításához látogassa meg az i.xiaomi.com weboldalt.</string>
+    <string name="login_website_in_case_forget_password">Elfelejtett jelszava visszaállításához látogassa meg az i.mi.com weboldalt.</string>
     <string name="screen_on_proximity_sensor_title">Véletlen használat megelőzése</string>
     <string name="screen_on_proximity_sensor_summary">"Ne takarja le a képernyő felső részét"</string>
     <string name="screen_on_proximity_sensor_hint">A funkció letiltásához nyomja meg egyszerre a Vissza és Hangerő gombot.</string>

@@ -324,4 +324,9 @@
     <string name="share_box_receive">Fogadott</string>
     <string name="file_not_exist">A fájl nem található</string>
     <string name="open_file_failed">A megnyitás sikertelen</string>
+    <string name="connect_network_setting_des">Értesítés hálózati kapcsolódás esetén</string>
+   <string name="network_connect_confirm_des">A Kuaipan használatához hálózati kapcsolat szükséges, engedélyezi?</string>
+   <string name="never_notify_network_connect">"Ne emlékeztessen újra"</string>
+   <string name="operation_agree">Igen</string>
+   <string name="system_alert">Figyelmeztetés</string>
 </resources>

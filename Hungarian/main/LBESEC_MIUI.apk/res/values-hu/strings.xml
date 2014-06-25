@@ -103,7 +103,7 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_Perm_EndCall">pillanatnyi hívás megszakítása</string>
   <string name="HIPS_Perm_GetCallState">pillanatnyi hívásállapot meghatározása</string>
   <string name="HIPS_Perm_ListenCallState">hívásállapot meghatározása</string>
-    <string name="HIPS_Perm_Location">Helymeghatározás</string>
+  <string name="HIPS_Perm_Location">Helymeghatározás</string>
   <string name="HIPS_Perm_Location_Access">aktuális helyzet meghatározása</string>
   <string name="HIPS_Perm_Location_CellInfo">cellainformáció lekérése</string>
   <string name="HIPS_Perm_Location_CellLocation">cellahelyzet lekérése</string>
@@ -224,4 +224,19 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_Perm_DisableKeyguard">Képernyő feloldása</string>
   <string name="HIPS_Perm_DisableKeyguard_Desc">Képernyő feloldása</string>
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s alk.férhet hozzá a képernyőfeloldáshoz</string>
+    <string name="HIPS_Perm_AutoStart">Automatikus indítás</string>
+    <string name="HIPS_Perm_AutoStart_Desc">Automatikus indítás rendszerindításkor</string>
+    <string name="HIPS_Perm_AutoStart_Hint">%1$s alk.használhatja az automatikus indítást rendszerindításkor</string>
+    <string name="HIPS_Perm_Notification">Figyelmeztetések</string>
+    <string name="HIPS_Perm_Notification_Desc">Figyelmeztetések az értesítési sávon</string>
+    <string name="HIPS_Perm_Notification_Hint">%1$s alk.jogosult arra,hogy figyelmeztetést küldjön értesítési sávra</string>
+    <string name="HIPS_Perm_Calendar">Naptár hozzáférés</string>
+    <string name="HIPS_Perm_Calendar_Desc">Naptár hozzáférés</string>
+    <string name="HIPS_Perm_Calendar_Hint">%1$s alk.férhet hozzá a naptárhoz</string>
+    <string name="HIPS_Perm_SystemAlert">Felugró ablakos értesítés</string>
+    <string name="HIPS_Perm_SystemAlert_Desc">Felugró ablakos értesítés</string>
+    <string name="HIPS_Perm_SystemAlert_Hint">%1$s alk.férhet hozzá a felugró ablakos értesítés használatához</string>
+    <string name="HIPS_Perm_Wakelock">Ébren tartás</string>
+    <string name="HIPS_Perm_Wakelock_Desc">Ébren tartás</string>
+    <string name="HIPS_Perm_Wakelock_Hint">%1$s alk.jogosult arra, hogy megakadályozza az alvó módot</string>
 </resources>

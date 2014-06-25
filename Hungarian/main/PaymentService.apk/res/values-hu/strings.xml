@@ -467,4 +467,9 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
     <string name="summary_sms_code">A fiók biztonsága érdekében, adja meg a %1$s telefonjára kapott ellenőrzőkódot, majd a fizetési művelet lezárul</string>
     <string name="title_bind_phone">Mobiltelefonos szám összekapcsolása.</string>
     <string name="title_sms_code">Adja meg a mobiltelefonos ellenőrző kódot</string>
+    <string name="mibi_license_net_prompt_title">Internetkapcsolat szükséges</string>
+    <string name="mibi_license_net_prompt_message">Using the MiCredit alkalmazás használata növelheti az adatforgalmat.</string>
+    <string name="mibi_license_checkbox_prompt">"Ne emlékeztessen"</string>
+    <string name="title_prompt">Értesítések</string>
+    <string name="title_need_prompt">Értesítés internet csatlakozás esetén</string>
 </resources>
