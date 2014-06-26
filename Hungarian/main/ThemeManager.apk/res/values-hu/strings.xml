@@ -92,7 +92,7 @@
     <string name="resource_delete_confirm">Biztos, hogy törli a témát?</string>
     <string name="resource_delta_update_failed">A frissítés nem sikerült! A teljes téma letöltése</string>
     <string name="resource_delta_update_successful">A frissítés sikeres.</string>
-    <string name="resource_delta_update_total">%1$d frissítve. Elmentve %2$s</string>
+    <string name="resource_delta_update_total">%1$d téma frissítve. Letöltve: %2$s</string>
     <string name="resource_detail">Részletek</string>
     <string name="resource_detail_comment_title">Hozzászólások</string>
     <string name="resource_detail_jump_to_same_author_title">A szerző további témái</string>
@@ -172,7 +172,7 @@
     <string name="theme_component_title_launcher">Asztal</string>
     <string name="theme_component_title_lockstyle">Zár stílusa</string>
     <string name="theme_component_title_lockwallpaper">Zár háttere</string>
-    <string name="theme_component_title_miwallpaper">Háttérkép</string>
+    <string name="theme_component_title_miwallpaper">Letöltött</string>
     <string name="theme_component_title_mms">Üzenetek</string>
     <string name="theme_component_title_notification">Értesítés hang</string>
     <string name="theme_component_title_others">Egyéb</string>
