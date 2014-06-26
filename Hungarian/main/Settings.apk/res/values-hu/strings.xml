@@ -3445,4 +3445,6 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="cta_button_text_cancel">Mégsem</string>
     <string name="cta_button_text_agree">OK</string>
     <string name="cta_settings">Internetbeállítások</string>
+    <string name="accessibility_service_no_apps_prompt">>A TalkBack beszéddel történő visszajelzést kínál vak és gyengénlátó felhasználók számára. Ez az alkalmazás ingyen letölthető a Google Playről.</string>
+    <string name="accessibility_service_no_apps_confirm">OK</string>
 </resources>

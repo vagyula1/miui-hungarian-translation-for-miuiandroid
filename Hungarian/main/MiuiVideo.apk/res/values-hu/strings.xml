@@ -366,4 +366,7 @@
     <string name="setting_use_network">Internetkapcsolat engedélyezése</string>
     <string name="setting_use_network_summery">Az alkalmazás használni fogja az internetkapcsolatot</string>
 	<string name="sure">Igen</string>
+    <string name="info_title">információ</string>
+    <string name="prex_playcount">lejátszva:</string>
+    <string name="post_playcount">" x"</string>
 </resources>
