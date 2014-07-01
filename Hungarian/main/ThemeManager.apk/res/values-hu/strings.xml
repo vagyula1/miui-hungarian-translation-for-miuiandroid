@@ -151,8 +151,8 @@
     <string name="short_ringtone_resource">Rövid (&lt;5mp)</string>
     <string name="theme_batch_has_update_text">%1$d téma frissíthető újabb verzióra</string>
     <string name="theme_batch_update_all">Mind frissítése</string>
-    <string name="theme_batch_update_dlg_content">Szeretné most frissíteni?</string>
-    <string name="theme_batch_update_dlg_content_single">Szeretné most frissíteni?</string>
+    <string name="theme_batch_update_dlg_content">Szeretné most a(z) %2$d témát frissíteni?</string>
+    <string name="theme_batch_update_dlg_content_single">Szeretné most %1$s témát frissíteni?</string>
     <string name="theme_batch_update_dlg_title">Frissítés</string>
     <string name="theme_batch_updating_text">%1$d téma frissítése</string>
     <string name="theme_changed_failed_message">%1$s téma beállítása nem sikerült.</string>
@@ -172,7 +172,7 @@
     <string name="theme_component_title_launcher">Asztal</string>
     <string name="theme_component_title_lockstyle">Zár stílusa</string>
     <string name="theme_component_title_lockwallpaper">Zár háttere</string>
-    <string name="theme_component_title_miwallpaper">Letöltött</string>
+    <string name="theme_component_title_miwallpaper">MIUI háttérkép</string>
     <string name="theme_component_title_mms">Üzenetek</string>
     <string name="theme_component_title_notification">Értesítés hang</string>
     <string name="theme_component_title_others">Egyéb</string>
@@ -188,9 +188,9 @@
     <string name="theme_import_from_sdcard">Importálás az SD kártyáról</string>
     <string name="theme_select_others">Egyéb</string>
     <string name="third_party_pickers_activity_title">%1$s beállítása</string>
-    <string name="title_component">Kevert</string>
+    <string name="title_component">Téma szerkesztés</string>
     <string name="title_local">Helyi</string>
-    <string name="title_system_resource">Rendszer forrás</string>
+    <string name="title_system_resource">Helyi téma</string>
     <string name="wallpaper_crop">Vágás</string>
     <string name="wallpaper_decoded_error">Dekódolási hiba!</string>
     <string name="wallpaper_loading_text">Töltés...</string>
@@ -201,7 +201,7 @@
     <string name="account_info">Fiókom</string>
     <string name="account_unactivated">A fiók nincs aktiválva.</string>
     <string name="apply_theme_with_ringtones">Csengőhangok alkalmazása</string>
-    <string name="basic_info">Információ</string>
+    <string name="basic_info">Fiók információ</string>
     <string name="payment_info">MiCreditek</string>
     <string name="resource_account_abnormal_state">Fiókhiba, próbálja később.</string>
     <string name="resource_account_current">Fiók: %1$s</string>
@@ -253,7 +253,7 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="resource_on_trial">Próbaverzió: %1$s</string>
     <string name="resource_download_trial">Kipróbálom</string>
     <string name="resource_apply_trial">Kipróbálom</string>
-    <string name="purchased_list">Vásárlásaim</string>
+    <string name="purchased_list">Megvásárolt téma</string>
     <string name="apply_default_font_tip">"Megtartja a jelenlegi betűtípust?"</string>
     <string name="theme_yes">Igen</string>
     <string name="theme_no">Nem</string>
@@ -262,11 +262,11 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="resource_allow">Igen</string>
     <string name="resource_remind_another_time">"Ne emlékeztessen újra"</string>
     <string name="resource_connect_network_settings">Értesítés csatlakozás esetén</string>
-    <string name="theme_user_agreement_content1">Olvassa el a felhasználási feltételeket:</string>
-    <string name="theme_user_agreement_content2">" Felhasználási feltételek"</string>
+    <string name="theme_user_agreement_content1">Olvassa el figyelmesen a</string>
+    <string name="theme_user_agreement_content2">" Felhasználási feltételeket"</string>
     <string name="theme_user_agreement_content3">" és "</string>
-    <string name="theme_user_agreement_content4">Adatvédelmi nyilatkozat</string>
-    <string name="theme_user_agreement_content5">.A Téma alkalmazás használatához internetkapcsolat szükséges, engedélyezi?</string>
+    <string name="theme_user_agreement_content4">" az Adatvédelmi nyilatkozatot. "</string>
+    <string name="theme_user_agreement_content5">A Téma alkalmazás használatához internetkapcsolat szükséges, engedélyezi?</string>
     <string name="theme_user_agreement_title">Figyelmeztetés</string>
     <string name="theme_user_agreement_allow">Igen</string>
     <string name="theme_user_agreement_remind_never">"Ne emlékeztessen újra"</string>

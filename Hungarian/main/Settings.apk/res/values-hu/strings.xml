@@ -3438,7 +3438,7 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="bluetooth_device_address">Eszköz címe:</string>
     <string name="title_font">Betűtípus</string>
     <string name="title_font_current">Jelenleg használt</string>
-    <string name="use_network_warning">A Xiaomi keretrendszerhez és a felhőszolgáltatáshoz internetkapcsolat szükséges</string>
+    <string name="use_network_warning">A Xiaomi szolgáltatásaihoz internetkapcsolat szükséges</string>
     <string name="cta_dialog_title">Figyelmeztetés</string>
     <string name="cta_dialog_msg">A biztonság alkalmazás vírus adatbázis frissítéséhez internetkapcsolat szükséges. Engedélyezi a kapcsolatot?</string>
     <string name="cta_checkbox_title">Ne emlékeztessen újra</string>
@@ -3447,4 +3447,5 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="cta_settings">Internetbeállítások</string>
     <string name="accessibility_service_no_apps_prompt">>A TalkBack beszéddel történő visszajelzést kínál vak és gyengénlátó felhasználók számára. Ez az alkalmazás ingyen letölthető a Google Playről.</string>
     <string name="accessibility_service_no_apps_confirm">OK</string>
+    <string name="bluetooth_preference_connected_devices">Csatlakoztatott eszközök</string>
 </resources>

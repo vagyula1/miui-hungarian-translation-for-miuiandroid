@@ -1067,4 +1067,8 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="cta_notice_checkbox">"Ne emlékeztessen újra"</string>
     <string name="cta_notice_ok">Igen</string>
     <string name="cta_notice_settings">Figyelmeztetés hálózati kapcsolódáskor</string>
+    <string name="yellowpage_user_profile">Profil</string>
+    <string name="yellowpage_navigation_more_items">Egyéb</string>
+    <string name="yellowpage_navigation_send_to_desktop_downloading">Ikon letöltése…</string>
+    <string name="yellowpage_navigation_send_to_desktop_failed">Sikertelen, ellenőrizze a hálózati beállításokat</string>
 </resources>

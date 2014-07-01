@@ -272,4 +272,9 @@
     <string name="event_full_date_format">yyyy.MM.dd.</string>
     <string name="pref_error_no_ringtone_select">Nincs kiválasztva</string>
     <string name="view_all_matches">Összes</string>
+    <string name="cta_notice_title">Emlékeztető</string>
+    <string name="cta_notice_message">A \"születésnap emlékeztető\" a kapcsolatokban szereplő partnerek születésnapját fogja jelezni, amihez a névjegyzékhez való hozzáférés szükséges. Engedélyezi?</string>
+    <string name="cta_notice_checkbox">"Ne mutassa újra"</string>
+    <string name="cta_notice_ok">OKI</string>
+    <string name="cta_notify_settings">Emlékeztető,ha a bévjegy elérhető</string>
 </resources>
