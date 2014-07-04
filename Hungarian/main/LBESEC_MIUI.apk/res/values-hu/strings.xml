@@ -110,9 +110,9 @@ A jogosultságokkal rendelkező alkalmazások okozhatnak instabilitást, adatves
   <string name="HIPS_Perm_Location_Desc">Telefon helyzetének meghatározása hálózat vagy GPS által</string>
   <string name="HIPS_Perm_Location_Hint">%1$s alk.határozhatja meg a telefon helyzetét</string>
   <string name="HIPS_Perm_Location_Monitor">helyzet követése</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Forrás: Cellainformáció</string>
-  <string name="HIPS_Perm_Location_Source_GPS">Forrás: GPS</string>
-  <string name="HIPS_Perm_Location_Source_Network">Forrás: Hálózat</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">Helymeghatározás mobilhálózattal</string>
+  <string name="HIPS_Perm_Location_Source_GPS">Helymeghatározás GPS-sel</string>
+  <string name="HIPS_Perm_Location_Source_Network">Helymeghatározás hálózattal</string>
   <string name="HIPS_Perm_MMS">MMS üzenetek</string>
   <string name="HIPS_Perm_MMS_Access">Bejövő MMS-ek olvasása</string>
   <string name="HIPS_Perm_MMS_Desc">Hozzáférés a bejövő MMS-ekhez</string>

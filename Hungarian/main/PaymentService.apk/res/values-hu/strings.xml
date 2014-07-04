@@ -180,12 +180,12 @@ Várjon öt percet és próbálja újra.</string>
     <string name="progress_error_recharge_summary">A feltöltés nem sikerült! Próbálja később.</string>
     <string name="progress_error_pay_title">A fizetés nem sikrült</string>
     <string name="progress_error_pay_summary">%1$s MiCredit hozzáadva, de a fizetés nem sikerült! Próbálja később.</string>
-    <string name="progress_warning_waiting">"Payment hasn't reached your account yet."</string>
-    <string name="progress_warning_contact_server">"Payment still hasn't reached your account. 
-1. Please contact our Shenzhou customer service center:%1$s 
-2. When prompted, provide the serial number: %2$s."</string>
-    <string name="progress_warning_check">"Payment hasn't reached your account yet. 
-We will check again within two working days."</string>
+    <string name="progress_warning_waiting">"Az összeg még nem érkezett meg."</string>
+    <string name="progress_warning_check">"Az összeg még nem érkezett meg. 
+Két napon belül újra ellenőrizni fogjuk."</string>
+    <string name="progress_warning_check_with_contact">"Az összeg még nem érkezett meg. 
+Két napon belül újra ellenőrizni fogjuk.
+Ügyfélszolgálat：400-100-5678"</string>
     <string name="btn_back">Vissza</string>
     <string name="btn_recharge_other">Feltöltés</string>
     <string name="btn_call">Hívás</string>

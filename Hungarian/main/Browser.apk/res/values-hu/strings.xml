@@ -599,4 +599,5 @@ EL szeretné hagyni az oldalt?"</string>
     <string name="cloud_time_tips">Utolsó szinkronizálás</string>
     <string name="cloud_no_new_data_toast">Nincsenek új adatok, próbálja később</string>
     <string name="cloud_loading_tips">Húzza le a szinkronizáláshoz</string>
+    <string name="enter_developer_mode">Belépés a fejlesztői módba</string>
 </resources>
