@@ -5,6 +5,11 @@
         <item>Mai forgalom </item>
         <item>Havi forgalom </item>
     </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Tegnap: "</item>
+        <item>"Ma: "</item>
+        <item>"Ehavi: "</item>
+    </string-array>
     <string-array name="date_of_app_all">
         <item>Tegnapi 2G/3G forgalom</item>
         <item>Mai 2G/3G forgalom</item>
@@ -27,10 +32,15 @@
         <item>8 másodpercenként</item>
         <item>9 másodpercenként</item>
     </string-array>
+    <string-array name="traffic_type">
+        <item>"2G/3G "</item>
+        <item>"Wi-Fi "</item>
+        <item>"Megtakarított adat "</item>
+    </string-array>
     <string-array name="traffic_sort_type">
         <item>2G/3G</item>
         <item>Wi-Fi</item>
-        <item>Összes</item>
+        <item>Megtakarított adat</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Üzenetsablon fogadása automatikusan</item>

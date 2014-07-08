@@ -60,7 +60,7 @@
   <string name="fourgrid_notificaiont">Kijelzés az állapotsoron</string> 
   <string name="get_update_error">Failed to get update information</string>
   <string name="install_email">E-mail alk. telepítése</string>
-  <string name="install_file_explorer">Kérem telepítsen fájlkezelőtt</string>
+  <string name="install_file_explorer">Kérem telepítsen fájlkezelőt</string>
   <string name="install_rom_from_sd">ROM telepítés kiválasztása</string>
   <string name="install_whole_rom">Teljes ROM letöltése javasolt</string>
   <string name="internal_build">Belső kiadás</string>

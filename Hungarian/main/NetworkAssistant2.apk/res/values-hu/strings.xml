@@ -187,36 +187,36 @@
     <string name="main_alert_message_slot_no_data_connection">"A SIM kártya foglalat nem támogatja
 a mobil adatkapcsolatot"</string>
     <string name="spinner_title">%1$s - Mobil adat: %2$s</string>
-    <string name="main_toolbar_saving">Adatmentő</string>
+    <string name="main_toolbar_saving">Megtakarítás</string>
     <string name="traffic_saving_tecsupport"/>
     <string name="traffic_saving_notify_start_title">Adatforgalom csökkentése</string>
-    <string name="traffic_saving_notify_start_content">%s mentve ebben a hónapban</string>
-    <string name="traffic_saving_toast_start_mobile">Az adatmentő bekapcsolva</string>
-    <string name="traffic_saving_toast_start_none_mobile">Az adatmentő elindul, ha a mobilforgalmazás elkezdődik</string>
-    <string name="traffic_saving_toast_start_unreachable">Hiba az adatok mentésekor</string>
-    <string name="traffic_saving_toast_stop">Adatmentő kikapcsolva</string>
-    <string name="traffic_saving_title">Adatmentő</string>
+    <string name="traffic_saving_notify_start_content">%s megtakarítva ebben a hónapban</string>
+    <string name="traffic_saving_toast_start_mobile">Az adattömörítő bekapcsolva</string>
+    <string name="traffic_saving_toast_start_none_mobile">A megtakarítás elindul, ha a mobilforgalmazás elkezdődik</string>
+    <string name="traffic_saving_toast_start_unreachable">Hiba az adatok tömörítésekor</string>
+    <string name="traffic_saving_toast_stop">Az adattömörítő kikapcsolva</string>
+    <string name="traffic_saving_title">Megtakarítás</string>
     <string name="traffic_saving_button_start">Bekapcsolás</string>
     <string name="traffic_saving_button_stop">Kikapcsolás</string>
     <string name="traffic_saving_button_sorted">Részletek</string>
-    <string name="traffic_saving_msg_today">"Mentett adat ma: "</string>
+    <string name="traffic_saving_msg_today">"Mai megtakarított adatmennyiség: "</string>
     <string name="traffic_saving_msg_month">Havi %1$s，(RMB %2$s)</string>
     <string name="traffic_saving_history_title">Előzmény</string>
-    <string name="traffic_saving_history_total_traffic">Mentett adat</string>
+    <string name="traffic_saving_history_total_traffic">Megtakarított adat</string>
     <string name="traffic_saving_history_total_money">Megsprórolt összeg</string>
     <string name="traffic_saving_history_total_money_unit">¥</string>
-    <string name="pref_traffic_saving_title">Adatmentő beállítások</string>
-    <string name="pref_traffic_saving_switch">Adatmentő</string>
+    <string name="pref_traffic_saving_title">Megtakarítás beállítása</string>
+    <string name="pref_traffic_saving_switch">Megtakarítás</string>
     <string name="pref_traffic_saving_switch_hint">Proxy használata az adatok tömörítéséhez</string>
     <string name="pref_traffic_saving_notify_switch">Kijelzés az állapotsoron</string>
-    <string name="pref_traffic_saving_notify_switch_hint">Az adatmentő információ megjelenítése az állapotsoron</string>
+    <string name="pref_traffic_saving_notify_switch_hint">Az adattömörítő információ megjelenítése az állapotsoron</string>
     <string name="pref_traffic_saving_issue">GYIK</string>
     <string name="pref_traffic_saving_issue_content">"
-&lt;b&gt;1. Az adatmentő bekapcsolása befolyásolják az adatvédelmet?&lt;/b&gt;
+&lt;b&gt;1. A Megtakarítás bekapcsolása befolyásolják az adatvédelmet?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
-Nem. Az adatait bizalmasan kezeljük, és nem adjuk ki harmadik fél számára. 
+Nem. A felhasználók adatait bizalmasan kezeljük, és nem adjuk ki harmadik fél számára. 
 &lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;2. Miért nem működik az adatmentő? ?&lt;/b&gt;
+&lt;b&gt;2. Miért nem működik a Megtakarítás? ?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
-Az adatmentő csak akkor dolgozik, ha a mobilszolgáltató hálózatát használja vagy tartalmat tölt le."</string>
+A Megtakarítás csak akkor működik, ha a mobilszolgáltató hálózatán a forgalmazás elkezdődik."</string>
 </resources>
