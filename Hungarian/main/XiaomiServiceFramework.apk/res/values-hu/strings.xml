@@ -339,4 +339,5 @@ Beállítja később?</string>
     <string name="sync_sub_2_sms">A SIM kártyák aktiválásához két szöveges üzenet elküldése szükséges(normál díjas)</string>
     <string name="sync_sub_2_intl_sms">A SIM kártyák aktiválásához két szöveges üzenet elküldése szükséges (nemzetközi díjas)</string>
     <string name="sync_sub_1_sms_1_intl_sms">A SIM kártyák aktiválásához két szöveges üzenet elküldése szükséges (belföldi és nemzetközi díjas)</string>
+    <string name="bank_cards">Bankkártyák</string>
 </resources>
