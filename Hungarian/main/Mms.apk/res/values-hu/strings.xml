@@ -473,4 +473,9 @@
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_category_all">Minden szolgáltatói üzenet</string>
     <string name="sp_category_bank">Banki üzenetek</string>
+    <string name="xiaomi_service_number">Szolgáltató telefonszám</string>
+    <string name="retrive_hms_tips">Lekérés...</string>
+    <string name="hms_first_use_tips">A szolgáltatói üzenetek fogadásához Wi-Fi kapcsolat szükséges</string>
+    <string name="send_hms_editor_hints">Cloud Üzenet</string>
+    <string name="view_hms_details">Részletek</string>
 </resources>

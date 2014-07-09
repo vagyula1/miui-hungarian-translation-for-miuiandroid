@@ -275,8 +275,10 @@
     <string name="cit_tool_wifi_rx_ap_type_error">Hozzáférési pont hiba, kérem írja be a bss / adhoc részleteket</string>
     <string name="cit_tool_wifi_rx_ap_not_null">A hozzáférési pont nem lehet üres</string>
     <string name="cit_tool_wifi_exit">Kilépés</string>
-    <string name="cit_tool_modem">MODEM测试工具</string>
-    <string name="cit_tool_modem_offline_log">打开/关闭Offline Log</string>
-    <string name="cit_tool_modem_exit_ftm">退出FTM模式</string>
-    <string name="cit_tool_modem_bugreport">强制MODEM Coredump</string>
+    <string name="cit_tool_modem">MODEM</string>
+    <string name="cit_tool_modem_offline_log">Offline Log</string>
+    <string name="cit_tool_modem_exit_ftm">FTM</string>
+    <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
+    <string name="cit_play_sd_mp3_hifi_summary">"Az SD kártyán lévő  \"music.mp3\" nevű tesztfájlt kellene lejátszania, ha megnyitja ezt a tesztet."</string>
+    <string name="cit_play_sd_mp3_hifi_title">SD kártyán lévő MP3 lejátszás</string>
 </resources>
