@@ -439,4 +439,6 @@
     <string name="pref_camera_hdr_type_title">HDR típusa</string>
     <string name="pref_camera_hdr_type_entry_normal">Normál</string>
     <string name="pref_camera_hdr_type_entry_live">Elő</string>
+    <string name="pref_camera_countdown_title">Visszaszámlálás</string>
+    <string name="simple_mode_button_text_countdown">Visszaszámlálás bezárása</string>
 </resources>

@@ -420,7 +420,7 @@
     <string name="wifi_connect_fail">A Wi-Fi hálózathoz való csatlakozás időtúllépés miatt nem sikerült</string>
     <string name="wifi_connect_success">Csatlakozva a Wi-Fi hálózathoz</string>
     <string name="wifi_connect_not_found">Nem található Wi-Fi hálózat</string>
-    <string name="wifi_connect_current_connetion">Nincs csatlakozva Wi-Fi hálózathoz</string>
+    <string name="wifi_connect_current_connetion">Wi-Fi hálózathoz csatlakozva</string>
     <string name="pref_camera_watermark_title">Dátum feliratozás</string>
     <string name="pref_camera_watermark_entry_off">Ki</string>
     <string name="pref_camera_watermark_entry_on">Be</string>
@@ -494,4 +494,6 @@
     <string name="ubi_focus_capture_fail">A fényképezés nem sikerült, próbálja újra</string>
 	<string name="pref_video_4kuhd_title_simple_mode">4K</string>
     <string name="simple_mode_button_text_4kuhd">Kilépés a 4K módból</string>
+    <string name="pref_camera_countdown_title">Visszaszámlálás</string>
+    <string name="simple_mode_button_text_countdown">Visszaszámlálás bezárása</string>
 </resources>
