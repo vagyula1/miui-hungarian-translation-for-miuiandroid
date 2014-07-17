@@ -3448,4 +3448,8 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="accessibility_service_no_apps_prompt">>A TalkBack beszéddel történő visszajelzést kínál vak és gyengénlátó felhasználók számára. Ez az alkalmazás ingyen letölthető a Google Playről.</string>
     <string name="accessibility_service_no_apps_confirm">OK</string>
     <string name="bluetooth_preference_connected_devices">Csatlakoztatott eszközök</string>
+    <string name="priority_storage_title">Tárhely beállítások</string>
+    <string name="priority_storage_summary">A felhasználói adatok alapértelmezett mentési helyének kiválasztása</string>
+    <string name="priority_storage_settings_summary">"Ha nem található SD kártya, a felhasználói adatok automatikusan a belső tárhelyre lesznek mentve"</string>
+    <string name="priority_storage_app_settings">A felhasználói adatok a %1$s -re mentve</string>
 </resources>

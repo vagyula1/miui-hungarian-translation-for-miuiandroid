@@ -609,4 +609,7 @@ EL szeretné hagyni az oldalt?"</string>
     <string name="pref_clear_adblock_statistics_dlg">Törli a reklmámblokkoló számlálókat?</string>
     <string name="miui_autologin_bar_title">Alapértelmezett fiók használata a bejelentkezéshez</string>
     <string name="miui_autologin_bar_error">"Nem sikerült bejelentkezni, próbálja újra"</string>
+    <string name="cloud_sync_failed_toast">A frissítés nem sikerült, próbálja később</string>
+    <string name="cloud_sync_closed_toast">A frissítés nem lehetséges, mert MiCloud szinkronizálás ki van kapcsolva</string>
+    <string name="close_cloud_tab_tip">Bezárja a cloud lapokat a %s ?</string>
 </resources>

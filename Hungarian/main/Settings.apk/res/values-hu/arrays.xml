@@ -665,4 +665,8 @@ a számítógép automatikusan beolvassa a telefonon lévő fájlokat"</item>
         <item>Engedélyez</item>
         <item>Megtagad</item>
     </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Belső tárhely</item>
+        <item>Külső tárhely</item>
+    </string-array>
 </resources>
