@@ -219,4 +219,5 @@ Nem. A felhasználók adatait bizalmasan kezeljük, és nem adjuk ki harmadik f�
 &lt;b&gt;2. Miért nem működik a Megtakarítás? ?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
 A Megtakarítás csak akkor működik, ha a mobilszolgáltató hálózatán a forgalmazás elkezdődik."</string>
+    <string name="traffic_saving_button_sorted_chose_simcard">Legnagyobb kiválasztása</string>
 </resources>

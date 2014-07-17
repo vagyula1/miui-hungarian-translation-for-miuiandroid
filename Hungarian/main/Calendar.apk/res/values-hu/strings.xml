@@ -277,4 +277,8 @@
     <string name="cta_notice_checkbox">"Ne mutassa újra"</string>
     <string name="cta_notice_ok">OKI</string>
     <string name="cta_notify_settings">Emlékeztető,ha a bévjegy elérhető</string>
+    <string name="alarm_label">OK</string>
+    <string name="button_week">H</string>
+    <string name="text_year">É</string>
+    <string name="week_view_today_toast">Már ezen a héten</string>
 </resources>

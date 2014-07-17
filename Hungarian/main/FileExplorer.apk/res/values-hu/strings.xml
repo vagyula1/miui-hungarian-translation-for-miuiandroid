@@ -144,7 +144,7 @@
     <string name="menu_item_sort">Rendezés</string>
     <string name="migrate_announcement_msg">Ha rendelkezik kuaipan fiókkal, összekötheti a beállításban az adatokat.</string>
     <string name="migrate_announcement_title">MiDriver átköltöztetve a kuaipan-hoz</string>
-    <string name="move_failed">Áthelyezés nem seikerült</string>
+    <string name="move_failed">Áthelyezés nem sikerült</string>
     <string name="multi_select_title">Kiválasztva %1$s elem</string>
     <string name="name_illegal">Fájlnév nem lehet üres</string>
     <string name="net_lose_connected">Hálózat nem elérhető</string>

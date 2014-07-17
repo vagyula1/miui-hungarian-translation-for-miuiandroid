@@ -365,8 +365,10 @@
     <string name="ok_no_more">Ne emlékeztessen újra</string>
     <string name="setting_use_network">Internetkapcsolat engedélyezése</string>
     <string name="setting_use_network_summery">Az alkalmazás használni fogja az internetkapcsolatot</string>
-	<string name="sure">Igen</string>
+    <string name="sure">Igen</string>
     <string name="info_title">információ</string>
     <string name="prex_playcount">lejátszva:</string>
     <string name="post_playcount">" x"</string>
+    <string name="priority_storage_summary">Mentés az SD kártyára</string>
+    <string name="priority_storage_summary">Fájlok automatikus mentése az SD kártyára.</string>
 </resources>
