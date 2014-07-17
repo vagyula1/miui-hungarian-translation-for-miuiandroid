@@ -3452,4 +3452,7 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="priority_storage_summary">A felhasználói adatok alapértelmezett mentési helyének kiválasztása</string>
     <string name="priority_storage_settings_summary">"Ha nem található SD kártya, a felhasználói adatok automatikusan a belső tárhelyre lesznek mentve"</string>
     <string name="priority_storage_app_settings">A felhasználói adatok a %1$s -re mentve</string>
+    <string name="high_performance_title">"Úgy tűnik, hogy egy benchmark tesztet futtat. A legjobb eredmény eléréséhez állítsa a teljesítményt a \"Maximális\"-ra."</string>
+    <string name="high_performance_notif_title">Akkumulátor használat</string>
+    <string name="high_performance_notif_summary">A maximális teljesitmény be van kapcsolva. Ez jobban fogyasztja az akkumulátort.</string>
 </resources>

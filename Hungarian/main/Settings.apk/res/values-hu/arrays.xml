@@ -7,8 +7,7 @@
     </string-array>
     <string-array name="power_mode_entries">
         <item>Maximális</item>
-        <item>Normál</item>
-        <item>Energiatakarékos</item>
+        <item>Normál (Alapértelmezett)</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Egy perc múlva</item>

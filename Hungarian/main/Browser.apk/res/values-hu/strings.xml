@@ -602,9 +602,9 @@ EL szeretné hagyni az oldalt?"</string>
     <string name="enter_developer_mode">Belépés a fejlesztői módba</string>
     <string name="account_prifix">Fiók:</string>
     <string name="adblock_notification">blokkolva %d reklám</string>
-    <string name="pref_adblock_title">Reklámblokkoló</string>
-    <string name="pref_enable_adblock_notification">Reklám blokkolási tippek</string>
-    <string name="pref_clear_adblock_statistics">Reklámblokkoló statisztika törlése</string>
+    <string name="pref_adblock_title">Reklámok blokkolása</string>
+    <string name="pref_enable_adblock_notification">Reklámok blokkolásának értesítése</string>
+    <string name="pref_clear_adblock_statistics">Reklámblokkolási statisztika törlése</string>
     <string name="pref_adblock_counts">összesen reklám %d blokkolva</string>
     <string name="pref_clear_adblock_statistics_dlg">Törli a reklmámblokkoló számlálókat?</string>
     <string name="miui_autologin_bar_title">Alapértelmezett fiók használata a bejelentkezéshez</string>
