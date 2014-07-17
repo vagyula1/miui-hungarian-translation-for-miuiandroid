@@ -508,5 +508,6 @@ Használja ki!"</string>
     <string name="ubifocus_refocus_data_missing">Az újrafókuszálás nem sikerült néhány hiányzó adatt miatt</string>
     <string name="ubifocus_refocus_download_tip">Töltse le az újrafókuszált adatot az újrafókuszálás előtt</string>
     <string name="ubifocus_refocus_map_error">Az újrafókuszálás nem sikerült néhány hibás adat miatt</string>
-    <string name="priority_storage_summary">Mentés az SD kártyára</string>
+    <string name="priority_storage">Mentés az SD kártyára</string>
+	<string name="priority_storage_summary">Fájlok automatikus mentése az SD kártyára.</string>
 </resources>
