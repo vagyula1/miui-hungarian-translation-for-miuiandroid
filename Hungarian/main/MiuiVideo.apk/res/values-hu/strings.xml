@@ -370,5 +370,4 @@
     <string name="prex_playcount">lejátszva:</string>
     <string name="post_playcount">" x"</string>
     <string name="priority_storage_summary">Mentés az SD kártyára</string>
-    <string name="priority_storage_summary">Fájlok automatikus mentése az SD kártyára.</string>
 </resources>
