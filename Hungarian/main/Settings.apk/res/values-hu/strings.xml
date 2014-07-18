@@ -3441,7 +3441,7 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="use_network_warning">A Xiaomi szolgáltatásaihoz internetkapcsolat szükséges</string>
     <string name="cta_dialog_title">Figyelmeztetés</string>
     <string name="cta_dialog_msg">A biztonság alkalmazás vírus adatbázis frissítéséhez internetkapcsolat szükséges. Engedélyezi a kapcsolatot?</string>
-    <string name="cta_checkbox_title">Ne emlékeztessen újra</string>
+    <string name="cta_checkbox_title">Ne emlékeztessen</string>
     <string name="cta_button_text_cancel">Mégsem</string>
     <string name="cta_button_text_agree">OK</string>
     <string name="cta_settings">Internetbeállítások</string>
@@ -3453,6 +3453,6 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="priority_storage_settings_summary">"Ha nem található SD kártya, a felhasználói adatok automatikusan a belső tárhelyre lesznek mentve"</string>
     <string name="priority_storage_app_settings">A felhasználói adatok a %1$s -re mentve</string>
     <string name="high_performance_title">"Úgy tűnik, hogy egy benchmark tesztet futtat. A legjobb eredmény eléréséhez állítsa a teljesítményt a \"Maximális\"-ra."</string>
-    <string name="high_performance_notif_title">Akkumulátor használat</string>
-    <string name="high_performance_notif_summary">A maximális teljesitmény be van kapcsolva. Ez jobban fogyasztja az akkumulátort.</string>
+    <string name="high_performance_notif_title">Maximális teljesitmény bekapcsolva.</string>
+    <string name="high_performance_notif_summary">Ez a funckió jobban fogyasztja az akkumulátort.</string>
 </resources>

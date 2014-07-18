@@ -269,7 +269,7 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="theme_user_agreement_content5">A Téma alkalmazás használatához internetkapcsolat szükséges, engedélyezi?</string>
     <string name="theme_user_agreement_title">Figyelmeztetés</string>
     <string name="theme_user_agreement_allow">Igen</string>
-    <string name="theme_user_agreement_remind_never">"Ne emlékeztessen újra"</string>
+    <string name="theme_user_agreement_remind_never">Ne emlékeztessen</string>
     <string name="theme_user_agreement_remind_again">Értesítés csatlakozás esetén</string>
     <string name="theme_user_agreement_remind_summary">A következő újraindításig</string>
 </resources>

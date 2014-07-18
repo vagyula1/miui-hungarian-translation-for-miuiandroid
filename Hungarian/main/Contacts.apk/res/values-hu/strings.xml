@@ -1064,7 +1064,7 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="cta_notice_title">Figyelmeztetés</string>
     <string name="cta_notice_new_contact_message">A névjegyek \"%s\" fiókba mentéséhez hálózati kapcsolat szükséges, engedélyezi?</string>
     <string name="cta_notice_photo_message">A fényképcsomagból való kapcsolat fényképének szerkesztéséhez hálózati kapcsolat szükséges, engedélyezi?</string>
-    <string name="cta_notice_checkbox">"Ne emlékeztessen újra"</string>
+    <string name="cta_notice_checkbox">Ne emlékeztessen</string>
     <string name="cta_notice_ok">Igen</string>
     <string name="cta_notice_settings">Figyelmeztetés hálózati kapcsolódáskor</string>
     <string name="yellowpage_user_profile">Profil</string>

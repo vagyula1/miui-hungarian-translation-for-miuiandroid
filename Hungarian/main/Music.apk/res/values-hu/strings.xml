@@ -328,7 +328,7 @@
     <string name="volume_alert_playback_alert_title">Magas hangerő figyelmeztetés</string>
     <string name="volume_alert_playback_message">A halláskárosodás elkerülése érdekében ne hallgassa hosszú ideig túl magas hangerőn.</string>
     <string name="select_device">Eszköz kiválasztása</string>
-    <string name="impunity_declaration_ignore">Ne emlékeztessen újra</string>
+    <string name="impunity_declaration_ignore">Ne emlékeztessen</string>
     <string name="impunity_declaration_settings">Értesítés csatlakozás esetén</string>
     <string name="impunity_declaration_summary">Felugró ablakban figyelmeztessen a zene alkalmazás indításakor</string>
     <string name="take_effect_afater_restart">Az alkalmazást újra kell indítani az új beállítások alkalmazásához</string>
