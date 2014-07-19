@@ -193,8 +193,8 @@
     <string name="done">Visszatérés</string>
     <string name="account_and_calendar">Fiókok és naptárak</string>
     <string name="account_and_calendar_to_display">Fiókok és naptárak megjelenítése</string>
-    <string name="button_day">N</string>
-    <string name="button_month">H</string>
+    <string name="button_day">Napi</string>
+    <string name="button_month">Havi</string>
     <string name="chongsha"/>
     <string name="default_reminder_mode">Emlékeztető módja</string>
     <string name="event_account">Naptár</string>
@@ -266,19 +266,21 @@
     <string name="pref_title_alert_remind">Felugró ablakban</string>
     <string name="huangli_label">Huang Li</string>
     <string name="holiday_label">Ünnapnap</string>
-    <string name="action_bar_today">M</string>
+    <string name="action_bar_today">Ma</string>
     <string name="pref_title_alarm_remind">Riasztás</string>
     <string name="event_date_format">MMMM dd. EEEE</string>
     <string name="event_full_date_format">yyyy.MM.dd.</string>
     <string name="pref_error_no_ringtone_select">Nincs kiválasztva</string>
     <string name="view_all_matches">Összes</string>
     <string name="cta_notice_title">Emlékeztető</string>
-    <string name="cta_notice_message">A \"születésnap emlékeztető\" a kapcsolatokban szereplő partnerek születésnapját fogja jelezni, amihez a névjegyzékhez való hozzáférés szükséges. Engedélyezi?</string>
-    <string name="cta_notice_checkbox">"Ne mutassa újra"</string>
-    <string name="cta_notice_ok">OKI</string>
+    <string name="cta_notice_message">A \"születésnap emlékeztető\" a kapcsolatokban 	
+szereplő partnerek születésnapját fogja jelezni,
+amihez a névjegyzékhez való hozzáférés szükséges. Engedélyezi?</string>
+    <string name="cta_notice_checkbox">Ne emlékeztessen</string>
+    <string name="cta_notice_ok">OK</string>
     <string name="cta_notify_settings">Emlékeztető,ha a bévjegy elérhető</string>
     <string name="alarm_label">OK</string>
-    <string name="button_week">H</string>
+    <string name="button_week">Heti</string>
     <string name="text_year">É</string>
     <string name="week_view_today_toast">Már ezen a héten</string>
 </resources>
