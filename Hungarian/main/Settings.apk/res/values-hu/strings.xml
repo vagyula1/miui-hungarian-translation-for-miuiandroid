@@ -2384,7 +2384,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="dndm_dlg_remove_vip">Eltávolítja a listából?</string>
     <string name="dndm_dlg_remove_ok">Eltávolítás</string>
     <string name="dndm_menu_add_vip_custom">Névjegy hozzáadása</string>
-    <string name="dndm_mute_all">A hívások és üzenetek értesítései lenémítva</string>
+    <string name="dndm_mute_all">Hívások és üzenetek lenémítva</string>
     <string name="dndm_special_call_setting_group">Kivételek</string>
     <string name="dndm_vip_call_setting_title">Névjegyek beállítása</string>
     <string name="dndm_vip_call_summary_none">Érintse meg a beállításhoz</string>
@@ -2422,7 +2422,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="search_power_mode">Teljesítmény</string>
     <string name="debug_log">Hibajelentés</string>
     <string name="upload_debug_log_title">Hibajelentés feltöltése</string>
-    <string name="upload_debug_log_summary">Hibajelentés feltöltése csak akkor, ha a Wi-Fi kapcsolat rendelkezésre áll.</string>
+    <string name="upload_debug_log_summary">A MIUI fejlesztésének segítése névtelen adatok küldésével.</string>
     <string name="device_miui_version">MIUI verzió:</string>
     <string name="device_cpu">CPU:</string>
     <string name="device_memory">RAM:</string>
@@ -2980,8 +2980,8 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="toast_backup_is_running">A mentés folyamatban. Próbálja később.</string>
     <string name="toast_backup_uninstall_failed">%d alkalmazás mentése nem sikerült. Próbálja később.</string>
     <string name="toast_backup_uninstall_success">A biztonsági mentés és az eltávolítás befejeződött</string>
-    <string name="notification_title_of_garbage_cleanup">Tisztítás!</string>
-    <string name="notification_summary_of_garbage_cleanup">A felesleges fájlok elérték a %s határértéket.Tisztítás ajánlott</string>
+    <string name="notification_title_of_garbage_cleanup">Tisztítás szükséges!</string>
+    <string name="notification_summary_of_garbage_cleanup">A felesleges fájlok mérete nagyobb,mint %s.</string>
     <string name="item_garbage_time_daily">Naponta</string>
     <string name="item_garbage_time_3d">3 naponta</string>
     <string name="item_garbage_time_7d">7 naponta</string>

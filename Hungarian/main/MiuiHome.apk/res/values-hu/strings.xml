@@ -5,7 +5,7 @@
     <string name="aqi_quality_index_dangerous">Veszélyes</string>
     <string name="aqi_quality_index_good">Jó</string>
     <string name="aqi_quality_index_hazardous">Kockázatos</string>
-    <string name="aqi_quality_index_light_pollution">Gyenge szennyezés</string>
+    <string name="aqi_quality_index_light_pollution">Figyelmeztetés</string>
     <string name="aqi_quality_index_moderate">Közepes</string>
     <string name="aqi_quality_index_unhealthy">Egészségtelen</string>
     <string name="buffering">Pufferelés...</string>
@@ -56,12 +56,12 @@
     <string name="gadget_photo_24_label">Képkeret 2x4</string>
     <string name="gadget_photo_44_label">Képkeret 4x4</string>
     <string name="gadget_weather_app_not_installed">MIUI időjárás nincs telepítve</string>
-    <string name="gadget_weather_aqi_title">Légszennyezés</string>
+    <string name="gadget_weather_aqi_title">"Légszennyezés: "</string>
     <string name="gadget_weather_download_message">Az alábbi téma letötlése szükséges: %1$s. méret: %2$s. Kérem a letötlés után válassza ki újra</string>
     <string name="gadget_weather_download_start">Letöltés</string>
     <string name="gadget_weather_download_title">Letöltés</string>
     <string name="gadget_weather_downloading">Téma letöltése. Kérem válassza újra a letöltés befejeztével</string>
-    <string name="gadget_weather_loading">Nincs időjárási adat</string>
+    <string name="gadget_weather_loading">Nincsenek adatok</string>
     <string name="gadget_weather_low_temp">min</string>
     <string name="gadget_weather_theme_type">Gadget típus</string>
     <string name="gadget_weather_time_format">MM.dd. EEE</string>
@@ -119,7 +119,7 @@
     <string name="pref_render_in_truecolor_title">Nagyfelbontású grafika</string>
     <string name="pref_screen_transformation_type_title">Képernyők közötti átmeneti hatások</string>
     <string name="pref_wallpaper_scroll_type_title">Háttérkép mozgatás típusok</string>
-    <string name="preferences_general_title">Teljesítmény beállítások</string>
+    <string name="preferences_general_title">További beállítások</string>
     <string name="preferences_title">Launcher beállítások</string>
     <string name="process" />
     <string name="reset_scene_prompt">The scene will be reset to default layout</string>
@@ -207,7 +207,7 @@
     <string name="apply_as_lock_wallpaper_message">Beállítja a képernyőzár hattérképének is?</string>
     <string name="lock_screen_failed_message">A beállítás nem sikerült.</string>
     <string name="lock_screen_success_message">Beállítva</string>
-    <string name="bad_wallpaper_source_prompt">Failed to load wallpaper</string>
+    <string name="bad_wallpaper_source_prompt">A hattérkép betöltése nem sikerült</string>
     <string name="status_pending">várakozás</string>
     <string name="status_downloading">letöltés</string>
     <string name="status_paused">szüneteltetve</string>

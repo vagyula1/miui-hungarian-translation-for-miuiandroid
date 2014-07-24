@@ -1058,7 +1058,7 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="import_from_sim1">Importálás SIM 1-ről</string>
     <string name="resource_connect_network_message">Csatlakozik a hálózathoz?</string>
     <string name="resource_allow">Igen</string>
-    <string name="resource_remind_another_time">"Ne emlékeztessen újra"</string>
+    <string name="resource_remind_another_time">"Ne emlékeztessen"</string>
     <string name="resource_connect_network_settings">Értesítés csatlakozás esetén</string>
 	<string name="yellowpage_navigation_network_location_enabled">A szolgáltatás engedélyezve van, tiltsa le a helyszolgáltatások beállításánál.</string>
     <string name="cta_notice_title">Figyelmeztetés</string>
@@ -1071,4 +1071,10 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="yellowpage_navigation_more_items">Egyéb</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Ikon letöltése…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Sikertelen, ellenőrizze a hálózati beállításokat</string>
+    <string name="yellowpage_navigation_search_result_average_price">Átlag %d RMB</string>
+    <string name="yellowpage_navigation_send_to_desktop_succeeded">Kezdőképernyőhöz adva</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_title">Hálózati hely szolgáltatás engedélyezése</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Directory provides services according to your city and enabling WLAN &amp; mobile network location service can improve the quality of services.</string>
+    <string name="yellowpage_navigation_network_location_enable">Engedélyezés</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Engedélyezés később</string>
 </resources>

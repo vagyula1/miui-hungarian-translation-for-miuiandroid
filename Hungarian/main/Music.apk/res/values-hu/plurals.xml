@@ -61,8 +61,8 @@
         <item quantity="one">1 dal hozzáadva a kedvencekhez.</item>
     </plurals>
     <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">%d dal törölve a lejátszólistából.</item>
-        <item quantity="one">1 dal törölve a lejátszólistából.</item>
+        <item quantity="other">%d dal törölve a kedvencekből.</item>
+        <item quantity="one">1 dal törölve a kedvencekből.</item>
     </plurals>
     <plurals name="Nsearch_results">
         <item quantity="other">%d results</item>
@@ -85,8 +85,8 @@
         <item quantity="one">most játszott dal</item>
     </plurals>
     <plurals name="Nexpiration_reminder">
-       <item quantity="other">%d nap van hátra a lejáratig</item>
-       <item quantity="one">%d nap van hátra a lejáratig</item>
+       <item quantity="other">%d nap van hátra</item>
+       <item quantity="one">%d nap van hátra</item>
     </plurals>
     <plurals name="Nvip_expired_remind">
        <item quantity="other">A jobb minőségű zenehozzáféré hamarosan lejár (%d nap van hátra)</item>

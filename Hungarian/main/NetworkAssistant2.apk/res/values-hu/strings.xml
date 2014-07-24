@@ -67,8 +67,8 @@
     <string name="main_button_normal_traffic">Elérhető</string>
     <string name="main_button_usage_adjust_manual">Adatforgalom beállítása</string>
     <string name="main_button_usage_adjust">Felhasznált adatforgalom beállítása</string>
-    <string name="main_button_usage_adjusting">Beállítás…</string>
-    <string name="main_button_usage_package_setting">Adatforgalom beállítása</string>
+    <string name="main_button_usage_adjusting">Adatforgalmi limit beállítása</string>
+    <string name="main_button_usage_package_setting">Adatforgalmi limit beállítása</string>
     <string name="main_toolbar_firewall">Korlátozás</string>
     <string name="main_toolbar_purchase">Feltöltés</string>
     <string name="main_toolbar_statistic">Statisztika</string>
@@ -219,5 +219,25 @@ Nem. A felhasználók adatait bizalmasan kezeljük, és nem adjuk ki harmadik f�
 &lt;b&gt;2. Miért nem működik a Megtakarítás? ?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
 A Megtakarítás csak akkor működik, ha a mobilszolgáltató hálózatán a forgalmazás elkezdődik."</string>
-    <string name="traffic_saving_button_sorted_chose_simcard">Legnagyobb kiválasztása</string>
+    <string name="traffic_saving_button_sorted_chose_simcard">Rendezés</string>
+    <string name="mi_service_framework">Mi Service Framework</string>
+    <string name="mi_service_app_detail">Adatforgalmi részletek</string>
+    <string name="mi_service_traffic_detail">Framework részletek</string>
+    <string name="none_mi_service_app_detail">Üres</string>
+    <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+    <string name="pref_traffic_saving_whitelist">Kivételek</string>
+    <string name="pref_traffic_saving_whitelist_hint">"Ezeknek az alkalmazásoknak az adatforgalma nem korlátozható"</string>
+    <string name="traffic_saving_whitelist_btn_add_app">Hozzáadás</string>
+    <string name="traffic_saving_whitelist_btn_add">Hozzáadás</string>
+    <string name="traffic_saving_whitelist_btn_added">Hozzáadva</string>
+    <string name="traffic_saving_whitelist_btn_remove">Eltávolítás</string>
+    <string name="traffic_saving_whitelist_btn_removed">Az alkalmazás eltávolítva a listából</string>
+    <string name="traffic_saving_whitelist_count">"%d alkalmazás' adatforgalma nem korlátozható"</string>
+    <string name="traffic_saving_whitelist_no_app">Nincs alkalmazás</string>
+    <string name="traffic_saving_history_total_month">Ehavi megtakarítás</string>
+    <string name="traffic_saving_history_total_month_default">A havi megtakarítás</string>
+    <string name="traffic_saving_history_total_month_value">"&lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> dal / &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> óra chat/ &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> cikk olvasás"</string>
+    <string name="traffic_saving_history_total_month_value_default">"&lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> dal / C&lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> óra chat / O&lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> cikk olvasás"</string>
+    <string name="traffic_saving_history_total_rate">Átlag</string>
+    <string name="traffic_saving_history_total_rate_unit">%</string>	
 </resources>

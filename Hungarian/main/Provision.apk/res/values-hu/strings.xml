@@ -22,7 +22,7 @@ Bármikor módosítható a Beállítások> Helyszolgáltatások" menüpöntban</
     <string name="sim_card_detection_status_absent">Nincs SIM kártya!</string>
     <string name="setup_complete_label">Beállítás kész</string>
     <string name="setup_complete_info">A szolgáltatások a telefon első használatakor aktiválódnak</string>
-    <string name="setup_complete_start">A telefon használatának megkezdése</string>
+    <string name="setup_complete_start">OK</string>
     <string name="setup_complete_summary">A beállítás befejeződött! Élvezze a MIUI használatát!</string>
     <string name="traffic_protection_label">Adatforgalom ellenőrzése</string>
     <string name="traffic_protection_summary">Az adatforgalom ellenőrzés emlékeztet, ha a forgalom eléri a beállított határértéket.</string>

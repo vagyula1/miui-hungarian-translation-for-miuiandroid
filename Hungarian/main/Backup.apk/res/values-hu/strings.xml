@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mentés</string>
-    <string name="account_contact_backup_info">Gmail, Email és Xiaomi fiókok adatai</string>
+    <string name="account_contact_backup_info">Gmail, Email és Mi fiókok adatai</string>
     <string name="account_login">Belépés</string>
-    <string name="account_summary">Gmail, Email és Xiaomi fiók adatainak mentése</string>
+    <string name="account_summary">Gmail, Email és Mi fiók adatainak mentése</string>
     <string name="already_enable_encrypt">Titkosítás engedélyezve</string>
     <string name="auto_backup">Automatikus mentés</string>
     <string name="auto_backup_all_user_apps">Minden alkalmazás</string>
@@ -137,8 +137,8 @@
     <string name="enable_encrypt_fail">Titkosítás engedélyezése sikertelen</string>
     <string name="enable_encrypt_indicator">A mentés nem titkosított,kattintson ide az engedélyezéshez.</string>
     <string name="enable_encrypt_ok">OK</string>
-    <string name="enable_encrypt_summery1">A rendszer titkosítja a helyi mentést a Xiaomi fiók alapján, Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Xiaomi fiókjába.</string>  
-    <string name="enable_encrypt_summery2">Az új mentés automatikusan titkosítva lesz.  Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Xiaomi fiókjába.</string>
+    <string name="enable_encrypt_summery1">A rendszer titkosítja a helyi mentést a Mi fiók alapján, Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Mi fiókjába.</string>  
+    <string name="enable_encrypt_summery2">Az új mentés automatikusan titkosítva lesz.  Adatai eltávolításához ill. a biztonsági mentés egyéb eszközre való visszaállításához be kell lépnie a Mi fiókjába.</string>
     <string name="enable_encrypt_title">Titkosítás engedélyezése</string>
     <string name="enable_encrypt_xiaomi_account">A mentést készítette %1$s, kérem törölje jelenlegi fiókját, és %2$s jelentkezzen be, adatai visszaállításához.</string>
     <string name="exchange_account">Exchange fiók</string>
@@ -147,7 +147,7 @@
     <string name="findlost_contact">Névjegy keresése</string>
     <string name="guarded_mode_dialog_message">Nem lehetséges a mentés/visszaállítás védett módban</string>
     <string name="guarded_mode_dialog_title">Védett mód</string>  
-    <string name="import_from_xiaomi_account_hint1">1.Telepítse a MiTalk-ot és jelentkezzen be.http://www.miliao.com 3. Lépjen a MiTalk beállításaiba és válassza a ”Névjegyek mentése a Xiaomi fiókba”</string>
+    <string name="import_from_xiaomi_account_hint1">1.Telepítse a MiTalk-ot és jelentkezzen be.http://www.miliao.com 3. Lépjen a MiTalk beállításaiba és válassza a ”Névjegyek mentése a Mi fiókba”</string>
     <string name="import_from_xiaomi_account_hint2">Megjegyzés: Lépjen tovább ha a mentés befejeződött</string>
     <string name="import_from_xiaomi_account_hint_title">Használja a MiTalk-ot névjegyek mentéséhez, bármely készüléket, csak nem a MI-ONE-t</string>
     <string name="just_support_op_with_wifi_connected">Csak  Wi-Fi kapcsolat esetén</string>
@@ -160,7 +160,7 @@
     <string name="local_select_sysdata">Rendszer adatai</string>
     <string name="local_select_userapp">Alkalmazások és adatok</string>
     <string name="menu_patch_delete">Csoportos törlés</string>
-    <string name="miliao_account_guide">MiTalk frissítve a Xiaomi fiókkal.Élvezze a Xiaomi online szolgáltatását</string>
+    <string name="miliao_account_guide">MiTalk frissítve a Mi fiókkal.Élvezze a Mi online szolgáltatását</string>
     <string name="miliao_account_login">MiTalk bejelentkezés</string>
     <string name="mms_title">Multimédiás Üzenetek</string>
     <string name="multi_select_title">%1$s elem kijelölve</string>
@@ -193,7 +193,7 @@
     <string name="sc_internal_server_error">Belső szerver hiba</string>
     <string name="sc_network_unavailable">Hálózati kapcsolódás sikertelen</string>
     <string name="sc_others">Alkalmazás kivétel hibák</string>
-    <string name="sc_precondition_failed">A Xiaomi fiók nem kötődik semmilyen e-mail címhez</string>
+    <string name="sc_precondition_failed">A Mi fiók nem kötődik semmilyen e-mail címhez</string>
     <string name="sc_request_timeout">Időtúllépés</string>
     <string name="sc_service_unavailable">A szolgáltatás nem elérhető</string>
     <string name="sc_unaccess_password_file">Hibás Wi-Fi jelszó</string>

@@ -278,9 +278,9 @@ szereplő partnerek születésnapját fogja jelezni,
 amihez a névjegyzékhez való hozzáférés szükséges. Engedélyezi?</string>
     <string name="cta_notice_checkbox">Ne emlékeztessen</string>
     <string name="cta_notice_ok">OK</string>
-    <string name="cta_notify_settings">Emlékeztető,ha a bévjegy elérhető</string>
+    <string name="cta_notify_settings">Értesítés a kapcsolatok elérésekor</string>
     <string name="alarm_label">OK</string>
     <string name="button_week">Heti</string>
     <string name="text_year">É</string>
-    <string name="week_view_today_toast">Már ezen a héten</string>
+    <string name="week_view_today_toast">Ez a hét látható</string>
 </resources>

@@ -57,10 +57,10 @@
     <string name="delete_playlist_menu">Lejátszási lista törlése</string>
     <string name="delete_song_desc">\"%s\" véglegesen törlésre kerül az SD kártyáról.</string>
     <string name="deselect_all">Kijelölés megszüntetése</string>
-    <string name="dirac_mode_earbuds">Xiaomi fülhallgató</string>
+    <string name="dirac_mode_earbuds">Mi fülhallgató</string>
     <string name="dirac_mode_general">Általános mód</string>
-    <string name="dirac_mode_in_ear">Xiaomi in-ear fülhallgató</string>
-    <string name="dirac_mode_piston_100">Xiaomi piston fejhallgató</string>
+    <string name="dirac_mode_in_ear">Mi in-ear fülhallgató</string>
+    <string name="dirac_mode_piston_100">Mi piston fejhallgató</string>
     <string name="download">Letöltés</string>
     <string name="download_album_settings">Lemezborító letöltése</string>
     <string name="download_album_summary">Mobil adathálózaton sokáig tarthat, javasoljuk a Wi-Fi kapcsolat használatát.</string>
@@ -104,7 +104,7 @@
     <string name="filter_notification">A szűrőbeállításokat a Beállításoknál módosíthatja.</string>
     <string name="folders_title">könyvtárak</string>
     <string name="frequentlyplayed_title">Gyakran játszott</string>
-    <string name="headphone_settings">Fülhallgató típusának beállítása</string>
+    <string name="headphone_settings">Fülhallgatók</string>
     <string name="hot_artists">Legújabb előadók</string>
     <string name="id3_edit">ID3 információk szerkesztés</string>
     <string name="id3_edit_failed">Az ID3 információk mentése nem sikerült</string>
@@ -268,7 +268,7 @@
     <string name="ktv_song_vod_success">%1$s hozzáadva</string>
     <string name="ktv_unbind_message">"A KTV konzolhoz való csatlakozás nem sikerült. Győződjön meg a róla,hogy megfelelően szkennelte-e be a QR kódot."</string>
     <string name="login">Bejelentkezés</string>
-    <string name="login_first">Először be kell jelentkeznie a Xiaomi fiókjába</string>
+    <string name="login_first">Először be kell jelentkeznie a Mi fiókjába</string>
     <string name="normal_quality">Normál minőség</string>
     <string name="pay_service_guide_dowload">Letöltés minősége</string>
     <string name="pay_service_guide_listen">Adatfolyam minősége</string>
@@ -312,7 +312,7 @@
     <string name="load_recommend_failed">A lista betöltése nem sikerült</string>
     <string name="click_to_play_all">Kattintson az összes lejátszásához</string>
     <string name="collect_topic_success">Borító a kedvencekhez adva</string>
-    <string name="collect_bill_success">Számla a kedvencekhez adva</string>
+    <string name="collect_bill_success">A lejátszási lista a kedvencekhez adva</string>
     <string name="collect_fm_success">Hozzáadva a kedvencekhez</string>
     <string name="uncollect_success">Eltávolítás a kedvencekből</string>
     <string name="dirac_mode_general_earbuds">Általános fülhallgató</string>
@@ -334,4 +334,5 @@
     <string name="take_effect_afater_restart">Az alkalmazást újra kell indítani az új beállítások alkalmazásához</string>
     <string name="priority_storage">Letöltés a külső SD kártyára</string>
     <string name="priority_storage_summary">Külső SD kártya használatakor elsődleges letöltési hely</string>
+    <string name="i_know">OK</string>
 </resources>

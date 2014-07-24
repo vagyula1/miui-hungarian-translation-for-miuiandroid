@@ -53,7 +53,7 @@
     <string name="selected_category_format">%2$d személy megjelölve, mint  %1$s. Kattintson az elfogadáshoz.</string>
     <string name="mark_title_null_hint">Címke megadása szükséges</string>
     <string name="smart_antispam">Intelligens ismeretlen szám azonosítás</string>
-    <string name="turn_on_smart_antispam_hint">Engedélyezés után az ismeretlen számok azonosítva lesznek. If not identified, you can mark it to help determine fraudulent calls.</string>
+    <string name="turn_on_smart_antispam_hint">Engedélyezés után az ismeretlen számok azonosítva lesznek. Ha nem azonosítható, jelölje meg, hogy segítse meghatározni a kéretlen hívásokat.</string>
     <string name="turn_on_smart_antispam_title">Ismeretlen számok azonosítása</string>
     <string name="turn_on_smart_antispam_summary_on">Ismeretlen telefonszámok azonosítása és megjelölése</string>
     <string name="turn_on_smart_antispam_summary_off">Csak az elmentett telefonszámok keresése az eszközön</string>
@@ -174,4 +174,6 @@ Ellenőrizze a nyomkövetési számot."</string>
     <string name="download_failed_file_exists">A fájl már létezik</string>
     <string name="download_failed_space">A letöltés nem sikerült, nincs elég hely</string>
     <string name="download_failed_blocked">A letöltés nem sikerült hálózati hiba miatt</string>
+    <string name="enable_now">Engedélyezés</string>
+    <string name="dont_enable">"Ne engedélyezze"</string>
 </resources>
