@@ -119,7 +119,7 @@
     <string name="setting_feedback">Fórum</string>
     <string name="setting_speed_desc">"A gomb kattintásának válaszideje."</string>
     <string name="splash_tip">Csatlakoztassa a MiKey-t</string>
-    <string name="task_title_prefix">"N.funkció: "</string>
+    <string name="task_title_prefix">"%1$s funkció: %2$s"</string>
     <string name="setting_speed_slow">Lassú</string>
     <string name="setting_speed_quick">Gyors</string>
     <string name="setting_keeplive_desc">"Ez a beállítás lehetővé teszi, hogy az alkalmazások a háttérben fussanak ezáltal gyorsan elérhetővé váljanak, ami azonban növelheti az akkumulátor fogyasztást."</string>
@@ -174,4 +174,17 @@ a "+" jelre vagy az ikonra"</string>
     <string name="setting_toolbar_desc">"Az eszköztár funkciók elérhetőek lesznek az értesítési sávban"</string>
     <string name="setting_toolbar_tip">" Új funkció hozzáadásához kattintson a "+" jelre,
 módosításhoz tartsa az ujját a módosítani kívánt ikonon."</string>
+    <string name="toggle_wifi">Wi-Fi</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_shake">Rezgés</string>
+    <string name="toggle_ring">Csengetés</string>
+    <string name="toggle_gps">GPS</string>
+    <string name="toggle_data">Adatforg.</string>
+    <string name="toggle_sleep">Dormacy</string>
+    <string name="toggle_bright">Háttérv.</string>
+    <string name="toggle_flight">Repülő üz.</string>
+    <string name="toggle_nfc">NFC</string>
+    <string name="toast_open">Kinyit</string>
+    <string name="toast_close">Bezár</string>
+    <string name="chooser_dust_cap">MiKey (Porvédő mód)</string>
 </resources>
