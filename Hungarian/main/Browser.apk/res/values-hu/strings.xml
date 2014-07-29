@@ -612,4 +612,6 @@ EL szeretné hagyni az oldalt?"</string>
     <string name="cloud_sync_failed_toast">A frissítés nem sikerült, próbálja később</string>
     <string name="cloud_sync_closed_toast">A frissítés nem lehetséges, mert MiCloud szinkronizálás ki van kapcsolva</string>
     <string name="close_cloud_tab_tip">Bezárja a cloud lapokat a %s ?</string>
+    <string name="bookmarks_history">Könyvjelzők/Előzmények</string>
+    <string name="delete_homepage">Kezdőoldal törlése</string>
 </resources>

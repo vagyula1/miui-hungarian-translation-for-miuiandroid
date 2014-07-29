@@ -283,4 +283,5 @@ amihez a névjegyzékhez való hozzáférés szükséges. Engedélyezi?</string>
     <string name="button_week">Heti</string>
     <string name="text_year">É</string>
     <string name="week_view_today_toast">Ez a hét látható</string>
+    <string name="edit_event_confirm_message">Elveti az esemény módosításait?</string>
 </resources>

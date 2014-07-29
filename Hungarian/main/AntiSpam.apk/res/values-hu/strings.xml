@@ -259,4 +259,9 @@
   <string name="ad_block_hint">%d blokkolva</string>
   <string name="ad_single_block_hint">Blokkolva</string>
   <string name="ad_permission_hint">"A reklámblokkoló használata kihathat az alkalmazások teljesítményére vagy megakadályozhatják azokat a normális működésükben."</string>
+  <string name="report">Jelentés</string>
+  <string name="report_error">Köszönjük a jelentést, automatikusan feltöltésre kerül Wi-Fi csatlakozás esetén</string>
+  <string name="report_only">Válasszon ki legalább egy üzenetet</string>
+  <string name="report_sms">Üzenet jelentés</string>
+  <string name="report_success">Jelentés sikeres</string>
 </resources>
