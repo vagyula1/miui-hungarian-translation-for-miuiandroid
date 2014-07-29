@@ -510,4 +510,7 @@ Használja ki!"</string>
     <string name="ubifocus_refocus_map_error">Az újrafókuszálás nem sikerült néhány hibás adat miatt</string>
     <string name="priority_storage">Mentés az SD kártyára</string>
 	<string name="priority_storage_summary">Fájlok automatikus mentése az SD kártyára.</string>
+    <string name="crop_recognize_text">Felismerés</string>
+    <string name="crop_save_text_setas">Alkalmaz</string>
+    <string name="recognizing_image">Kép felismerése…</string>
 </resources>
