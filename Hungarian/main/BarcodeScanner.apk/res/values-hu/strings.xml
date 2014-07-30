@@ -28,8 +28,7 @@
     <string name="qq_details">QQ részletek:</string>
     <string name="qr_code_details">QR kód részletek:</string>
     <string name="recognize">Beolvasás</string>
-    <string name="scan_fail">A keresés nem sikerült</string>
-    <string name="scan_fail">"Keresés sikertelen"</string>
+    <string name="scan_fail">Keresés sikertelen</string>
     <string name="scan_qrcode">QR kód keresés</string>
     <string name="scan_result">Keresési eredméyn</string>
     <string name="secure_access_web_url">Biztonsági hozzáférés</string>
