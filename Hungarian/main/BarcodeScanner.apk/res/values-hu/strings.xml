@@ -59,4 +59,5 @@
     <string name="wifi_security">Biztonság:</string>
     <string name="wifi_ssid">SSID:</string>
     <string name="wifi_warning">A Wi-Fi hálózathoz való csatlakozás előtt ellenőrizze a biztonságot</string>
+    <string name="settings">Beállítások</string>
 </resources>
