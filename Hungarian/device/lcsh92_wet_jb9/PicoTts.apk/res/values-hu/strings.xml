@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<!--This Hungarian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by vagyula-->
+<resources>
     <string name="error_title">Hiba</string>
     <string name="no_market_app">A Market alkalmazást nem telepítették.</string>
     <string name="alert_dialog_ok">OK</string>

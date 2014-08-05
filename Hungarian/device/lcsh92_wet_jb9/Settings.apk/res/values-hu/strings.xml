@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Hungarian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by vagyula-->
 <resources>
     <string name="about_agps_message">"\u0009 Az A-GPS (Assisted-GPS) egy rendszer, amely javítja a GPS műhold alapú helyzet-meghatározó rendszer indítási teljesítményét és rövidíti az első helyzet-meghatározásáig eltelt időt (TTFF). \u0009 Egy A-GPS-képes eszköz csatlakozhat helyszínkiszolgálóhoz, hogy lekérje a segédadatokat a mobilhálózati kapcsolaton. \u0009 Figyelembe kell venni azonban, hogy a hálózati adatforgalomért extra roamingdíjat számíthatnak fel. További információkért forduljon szolgáltatójához."</string>
     <string name="about_agps_title">Az A-GPS névjegye</string>

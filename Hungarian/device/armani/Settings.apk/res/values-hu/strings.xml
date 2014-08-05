@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Hungarian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by vagyula-->
 <resources>
     <string name="auto_startup_application_manage">Indítópult</string>
     <string name="auto_startup_count">%d alkalmazás indítása engedélyezve</string>
@@ -3212,4 +3213,12 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="oldman_mode_confirm_title">Újraindítja a készüléket?</string>
     <string name="oldman_mode_confirm_will_oldman_mode_text">A készülék újraindul és belép az egyszerűsített üzemmódba.</string>
     <string name="oldman_mode_confirm_will_normal_mode_text">Kilép az egyszerűsített üzemmódból?</string>
+    <string name="local_backup_section_title">Helyi mentések</string>
+    <string name="local_backup_section_summary">Rendszerbeállítások, fiókok és alkalmazások biztonsági mentése</string>
+    <string name="cta_dialog_title">Figyelmeztetés</string>
+    <string name="cta_dialog_msg">A biztonság alkalmazás vírus adatbázis frissítéséhez internetkapcsolat szükséges. Engedélyezi a kapcsolatot?</string>
+    <string name="cta_checkbox_title">Ne emlékeztessen</string>
+    <string name="cta_button_text_cancel">Mégsem</string>
+    <string name="cta_button_text_agree">OK</string>
+    <string name="cta_settings">Internetbeállítások</string>
 </resources>

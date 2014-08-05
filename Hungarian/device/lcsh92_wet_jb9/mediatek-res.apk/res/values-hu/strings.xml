@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<!--This Hungarian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by vagyula-->
+<resources>
     <string name="keyguard_pinword_enter_pinword_code">PIN megadása a kioldáshoz</string>
     <string name="badPin2">A megadott régi PIN2 hibás.</string>
     <string name="badPuk2">A megadott PUK2 hibás.</string>

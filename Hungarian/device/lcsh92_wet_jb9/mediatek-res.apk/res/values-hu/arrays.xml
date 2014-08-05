@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<!--This Hungarian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by vagyula-->
+<resources>
     <string-array name="bootup_mode">
         <item>Kettős SIM</item>
         <item>Csak a SIM 1</item>
