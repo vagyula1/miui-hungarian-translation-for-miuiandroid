@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="AD_COUNT">
+        <item quantity="other">%d reklám</item>
+        <item quantity="one">1 reklám</item>
+    </plurals>
+    <plurals name="AD_TITLE_COUNT">
+        <item quantity="other">%d alkalmazás tartalmaz reklámot</item>
+        <item quantity="one">Egy alkalmazás tartalmaz reklámot</item>
+    </plurals>
+</resources>
