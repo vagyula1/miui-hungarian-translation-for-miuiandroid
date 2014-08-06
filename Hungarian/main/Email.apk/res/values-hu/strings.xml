@@ -729,4 +729,15 @@ A frissített verzió mérete: %2$s"</string>
     <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
     <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
     <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
+    <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
+    <string name="conversation_list_net_check">Unavailable to connect to the network, please check the network configuration or try again later</string>
+    <string name="no_wifi_promot">Wi-Fi kapcsolat nincs használatban, a mobil adatforgalmazás növelheti a költségeket</string>
+    <string name="ser_resp_err_map_serclosed">Szolgáltatás zárolva</string>
+    <string name="ser_resp_err_map_pserr">Hibás felhasználónév vagy jelszó</string>
+    <string name="ser_resp_err_map_nouser">Nincs ilyen felhasználó</string>
+    <string name="ser_resp_err_map_or">vagy</string>
+    <string name="ser_resp_err_map_ssl">"Válassza ki a fiókbeállítás 'Biztonság típusa' pontnál a SSL/TLS-t(Minden tanúsítvány engedélyezése)'"</string>
+    <string name="ser_resp_err_map_certificate_validator_err">"Nem sikerült a kiszolgáló tanúsítványának ellenőrzése
+\u0009 (Ellenőrizze, hogy 'Auto idő szinkr.'-ra van-e állítva)"</string>
+    <string name="ser_resp_err_map_connect_err">Hiba a hálózati kapcsolatban. Próbáljon másik hálózatot</string>
 </resources>

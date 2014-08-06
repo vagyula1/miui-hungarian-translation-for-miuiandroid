@@ -473,4 +473,6 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
     <string name="mibi_license_checkbox_prompt">"Ne emlékeztessen"</string>
     <string name="title_prompt">Értesítések</string>
     <string name="title_need_prompt">Értesítés internet csatlakozás esetén</string>
+    <string name="giftcard_title">MiCredit kupon</string>
+    <string name="giftcard_define_detail">Használja ezeket a kuponokat normál MiCreditként, melyeket a Xiaomi események és promóciók részvétele után kaphat.</string>
 </resources>
