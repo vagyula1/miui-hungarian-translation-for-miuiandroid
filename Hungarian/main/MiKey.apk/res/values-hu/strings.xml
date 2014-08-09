@@ -185,7 +185,8 @@ módosításhoz tartsa az ujját a módosítani kívánt ikonon."</string>
     <string name="toggle_shake">Rezgés</string>
     <string name="toggle_sleep">Dormacy</string>
     <string name="toggle_wifi">Wi-Fi</string>
-    <string name="toolbox_outer_desc">"Az Eszköztár módosításához kattintson*********************a "+" jelre vagy az ikonra"</string>
+    <string name="toolbox_outer_desc">"Az Eszköztár módosításához kattintson
+a "+" jelre vagy az ikonra"</string>
     <string name="update_message">Frissítés elérhető!</string>
     <string name="vcard_prompt">Nem adható hozzá a kapcsolatokhoz, mert a név üres</string>
     <string name="web">Web:</string>
