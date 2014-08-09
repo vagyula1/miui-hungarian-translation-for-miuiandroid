@@ -875,7 +875,7 @@
     <string name="bluetooth_ask_lasting_discovery">A telefonon lévő egyik alkalmazás \"mindig felfedezhető\" állapotúvá szeretné tenni telefonját más Bluetooth eszközök számára. Engedélyezi?</string>
     <string name="bluetooth_ask_enablement_and_discovery">A telefonon lévő egyik alkalmazás be akarja kapcsolni a Bluetooth funkciót, és a telefont láthatóvá akarja tenni más eszközök számára %1$d másodpercig. Engedélyezi?</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">A telefonon lévő egyik alkalmazás be akarja kapcsolni a Bluetooth funkciót, és a telefont láthatóvá akarja tenni más eszközök számára. Engedélyezi?</string>
-    <string name="bluetooth_turning_on">Bluetooth bekapcsolása?</string>
+    <string name="bluetooth_turning_on">Bluetooth bekapcsolása...</string>
     <string name="bluetooth_turning_off">Bluetooth kikapcsolása...</string>
     <string name="bluetooth_auto_connect">Automatikus csatlakozás</string>
     <string name="bluetooth_connection_permission_request">Bluetooth-kapcsolat kérése</string>
@@ -3456,4 +3456,6 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="high_performance_title">"Úgy tűnik, hogy egy benchmark tesztet futtat. A legjobb eredmény eléréséhez állítsa a teljesítményt a \"Maximális\"-ra."</string>
     <string name="high_performance_notif_title">Maximális teljesitmény bekapcsolva.</string>
     <string name="high_performance_notif_summary">Ez a funckió jobban fogyasztja az akkumulátort.</string>
+    <string name="allow">Engedélyez</string>
+    <string name="deny">Letilt</string>
 </resources>
