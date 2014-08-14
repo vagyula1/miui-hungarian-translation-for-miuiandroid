@@ -990,4 +990,23 @@
   <string name="non_ivr_menu_view_menu">Nézet menü</string>
   <string name="non_ivr_menu_collapse_menu">Bezárás menü</string>
   <string name="ivr_menu_list_sub_menu_count_format">Nyomja meg %s</string>
+  <string name="lable_call_barring">Híváskorlátozás</string>
+  <string name="lable_all_outgoing">Minden kiimenő hívás</string>
+  <string name="lable_all_outgoing_international">Nemzetközi kimenő hívások</string>
+  <string name="lable_all_out_except">Nemzetközi kimenő hívások, kivéve az otthoni PLMN</string>
+  <string name="lable_all_incoming">Minden bejövő hívás</string>
+  <string name="lable_incoming_calls_except">Bejövő hívások adatbarangolás során</string>
+  <string name="deactivate_all">Összes törlése</string>
+  <string name="change_password">Korlátozás jelszavának módosítása</string>
+  <string name="call_barring_sum">Hanghívások korlátozásának beállítása</string>
+  <string name="lable_disable">Letiltva</string>
+  <string name="lable_enable">Engedélyezve</string>
+  <string name="old_password_label">Régi jelszó(4 számjegy)</string>
+  <string name="new_password_label">Új jelszó(4 számjegy)</string>
+  <string name="invalid_password">Írja be a jelszót (4 számjegy)</string>
+  <string name="confirm_password_label">Új jelszó megerősítése</string>
+  <string name="mismatch_password">A jelszavak nem egyeznek</string>
+  <string name="password_changed">a jelszó megváltozott</string>
+  <string name="enter_callbarring_password">Írja be a híváskorlátozás jelszavát (4 számjegy)</string>
+  <string name="wrong_password">Hibás jelszó</string>
 </resources>

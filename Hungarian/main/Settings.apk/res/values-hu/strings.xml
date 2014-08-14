@@ -3458,4 +3458,11 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="high_performance_notif_summary">Ez a funckió jobban fogyasztja az akkumulátort.</string>
     <string name="allow">Engedélyez</string>
     <string name="deny">Letilt</string>
+    <string name="cache_data_sort_type_item_name">Név</string>
+    <string name="cache_data_sort_type_item_size">Méret</string>
+    <string name="deepclean_cache_header_left">Gyorsítótárazott fájlok: %d</string>
+    <string name="deepclean_sort_type_title">Rendezés</string>
+    <string name="empty_content_size">Üres</string>
+    <string name="large_file_sort_type_item_name">Név</string>
+    <string name="large_file_sort_type_item_size">Méret</string>
 </resources>
