@@ -385,4 +385,6 @@
     <string name="vp_full_high_definition">1080P</string>
     <string name="priority_storage">Külső SD kártya használata</string>
     <string name="priority_storage_summary">Ha külső SD kártyát használ, ez a funkció lép hatályba</string>
+	<string name="setting_network_alert">Internetcsatlakozás értesítés</string>
+	<string name="setting_network_alert_summery">Felugró ablakos értesítés mielőtt a MiVideó az internetre csatlakozna</string>
 </resources>

@@ -78,7 +78,7 @@
     <string name="dialog_type_video">Videó</string>
     <string name="directory_no_item">Üres mappa</string>
     <string name="dlg_error_unmount_text">"Nem sikerült az USB tárhely leválasztása. Próbálja újra."</string>
-    <string name="download_current_progress">100/%1$d</string>
+    <string name="download_current_progress">%1$d%%</string>
     <string name="download_failed">Letöltés sikertelen!</string>
     <string name="download_link_completed">%1$s megosztva a MiDrive-on. Kattintson alább a nézethez:</string>
     <string name="downloading">Letöltés</string>
@@ -326,8 +326,13 @@
     <string name="file_not_exist">A fájl nem található</string>
     <string name="open_file_failed">A megnyitás sikertelen</string>
     <string name="connect_network_setting_des">Értesítés hálózati kapcsolódás esetén</string>
-   <string name="network_connect_confirm_des">A Kuaipan használatához hálózati kapcsolat szükséges, engedélyezi?</string>
-   <string name="never_notify_network_connect">"Ne emlékeztessen újra"</string>
-   <string name="operation_agree">Igen</string>
-   <string name="system_alert">Figyelmeztetés</string>
+    <string name="network_connect_confirm_des">A Kuaipan használatához hálózati kapcsolat szükséges, engedélyezi?</string>
+    <string name="never_notify_network_connect">"Ne emlékeztessen újra"</string>
+    <string name="operation_agree">Igen</string>
+    <string name="system_alert">Figyelmeztetés</string>
+    <string name="file_already_downlaoded">Fájl mentve ide \"%1$s\"</string>
+	<string name="image_download">Letöltés</string>
+    <string name="image_share">Megosztás</string>
+	<string name="operate_confirm_in_3g">Letölti ezt a nagyméretű fájlt mobil adatkapcsolat használatával?</string>
+	<string name="operation_save">Mentés</string>
 </resources>

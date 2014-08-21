@@ -333,7 +333,7 @@
     <string name="impunity_declaration_settings">Értesítés csatlakozás esetén</string>
     <string name="impunity_declaration_summary">Felugró ablakban figyelmeztessen a zene alkalmazás indításakor</string>
     <string name="take_effect_afater_restart">Az alkalmazást újra kell indítani az új beállítások alkalmazásához</string>
-    <string name="priority_storage">Letöltés a külső SD kártyára</string>
+    <string name="priority_storage">Külső SD kártya használata</string>
     <string name="priority_storage_summary">Külső SD kártya használatakor elsődleges letöltési hely</string>
     <string name="i_know">OK</string>
 </resources>
