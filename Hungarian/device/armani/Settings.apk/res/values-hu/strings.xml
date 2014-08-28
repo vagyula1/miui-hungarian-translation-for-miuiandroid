@@ -3221,4 +3221,8 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="cta_button_text_cancel">Mégsem</string>
     <string name="cta_button_text_agree">OK</string>
     <string name="cta_settings">Internetbeállítások</string>
+    <string name="priority_storage_app_settings">A felhasználói adatok a %1$s -re mentve</string>	
+    <string name="priority_storage_settings_summary">"Ha nem található SD kártya, a felhasználói adatok automatikusan a belső tárhelyre lesznek mentve"</string>	
+    <string name="priority_storage_summary">A felhasználói adatok alapértelmezett mentési helyének kiválasztása</string>	
+    <string name="priority_storage_title">Tárhely beállítások</string>	
 </resources>

@@ -135,7 +135,7 @@
     <string name="group_by_tags">Címke szerint</string>
     <string name="group_by_time">Készítés dátuma szerint</string>
     <string name="group_by">Csoport szerint</string>
-    <string name="hand_night_exit_button_text">Kilépés az éjszakai módból</string>
+    <string name="hand_night_exit_button_text">Kilépés a kézi szürkületi módból</string>
     <string name="hdr_exit_button_text">Kilépés a HDR módból</string>
     <string name="height">Magasság</string>
     <string name="import_complete">Importálás befejezve</string>
@@ -229,7 +229,7 @@
     <string name="pref_camera_focusmode_entry_manual">Kézi</string>
     <string name="pref_camera_focusmode_entry_normal">Normál</string>
     <string name="pref_camera_focusmode_title">Fókuszálás módja</string>
-    <string name="pref_camera_hand_night_title">Éjszakai mód</string>
+    <string name="pref_camera_hand_night_title">Kézi szürkületi</string>
     <string name="pref_camera_hdr_type_entry_live">Élő</string>
     <string name="pref_camera_hdr_type_entry_normal">Normál</string>
     <string name="pref_camera_hdr_type_title">HDR típusa</string>
@@ -387,9 +387,9 @@
     <string name="pref_video_quality_entry_wvga">WVGA</string>
     <string name="pref_video_quality_title">Videó minőség</string>
     <string name="pref_video_slow_speed_title_simple_mode">Lassított felvétel</string>
-    <string name="pref_video_speed_entry_fast">lassított</string>
-    <string name="pref_video_speed_entry_normal">normál</string>
-    <string name="pref_video_speed_entry_slow">gyorsított</string>
+    <string name="pref_video_speed_entry_fast">Lassított</string>
+    <string name="pref_video_speed_entry_normal">Normál</string>
+    <string name="pref_video_speed_entry_slow">Gyorsított</string>
     <string name="pref_video_speed_title">Videofelvétel sebessége</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">0.3 másodper (10x)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">4 másodperc (120x)</string>
@@ -444,7 +444,7 @@
     <string name="simple_mode_button_text_countdown">Visszaszámlálás bezárása</string>
     <string name="simple_mode_button_text_face_beauty">Arc beállítás bezárása</string>
     <string name="simple_mode_button_text_fast_video">Gyorsított felvétel bezárása</string>
-    <string name="simple_mode_button_text_hand_night">Kilépés az éjszakai módból</string>
+    <string name="simple_mode_button_text_hand_night">Kilépés az kézi szürkületi módból</string>
     <string name="simple_mode_button_text_hdr">HDR mód bezárása</string>
     <string name="simple_mode_button_text_opti_zoom">OptiZoom mód bezárása</string>
     <string name="simple_mode_button_text_panorama">Panoráma mód bezárása</string>
@@ -498,5 +498,9 @@
     <string name="wifi_open_fail">Wi-Fi hálózat megnyitása nem sikerült</string>
     <string name="wifi_pwd">Jelszó:</string>
     <string name="wifi_security">Biztonság:</string>
-    <string name="wifi_warning">A Wi-Fi hálózathoz való csatlakozás előtt ellenőrizze a biztonságot</string> 
+    <string name="wifi_warning">A Wi-Fi hálózathoz való csatlakozás előtt ellenőrizze a biztonságot</string>
+    <string name="burst_shoot_exit_button_text">Kilépés a sorozatfelvételből</string>
+    <string name="pref_burst_shoot_title">Sorozatfelvétel</string>
+    <string name="pref_long_press_shutter_button_focus_title">Nyomja meg hosszan az exponálógombot a fókuszáláshoz</string>
+	<string name="pref_priority_storage_title">Külső SD kártya használata</string>
 </resources>
