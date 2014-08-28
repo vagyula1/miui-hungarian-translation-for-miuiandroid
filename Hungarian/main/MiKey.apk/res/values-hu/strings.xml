@@ -10,7 +10,7 @@
     <string name="action_kuaidi">Gyors taxi</string>
     <string name="action_lock_screen">Képernyőzár</string>
     <string name="action_open_camera">Kamera</string>
-    <string name="action_open_camera2">Fényképezés</string>
+    <string name="action_open_camera2">Fénykép készítése</string>
     <string name="action_open_camera360_capture">Camera360 effekt</string>
     <string name="action_open_camera360_edit">Camera360 szerkesztés</string>
     <string name="action_open_flashlight">Lámpa</string>
@@ -73,8 +73,11 @@
     <string name="delete_confirm">Törlés?</string>
     <string name="delete_gesture">Törlés gomb beállítás?</string>
     <string name="device_not_recognized">A csatlakoztatott eszköz nem ismerhető fel, próbálja újra.</string>
+    <string name="dialog_title_disable_mikey_sprite">Letiltja a MiKey varázslót?</string>
+    <string name="disable_mikey_sprite">MiKey varázsló letiltása</string>
     <string name="earphone">Fülhallgató</string>
     <string name="email">Email:</string>
+    <string name="enable_mikey_sprite">MiKey varázsló engedélyezése</string>
     <string name="fail_generate_barcode">QR kód vagy vonalkód generálása nem sikerült</string>
     <string name="faq_comp_text">A MIUI V5 rendszerével és a MiKey alkalmazással együtt használható.</string>
     <string name="faq_comp_title">Milyen telefonokhoz használható?</string>
@@ -102,6 +105,9 @@
     <string name="front_camera">Előlapi</string>
     <string name="goto_update">Frissítés</string>
     <string name="hint_long_press_del">Nyomja hosszan az eltávolításhoz</string>
+ <string name="hint_mikey_sprite">"点击米键就是点击屏幕
+发语音、拍照片、打游戏…
+使用米键精灵无法使用米键其它功能"</string
     <string name="input_phone">Telefonszám megadása</string>
     <string name="long_click">Nyomvatartás</string>
     <string name="message_photo_end">Fénykép mentése</string>
@@ -113,6 +119,9 @@
     <string name="notification_control_stop">Megállítás</string>
     <string name="notification_recorder_file_location">Fájl helye:</string>
     <string name="notification_recorder_start">Felvétel indítása...</string>
+    <string name="notify_content_sprite">点击右侧叉号可以关闭</string>
+    <string name="notify_ticker_sprite">A MiKey varázsló fut</string>
+    <string name="notify_title_sprite">MiKey varázsló</string>
     <string name="open_flash_error">Nem sikerült bekapcsolni a vakut</string>
     <string name="phone">Telefonszám:</string>
     <string name="picker_lable">Galéria</string>
@@ -169,6 +178,10 @@ módosításhoz tartsa az ujját a módosítani kívánt ikonon."</string>
     <string name="sms_template">Szöveges üzenet</string>
     <string name="sms_to">Üzenetküldés</string>
     <string name="splash_tip">Csatlakoztassa a MiKey-t</string>
+    <string name="splash_mikey_sprite">"可以拖动小白点儿到屏幕的任何地方
+点击米键就是点击小白点儿下的屏幕"</string>
+    <string name="tab_mikey">MiKey</string>
+    <string name="tab_mikey_sprite">MiKey varázsló</string>
     <string name="task_title_prefix">"%1$s funkció: %2$s"</string>
     <string name="test_user_entry">Ismertető</string>
     <string name="times">" X"</string>
