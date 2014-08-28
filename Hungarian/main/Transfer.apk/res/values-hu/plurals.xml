@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Hungarian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by vagyula-->
+<resources>
+	<plurals name="abbrev_less_than_one_minute_ago">
+		<item quantity="other">Éppen most</item>
+	</plurals>
+	<plurals name="less_than_one_minute_ago">
+		<item quantity="other">Éppen most</item>
+	</plurals>
+	<plurals name="abbrev_in_less_than_one_minute">
+		<item quantity="other">Azonnal</item>
+	</plurals>
+	<plurals name="in_less_than_one_minute">
+		<item quantity="other">Azonnal</item>
+	</plurals>
+	<plurals name="abbrev_a_hour_ago">
+		<item quantity="other">Egy órával ezelőtt</item>
+	</plurals>
+	<plurals name="abbrev_half_hour_ago">
+		<item quantity="other">Félórával ezelőtt</item>
+	</plurals>
+	<plurals name="a_hour_ago">
+		<item quantity="other">Egy órával ezelőtt</item>
+	</plurals>
+	<plurals name="half_hour_ago">
+		<item quantity="other">Félórával ezelőtt</item>
+	</plurals>
+	<plurals name="abbrev_in_a_hour">
+		<item quantity="other">Egy óra múlva</item>
+	</plurals>
+	<plurals name="abbrev_in_half_hour">
+		<item quantity="other">Félóra múlva</item>
+	</plurals>
+	<plurals name="in_a_hour">
+		<item quantity="other">Egy óra múlva</item>
+	</plurals>
+	<plurals name="in_half_hour">
+		<item quantity="other">Félóra múlva</item>
+	</plurals>
+	<plurals name="abbrev_num_minutes_ago">
+		<item quantity="other">%d perce</item>
+		<item quantity="one">1 perce</item>
+	</plurals>
+	<plurals name="num_minutes_ago">
+		<item quantity="other">%d perce</item>
+		<item quantity="one">1 perce</item>
+	</plurals>
+	<plurals name="abbrev_in_num_minutes">
+		<item quantity="other">%d perc múlva</item>
+		<item quantity="one">1 perc múlva</item>
+	</plurals>
+	<plurals name="in_num_minutes">
+		<item quantity="other">%d perc múlva</item>
+		<item quantity="one">1 perc múlva</item>
+	</plurals>
+	<plurals name="v5_edit_mode_title">
+		<item quantity="other">%1$d elem kiválasztva</item>
+		<item quantity="one">%1$d elem kiválsztva</item>
+	</plurals>
+</resources>
