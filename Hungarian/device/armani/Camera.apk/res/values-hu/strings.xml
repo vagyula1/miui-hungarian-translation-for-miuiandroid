@@ -499,8 +499,5 @@
     <string name="wifi_pwd">Jelszó:</string>
     <string name="wifi_security">Biztonság:</string>
     <string name="wifi_warning">A Wi-Fi hálózathoz való csatlakozás előtt ellenőrizze a biztonságot</string>
-    <string name="burst_shoot_exit_button_text">Kilépés a sorozatfelvételből</string>
-    <string name="pref_burst_shoot_title">Sorozatfelvétel</string>
-    <string name="pref_long_press_shutter_button_focus_title">Nyomja meg hosszan az exponálógombot a fókuszáláshoz</string>
-	<string name="pref_priority_storage_title">Külső SD kártya használata</string>
+    <string name="pref_priority_storage_title">Külső SD kártya használata</string>
 </resources>
