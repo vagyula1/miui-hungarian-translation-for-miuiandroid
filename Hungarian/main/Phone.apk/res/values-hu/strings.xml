@@ -1009,4 +1009,5 @@
   <string name="password_changed">a jelszó megváltozott</string>
   <string name="enter_callbarring_password">Írja be a híváskorlátozás jelszavát (4 számjegy)</string>
   <string name="wrong_password">Hibás jelszó</string>
+  <string name="international_roaming_setting">Nemzetközi barangolás</string>
 </resources>

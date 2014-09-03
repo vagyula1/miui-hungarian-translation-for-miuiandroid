@@ -216,7 +216,7 @@
     <string name="task_backup_cancel_progress">Mentés megszakítása...</string>
     <string name="task_backup_finished_local">Mentés befejezve</string>
     <string name="task_canceled_all_local">Mentés megszakítva</string>
-    <string name="task_canceled_local">A következő %1$s feladat törölve</string>
+    <string name="task_canceled_local">Megszakítva, %1$s befejezve</string>
     <string name="task_canceled">Megszakított művelet</string>
     <string name="task_cloud_backup_cancel_dialog">Mentés folyamatban...OK megnyomása a megszakításhoz</string>
     <string name="task_failed_all_local">Feladat végrehajtási hiba</string>

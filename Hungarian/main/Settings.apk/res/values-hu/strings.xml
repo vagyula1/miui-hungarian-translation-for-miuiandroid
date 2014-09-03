@@ -1052,7 +1052,7 @@
     <string name="crypt_keeper_enter_password">Írja be a jelszavát</string>
     <string name="crypt_keeper_failed_title">A titkosítás sikertelen</string>
     <string name="crypt_keeper_failed_summary">A titkosítás megszakadt, és nem lehet befejezni. Ezért a telefonon található adatokhoz nem lehet hozzáférni. Ahhoz, hogy újra használni tudja telefonját, vissza kell állítani a gyári beállításokat. Amikor a visszaállítás után beállítja telefonját, lehetősége lesz minden adat visszaállítására, amelyet a rendszer eltárolt a Google Fiókjában.</string>
-    <string name="crypt_keeper_switch_input_method">Válassza ki a bevitel módját</string>
+    <string name="crypt_keeper_switch_input_method">Billentyűzet</string>
     <string name="lock_settings_picker_title">Képernyőzár-választás</string>
     <string name="backup_lock_settings_picker_title">Biztonsági zárolás</string>
     <string name="unlock_set_unlock_launch_picker_title">Képernyő zárolása</string>
@@ -2562,7 +2562,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="wifi_disabled_help">Hálózat elkerülve rossz kapcsolat miatt. Ezt a viselkedést kikapcsolhatja a Beállítások > Wi-Fi képernyő Haladó menüpontjában.</string>
     <string name="wifi_wps_overlap_error">Másik védett Wi-Fi programfolyamat látható. Próbálja újra pár perc múlva.</string>
     <string name="wifi_p2p_wps_setup">Wi-Fi védett beállítás</string>
-    <string name="default_input_method">Válasszon alapértelmezett beviteli módot</string>
+    <string name="default_input_method">Válasszon alapértelmezett billentyűzetet</string>
     <string name="volume_category_title">Hangerő</string>
     <string name="vibrate_category_title">Rezgés</string>
     <string name="vibrate_in_normal_title">Rezgés normál módban</string>
@@ -2627,7 +2627,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="volume_system_description">Rendszer hangerő, kamera zárhang, záróképernyő és egyéb értesítések hangja</string>
     <string name="volume_bluetooth_description">Bluetooth hangerő</string>
     <string name="volume_restore">Alapértelmezett hangerő</string>
-    <string name="volume_restore_alert">Visszaállítja az alapértelmezett hangerő beállításokat?</string>
+    <string name="volume_restore_alert">Minden hangerő az alapértelmezettre lesz beállítva</string>
     <string name="sound_category_calls_and_notification_title">Csengőhang és értesítések</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_summary">Betűméret változtatása a jobb olvashatóság érdekében (pl.Telefon, Üzenetek, Névjegyzék stb).</string>
@@ -3465,4 +3465,5 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="empty_content_size">Üres</string>
     <string name="large_file_sort_type_item_name">Név</string>
     <string name="large_file_sort_type_item_size">Méret</string>
+	<string name="provision_inputmethod_policy_description">Adatvédelmi nyilatkozat a kiválasztott billentyűzethez</string>
 </resources>

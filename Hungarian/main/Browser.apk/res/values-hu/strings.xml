@@ -615,4 +615,8 @@ EL szeretné hagyni az oldalt?"</string>
     <string name="close_cloud_tab_tip">Bezárja a cloud lapokat a %s ?</string>
     <string name="bookmarks_history">Könyvjelzők/Előzmények</string>
     <string name="delete_homepage">Kezdőoldal törlése</string>
+    <string name="pref_check_security_url_summary">"Honlapok küldése' a Xiaomi szerverére ellenőrzéshez"</string>
+    <string name="pref_check_security_url_title">Honlap biztonságosságának ellenőrzése</string>
+    <string name="show_check_security_url_check_tip_dialog_description">"A honlap címe a Xiaomi szerverére lesz küldve ellenőrzés céljából. Bármikor kikapcsolható a beállításokban."</string>
++ <string name="show_check_security_url_check_tip_dialog_title">Honlap biztonság</string>
 </resources>

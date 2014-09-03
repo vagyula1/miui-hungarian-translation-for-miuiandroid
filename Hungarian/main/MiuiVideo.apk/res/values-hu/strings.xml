@@ -193,8 +193,8 @@
     <string name="play_setting">Lejátszás</string>
     <string name="other_setting">Egyéb</string>
     <string name="use_cellular_network">Mobil adatkapcsolat használata</string>
-    <string name="auto_play">Automatikus lejátszás</string>
-    <string name="continue_to_play_nextset">Következő rész auto.lejátszása</string>
+    <string name="auto_play">Automatikus teljesképernyős lejátszás</string>
+    <string name="continue_to_play_nextset">Az oldal betöltése után a videó teljesképernyős lejátszása</string>
     <string name="use_cellular_network_summary">A videófájlok letöltéséhez mobil adatkapcsolat használata növelheti a költségeket.</string>
     <string name="auto_play_summary">A pufferelés vagy letöltés befejeztével a videófájl automatikus indítása</string>
     <string name="continue_to_play_nextset_summary">Ha egy epizód véget ér, a következő rész automatikusan elindul</string>
