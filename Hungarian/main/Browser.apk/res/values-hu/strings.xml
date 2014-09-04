@@ -618,5 +618,5 @@ EL szeretné hagyni az oldalt?"</string>
     <string name="pref_check_security_url_summary">"Honlapok küldése' a Xiaomi szerverére ellenőrzéshez"</string>
     <string name="pref_check_security_url_title">Honlap biztonságosságának ellenőrzése</string>
     <string name="show_check_security_url_check_tip_dialog_description">"A honlap címe a Xiaomi szerverére lesz küldve ellenőrzés céljából. Bármikor kikapcsolható a beállításokban."</string>
-+ <string name="show_check_security_url_check_tip_dialog_title">Honlap biztonság</string>
+    <string name="show_check_security_url_check_tip_dialog_title">Honlap biztonság</string>
 </resources>
