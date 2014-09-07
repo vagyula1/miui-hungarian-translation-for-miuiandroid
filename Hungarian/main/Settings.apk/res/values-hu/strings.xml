@@ -2066,7 +2066,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="privacy_settings_title">Mentés és visszaállítás</string>
     <string name="backup_section_title">Biztonsági mentés és visszaállítás</string>
     <string name="personal_data_section_title">Személyes adatok</string>
-    <string name="backup_data_title">Adatok biztonsági mentése</string>
+    <string name="backup_data_title">Adatok mentése Google szerverre</string>
     <string name="backup_data_summary">Alkalmazásadatok, Wi-Fi jelszavak és más beállítások archiválása a Google szerverein</string>
     <string name="backup_configure_account_title">Fiók biztonsági mentése</string>
     <string name="backup_configure_account_default_summary">Jelenleg egyik fiók sem tárol biztonsági mentéseket</string>
@@ -2523,7 +2523,7 @@ Az alkalmazásokban található adatok nem fognak elveszni.</string>
     <string name="notification_breathing_light_freq_title">Értesítések LED villogásának gyakorisága</string>
     <string name="notification_breathing_light_color_title">Értesítések</string>
     <string name="mms_breathing_light_freq_title">Üzenetek LED villogásának gyakorisága</string>
-    <string name="mms_breathing_light_color_title">Üzenetek színe</string>
+    <string name="mms_breathing_light_color_title">Üzenetek</string>
     <string name="breathing_light_color_title"></string>
     <string name="breathing_light_color_menu_title">Értesítés színe</string>
     <string name="breathing_light_color_summary">LED színe amikor új értesítés érkezik</string>
@@ -3196,8 +3196,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="app_feedback">Hibajelentés</string>
     <string name="app_backup">Mentés</string>
     <string name="google_backup_section_title">Google mentés és visszaállítás</string>
-    <string name="system_backup_section_title">Mentés</string>
-    <string name="local_backup_section_title">Helyi mentések</string>
+    <string name="local_backup_section_title">Mentés az eszközre</string>
     <string name="local_backup_section_summary">Rendszerbeállítások, fiókok és alkalmazások biztonsági mentése</string>
     <string name="modem_tool_log">Modem naplózások rögzítése</string>
     <string name="modem_tool_log_start">Felvétel indítása</string>
@@ -3465,5 +3464,51 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="empty_content_size">Üres</string>
     <string name="large_file_sort_type_item_name">Név</string>
     <string name="large_file_sort_type_item_size">Méret</string>
-	<string name="provision_inputmethod_policy_description">Adatvédelmi nyilatkozat a kiválasztott billentyűzethez</string>
+    <string name="provision_inputmethod_policy_description">Adatvédelmi nyilatkozat a kiválasztott billentyűzethez</string>
+    <string name="system_backup_section_title">Helyi mentés és visszaállítás</string>
+    <string name="wifi_tether_setting_title">Alapbeállítások</string>
+    <string name="wifi_scan_always_confirm_allow">Engedélyezés</string>
+    <string name="wifi_scan_always_confirm_deny">Elutasítás</string>
+    <string name="wifi_scan_always_turnon_message">"A helymeghatározás pontosságának javítása és egyéb célok érdekében a(z) %1$s szeretné engedélyezni a hálózatkeresést még kikapcsolt Wi-Fi mellett is.
+
+Engedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni?"</string>
+    <string name="user_restrictions_title">Alkalmazások és tartalom korlátozások</string>
+	<string name="user_remove_user_menu">Felhasználó törlése</string>	
+    <string name="user_rename">ÁTNEVEZÉS</string>
+	<string name="user_new_profile_name">Új profil</string>
+    <string name="user_confirm_remove_self_title">Törli magát?</string>
+    <string name="system_storage">Rendszer tárhely</string>
+    <string name="status_latest_area_info">Hálózat info</string>
+    <string name="sim_lock">Lezárva</string>	
+	<string name="sim_enter_pin_hints">(4-8 számjegy)</string>
+    <string name="set_mobile_data_failed">A beállítás nem sikerült</string>
+    <string name="selinux_status_disabled">Letiltva</string>
+    <string name="roaming_warning_multiuser">"Az adatbarangolás engedélyezése jelentős díjnövekedéssel járhat.
+
+Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
+    <string name="running_process_item_removed_user_label">Eltávolított felhasználó</string>
+    <string name="running_process_item_user_label">Felhasználó: %1$s</string>
+    <string name="regulatory_information">Szabályozási információk</string>
+    <string name="msg_wlan_signal_found">Csatlakozik %s hálózathoz?</string>
+    <string name="memory_available_read_only">Elérhető (csak olvasható)</string>
+    <string name="mobile_data_switching_message">Átkapcsolás mobiladatkapcsolatra. Várjon…</string>
+    <string name="gadget_wifi">Wi-Fi</string>
+    <string name="gadget_state_turning_off">Kikapcsolás</string>
+    <string name="gadget_state_turning_on">Bekapcsolás</string>
+    <string name="gadget_sync">Szinkr.</string>
+    <string name="gadget_brightness_template">Fényerősség %1$s</string>
+    <string name="filter_apps_disabled">Letiltva</string>
+    <string name="dolby_roomsize_summary">A hanghatások beállítása csak fülhallgatóval érhető el</string>
+    <string name="dolby_roomsize_title">Hanghatás:</string>
+    <string name="dirac_mode_general_earbuds">Általános</string>
+    <string name="dirac_mode_general">Általános</string>
+    <string name="device_name_input_error">Nem sikerült elmenteni az eszköz nevét</string>
+    <string name="device_name_input_hint">Írja be a nevet</string>
+    <string name="data_usage_uninstalled_apps_users">Eltávolított alkalmazások és felhasználók</string>
+    <string name="data_usage_restrict_background_multiuser">"Ha korlátozza a háttérben futó mobil adatátvitelt, bizonyos alkalmazások és szolgáltatások nem fognak működni, amíg nem kapcsolódik Wi-Fi hálózathoz.
+
+Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
+    <string name="audio_profile_settings_title">Hangprofilok</string>
+    <string name="access_control_reset_by_account">A jelszó helyreállításához jelentkezzen be a Mi fiókba</string>
+    <string name="wifi_enable_watchdog_service_summary">Rossz minőségű kapcsolatok elkerülése</string>
 </resources>

@@ -49,4 +49,8 @@
         <item quantity="other">%1$s nyomtató észlelve</item>
         <item quantity="one">%1$s nyomtató észlelve</item>
     </plurals>
+     <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d alkalmazás olvashatja az értesítéseket</item>
+        <item quantity="one">%d alkalmazás olvashatja az értesítéseket</item>
+     </plurals>
 </resources>

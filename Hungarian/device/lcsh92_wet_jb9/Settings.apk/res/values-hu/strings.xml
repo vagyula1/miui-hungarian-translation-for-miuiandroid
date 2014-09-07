@@ -1118,11 +1118,11 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="gemini_data_connection">Adatkapcsolat</string>
     <string name="gemini_data_connection_progress_message">Kérjük, várjon...</string>
     <string name="gemini_data_roaming_summary">Csatlakozás adatszolgáltatáshoz barangolás közben</string>
-    <string name="gemini_data_roaming_title">Adat-barangolás</string>
+    <string name="gemini_data_roaming_title">Adatbarangolás</string>
     <string name="gemini_default_sim_3g_off">Ki</string>
     <string name="gemini_default_sim_always_ask">Rákérdezés mindig</string>
     <string name="gemini_default_sim_never">Ki</string>
-    <string name="gemini_default_sim_title">Alapértelmezett SIM</string>
+    <string name="gemini_default_sim_title">Alapértelmezett SIM kártya</string>
     <string name="gemini_general_settings_title">Általános beállítások</string>
     <string name="gemini_gsm_umts_network_preferences_dialogtitle">Hálózat mód</string>
     <string name="gemini_gsm_umts_network_preferences_title">Hálózati mód</string>
@@ -2388,10 +2388,10 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="sim_lock_failed">Nem lehet megváltoztatni a SIM-kártya zárolási állapotát. Lehet, hogy hibás a PIN kód.</string>
     <string name="sim_lock_off">PIN-kód kérése a telefon használatához</string>
     <string name="sim_lock_on">PIN-kód kérése a telefon használatához</string>
-    <string name="sim_lock_settings">SIM-kártya lezárási beállításai</string>
+    <string name="sim_lock_settings">SIM-kártya zárolás beállításai</string>
     <string name="sim_lock_settings_category">SIM-kártya zárolásának beállítása</string>
     <string name="sim_lock_settings_title">SIM-kártya zárolása</string>
-    <string name="sim_management_title">SIM kezelés</string>
+    <string name="sim_management_title">SIM kártya kezelés</string>
     <string name="sim_pin_change">SIM-kártya PIN-kódjának módosítása</string>
     <string name="sim_pin_toggle">SIM-kártya lezárása</string>
     <string name="sim_pins_dont_match">A PIN kódok nem egyeznek</string>
@@ -3322,4 +3322,53 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="priority_storage_settings_summary">"Ha nem található SD kártya, a felhasználói adatok automatikusan a belső tárhelyre lesznek mentve"</string>	
     <string name="priority_storage_summary">A felhasználói adatok alapértelmezett mentési helyének kiválasztása</string>	
     <string name="priority_storage_title">Tárhely beállítások</string>	
+    <string name="sim_radio_off">Nincs aktiválva</string>
+	<string name="wifi_tether_setting_title">Alapbeállítások</string>
+    <string name="wifi_scan_always_confirm_allow">Engedélyezés</string>
+    <string name="wifi_scan_always_confirm_deny">Elutasítás</string>
+    <string name="wifi_scan_always_turnon_message">"A helymeghatározás pontosságának javítása és egyéb célok érdekében a(z) %1$s szeretné engedélyezni a hálózatkeresést még kikapcsolt Wi-Fi mellett is.
+
+Engedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni?"</string>
+    <string name="user_restrictions_title">Alkalmazások és tartalom korlátozások</string>
+	<string name="user_remove_user_menu">Felhasználó törlése</string>	
+    <string name="user_rename">ÁTNEVEZÉS</string>
+	<string name="user_new_profile_name">Új profil</string>
+	<string name="user_confirm_remove_self_title">Törli magát?</string>
+    <string name="system_storage">Rendszer tárhely</string>
+    <string name="status_latest_area_info">Hálózat info</string>
+    <string name="sim_lock">Lezárva</string>
+    <string name="sim_enter_pin_hints">(4-8 számjegy)</string>
+    <string name="set_mobile_data_failed">A beállítás nem sikerült</string>
+    <string name="selinux_status_disabled">Letiltva</string>
+    <string name="roaming_warning_multiuser">"Az adatbarangolás engedélyezése jelentős díjnövekedéssel járhat.
+
+Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
+    <string name="running_process_item_removed_user_label">Eltávolított felhasználó</string>
+    <string name="running_process_item_user_label">Felhasználó: %1$s</string>
+    <string name="regulatory_information">Szabályozási információk</string>
+    <string name="msg_wlan_signal_found">Csatlakozik %s hálózathoz?</string>
+    <string name="memory_available_read_only">Elérhető (csak olvasható)</string>
+    <string name="mobile_data_switching_message">Átkapcsolás mobiladatkapcsolatra. Várjon…</string>
+    <string name="gemini_sim_mode_progress_activating_message">Aktiválás…</string>
+    <string name="gemini_sim_mode_progress_deactivating_message">Deaktiválás…</string>
+    <string name="gadget_wifi">Wi-Fi</string>
+    <string name="gadget_state_turning_off">Kikapcsolás</string>
+    <string name="gadget_state_turning_on">Bekapcsolás</string>
+    <string name="gadget_sync">Szinkr.</string>
+    <string name="gadget_brightness_template">Fényerősség %1$s</string>
+    <string name="filter_apps_disabled">Letiltva</string>
+    <string name="dolby_roomsize_summary">A hanghatások beállítása csak fülhallgatóval érhető el</string>
+    <string name="dolby_roomsize_title">Hanghatás:</string>
+    <string name="dirac_mode_general_earbuds">Általános</string>
+    <string name="dirac_mode_general">Általános</string>
+    <string name="device_name_input_error">Nem sikerült elmenteni az eszköz nevét</string>
+    <string name="device_name_input_hint">Írja be a nevet</string>
+    <string name="data_usage_uninstalled_apps_users">Eltávolított alkalmazások és felhasználók</string>
+    <string name="data_usage_restrict_background_multiuser">"Ha korlátozza a háttérben futó mobil adatátvitelt, bizonyos alkalmazások és szolgáltatások nem fognak működni, amíg nem kapcsolódik Wi-Fi hálózathoz.
+
+Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
+    <string name="audio_profile_settings_title">Hangprofilok</string>
+    <string name="access_control_reset_by_account">A jelszó helyreállításához jelentkezzen be a Mi fiókba</string>
+    <string name="wifi_enable_watchdog_service_summary">Rossz minőségű kapcsolatok elkerülése</string>
+     <string name="enable_sim">Engedélyezés</string>
 </resources>

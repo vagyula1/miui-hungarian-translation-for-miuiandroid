@@ -179,6 +179,7 @@
     <string name="gsm_umts_options">GSM/UMTS beállítások</string>
     <string name="cdma_options">CDMA-beállítások</string>
     <string name="mobile_network_setting">Mobilhálózati beállítások</string>
+    <string name="network_settings">Hálózati beállítások</string>
     <string name="network_manage_settings">Hálózati beállítások</string>
     <string name="title_data_settings">Adat beállítások</string>
     <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
@@ -482,6 +483,7 @@
     <string name="sip_call_options_wifi_only_entry_1">Minden hívásnál</string>
     <string name="pick_outgoing_call_phone_type">Hívás indítása</string>
     <string name="pick_outgoing_sip_phone">A következő Internetes hívási fiók használata:</string>
+    <string name="sim_picker_settings">SIM kártyák beállításai</string>
     <string name="remember_my_choice">Mindig használja internetes hívás kezdeményezésekor</string>
     <string name="reset_my_choice_hint">A Hívásbeállításokban módosíthatja, hogy melyik internetes hívási fiókot használja alapértelmezettként hívások kezdeményezésekor; ehhez válasszon ki egy másik fiókot az internetes hívások beállításaiban.</string>
     <string name="pstn_phone">Mobiltelefonos hívás</string>
