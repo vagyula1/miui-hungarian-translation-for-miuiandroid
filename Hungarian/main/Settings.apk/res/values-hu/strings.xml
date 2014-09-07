@@ -3473,7 +3473,6 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
 
 Engedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni?"</string>
     <string name="user_restrictions_title">Alkalmazások és tartalom korlátozások</string>
-	<string name="user_remove_user_menu">Felhasználó törlése</string>	
     <string name="user_rename">ÁTNEVEZÉS</string>
 	<string name="user_new_profile_name">Új profil</string>
     <string name="user_confirm_remove_self_title">Törli magát?</string>
