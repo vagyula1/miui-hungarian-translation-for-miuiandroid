@@ -274,7 +274,7 @@ hátra van :"</string>
     <string name="turn_on_radio">Vezeték nélküli eszköz bekapcsolása</string>
     <string name="turn_off_radio">Vezeték nélküli eszköz kikapcsolása</string>
     <string name="screen_lock">Képernyő lezárása</string>
-    <string name="power_off">Igen</string>
+    <string name="power_off">Kikapcsolás</string>
     <string name="silent_mode_silent">Csengő kikapcsolva</string>
     <string name="silent_mode_vibrate">Csengő rezeg</string>
     <string name="silent_mode_ring">Csengő bekapcsolva</string>

@@ -984,4 +984,5 @@
     <string name="open_miui">Megnyitás</string>
     <string name="sim_missing_continueView_text">Folytatás SIM-kártya nélkül</string>
     <string name="sim_missing_msg_text">Nincs SIm-kártya. Kérem helyezzen SIM-kártyát a telefonba.</string>
+    <string name="network_settings">Hálózat beállítások</string>
 </resources>
