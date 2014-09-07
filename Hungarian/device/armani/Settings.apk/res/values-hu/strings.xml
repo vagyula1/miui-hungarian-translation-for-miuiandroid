@@ -3233,7 +3233,6 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
 
 Engedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni?"</string>
     <string name="user_restrictions_title">Alkalmazások és tartalom korlátozások</string>
-	<string name="user_remove_user_menu">Felhasználó törlése</string>	
     <string name="user_rename">ÁTNEVEZÉS</string>
 	<string name="user_new_profile_name">Új profil</string>
 	<string name="user_confirm_remove_self_title">Törli magát?</string>
@@ -3252,8 +3251,6 @@ Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
     <string name="msg_wlan_signal_found">Csatlakozik %s hálózathoz?</string>
     <string name="memory_available_read_only">Elérhető (csak olvasható)</string>
     <string name="mobile_data_switching_message">Átkapcsolás mobiladatkapcsolatra. Várjon…</string>
-    <string name="gemini_sim_mode_progress_activating_message">Aktiválás…</string>
-    <string name="gemini_sim_mode_progress_deactivating_message">Deaktiválás…</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gadget_state_turning_off">Kikapcsolás</string>
     <string name="gadget_state_turning_on">Bekapcsolás</string>
