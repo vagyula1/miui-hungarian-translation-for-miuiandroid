@@ -3271,4 +3271,6 @@ Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
     <string name="access_control_reset_by_account">A jelszó helyreállításához jelentkezzen be a Mi fiókba</string>
     <string name="wifi_enable_watchdog_service_summary">Rossz minőségű kapcsolatok elkerülése</string>
     <string name="enable_sim">Engedélyezés</string>
+    <string name="title_font">Betűtípus</string>
+    <string name="title_font_current">Jelenleg használt</string>
 </resources>
