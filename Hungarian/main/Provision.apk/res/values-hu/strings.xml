@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Hungarian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by vagyula-->
 <resources>
-    <string name="next">Következő</string>
+    <string name="next">Tovább</string>
     <string name="continues">Folytatás</string>
     <string name="shutdown">Kikapcsolás</string>
     <string name="other_service_label">Egyéb szolgáltatások</string>
@@ -14,8 +14,8 @@
 Bármikor módosítható a Beállítások> Helyszolgáltatások" menüpöntban</string>
     <string name="other_service_permission_manager">Alkalmazások engedélyeinek kezelése</string>
     <string name="other_service_permission_manager_summary">Alkalmazások biztonságának és adatvédelmének kezelése</string>
-    <string name="other_service_user_experience">Csatlakozzon a felhasználói élmény programunkhoz</string>
-    <string name="other_service_user_experience_summary0">Bízunk benne, hogy nagy megelégedéssel fogja használni a termékünket és szolgáltatásainkat, valamint segíti a munkánkat a visszajelzésekkel.</string>
+    <string name="other_service_user_experience">Felhasználói élmény program</string>
+    <string name="other_service_user_experience_summary0">Segítse a munkánkat névtelen felhasználói adatok beküldésével.</string>
     <string name="other_service_user_experience_summary1">" (Adatvédelmi irányelvek megtekintése)"</string>
     <string name="sim_card_detection_dialog_message">SIM kártya keresés, kérem várjon...</string>
     <string name="sim_card_detection_label">SIM kártya felismerése</string>
@@ -24,7 +24,7 @@ Bármikor módosítható a Beállítások> Helyszolgáltatások" menüpöntban</
     <string name="setup_complete_label">Beállítás kész</string>
     <string name="setup_complete_info">A szolgáltatások a telefon első használatakor aktiválódnak</string>
     <string name="setup_complete_start">OK</string>
-    <string name="setup_complete_summary">A beállítás befejeződött! Élvezze a MIUI használatát!</string>
+    <string name="setup_complete_summary">A beállítás befejeződött! A telefon használatra kész!</string>
     <string name="traffic_protection_label">Adatforgalom ellenőrzése</string>
     <string name="traffic_protection_summary">Az adatforgalom ellenőrzés emlékeztet, ha a forgalom eléri a beállított határértéket.</string>
     <string name="traffic_protection_unknown"><u>"Később beállítom."</u></string>
@@ -34,8 +34,12 @@ Bármikor módosítható a Beállítások> Helyszolgáltatások" menüpöntban</
     <string name="input_method_category">Válassza ki az alapértelmezett bevteli módot</string>
     <string name="input_method">Beviteli mód</string>
     <string name="default_gprs_sim_name">Adja meg az adatforgalmi korlát értékét \"%s\"</string>
-    <string name="terms_confirm_info">You use of this phone is subject to the %1$s and %2$s</string>
-    <string name="terms_description">"Your privacy is very important to us. Please read the following terms to understand what information we collect, how we use it and what choices are available to you.
+    <string name="terms_confirm_info">A telefon használatakor a %1$s és az %2$s érvényesek</string>
+    <string name="terms_description">"A személyes adatok védeleme nagyon fontosak számunkra. A %1$s és az %2$s tartalmazza, hogy milyen információkat gyűjtünk, azokat hogyan használjuk fel, valamint, hogy milyen választási lehetőségek vannak az Ön számára.
 
-Your use of MIUI and related services is subject to these terms and conditions."</string>
+A MIUI és a hozzá kapcsolódó szolgáltatások használatakor a fenti feltételek érvényesek."</string>
+    <string name="terms_of_service">Felhasználási feltételek</string>
+    <string name="privacy_policy">Adatvédelmi nyilatkozat</string>
+    <string name="terms_agree">Elfogadom</string>
+    <string name="terms_disagree">Mégsem</string>
 </resources>
