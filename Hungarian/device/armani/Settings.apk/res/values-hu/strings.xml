@@ -2643,7 +2643,7 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
     <string name="connected_wifi">Wi-Fi kapcsolat</string>
     <string name="incoming_call_breathing_light_color_title">Hívások</string>
     <string name="notification_breathing_light_color_title">Értesítések</string>
-    <string name="mms_breathing_light_color_title">Üzenetek színe</string>
+    <string name="mms_breathing_light_color_title">Üzenetek</string>
     <string name="breathing_light_color_menu_title">Értesítés színe</string>
     <string name="breathing_light_color_summary">LED színe amikor új értesítés érkezik</string>
     <string name="breathing_light_freq_title">LED villogás sebessége</string>

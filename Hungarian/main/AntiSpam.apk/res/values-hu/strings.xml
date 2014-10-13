@@ -265,4 +265,8 @@
   <string name="report_only">Válasszon ki legalább egy üzenetet</string>
   <string name="report_sms">Üzenet jelentés</string>
   <string name="report_success">Jelentés sikeres</string>
+  <string name="dlg_remove_blacklist_ing">Eltávolítás a tiltólistáról…</string>
+  <string name="sim_not_ready">A SIM kártya nem áll készen</string>
+  <string name="st_title_back_sound_unsetting">Nincs</string>
+  <string name="st_title_not_sim">Üres</string>
 </resources>

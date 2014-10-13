@@ -25,7 +25,7 @@
     <string name="open_flash_error">Nem sikerült bekapcsolni a vakut</string>
     <string name="phone">Telefonszám:</string>
     <string name="picker_lable">Galéria</string>
-    <string name="place_barcode_into_rectangle">Helyezze a QR kódot téglalap keresőn belülre</string>
+    <string name="place_barcode_into_rectangle">A beolvasáshoz helyezze a négyzetbe QR-kódot</string>
     <string name="qq_details">QQ részletek:</string>
     <string name="qr_code_details">QR kód részletek:</string>
     <string name="recognize">Beolvasás</string>

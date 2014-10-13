@@ -307,5 +307,15 @@ A fiók létrehozásával elfogadja a fenti feltételeket."</string>
     <string name="wrong_captcha">Hibás captcha kód</string>	
     <string name="wrong_vcode">Hibás ellenőrzőkód</string>	
     <string name="xiaomi_cloud_service">MiCloud</string>	
-    <string name="xmpp_server_addr" />	
+    <string name="xmpp_server_addr" />
+    <string name="activate_status_desc_acquire_phone_number_server_error">Szerverhiba történt a telefonszám lekérése közben</string>
+     <string name="activate_status_desc_sms_sent">Az aktiváló üzenet elküldve</string>
+     <string name="activate_status_desc_wait_for_sms">Várakozás az aktiváló üzenetre</string>
+     <string name="find_device_additional_alert">SIM kártya csere esetén a szolgáltatás újraaktivásához egy másik üzenet lesz automatikusan elküldve.</string>
+     <string name="find_device_notice_1">"Elveszett készüléke esetén lépjen be az "</string>
+     <string name="find_device_notice_2">i.mi.com</string>
+     <string name="find_device_notice_3">" weboldalra, hogy megtalálja, lezárja vagy annak tartalmát törölje.
+
+A szolgáltatás bármikor be és kikapcsolható."</string>
+     <string name="internet_comm">Üzenetkezelés</string>
 </resources>

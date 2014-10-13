@@ -245,4 +245,5 @@
     <string name="unit_piece">" db"</string>
     <string name="unknown_hint">Ismeretlen</string>
     <string name="wifi_title">Wi-Fi beállítások</string>
+    <string name="restore">Helyreállítás</string>
 </resources>

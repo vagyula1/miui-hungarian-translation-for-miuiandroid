@@ -42,4 +42,5 @@ A MIUI és a hozzá kapcsolódó szolgáltatások használatakor a fenti feltét
     <string name="privacy_policy">Adatvédelmi nyilatkozat</string>
     <string name="terms_agree">Elfogadom</string>
     <string name="terms_disagree">Mégsem</string>
+    <string name="terms_label">Felhasználási feltételek</string>
 </resources>

@@ -29,7 +29,7 @@
     <string name="data_usage_limit_snoozed_body">Adatforgalmi figyelmeztetés.</string>
     <string name="data_usage_mobile_limit_snoozed_title">Adatforgalmi figyelmeztetés</string>
     <string name="data_usage_mobile_limit_title">Mobil adatkapcsolat letiltva</string>
-    <string name="data_usage_no_total_package_body_dual">Beállít %s adatkapcsolathoz felhasználható adatforgalmi értéket?</string>
+    <string name="data_usage_no_total_package_body_dual">Beállít %s kártya adatkapcsolathoz felhasználható adatforgalmi értéket?</string>
     <string name="data_usage_no_total_package_body">Beállítja adatforgalmazási értékeket?</string>
     <string name="data_usage_no_total_package_title">Adatforgalom</string>
     <string name="data_usage_restricted_body">Érintse meg a háttérszolg.engedélyezéséhez</string>
@@ -39,8 +39,8 @@
     <string name="declaration_dialog_msg">Ez a funkció segíti nyomonkövetni az adatforgalmazást, de nem garantált, hogy megakadályozza az esetleges további költséget. A biztonság kedvéért állítson be kevesebb határértéket.</string>
     <string name="deleted_apps">Törölt alkalmazások</string>
     <string name="detail_app_button">Részletek</string>
-    <string name="dual_setting_simcard1">SIM 1</string>
-    <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="dual_setting_simcard1">1.SIM</string>
+    <string name="dual_setting_simcard2">2.SIM</string>
     <string name="firewall_activity_lable">Adatforgalmi korlátozás</string>
     <string name="firewall_applist">Alkalmazások</string>
     <string name="firewall_fragment_nonesys_listempty">Üres</string>

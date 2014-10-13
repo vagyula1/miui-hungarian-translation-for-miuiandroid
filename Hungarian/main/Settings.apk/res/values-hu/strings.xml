@@ -3510,4 +3510,9 @@ Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
     <string name="audio_profile_settings_title">Hangprofilok</string>
     <string name="access_control_reset_by_account">A jelszó helyreállításához jelentkezzen be a Mi fiókba</string>
     <string name="wifi_enable_watchdog_service_summary">Rossz minőségű kapcsolatok elkerülése</string>
+	<string name="status_sim">SIM kártya állapota</string>
+    <string name="status_sim_1">SIM1</string>
+    <string name="status_sim_2">SIM2</string>
+    <string name="status_summary">Kattintson a részletekhez</string>
+	<string name="wifi_subnet_mask">Alhálózati maszk</string>
 </resources>
