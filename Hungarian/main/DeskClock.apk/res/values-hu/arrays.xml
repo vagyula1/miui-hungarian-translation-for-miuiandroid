@@ -57,4 +57,10 @@
         <item>Hétfőtől Péntekig</item>
         <item>Egyéni</item>
     </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Egyszer</item>
+        <item>Naponta</item>
+        <item>Hétfőtől Péntekig</item>
+        <item>Egyéni</item>
+    </string-array>
 </resources>

@@ -92,4 +92,20 @@
     <plurals name="Nvip_expired_remind">
        <item quantity="other">A jobb minőségű zenehozzáféré hamarosan lejár (%d nap van hátra)</item>
     </plurals>
+     <plurals name="NTrackstoDownload">
+        <item quantity="other">%d dal lesz letölthető</item>
+        <item quantity="one">1 dal lesz letölthető</item>
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">%d nap van hátra</item>
+        <item quantity="one">%d nap van hátra</item>
+     </plurals>
+     <plurals name="Nitems_batch_selection">
+        <item quantity="other">%d kiválasztva</item>
+        <item quantity="one">%d kiválasztva</item>
+     </plurals>
+     <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d dal eltávolítva a lejátszási listából</item>
+        <item quantity="one">1 dal eltávolítva a lejátszási listából</item>
+     </plurals>
 </resources>

@@ -331,8 +331,9 @@
     <string name="operation_agree">Igen</string>
     <string name="system_alert">Figyelmeztetés</string>
     <string name="file_already_downlaoded">Fájl mentve ide \"%1$s\"</string>
-	<string name="image_download">Letöltés</string>
+    <string name="image_download">Letöltés</string>
     <string name="image_share">Megosztás</string>
-	<string name="operate_confirm_in_3g">Letölti ezt a nagyméretű fájlt mobil adatkapcsolat használatával?</string>
-	<string name="operation_save">Mentés</string>
+    <string name="operate_confirm_in_3g">Letölti ezt a nagyméretű fájlt mobil adatkapcsolat használatával?</string>
+    <string name="operation_save">Mentés</string>
+    <string name="folder_name_illegal">Érvénytelen mappanév</string>
 </resources>

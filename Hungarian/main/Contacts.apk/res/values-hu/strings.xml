@@ -1061,7 +1061,7 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="resource_allow">Igen</string>
     <string name="resource_remind_another_time">"Ne emlékeztessen"</string>
     <string name="resource_connect_network_settings">Értesítés csatlakozás esetén</string>
-	<string name="yellowpage_navigation_network_location_enabled">A szolgáltatás engedélyezve van, tiltsa le a helyszolgáltatások beállításánál.</string>
+    <string name="yellowpage_navigation_network_location_enabled">A szolgáltatás engedélyezve van, tiltsa le a helyszolgáltatások beállításánál.</string>
     <string name="cta_notice_title">Figyelmeztetés</string>
     <string name="cta_notice_new_contact_message">A névjegyek \"%s\" fiókba mentéséhez hálózati kapcsolat szükséges, engedélyezi?</string>
     <string name="cta_notice_photo_message">A fényképcsomagból való kapcsolat fényképének szerkesztéséhez hálózati kapcsolat szükséges, engedélyezi?</string>
@@ -1077,5 +1077,26 @@ ez a téma jelenleg nem elérhető az Ön régiójában/országában”</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">Hálózati hely szolgáltatás engedélyezése</string>
     <string name="yellowpage_navigation_network_location_not_enabled_summary">Directory provides services according to your city and enabling WLAN &amp; mobile network location service can improve the quality of services.</string>
     <string name="yellowpage_navigation_network_location_enable">Engedélyezés</string>
-    <string name="yellowpage_navigation_network_location_enable_later">Engedélyezés később</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Engedélyezés később</string>	
+    <string name="import_weibo_notification_title_done">Frissítve %s névjegy</string>
+    <string name="resource_account_abnormal_state">Fiókhiba. Várjon egy percet és próbálja újra.</string>
+    <string name="resource_account_login">Bejelentkezés</string>
+    <string name="resource_apply_trial">Próbálja most</string>
+    <string name="resource_delete">Törlés</string>
+    <string name="resource_download_trial">Ingyenes próbaidőszak</string>
+    <string name="resource_import_failed">Az importálás nem sikerült</string>
+    <string name="resource_menu_refresh">Frissítés</string>
+    <string name="resource_on_trial">Kipróbálása: %1$s</string>
+    <string name="resource_ringtone_playing_error">lejátszási hiba</string>
+    <string name="resource_ringtone_volume_mute">Csengőhang lenémítva</string>
+    <string name="resource_trial_end_message">%1$s próbaidőszaka lejárt. Amennyiben elnyete tetszését, vásárolja meg.</string>
+    <string name="resource_trial_end_purchase">Megvásárlás</string>
+    <string name="resource_trial_end_restore">Próbaidőszak befejezése</string>
+    <string name="resource_trial_end_title">A próbaidőszak véget ért</string>
+    <string name="resource_trial_time">(%1$d perces próbaidőszak)</string>
+    <string name="resource_unknow_error">Ismeretlen hiba történt</string>
+    <string name="resource_user_know">OK</string>
+    <string name="sim_contact_existing">Már van ilyen névjegy a SIM kártyán</string>
+    <string name="sim_contact_invalid">Érvénytelen SIM névjegy</string>
+    <string name="sim_error_not_ready">SIM kártya névjegyzékének betöltése...</string>
 </resources>

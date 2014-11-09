@@ -83,4 +83,5 @@
     <string name="wlan_unavailable_dialog_button_sent">Küldés</string>
     <string name="wlan_unavailable_dialog_content">%s adatforgalom szükséges, kattintson az Ok gombra csak Wi-Fi használatához</string>
     <string name="wlan_unavailable_dialog_title">Wi-Fi nem elérhető</string>
+    <string name="userbook_name">Felhasználói útmutató</string>
 </resources>

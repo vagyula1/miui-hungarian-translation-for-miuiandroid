@@ -246,4 +246,8 @@
     <string name="unknown_hint">Ismeretlen</string>
     <string name="wifi_title">Wi-Fi beállítások</string>
     <string name="restore">Helyreállítás</string>
+    <string name="cloud_app_backup_cancel">Mentés megszakítása…</string>
+    <string name="cloud_app_backup_cancel_prompt_message">"A mentés még nem fejeződött be, mégis megszakítja?"</string>
+    <string name="cloud_app_backup_cancel_prompt_title">Mentés leállítása</string>
+    <string name="cloud_app_restore_cancel_prompt_title">Visszaállítás leállítása</string>
 </resources>

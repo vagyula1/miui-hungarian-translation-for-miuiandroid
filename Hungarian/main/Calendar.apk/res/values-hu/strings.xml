@@ -285,4 +285,23 @@ amihez a névjegyzékhez való hozzáférés szükséges. Engedélyezi?</string>
     <string name="text_year">É</string>
     <string name="week_view_today_toast">Ez a hét látható</string>
     <string name="edit_event_confirm_message">Elveti az esemény módosításait?</string>
+    <string name="sunday">Vasárnap</string>
+    <string name="sunday_short">Vas</string>
+    <string name="sunday_shortest">V</string>
+    <string name="tab_category">分类</string>
+    <string name="taishen">胎神</string>
+    <string name="thursday">Csütörtök</string>
+    <string name="thursday_short">Csüt</string>
+    <string name="thursday_shortest">Cs</string>
+    <string name="topic_event_list_header_label">近期活动</string>
+    <string name="tuesday">Kedd</string>
+    <string name="tuesday_short">Ked</string>
+    <string name="tuesday_shortest">K</string>
+    <string name="user_notice_online_agreement">您正在浏览MIUI订阅日历，这是一项在线服务，其页面显示和数据更新需要连接互联网。使用该服务表示您同意并愿意遵守%1$s和%2$s。</string>
+    <string name="wednesday">Szerda</string>
+    <string name="wednesday_short">Sze</string>
+    <string name="wednesday_shortest">Sz</string>
+    <string name="saturday">Szombat</string>
+    <string name="saturday_short">Szo</string>
+    <string name="saturday_shortest">Sz</string>
 </resources>

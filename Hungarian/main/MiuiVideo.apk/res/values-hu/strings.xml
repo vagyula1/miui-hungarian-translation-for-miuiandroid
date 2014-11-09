@@ -385,6 +385,22 @@
     <string name="vp_full_high_definition">1080P</string>
     <string name="priority_storage">Külső SD kártya használata</string>
     <string name="priority_storage_summary">Ha külső SD kártyát használ, ez a funkció lép hatályba</string>
-	<string name="setting_network_alert">Internetcsatlakozás értesítés</string>
-	<string name="setting_network_alert_summery">Felugró ablakos értesítés mielőtt a MiVideó az internetre csatlakozna</string>
+    <string name="setting_network_alert">Internetcsatlakozás értesítés</string>
+    <string name="setting_network_alert_summery">Felugró ablakos értesítés mielőtt a MiVideó az internetre csatlakozna</string>	
+    <string name="ad_moredetail">további részletek</string>
+    <string name="btnplayerdefault">Alapértelmezett</string>
+    <string name="btnplayerfavorite">Kedvenc</string>
+    <string name="btnplayerfullscreen">Teljesképernyős</string>
+    <string name="cancelappointment">Mégsem</string>
+    <string name="check_network">"Nem sikerült csatlakozni az internethez. Ellenőrizze az adatkapcsolatot és próbálja újra."</string>
+    <string name="click_to_list">Kattintson a részletek megtekintéséhez.</string>
+    <string name="download_add_sucess">Feladat hozzáadva</string>
+    <string name="download_delete">Feladat törölve</string>
+    <string name="live_tabs_my">Csatornáim</string>
+    <string name="makeappointment">Rögzítés idejének beállítása</string>
+    <string name="null_category">Üres</string>
+    <string name="null_videoname">Üres</string>
+    <string name="success_add_waitfornewset">Sorozat követése</string>
+    <string name="suffix_countdown">mp</string>
+    <string name="top_null_videoname">Üres</string>
 </resources>

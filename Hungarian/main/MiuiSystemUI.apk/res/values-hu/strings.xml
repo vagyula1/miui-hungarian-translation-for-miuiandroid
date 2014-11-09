@@ -289,4 +289,5 @@
     <string name="status_bar_and_notification_bar">Legördülő értesítési panel és állapotsor</string>
     <string name="call_status_ringing">Csengetés</string>
     <string name="reject_call">Elutasítás</string>
+    <string name="usb_share_net_info">"Használja a számítógép internet kapcsolatát"</string>
 </resources>

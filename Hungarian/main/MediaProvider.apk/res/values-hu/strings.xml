@@ -5,4 +5,10 @@
     <string name="app_label">Média tároló</string>
     <string name="upgrade_msg">Média adatbázis frissítése.</string>
     <string name="artist_label">Előadó</string>
+    <string name="alarm_sound_default">Alapértelémezett ébresztés hang</string>
+    <string name="notification_sound_default">Alapértelémezett  értesítési hang</string>
+    <string name="ringtone_default">Alapértelémezett csengőhang</string>
+    <string name="root_audio">Hangok</string>
+    <string name="root_images">Képek</string>
+    <string name="root_videos">Videók</string>
 </resources>

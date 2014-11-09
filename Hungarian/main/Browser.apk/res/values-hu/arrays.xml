@@ -85,4 +85,10 @@
         <item>Kék</item>
         <item>Sötét</item>
     </string-array>
+     <string-array name="pre_webapp_text_sizes">
+        <item>Nagyobb</item>
+        <item>Nagy</item>
+        <item>Normál</item>
+        <item>Kicsi</item>
+     </string-array>
 </resources>

@@ -510,8 +510,16 @@ Használja ki!"</string>
     <string name="ubifocus_refocus_download_tip">Töltse le az újrafókuszált adatot az újrafókuszálás előtt</string>
     <string name="ubifocus_refocus_map_error">Az újrafókuszálás nem sikerült néhány hibás adat miatt</string>
     <string name="priority_storage">Külső SD kártya használata</string>
-	<string name="priority_storage_summary">Fájlok automatikus mentése az SD kártyára.</string>
+    <string name="priority_storage_summary">Fájlok automatikus mentése az SD kártyára.</string>
     <string name="crop_recognize_text">Felismerés</string>
     <string name="crop_save_text_setas">Alkalmaz</string>
     <string name="recognizing_image">Kép felismerése…</string>
+    <string name="confirm_delete_init_title">Fénykép törlése</string>
+    <string name="confirm_download">%s letöltése szükséges.</string>
+    <string name="confirm_download_video_message">A videófájl letöltése szzükséges megtekintéshez. A letöltés folytatódik Wi-Fi kapcsolat elérésekor.</string>
+    <string name="confirm_download_video_title">Videó letöltése</string>
+    <string name="loading_image">Fénykép letöltése…</string>
+    <string name="loading_suspend">A letöltés szüneteltetve, folytatódik Wi-Fi kapcsolat elérésekor.</string>
+    <string name="loading_video">Videó letöltése…</string>
+    <string name="preparing_data_to_delete">Fényképek törléséenek előkészítése…</string>
 </resources>

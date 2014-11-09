@@ -61,4 +61,21 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="wifi_warning">A Wi-Fi hálózathoz való csatlakozás előtt ellenőrizze a biztonságot</string>
     <string name="settings">Beállítások</string>
+    <string name="accept">OK</string>
+    <string name="allow_check_website_security">Honlap biztonságosságának ellenőrzése</string>
+    <string name="app_details">Alkalmazás adatai:</string>
+    <string name="back">Vissza</string>
+    <string name="barcode_into_rectangle">Helyezze a QR-kódot a négyzeten belülre</string>
+    <string name="camera_error">Valami baj van a kamerával</string>
+    <string name="cancel">Mégsem</string>
+    <string name="cloud_album_details">Cloud album adatok:</string>
+    <string name="connect_wifi">Csatlakozás a hálózathoz</string>
+    <string name="contact_details">Kapcsolat adatai:</string>
+    <string name="continue_access_web_url">Biztonsági hozzáférés</string>
+    <string name="copy_text">Szöveg másolása</string>
+    <string name="copy_text_success">A szöveg kimásolva</string>
+    <string name="download_by_browser">Letöltés a böngészővel</string>
+    <string name="download_qq">QQ letöltése</string>
+    <string name="download_wechat">WeChat letöltése</string>
+    <string name="recognize_fail">"Nem olvasható"</string>
 </resources>

@@ -14,4 +14,5 @@
   <string name="find_device_noise_title">Eszköz észlelés hangjelzéssel</string>
   <string name="sync_item_calllog_title">Hivásnapló szinkronizálása</string>
   <string name="sync_item_calllog_summary">A telelefonról indított és beérkezett hívások szinkronizálása</string>
+  <string name="pref_title_sync_my_profile_title">Profil szinkronizálása</string>
 </resources>

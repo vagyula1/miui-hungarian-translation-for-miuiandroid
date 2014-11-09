@@ -479,4 +479,22 @@
     <string name="hms_first_use_tips">A szolgáltatói üzenetek fogadásához Wi-Fi kapcsolat szükséges</string>
     <string name="send_hms_editor_hints">Cloud Üzenet</string>
     <string name="view_hms_details">Részletek</string>
+    <string name="alert_dlg_cancel_button">Mégsem</string>
+    <string name="alert_dlg_ok_button">OK</string>
+    <string name="app_name">Eszközkezelés</string>
+    <string name="confirm_dlg_title">Eszközkezelés</string>
+    <string name="file_size">Méret:</string>
+    <string name="file_title">Név:</string>
+    <string name="file_width_height">Méret:</string>
+    <string name="manage_permission_app_label">Eszközkezelés engedélyek</string>
+    <string name="mx_on_sim_1">Mi üzenetkezelés a %s SIM kártyával</string>
+    <string name="mx_on_sim_2">Mi üzenetkezelés a %s SIM kártyával</string>
+    <string name="mx_online">Online</string>
+    <string name="refill_now">Megújítás</string>
+    <string name="send_message_dlg_check_hint">"Ne jelenjen meg újra"</string>
+    <string name="send_message_dlg_title">Eszközkezelés</string>
+    <string name="send_message_notification_msg">Kattintson a részletek megtekintéséhez.</string>
+    <string name="send_message_notification_tickerText">Az eszköhöz hozzáféréskérelem érkezett</string>
+    <string name="send_message_notification_title">Hozzáférés kérelem</string>
+    <string name="share_img">Megosztás</string>
 </resources>
