@@ -1,8 +1,8 @@
 =============================================
-MIUI-v5-hungarian-translation-for-miuiandroid
+MIUI-hungarian-translation-for-miuiandroid
 =============================================
 
-MIUIV5 Android Hungarian Translation Started Febr. 2013 by **vagyula**
+MIUI Android Hungarian Translation Started Febr. 2013 by **vagyula**
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
